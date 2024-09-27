@@ -159,11 +159,14 @@
       function go() {
         set_relation();
         params = new URLSearchParams(window.location.search);
-        if (
-          params.get("relation") != null
-        ) {
+        if (params.get("relation") != null) {
           get_osm(params.get("relation"));
         }
+      }
+      
+      params = new URLSearchParams(window.location.search);
+      if (params.get("relation") != null) {
+        get_osm(params.get("relation"));
       }
     </script>
   </body>
