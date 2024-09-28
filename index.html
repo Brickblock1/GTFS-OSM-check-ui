@@ -4,65 +4,15 @@
     <link
       rel="stylesheet"
       href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
       crossorigin=""
     />
     <script
       src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
       crossorigin=""
     ></script>
     <title>Whoo OSM GTFS compare</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <style>
-      * {
-        box-sizing: border-box;
-      }
-
-      #map {
-        width: 100%;
-        height: 100%;
-        left: 0%;
-        top: 0%;
-        position: relative;
-      }
-
-      body {
-        height: 100%;
-        margin: 0%;
-      }
-
-      html {
-        height: 100%;
-      }
-
-      .flexcontainer {
-        height: 100%;
-        display: flex;
-        flex-direction: column;
-      }
-
-      h1 {
-      }
-
-      h1 > span,
-      input {
-        padding: 1%;
-        border-radius: max(3vw, 3vh);
-        height: max(4vw, 4vh);
-        min-width: max(4vw, 4vh);
-        text-align: center;
-        display: inline-block;
-        line-height: max(2vw, 2vh);
-        font-size: max(2vw, 2vh);
-        vertical-align: middle;
-        margin-left: 1vw;
-      }
-
-      #button:hover {
-        cursor: pointer;
-      }
-    </style>
+    <link rel="stylesheet" href="style.css" />
   </head>
 
   <body>
@@ -79,12 +29,15 @@
       <div id="map"></div>
     </div>
     <script>
-      var map = L.map("map").setView([59.3217457, 18.0767548, 273], 10);
+      var map = L.map("map").setView([59.858542, 17.638898, 273], 10);
       L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
         maxZoom: 19,
         attribution:
           '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
       }).addTo(map);
+
+      var greenDot = L.icon({ iconUrl: "green_dot.png", iconSize: [16, 16] });
+      var redDot = L.icon({ iconUrl: "red_dot.png", iconSize: [16, 16] });
 
       function customIndexOf(str, pattern) {
         const index = str.indexOf(pattern);
@@ -99,13 +52,17 @@
         params.set("relation", relation);
         window.history.pushState(0, 0, base_url + "?" + params.toString());
       }
+
+      function print(a) {
+        console.log(a);
+      }
     </script>
     <script>
       async function get_osm(relation) {
         var query = `
             [out:json];
             (
-            relation["type"="route_master"]["network"="UL"](${relation});
+            relation["type"="route_master"](${relation});
             >>;
             );
             out geom;
@@ -115,39 +72,116 @@
           body: query,
         });
         const thing = await result.json();
-        for (let e of thing.elements) {
-          if (e.type == "relation") {
-            if (e.id == relation) {
-              document.getElementById("network").innerHTML = e.tags.network;
-              document.getElementById("ref").innerText = e.tags.ref;
-              document.getElementById("ref").style.backgroundColor =
-                e.tags.colour;
+        for (let element of thing.elements) {
+          if (element.type == "relation") {
+            if (element.id == relation) {
+              document.getElementById("network").innerHTML =
+                element.tags.network;
+              document.getElementById("ref").innerText = element.tags.ref;
+              if (element.tags.colour != null) {
+                document.getElementById("ref").style.backgroundColor =
+                  element.tags.colour;
+              }
               document.getElementById("ref").style.color = "white";
               document.getElementById(
                 "relatify"
               ).href = `https://relatify.monicz.dev/?relation=${relation}&load=1`;
             } else {
-              for (let m of e.members)
-                if (m.role == "stop" || m.role == "platform") {
-                  var marker = L.marker([m.lat, m.lon]).addTo(map);
-                  for (let em of thing.elements) {
-                    if (em.type == "node" && em.id == m.ref) {
-                      marker.bindPopup(
-                        em.tags.name +
-                          " (" +
-                          em.tags["gtfs:platform_code:SE-003-UL"] +
-                          ")"
-                      );
-                    }
-                  }
-                } else if (m.type == "way") {
-                  let latlngs = [];
-                  for (let p of m.geometry) {
-                    latlngs.push([p.lat, p.lon]);
+              for (let member of element.members)
+                if (
+                  member.role.includes("platform") ||
+                  member.role.includes("stop")
+                ) {
+                  if (member.role.includes("platform")) {
+                    colour = "green"
+                  } else {
+                    colour = "red"
                   }
 
+                  // Place a marker if node
+
+                  if (member.type == "node") {
+                    if (member.role.includes("platform")) {
+                      var stop = L.marker([member.lat, member.lon], {
+                        icon: greenDot,
+                      }).addTo(map);
+                    } else {
+                      var stop = L.marker([member.lat, member.lon], {
+                        icon: redDot,
+                      }).addTo(map);
+                    }
+
+                    // Place line if way // Add better support for areas
+                  } else if (member.type == "way") {
+                    let latlngs = [];
+                    for (let p of member.geometry) {
+                      latlngs.push([p.lat, p.lon]);
+                    }
+                    for (let global_entry of thing.elements) {
+                      if (global_entry.id == member.ref) {
+                        if (global_entry.tags.area == "yes") {
+                          var stop = L.polygon(latlngs, {color: colour}).addTo(map);
+                        } else {
+                          var stop = L.polyline(latlngs, {color: colour}).addTo(map);
+                        }
+                      }
+                    }
+
+                    // Place polygon if multipolygon after ways have been merged into an array of points
+                  } else if (member.type == "relation") {
+                    for (let global_entry of thing.elements) {
+                      if (global_entry.id == member.ref) {
+                        let latlngs = [];
+                        let un_latlngs = [];
+                        for (let global_multipolygon_way of global_entry.members) {
+                          for (let i in global_multipolygon_way.geometry) {
+                            p = global_multipolygon_way.geometry[i];
+                            p2 = global_multipolygon_way.geometry.at(
+                              length - i
+                            );
+                            if (
+                              [
+                                global_multipolygon_way.geometry[i].lat,
+                                global_multipolygon_way.geometry[i].lon,
+                              ] == latlngs.at(-1) ||
+                              latlngs.length == 0
+                            ) {
+                              latlngs.push([p.lat, p.lon]);
+                            } else {
+                              latlngs.push([p.lat, p.lon]);
+                            }
+                          }
+                        }
+                        var stop = L.polygon(latlngs, {color: colour}).addTo(map);
+                      }
+                    }
+                  }
+
+                  //Make popup for platform
+
+                  for (let global_entry of thing.elements) {
+                    if (global_entry.id == member.ref) {
+                      if (global_entry.tags.name == null) {
+                        global_entry.tags.name = "Name not in OSM";
+                      }
+                      var table = "hej";
+                      stop.bindPopup(`${global_entry.tags.name}<br>${table}`);
+                    }
+                  }
+
+                  //Draw the path of the route // Fix being drawn on multipolygons
+                } else if (member.type == "way") {
+                  let latlngs = [];
+                  for (let p of member.geometry) {
+                    latlngs.push([p.lat, p.lon]);
+                  }
+                  if (element.tags.colour != null) {
+                    colour = element.tags.colour;
+                  } else {
+                    colour = "black";
+                  }
                   var polyline = L.polyline(latlngs, {
-                    color: e.tags.colour,
+                    color: colour,
                   }).addTo(map);
                 }
             }
@@ -163,7 +197,7 @@
           get_osm(params.get("relation"));
         }
       }
-      
+
       params = new URLSearchParams(window.location.search);
       if (params.get("relation") != null) {
         get_osm(params.get("relation"));
