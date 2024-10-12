@@ -28,8 +28,7 @@
   h1 {
   }
 
-  h1 > span,
-  input {
+  h1 > span, h1 > input {
     padding: 1%;
     border-radius: max(3vw, 3vh);
     height: max(4vw, 4vh);

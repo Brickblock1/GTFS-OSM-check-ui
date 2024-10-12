@@ -36,6 +36,8 @@
           '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
       }).addTo(map);
 
+      var LayerControl = L.control.layers().addTo(map)
+
       var greenDot = L.icon({ iconUrl: "green_dot.png", iconSize: [16, 16] });
       var redDot = L.icon({ iconUrl: "red_dot.png", iconSize: [16, 16] });
 
@@ -60,13 +62,13 @@
     <script>
       async function get_osm(relation) {
         var query = `
-            [out:json];
-            (
-            relation["type"="route_master"](${relation});
-            >>;
-            );
-            out geom;
-            `;
+                  [out:json];
+                  (
+                  relation["type"="route_master"](${relation});
+                  >>;
+                  );
+                  out geom;
+                  `;
         var result = await fetch("https://overpass-api.de/api/interpreter", {
           method: "POST",
           body: query,
@@ -82,6 +84,12 @@
                 document.getElementById("ref").style.backgroundColor =
                   element.tags.colour;
               }
+              if (element.tags["gtfs:route_id:SE-003-UL"] != null) {
+                var gtfs_data = await fetch(
+                  `https://brickblock1.github.io/GTFS-OSM-check-UL/route_${element.tags["gtfs:route_id:SE-003-UL"]}.json`
+                );
+                var gtfs_data = await gtfs_data.json();
+              }
               document.getElementById("ref").style.color = "white";
               document.getElementById(
                 "relatify"
@@ -93,9 +101,9 @@
                   member.role.includes("stop")
                 ) {
                   if (member.role.includes("platform")) {
-                    colour = "green"
+                    colour = "green";
                   } else {
-                    colour = "red"
+                    colour = "red";
                   }
 
                   // Place a marker if node
@@ -120,9 +128,13 @@
                     for (let global_entry of thing.elements) {
                       if (global_entry.id == member.ref) {
                         if (global_entry.tags.area == "yes") {
-                          var stop = L.polygon(latlngs, {color: colour}).addTo(map);
+                          var stop = L.polygon(latlngs, {
+                            color: colour,
+                          }).addTo(map);
                         } else {
-                          var stop = L.polyline(latlngs, {color: colour}).addTo(map);
+                          var stop = L.polyline(latlngs, {
+                            color: colour,
+                          }).addTo(map);
                         }
                       }
                     }
@@ -152,7 +164,9 @@
                             }
                           }
                         }
-                        var stop = L.polygon(latlngs, {color: colour}).addTo(map);
+                        var stop = L.polygon(latlngs, { color: colour }).addTo(
+                          map
+                        );
                       }
                     }
                   }
@@ -184,6 +198,28 @@
                     color: colour,
                   }).addTo(map);
                 }
+            }
+          }
+        }
+
+        // GTFS handeling
+
+        gtfs_layer = L.layerGroup().addTo(map)
+
+        LayerControl.addOverlay(gtfs_layer, "GTFS")
+
+        for (shape of gtfs_data.shapes) {
+          var stop = L.polyline(shape.points, {
+            color: "blue",
+            opacity: 0.4,
+          }).addTo(gtfs_layer);
+          for (trip of shape.trips) {
+            for (stop of trip.stops) {
+              var gtfs_stop = L.circle([stop.stop_lat, stop.stop_lon], {
+                color: "blue",
+                opacity: 0.4,
+                radius: 1,
+              }).addTo(gtfs_layer);
             }
           }
         }
