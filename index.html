@@ -1,243 +1,198 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <link
-      rel="stylesheet"
-      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-      crossorigin=""
-    />
-    <script
-      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-      crossorigin=""
-    ></script>
-    <title>Whoo OSM GTFS compare</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
-  </head>
 
-  <body>
-    <div class="flexcontainer">
-      <h1>
-        <input type="number" id="relation" placeholder="OSM relation id" />
-        <input type="button" id="button" value="GO" onclick="go()" />
-        <span id="network"></span>
-        <span id="ref"></span>
-        <span>
-          <a id="relatify">Open in Realatify</a>
-        </span>
-      </h1>
+<head>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <title>Whoo OSM GTFS compare</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="flexcontainer" style="flex-direction: column;">
+    <h1>
+      <input type="number" id="relation" placeholder="OSM relation id" />
+      <input type="button" id="button" value="GO" onclick="go()" />
+      <span id="network"></span>
+      <span id="ref"></span>
+      <span>
+        <a id="relatify">Open in Realatify</a>
+      </span>
+    </h1>
+    <div class="flexcontainer" style="flex-direction: row;">
       <div id="map"></div>
+      <div id="sidebar">hej</div>
     </div>
-    <script>
-      var map = L.map("map").setView([59.858542, 17.638898, 273], 10);
-      L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-        maxZoom: 19,
-        attribution:
-          '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-      }).addTo(map);
+  </div>
+  <script>
+    var map = L.map("map").setView([59.858542, 17.638898, 273], 10);
+    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 19,
+      attribution:
+        '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+      userAgent:
+        "GTFS-OSM-check-ui/N/A (https://brickblock1.github.io/GTFS-OSM-check-ui/)",
+    }).addTo(map);
 
-      var LayerControl = L.control.layers().addTo(map)
+    var LayerControl = L.control.layers().addTo(map);
 
-      var greenDot = L.icon({ iconUrl: "green_dot.png", iconSize: [16, 16] });
-      var redDot = L.icon({ iconUrl: "red_dot.png", iconSize: [16, 16] });
+    var greenDot = L.icon({ iconUrl: "green_dot.png", iconSize: [16, 16] });
+    var redDot = L.icon({ iconUrl: "red_dot.png", iconSize: [16, 16] });
+    var blueDot = L.icon({ iconUrl: "blue_dot.png", iconSize: [16, 16] });
 
-      function customIndexOf(str, pattern) {
-        const index = str.indexOf(pattern);
-        return index === -1 ? 0 : index;
-      }
+    function customIndexOf(str, pattern) {
+      const index = str.indexOf(pattern);
+      return index === -1 ? 0 : index;
+    }
 
-      function set_relation() {
-        base_url = document.URL;
-        base_url = base_url.slice(0, customIndexOf(base_url, "?"));
-        const params = new URLSearchParams(window.location.search);
-        relation = document.getElementById("relation").value;
-        params.set("relation", relation);
-        window.history.pushState(0, 0, base_url + "?" + params.toString());
-      }
+    //FIXME platforms with ; and better layer control with dedicated line queries.
 
-      function print(a) {
-        console.log(a);
-      }
-    </script>
-    <script>
-      async function get_osm(relation) {
-        var query = `
+    function set_relation() {
+      base_url = document.URL;
+      base_url = base_url.slice(0, customIndexOf(base_url, "?"));
+      const params = new URLSearchParams(window.location.search);
+      relation = document.getElementById("relation").value;
+      params.set("relation", relation);
+      window.history.pushState(0, 0, base_url + "?" + params.toString());
+    }
+
+    function print(a) {
+      console.log(a);
+    }
+
+    function copy_to_clipboard(id) {
+      var copyText = document.getElementById(id).innerHTML;
+
+      // Copy the text inside the text field
+      navigator.clipboard.writeText(copyText);
+    }
+  </script>
+  <script src=/main.js></script>
+  <script>
+    async function get_osm(relation) {
+      var query = `
                   [out:json];
                   (
-                  relation["type"="route_master"](${relation});
+                  relation(${relation});
                   >>;
                   );
                   out geom;
                   `;
-        var result = await fetch("https://overpass-api.de/api/interpreter", {
-          method: "POST",
-          body: query,
-        });
-        const thing = await result.json();
-        for (let element of thing.elements) {
-          if (element.type == "relation") {
-            if (element.id == relation) {
-              document.getElementById("network").innerHTML =
-                element.tags.network;
-              document.getElementById("ref").innerText = element.tags.ref;
-              if (element.tags.colour != null) {
-                document.getElementById("ref").style.backgroundColor =
-                  element.tags.colour;
-              }
-              if (element.tags["gtfs:route_id:SE-003-UL"] != null) {
-                var gtfs_data = await fetch(
-                  `https://brickblock1.github.io/GTFS-OSM-check-UL/route_${element.tags["gtfs:route_id:SE-003-UL"]}.json`
-                );
-                var gtfs_data = await gtfs_data.json();
-              }
-              document.getElementById("ref").style.color = "white";
-              document.getElementById(
-                "relatify"
-              ).href = `https://relatify.monicz.dev/?relation=${relation}&load=1`;
+      var result = await fetch("https://overpass-api.de/api/interpreter", {
+        method: "POST",
+        body: query,
+      });
+      const thing = await result.json();
+      var gtfs_stops = []
+      for (let element of thing.elements) {
+        if (element.type == "relation") {
+          if (element.tags.type == "route_master") {
+            document.getElementById("network").innerHTML =
+              element.tags.network;
+            document.getElementById("ref").innerText = element.tags.ref;
+            if (element.tags.colour != null) {
+              document.getElementById("ref").style.backgroundColor =
+                element.tags.colour;
             } else {
-              for (let member of element.members)
-                if (
-                  member.role.includes("platform") ||
-                  member.role.includes("stop")
-                ) {
-                  if (member.role.includes("platform")) {
-                    colour = "green";
-                  } else {
-                    colour = "red";
-                  }
-
-                  // Place a marker if node
-
-                  if (member.type == "node") {
-                    if (member.role.includes("platform")) {
-                      var stop = L.marker([member.lat, member.lon], {
-                        icon: greenDot,
-                      }).addTo(map);
-                    } else {
-                      var stop = L.marker([member.lat, member.lon], {
-                        icon: redDot,
-                      }).addTo(map);
-                    }
-
-                    // Place line if way // Add better support for areas
-                  } else if (member.type == "way") {
-                    let latlngs = [];
-                    for (let p of member.geometry) {
-                      latlngs.push([p.lat, p.lon]);
-                    }
-                    for (let global_entry of thing.elements) {
-                      if (global_entry.id == member.ref) {
-                        if (global_entry.tags.area == "yes") {
-                          var stop = L.polygon(latlngs, {
-                            color: colour,
-                          }).addTo(map);
-                        } else {
-                          var stop = L.polyline(latlngs, {
-                            color: colour,
-                          }).addTo(map);
-                        }
-                      }
-                    }
-
-                    // Place polygon if multipolygon after ways have been merged into an array of points
-                  } else if (member.type == "relation") {
-                    for (let global_entry of thing.elements) {
-                      if (global_entry.id == member.ref) {
-                        let latlngs = [];
-                        let un_latlngs = [];
-                        for (let global_multipolygon_way of global_entry.members) {
-                          for (let i in global_multipolygon_way.geometry) {
-                            p = global_multipolygon_way.geometry[i];
-                            p2 = global_multipolygon_way.geometry.at(
-                              length - i
-                            );
-                            if (
-                              [
-                                global_multipolygon_way.geometry[i].lat,
-                                global_multipolygon_way.geometry[i].lon,
-                              ] == latlngs.at(-1) ||
-                              latlngs.length == 0
-                            ) {
-                              latlngs.push([p.lat, p.lon]);
-                            } else {
-                              latlngs.push([p.lat, p.lon]);
-                            }
-                          }
-                        }
-                        var stop = L.polygon(latlngs, { color: colour }).addTo(
-                          map
-                        );
-                      }
-                    }
-                  }
-
-                  //Make popup for platform
-
-                  for (let global_entry of thing.elements) {
-                    if (global_entry.id == member.ref) {
-                      if (global_entry.tags.name == null) {
-                        global_entry.tags.name = "Name not in OSM";
-                      }
-                      var table = "hej";
-                      stop.bindPopup(`${global_entry.tags.name}<br>${table}`);
-                    }
-                  }
-
-                  //Draw the path of the route // Fix being drawn on multipolygons
-                } else if (member.type == "way") {
-                  let latlngs = [];
-                  for (let p of member.geometry) {
-                    latlngs.push([p.lat, p.lon]);
-                  }
-                  if (element.tags.colour != null) {
-                    colour = element.tags.colour;
-                  } else {
-                    colour = "black";
-                  }
-                  var polyline = L.polyline(latlngs, {
-                    color: colour,
-                  }).addTo(map);
-                }
+              document.getElementById("ref").style.backgroundColor = "black";
             }
+            if (element.tags["gtfs:route_id:SE-003-UL"] != null) {
+              var gtfs_data = await fetch(
+                `https://brickblock1.github.io/GTFS-OSM-check-UL/route_${element.tags["gtfs:route_id:SE-003-UL"]}.json`
+              );
+              var gtfs_data = await gtfs_data.json();
+            }
+            document.getElementById("ref").style.color = "white";
+            realatify_span = document.getElementById(
+              "relatify"
+            );
+            realatify_span.href = `https://relatify.monicz.dev/?relation=${relation}&load=1`;
+            realatify_span.target = "_blank"
+          }
+          if (element.tags.type = "route") {
+            for (let member of element.members)
+              if (
+                member.role.includes("platform") ||
+                member.role.includes("stop")
+              ) {
+                handle_stop(member, thing)
+                for (let global_entry of thing.elements) {
+                  if (global_entry.id == member.ref && global_entry.tags["gtfs:stop_id:SE-003-UL"] != null) {
+                    gtfs_stops.push(global_entry.tags["gtfs:stop_id:SE-003-UL"])
+                  }
+                }
+
+                //Draw the path of the route // Fix being drawn on multipolygons
+              } else if (member.type == "way" && member.role == "") {
+                let latlngs = [];
+                for (let p of member.geometry) {
+                  latlngs.push([p.lat, p.lon]);
+                }
+                if (element.tags.colour != null) {
+                  colour = element.tags.colour;
+                } else {
+                  colour = "black";
+                }
+                var polyline = L.polyline(latlngs, {
+                  color: colour,
+                }).addTo(map);
+              }
           }
         }
+      }
 
-        // GTFS handeling
+      // GTFS handeling
 
-        gtfs_layer = L.layerGroup().addTo(map)
-
-        LayerControl.addOverlay(gtfs_layer, "GTFS")
-
+      //try {
         for (shape of gtfs_data.shapes) {
-          var stop = L.polyline(shape.points, {
+          gtfs_layer = L.layerGroup().addTo(map);
+
+          LayerControl.addOverlay(gtfs_layer, `GTFS shape: ${shape.shape_id}`);
+          var map_shape = L.polyline(shape.points, {
             color: "blue",
             opacity: 0.4,
           }).addTo(gtfs_layer);
           for (trip of shape.trips) {
             for (stop of trip.stops) {
-              var gtfs_stop = L.circle([stop.stop_lat, stop.stop_lon], {
-                color: "blue",
-                opacity: 0.4,
-                radius: 1,
-              }).addTo(gtfs_layer);
+              if (!(gtfs_stops.includes(stop.stop_id))) {
+                var gtfs_stop = L.marker([stop.stop_lat, stop.stop_lon], {
+                  icon: blueDot,
+                }).addTo(gtfs_layer);
+                gtfs_stop.bindTooltip(stop.stop_name + " (" + stop.platform_code + ")")
+                entries = Object.entries(stop)
+                popup_text = `<button onclick="copy_to_clipboard('${stop.stop_id}')">Copy recommended</button><div id=${stop.stop_id}>`
+                console.log(entries)
+                for (entry of entries) {
+                  if (!(entry[0] == "stop_lon" || entry[0] == "stop_lat")) {
+                    popup_text = popup_text + "\n" + "gtfs:" + entry[0] + ":SE-003-UL" + "=" + entry[1]
+                  }
+                }
+                popup_text = popup_text + "</div>"
+                gtfs_stop.bindPopup(popup_text)
+              }
             }
           }
         }
-      }
-    </script>
-    <script>
-      function go() {
-        set_relation();
-        params = new URLSearchParams(window.location.search);
-        if (params.get("relation") != null) {
-          get_osm(params.get("relation"));
-        }
-      }
-
+      //} catch {
+      //  alert("Failed to link to link relation to osm data");
+      //}
+    }
+  </script>
+  <script>
+    function go() {
+      set_relation();
       params = new URLSearchParams(window.location.search);
       if (params.get("relation") != null) {
         get_osm(params.get("relation"));
       }
-    </script>
-  </body>
+    }
+
+    params = new URLSearchParams(window.location.search);
+    if (params.get("relation") != null) {
+      get_osm(params.get("relation"));
+    }
+  </script>
+</body>
+
 </html>
