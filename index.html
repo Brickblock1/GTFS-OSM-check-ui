@@ -2,197 +2,96 @@
 <html lang="en">
 
 <head>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
-  <title>Whoo OSM GTFS compare</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OSM GTFS compare</title>
+    <link rel="icon" href="favicon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
 </head>
 
 <body>
-  <div class="flexcontainer" style="flex-direction: column;">
-    <h1>
-      <input type="number" id="relation" placeholder="OSM relation id" />
-      <input type="button" id="button" value="GO" onclick="go()" />
-      <span id="network"></span>
-      <span id="ref"></span>
-      <span>
-        <a id="relatify">Open in Realatify</a>
-      </span>
-    </h1>
-    <div class="flexcontainer" style="flex-direction: row;">
-      <div id="map"></div>
-      <div id="sidebar">hej</div>
-    </div>
-  </div>
-  <script>
-    var map = L.map("map").setView([59.858542, 17.638898, 273], 10);
-    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      maxZoom: 19,
-      attribution:
-        '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-      userAgent:
-        "GTFS-OSM-check-ui/N/A (https://brickblock1.github.io/GTFS-OSM-check-ui/)",
-    }).addTo(map);
+    <script>
+        async function open_from_network() {
+            window.open(`/network.html?relation=${document.getElementById("network_id").value}&name=${document.getElementById("network_name").value}&gtfs_route=${document.getElementById("network_gtfs").value}`, "_blank");
+        }
 
-    var LayerControl = L.control.layers().addTo(map);
-
-    var greenDot = L.icon({ iconUrl: "green_dot.png", iconSize: [16, 16] });
-    var redDot = L.icon({ iconUrl: "red_dot.png", iconSize: [16, 16] });
-    var blueDot = L.icon({ iconUrl: "blue_dot.png", iconSize: [16, 16] });
-
-    function customIndexOf(str, pattern) {
-      const index = str.indexOf(pattern);
-      return index === -1 ? 0 : index;
-    }
-
-    //FIXME platforms with ; and better layer control with dedicated line queries.
-
-    function set_relation() {
-      base_url = document.URL;
-      base_url = base_url.slice(0, customIndexOf(base_url, "?"));
-      const params = new URLSearchParams(window.location.search);
-      relation = document.getElementById("relation").value;
-      params.set("relation", relation);
-      window.history.pushState(0, 0, base_url + "?" + params.toString());
-    }
-
-    function print(a) {
-      console.log(a);
-    }
-
-    function copy_to_clipboard(id) {
-      var copyText = document.getElementById(id).innerHTML;
-
-      // Copy the text inside the text field
-      navigator.clipboard.writeText(copyText);
-    }
-  </script>
-  <script src=/main.js></script>
-  <script>
-    async function get_osm(relation) {
-      var query = `
+        async function open_from_route_master() {
+            if (document.getElementById("route_master_id").value != "") {
+                if (document.getElementById("route_master_gtfs").value != "") {
+                    window.open(`/main.html?relation=${document.getElementById("route_master_id").value}&gtfs_route=${document.getElementById("route_master_gtfs").value}`, "_blank");
+                } else {
+                    window.open(`/main.html?relation=${document.getElementById("route_master_id").value}`, "_blank");
+                }
+            } else {
+                var query = `
                   [out:json];
                   (
-                  relation(${relation});
-                  >>;
+                  relation["type"="route_master"]["ref"="${document.getElementById("route_master_ref").value}"]["network"="${document.getElementById("route_master_network").value}"];
                   );
-                  out geom;
+                  out ids;
                   `;
-      var result = await fetch("https://overpass-api.de/api/interpreter", {
-        method: "POST",
-        body: query,
-      });
-      const thing = await result.json();
-      var gtfs_stops = []
-      for (let element of thing.elements) {
-        if (element.type == "relation") {
-          if (element.tags.type == "route_master") {
-            document.getElementById("network").innerHTML =
-              element.tags.network;
-            document.getElementById("ref").innerText = element.tags.ref;
-            if (element.tags.colour != null) {
-              document.getElementById("ref").style.backgroundColor =
-                element.tags.colour;
-            } else {
-              document.getElementById("ref").style.backgroundColor = "black";
+                var result = await fetch("https://overpass-api.de/api/interpreter", {
+                    method: "POST",
+                    body: query,
+                });
+                const osm_data = await result.json();
+                try {
+                    if (document.getElementById("route_master_gtfs").value != "") {
+                        window.open(`/main.html?relation=${osm_data.elements[0].id}&gtfs_route=${document.getElementById("route_master_gtfs").value}`, "_blank");
+                    } else {
+                        window.open(`/main.html?relation=${osm_data.elements[0].id}`, "_blank");
+                    }
+                } catch {
+                    alert("A relation does not exist")
+                }
             }
-            if (element.tags["gtfs:route_id:SE-003-UL"] != null) {
-              var gtfs_data = await fetch(
-                `https://brickblock1.github.io/GTFS-OSM-check-UL/route_${element.tags["gtfs:route_id:SE-003-UL"]}.json`
-              );
-              var gtfs_data = await gtfs_data.json();
-            }
-            document.getElementById("ref").style.color = "white";
-            realatify_span = document.getElementById(
-              "relatify"
-            );
-            realatify_span.href = `https://relatify.monicz.dev/?relation=${relation}&load=1`;
-            realatify_span.target = "_blank"
-          }
-          if (element.tags.type = "route") {
-            for (let member of element.members)
-              if (
-                member.role.includes("platform") ||
-                member.role.includes("stop")
-              ) {
-                handle_stop(member, thing)
-                for (let global_entry of thing.elements) {
-                  if (global_entry.id == member.ref && global_entry.tags["gtfs:stop_id:SE-003-UL"] != null) {
-                    gtfs_stops.push(global_entry.tags["gtfs:stop_id:SE-003-UL"])
-                  }
-                }
-
-                //Draw the path of the route // Fix being drawn on multipolygons
-              } else if (member.type == "way" && member.role == "") {
-                let latlngs = [];
-                for (let p of member.geometry) {
-                  latlngs.push([p.lat, p.lon]);
-                }
-                if (element.tags.colour != null) {
-                  colour = element.tags.colour;
-                } else {
-                  colour = "black";
-                }
-                var polyline = L.polyline(latlngs, {
-                  color: colour,
-                }).addTo(map);
-              }
-          }
         }
-      }
-
-      // GTFS handeling
-
-      //try {
-        for (shape of gtfs_data.shapes) {
-          gtfs_layer = L.layerGroup().addTo(map);
-
-          LayerControl.addOverlay(gtfs_layer, `GTFS shape: ${shape.shape_id}`);
-          var map_shape = L.polyline(shape.points, {
-            color: "blue",
-            opacity: 0.4,
-          }).addTo(gtfs_layer);
-          for (trip of shape.trips) {
-            for (stop of trip.stops) {
-              if (!(gtfs_stops.includes(stop.stop_id))) {
-                var gtfs_stop = L.marker([stop.stop_lat, stop.stop_lon], {
-                  icon: blueDot,
-                }).addTo(gtfs_layer);
-                gtfs_stop.bindTooltip(stop.stop_name + " (" + stop.platform_code + ")")
-                entries = Object.entries(stop)
-                popup_text = `<button onclick="copy_to_clipboard('${stop.stop_id}')">Copy recommended</button><div id=${stop.stop_id}>`
-                console.log(entries)
-                for (entry of entries) {
-                  if (!(entry[0] == "stop_lon" || entry[0] == "stop_lat")) {
-                    popup_text = popup_text + "\n" + "gtfs:" + entry[0] + ":SE-003-UL" + "=" + entry[1]
-                  }
-                }
-                popup_text = popup_text + "</div>"
-                gtfs_stop.bindPopup(popup_text)
-              }
-            }
-          }
-        }
-      //} catch {
-      //  alert("Failed to link to link relation to osm data");
-      //}
-    }
-  </script>
-  <script>
-    function go() {
-      set_relation();
-      params = new URLSearchParams(window.location.search);
-      if (params.get("relation") != null) {
-        get_osm(params.get("relation"));
-      }
-    }
-
-    params = new URLSearchParams(window.location.search);
-    if (params.get("relation") != null) {
-      get_osm(params.get("relation"));
-    }
-  </script>
+    </script>
+    <div class="flexcontainer" style="flex-direction: column">
+        <h1>
+            GTFS-OSM-check
+        </h1>
+        <div class="gridcontainer">
+            <div id="config" style="grid-column: 1 / 4;">
+                <h2 style="text-align: center;">Config & Usage</h2>
+                <p>thoibnegpwiubgpwuebgpweubgipwuebgpiweub gtfs code to use, gtfs lines URL, ignore code (Clearly incomplete)</p>
+            </div>
+            <div>
+                <h3>Network (Not done yet)</h3>
+                <p><input type="number" placeholder="Network relation id" id="network_id">or<input type="text"
+                        placeholder="name" id="network_name"><input type="text"
+                        placeholder="Just for looks, use for notes or something">optionally<input type="text"
+                        placeholder="GTFS route_id" id="network_gtfs"><input type="button" value="Load"
+                        onclick="open_from_network()"></p>
+            </div>
+            <div>
+                <h3>Route master</h3>
+                <p><input type="number" placeholder="Route master relation id" id="route_master_id">or<input type="text"
+                        placeholder="ref" id="route_master_ref"><input type="text" placeholder="network"
+                        id="route_master_network">optionally<input type="text" placeholder="GTFS route_id"
+                        id="route_master_gtfs"><input type="button" value="Load" onclick="open_from_route_master()"></p>
+            </div>
+            <div>
+                <h3>Map (slow)</h3>
+                <p>Click <a href="from_map.html" target="_blank">here</a> to open the map selector. It's honestly really
+                    bad so don't use it. Feel free to improve it if you can, it's on <a
+                        href="https://github.com/Brickblock1/GTFS-OSM-check-ui" target="_blank">Github</a></p>
+            </div>
+            <div id="about" style="grid-column: 1 / 4;">
+                <h3 style="text-align: center;">About</h3>
+                <p>I originally made this tool in order to easily add linking between public transport stops in <a
+                        href="https://osm.org" target="_blank">OpenStreetMap</a> and the <a href="https://gtfs.org/"
+                        target="_blank">GTFS</a> data availiable from <a href="https://trafiklab.se/">Trafiklab</a>. As
+                    such it will probably work best with their gtfs data but the goal is to have it as generic as
+                    possible to increase the usefullnes.<br><br>Please report bugs at <a
+                        href="https://github.com/Brickblock1/GTFS-OSM-check-ui/issues">Github</a>.<br>You can also
+                    contact me at <a href="https://www.openstreetmap.org/message/new/Brickblock1">OpenStreetMap.org</a><br>© 2024 Brickblock1 Licence: <a href="https://www.gnu.org/licenses/old-licenses/lgpl-2.0.html#SEC1" target="_blank">GPLv2</a>
+                </p>
+            </div>
+        </div>
+    </div>
+    </div>
 </body>
 
 </html>

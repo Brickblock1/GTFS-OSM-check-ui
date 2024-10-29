@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <title>Comparing: ?</title>
+  <link rel="icon" href="favicon.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="flexcontainer" style="flex-direction: column;">
+    <h1>
+      GTFS-OSM-check
+      <!--<input type="number" id="relation" placeholder="OSM relation id" /><input type="button" id="button" value="Load"
+        onclick="go()" />-->
+
+      <span id="network"></span>
+      <span id="ref"></span>
+      <input type="button" id="copy_route" value="Copy gtfs route tags" onclick="copy_route()">
+    </h1>
+    <div class="flexcontainer" style="flex-direction: row;">
+      <div id="map"></div>
+      <div id="sidebar"></div>
+    </div>
+  </div>
+  <script>
+    code = "SE-003-UL"
+
+    var map = L.map("map").setView([59.858542, 17.638898, 273], 10);
+    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 19,
+      attribution:
+        '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+      userAgent:
+        "GTFS-OSM-check-ui/N/A (https://brickblock1.github.io/GTFS-OSM-check-ui/)",
+    }).addTo(map);
+
+    function customIndexOf(str, pattern) {
+      const index = str.indexOf(pattern);
+      return index === -1 ? 0 : index;
+    }
+
+    function copy_stop(id) {
+      var tags = document.getElementById(id).innerHTML.split("<br>");
+      copyText = ""
+      for (t of tags) {
+        if (t.includes("stop_id") || t.includes("platform_code")) {
+          copyText = copyText + t + "\n"
+        }
+      }
+      navigator.clipboard.writeText(copyText);
+    }
+
+    function copy_shape(shape_id) {
+      console.log(shape_id)
+      navigator.clipboard.writeText("gtfs:shape_id:" + code + "=" + shape_id);
+    }
+
+    function copy_route() {
+      navigator.clipboard.writeText("gtfs:route_id:" + code + "=" + route_details.route_id);
+    }
+
+    function toggle(layer) {
+      if (map.hasLayer(layers[layer])) {
+        map.removeLayer(layers[layer])
+      } else {
+        map.addLayer(layers[layer])
+      }
+    }
+
+    function get_gtfs_route() {
+      base_url = document.URL;
+      base_url = base_url.slice(0, customIndexOf(base_url, "?"));
+      const params = new URLSearchParams(window.location.search);
+      if (params.get("gtfs_route") != null) {
+        gtfs_route = params.get("gtfs_route");
+      } else {
+        gtfs_route = null
+      }
+      return gtfs_route
+    }
+
+    function get_gtfs_colour() {
+      base_url = document.URL;
+      base_url = base_url.slice(0, customIndexOf(base_url, "?"));
+      const params = new URLSearchParams(window.location.search);
+      if (params.get("colour") != null) {
+        colour = params.get("colour");
+      }
+      else {
+        colour = "blue"
+      }
+      return colour
+    }
+
+    async function get_gtfs_data(route) {
+      var gtfs_data = await fetch(
+        `https://brickblock1.github.io/GTFS-OSM-check-UL/route_${route}.json`
+      );
+      var gtfs_data = await gtfs_data.json();
+      return gtfs_data
+    }
+
+    async function handle_route_master(route_master) {
+      document.getElementById("network").innerHTML =
+        route_master.tags.network;
+      document.getElementById("ref").innerText = route_master.tags.ref;
+      if (route_master.tags.colour != null) {
+        document.getElementById("ref").style.backgroundColor =
+          route_master.tags.colour;
+      } else {
+        document.getElementById("ref").style.backgroundColor = "black";
+      }
+      if (route_master.tags["gtfs:route_id:SE-003-UL"] != null) {
+        var gtfs_data = await get_gtfs_data(route_master.tags["gtfs:route_id:SE-003-UL"])
+      } else if (route_master.tags["gtfs:route_id"] != null && ignore_code == true) {
+        var gtfs_data = await get_gtfs_data(route_master.tags["gtfs:route_id"])
+      }
+      document.getElementById("ref").style.color = "white";
+      document.title = "comparing: " + route_master.tags.ref
+      return gtfs_data
+    }
+
+    async function get_platforms(latlngs) {
+      let query_middle = "("
+      for (latlng of latlngs) {
+        if (ignore_code == true) {
+          query_middle = query_middle + `nwr(around:7,${latlng})["highway"="platform"]["gtfs:stop_id:${code}"];nwr(around:7)["highway"="platform"]["gtfs:stop_id"];`
+        } else {
+          query_middle = query_middle + `nwr(around:7,${latlng})["highway"="platform"]["gtfs:stop_id:${code}"];`
+        }
+      }
+      query_middle = query_middle + ")"
+      var query = `[out:json];${query_middle};out geom;`;
+      var result = await fetch("https://overpass-api.de/api/interpreter", {
+        method: "POST",
+        body: query,
+      });
+      var platforms = await result.json();
+      return platforms
+    }
+
+    async function update_gtfs_stops(stop, gtfs_stops) {
+      if (stop.tags["gtfs:stop_id:SE-003-UL"] != null) {
+        gtfs_stops.push(stop.tags["gtfs:stop_id:SE-003-UL"].split(";"))
+        gtfs_stops = gtfs_stops.flat()
+      } else if (stop.tags["gtfs:stop_id"] != null && ignore_code == true) {
+        gtfs_stops.push(stop.tags["gtfs:stop_id"].split(";"))
+        gtfs_stops = gtfs_stops.flat()
+      }
+      return gtfs_stops
+    }
+
+    function build_gtfs_shape_text(shape, shape_start_dates, shape_end_dates) {
+      console.log(shape.shape_id)
+      unformated_start = Math.min.apply(null, shape_start_dates).toString()
+      formated_start = unformated_start.slice(0, 4) + "-" + unformated_start.slice(4, 6) + "-" + unformated_start.slice(6, 8)
+      unformated_end = Math.max.apply(null, shape_end_dates).toString()
+      formated_end = unformated_end.slice(0, 4) + "-" + unformated_end.slice(4, 6) + "-" + unformated_end.slice(6, 8)
+      console.log(shape.shape_id)
+      return `<p onclick="toggle('${shape.shape_id}')">` + "GTFS: " + shape.trips[0].stops[0].stop_name + " => " + shape.trips[0].stops.at(-1).stop_name + " From: " + formated_start + " To: " + formated_end + `<span><input type="button" value="Copy shape_id" onclick="copy_shape('${shape.shape_id}')"></span></p>`
+    }
+
+  </script>
+  <script src=/main.js></script>
+  <script>
+
+    var layers = {}
+    var route_details = {}
+    const ignore_code = true
+    async function on_load(relation) {
+      html = document.getElementById("sidebar").innerHTML
+      var query = `
+                  [out:json];
+                  (
+                  relation["type"="route_master"](${relation});
+                  >>;
+                  );
+                  out geom;
+                  `;
+      var result = await fetch("https://overpass-api.de/api/interpreter", {
+        method: "POST",
+        body: query,
+      });
+      const osm_data = await result.json();
+      gtfs_stops = [] //Stops that are meantioned in the osm data that have gtfs stop_ids
+
+      for (let element of osm_data.elements) {
+        if (element.type == "relation") {
+          if (element.tags.type == "route_master") {
+            gtfs_data = await handle_route_master(element)
+          }
+
+          if (element.tags.type == "route") {
+            stop_order = 0
+            layers[element.id] = L.layerGroup();
+            platform_latlngs = []
+            for (let member of element.members) {
+              if (
+                member.role.includes("platform") ||
+                member.role.includes("stop")
+              ) {
+                for (let global_entry of osm_data.elements) {
+                  if (global_entry.id == member.ref) {
+                    stop_order = stop_order + 1
+                    handle_stop(global_entry, layers[element.id], stop_order, member.role)
+
+                    // Add inuse stops to gtfs_stops
+                    if (global_entry.tags != null) {
+                      gtfs_stops = await update_gtfs_stops(global_entry, gtfs_stops)
+                      if ((global_entry.tags["gtfs:stop_id"] == null && global_entry.tags["gtfs:stop_id:SE-003-UL"] == null)) {
+                        if (global_entry.lon != null) {
+                          platform_latlngs.push([global_entry.lat, global_entry.lon])
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+
+              //Draw the path of the route
+              else if (member.type == "way" && member.role == "") {
+                let latlngs = [];
+                for (let p of member.geometry) {
+                  latlngs.push([p.lat, p.lon]);
+                }
+                if (element.tags.colour != null) {
+                  colour = element.tags.colour;
+                } else {
+                  colour = "black";
+                }
+                var polyline = L.polyline(latlngs, {
+                  color: colour,
+                }).addTo(layers[element.id]);
+              } else if (member.type == "way" && member.role == "hail_and_ride") {
+
+                let latlngs = [];
+                for (let p of member.geometry) {
+                  latlngs.push([p.lat, p.lon]);
+                }
+                colour = "grey";
+                var polyline = L.polyline(latlngs, {
+                  color: colour,
+                }).addTo(layers[element.id]);
+              }
+            }
+
+            platforms = await get_platforms(platform_latlngs)
+            for (platform of platforms.elements) {
+              handle_stop(platform, layers[element.id], "na", "platform")
+              gtfs_stops = await update_gtfs_stops(platform, gtfs_stops)
+            }
+
+            //Write sidebar entry
+            if (element.tags["gtfs:shape_id:SE-003-UL"] != null) {
+              html = html + `<div id="container_${element.tags["gtfs:shape_id:SE-003-UL"]}"><p onclick="toggle('${element.id}')">` + "OSM: " + element.tags.name + "</p></div>"
+            } else if (element.tags["gtfs:shape_id"] != null && ignore_code == true) {
+              html = html + `<div id="container_${element.tags["gtfs:shape_id"]}"><p onclick="toggle('${element.id}')">` + "OSM: " + element.tags.name + "</p></div>"
+            }
+            else {
+              html = html + `<p onclick="toggle('${element.id}')">` + "OSM: " + element.tags.name + "</p>"
+            }
+            document.getElementById("sidebar").innerHTML = html
+          }
+        }
+      }
+
+      // GTFS handeling
+
+      color = get_gtfs_colour()
+
+      if (get_gtfs_route() != null) {
+        var gtfs_data = await get_gtfs_data(get_gtfs_route())
+      }
+
+      //try {
+      route_details = {
+        feed_version: gtfs_data.feed_version,
+        route_id: gtfs_data.route_id,
+        agency_id: gtfs_data.agency_id,
+        route_short_name: gtfs_data.route_short_name,
+        route_long_name: gtfs_data.route_long_name,
+        route_type: gtfs_data.route_type,
+        route_desc: gtfs_data.route_desc,
+      }
+
+      for (shape of gtfs_data.shapes) {
+        layers[shape.shape_id] = L.layerGroup();
+        var map_shape = L.polyline(shape.points, {
+          color: color,
+        }).addTo(layers[shape.shape_id]);
+        shape_start_dates = []
+        shape_end_dates = []
+        console.log(shape.shape_id)
+        for (trip of shape.trips) {
+          gtfs_stop_order = 0
+          for (stop of trip.stops) {
+            gtfs_stop_order = gtfs_stop_order + 1
+            if (!(gtfs_stops.includes(stop.stop_id))) {
+              var gtfs_stop = L.circle([stop.stop_lat, stop.stop_lon], {
+                color: color,
+                fillColor: "grey",
+                fillOpacity: 1,
+                weight: 4,
+                radius: 1,
+              }).addTo(layers[shape.shape_id]);
+              gtfs_stop.bindTooltip(stop.stop_name + " (" + stop.platform_code + ", " + gtfs_stop_order + ")")
+              entries = Object.entries(stop)
+              popup_text = `<button onclick="copy_stop('${stop.stop_id}')">Copy recommended</button><div id=${stop.stop_id}>`
+              for (entry of entries) {
+                if (!(entry[0] == "stop_lon" || entry[0] == "stop_lat")) {
+                  popup_text = popup_text + "gtfs:" + entry[0] + ":" + code + "=" + entry[1] + "<br>"
+                }
+              }
+              popup_text = popup_text + "</div>"
+              gtfs_stop.bindPopup(popup_text)
+            }
+          }
+          shape_start_dates.push(trip.service.start_date)
+          shape_end_dates.push(trip.service.end_date)
+        }
+        if (document.getElementById(`container_${shape.shape_id}`) != null) {
+          container_html = document.getElementById(`container_${shape.shape_id}`).innerHTML
+          document.getElementById(`container_${shape.shape_id}`).innerHTML = container_html + build_gtfs_shape_text(shape, shape_start_dates, shape_end_dates)
+
+        } else {
+          document.getElementById("sidebar").innerHTML = document.getElementById("sidebar").innerHTML + build_gtfs_shape_text(shape, shape_start_dates, shape_end_dates)
+        }
+      }
+      //} catch {
+      //  alert("Failed to link to link relation to osm data");
+      //}
+    }
+
+
+  </script>
+  <script>
+    function go() {
+      set_relation();
+      params = new URLSearchParams(window.location.search);
+      if (params.get("relation") != null) {
+        on_load(params.get("relation"));
+      }
+    }
+
+    params = new URLSearchParams(window.location.search);
+    if (params.get("relation") != null) {
+      on_load(params.get("relation"));
+    }
+  </script>
+</body>
+
+</html>

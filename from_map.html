@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      crossorigin=""
+    />
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      crossorigin=""
+    ></script>
+    <title>OSM GTFS compare</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script>
+      async function get_routes() {
+        bounds = map.getBounds();
+        bounds = [
+          bounds["_southWest"]["lat"],
+          bounds["_southWest"]["lng"],
+          bounds["_northEast"]["lat"],
+          bounds["_northEast"]["lng"],
+        ];
+        var query = `
+                [out:json];
+                (
+                relation["route"](${bounds});
+                <<;
+                );
+                out;
+                `;
+        var result = await fetch("https://overpass-api.de/api/interpreter", {
+          method: "POST",
+          body: query,
+        });
+        result = await result.json();
+        console.log(result);
+        html = ""
+        for (relation of result.elements) {
+          if (relation.tags.type == "route_master") {
+            html = html + `<p><a target="_blank" href='main.html?relation=${relation.id}'>` + relation.tags.network + " " + relation.tags.ref + " (" + relation.tags.name + ")</a></p>"
+          }
+        }
+        document.getElementById("sidebar").innerHTML = html
+      }
+    </script>
+  </head>
+  <body>
+    <div class="flexcontainer" style="flex-direction: column">
+      <h1>
+        GTFS-OSM-check
+        <input
+          type="button"
+          id="button"
+          value="Get routes on screen"
+          onclick="get_routes()"
+        />
+      </h1>
+      <div class="flexcontainer" style="flex-direction: row">
+        <div id="map"></div>
+        <div id="sidebar">
+        </div>
+      </div>
+    </div>
+    <script>
+      var map = L.map("map").setView([59.858542, 17.638898, 273], 10);
+      L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: 19,
+        attribution:
+          '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+        userAgent:
+          "GTFS-OSM-check-ui/N/A (https://brickblock1.github.io/GTFS-OSM-check-ui/)",
+      }).addTo(map);
+    </script>
+  </body>
+</html>

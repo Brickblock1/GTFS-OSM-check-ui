@@ -1,57 +1,141 @@
 * {
-    box-sizing: border-box;
-  }
+  box-sizing: border-box;
+}
 
-  #map {
-    width: 80%;
-    height: 100%;
-    position: relative;
-  }
+#map {
+  width: 80%;
+  height: 100%;
+  position: relative;
+}
 
-  #sidebar {
-    width: 20%;
-    height: 100%;
-    position: relative;
+#config {
+  width: 100%;
+}
 
-  }
+#sidebar {
+  width: 20%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  background-color: rgb(60, 60, 85);
+}
 
-  body {
-    height: 100%;
-    margin: 0%;
-  }
+#sidebar>div {
+  background-color: green;
+  padding: 1%;
+  border-radius: 10px;
+  margin-top: 1%;
+}
 
-  html {
-    height: 100%;
-  }
+body {
+  height: 100%;
+  margin: 0%;
+  overflow: hidden;
+}
 
-  .flexcontainer {
-    height: 100%;
-    display: flex;
-  }
+html {
+  height: 100%;
+  overflow: hidden;
+}
 
-  h1{
-    background-image: linear-gradient(purple, lightblue, pink);
-    margin: 0;
-    padding: 1%;
-  }  
+.flexcontainer {
+  height: 100%;
+  display: flex;
+  overflow: hidden;
+}
 
-  h1 > span, h1 > input {
-    padding: 1%;
-    border-radius: max(3vw, 3vh);
-    height: max(4vw, 4vh);
-    min-width: max(4vw, 4vh);
-    text-align: center;
-    display: inline-block;
-    line-height: max(2vw, 2vh);
-    font-size: max(2vw, 2vh);
-    vertical-align: middle;
-    margin-left: 1vw;
-  }
+.gridcontainer {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: rgb(60, 60, 85);
+  height: 100%;
+}
 
-  #button:hover {
-    cursor: pointer;
-  }
+h1 {
+  background-image: linear-gradient(purple, pink, rgb(60, 60, 85));
+  margin: 0;
+  padding: 1%;
+}
 
-  #ref {
-    background-color: black;
-  }
+h1>span {
+  padding: 1%;
+  border-radius: max(3vw, 3vh);
+  height: max(4vw, 4vh);
+  min-width: max(4vw, 4vh);
+  text-align: center;
+  display: inline-block;
+  line-height: max(2vw, 2vh);
+  font-size: max(2vw, 2vh);
+  vertical-align: middle;
+  margin-left: 1vw;
+}
+
+h1>input {
+  padding: 1%;
+  border-radius: max(3vw, 3vh);
+  height: max(4vw, 4vh);
+  min-width: max(4vw, 4vh);
+  text-align: center;
+  display: inline-block;
+  line-height: max(2vw, 2vh);
+  font-size: max(2vw, 2vh);
+  vertical-align: middle;
+  margin-left: 1vw;
+}
+
+h3 {
+  text-align: center;
+}
+
+#relation {
+  border-radius: max(3vw, 3vh) 0px 0px max(3vw, 3vh);
+}
+
+#button {
+  border-radius: 0px max(3vw, 3vh) max(3vw, 3vh) 0px;
+  margin-left: 0%;
+}
+
+#button:hover {
+  cursor: pointer;
+}
+
+#copy_route:hover {
+  cursor: pointer;
+}
+
+h1>#ref {
+  background-color: black;
+}
+
+p {
+  padding: max(15px, 3%);
+  background-color: rgb(140, 140, 140, 0.4);
+  border-radius: 15px;
+  margin: 1%;
+  color: rgb(243, 255, 155);
+}
+
+p>input {
+  background-color: black;
+  color: rgb(117, 117, 117);
+  width: 100%;
+}
+
+input::-webkit-inner-spin-button {
+  appearance: none;
+}
+
+
+#sidebar>p {
+  margin-left: 3%;
+  padding: 3%;
+  border-radius: 5px;
+  background-color: rgb(161, 155, 155);
+}
+
+a {
+  color: silver;
+}
