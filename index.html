@@ -13,15 +13,15 @@
 <body>
     <script>
         async function open_from_network() {
-            window.open(`/network.html?relation=${document.getElementById("network_id").value}&name=${document.getElementById("network_name").value}&gtfs_route=${document.getElementById("network_gtfs").value}`, "_blank");
+            window.open(`/GTFS-OSM-check-ui/network.html?relation=${document.getElementById("network_id").value}&name=${document.getElementById("network_name").value}&gtfs_route=${document.getElementById("network_gtfs").value}`, "_blank");
         }
 
         async function open_from_route_master() {
             if (document.getElementById("route_master_id").value != "") {
                 if (document.getElementById("route_master_gtfs").value != "") {
-                    window.open(`/main.html?relation=${document.getElementById("route_master_id").value}&gtfs_route=${document.getElementById("route_master_gtfs").value}`, "_blank");
+                    window.open(`/GTFS-OSM-check-ui/main.html?relation=${document.getElementById("route_master_id").value}&gtfs_route=${document.getElementById("route_master_gtfs").value}`, "_blank");
                 } else {
-                    window.open(`/main.html?relation=${document.getElementById("route_master_id").value}`, "_blank");
+                    window.open(`/GTFS-OSM-check-ui/main.html?relation=${document.getElementById("route_master_id").value}`, "_blank");
                 }
             } else {
                 var query = `
@@ -38,9 +38,9 @@
                 const osm_data = await result.json();
                 try {
                     if (document.getElementById("route_master_gtfs").value != "") {
-                        window.open(`/main.html?relation=${osm_data.elements[0].id}&gtfs_route=${document.getElementById("route_master_gtfs").value}`, "_blank");
+                        window.open(`/GTFS-OSM-check-ui/main.html?relation=${osm_data.elements[0].id}&gtfs_route=${document.getElementById("route_master_gtfs").value}`, "_blank");
                     } else {
-                        window.open(`/main.html?relation=${osm_data.elements[0].id}`, "_blank");
+                        window.open(`/GTFS-OSM-check-ui/main.html?relation=${osm_data.elements[0].id}`, "_blank");
                     }
                 } catch {
                     alert("A relation does not exist")
@@ -74,7 +74,7 @@
             </div>
             <div>
                 <h3>Map (slow)</h3>
-                <p>Click <a href="from_map.html" target="_blank">here</a> to open the map selector. It's honestly really
+                <p>Click <a href="/GTFS-OSM-check-ui/from_map.html" target="_blank">here</a> to open the map selector. It's honestly really
                     bad so don't use it. Feel free to improve it if you can, it's on <a
                         href="https://github.com/Brickblock1/GTFS-OSM-check-ui" target="_blank">Github</a></p>
             </div>
