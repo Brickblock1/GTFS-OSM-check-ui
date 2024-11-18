@@ -27,7 +27,14 @@
     </div>
   </div>
   <script>
-    code = "SE-003-UL"
+    var params = new URLSearchParams(window.location.search);
+    code = params.get("code")
+    data_url = params.get("data_url")
+    if (params.get("ignore_code") == "true") {
+      ignore_code = true
+    } else {
+      ignore_code = false
+    }
 
     var map = L.map("map").setView([59.858542, 17.638898, 273], 10);
     L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -72,8 +79,6 @@
     }
 
     function get_gtfs_route() {
-      base_url = document.URL;
-      base_url = base_url.slice(0, customIndexOf(base_url, "?"));
       const params = new URLSearchParams(window.location.search);
       if (params.get("gtfs_route") != null) {
         gtfs_route = params.get("gtfs_route");
@@ -84,8 +89,6 @@
     }
 
     function get_gtfs_colour() {
-      base_url = document.URL;
-      base_url = base_url.slice(0, customIndexOf(base_url, "?"));
       const params = new URLSearchParams(window.location.search);
       if (params.get("colour") != null) {
         colour = params.get("colour");
@@ -98,7 +101,7 @@
 
     async function get_gtfs_data(route) {
       var gtfs_data = await fetch(
-        `https://brickblock1.github.io/GTFS-OSM-check-UL/route_${route}.json`
+        `${data_url}/route_${route}.json`
       );
       var gtfs_data = await gtfs_data.json();
       return gtfs_data
@@ -170,7 +173,6 @@
 
     var layers = {}
     var route_details = {}
-    const ignore_code = true
     async function on_load(relation) {
       html = document.getElementById("sidebar").innerHTML
       var query = `

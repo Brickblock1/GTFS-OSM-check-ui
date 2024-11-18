@@ -122,6 +122,22 @@ p>input {
   background-color: black;
   color: rgb(117, 117, 117);
   width: 100%;
+  line-height: 22px;
+  font-size: 16px;
+}
+
+label {
+  border-style: inset;
+  appearance: none;
+  border-width: 2px;
+  border-color: rgb(118, 118, 118);
+  margin: 0;
+  background-color: black;
+  color: rgb(117, 117, 117);
+  width: 100%;
+  display: inline-block;
+  padding: 1px, 2px;
+  line-height: 22px;
 }
 
 input::-webkit-inner-spin-button {
@@ -138,4 +154,30 @@ input::-webkit-inner-spin-button {
 
 a {
   color: silver;
+}
+
+#container {
+  overflow-y: scroll;
+  grid-template-columns: auto auto auto auto auto;
+}
+
+.route_overview_tile {
+  text-align: center;
+  min-height: 5vh;
+  background-color: rgb(140, 140, 140, 0.4);
+  margin: 1%;
+  border-radius: 20px;
+  line-height: 5vh;
+}
+
+.route_ref {
+  height: 4vh;
+  min-width: 4vh;
+  display: inline-block;
+  vertical-align: auto;
+  line-height: 4vh;
+  border-radius: 2vh;
+  padding: 0 1vh;
+  font-weight: bolder;
+  background-color: lightgrey;
 }

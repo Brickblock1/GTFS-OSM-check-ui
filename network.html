@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Network overview</title>
+    <link rel="icon" href="favicon.png">
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div class="flexcontainer" style="flex-direction: column">
+        <h1>
+            GTFS-OSM-check <span id="name"></span>
+        </h1>
+        <div class="gridcontainer" id="container">
+        </div>
+    </div>
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        network = params.get("network")
+        network_rel = params.get("network_rel")
+        code = params.get("code")
+        data_url = params.get("data_url")
+        if (params.get("ignore_code") == "true") {
+            ignore_code = true
+        } else {
+            ignore_code = false
+        }
+
+        function open_route(relation, gtfs_route) {
+            window.open(`/GTFS-OSM-check-ui/main.html?relation=${relation}&gtfs_route=${gtfs_route}&data_url=${data_url}&ignore_code${ignore_code}&code=${code}`, "_blank")
+        }
+
+        async function on_load() {
+            if (network_rel != null) {
+                var query = `
+                  [out:json];
+                  relation["type"="network"](${network_rel});
+                  rel(r)["type"="route_master"];
+                  out tags;
+                  `;
+            } else {
+                var query = `
+                  [out:json];
+                  relation["type"="network"]["name"="${network}"];
+                  rel(r)["type"="route_master"];
+                  out tags;
+                  `;
+            }
+            var result = await fetch("https://overpass-api.de/api/interpreter", {
+                method: "POST",
+                body: query,
+            });
+            var osm_data = await result.json();
+            var result = await fetch(`${data_url}/routes.json`)
+            var gtfs_routes = await result.json()
+            osm_data = osm_data.elements.sort((a, b) => a.tags.ref - b.tags.ref)
+            var routes_in_osm = []
+
+            document.getElementById("name").innerHTML = osm_data[0].tags.network
+            for (route_master of osm_data) {
+                html = document.getElementById("container").innerHTML
+                match = "🔴"
+                combined_route_id = params.get("gtfs_route")
+                if (route_master.tags[`gtfs:route_id:${code}`] in gtfs_routes) {
+                    match = "🟢"
+                    routes_in_osm.push(route_master.tags[`gtfs:route_id:${code}`])
+                    combined_route_id = route_master.tags[`gtfs:route_id:${code}`]
+                } else if (route_master.tags["gtfs:route_id"] in gtfs_routes && ignore_code == true) {
+                    match = "🟢"
+                    routes_in_osm.push(route_master.tags[`gtfs:route_id`])
+                    combined_route_id = route_master.tags[`gtfs:route_id`]
+                }
+                else {
+                    for (gtfs_route of Object.values(gtfs_routes)) {
+                        if (route_master.tags.ref == gtfs_route.route_short_name) {
+                            match = "🟡"
+                            routes_in_osm.push(gtfs_route.route_id)
+                            combined_route_id = gtfs_route.route_id
+                        }
+                    }
+                }
+                html = html + "<div class='route_overview_tile'><span class='route_ref' style='background-color:" + route_master.tags.colour + "'>" + route_master.tags.ref + "</span> " + match + `<input type='button' value='Open' onclick='open_route(${route_master.id}, ${combined_route_id})'></div>`
+                document.getElementById("container").innerHTML = html
+            }
+            for (gtfs_route of Object.values(gtfs_routes)) {
+                if (!routes_in_osm.includes(gtfs_route.route_id)) {
+                    html = document.getElementById("container").innerHTML
+                    html = html + "<div class='route_overview_tile' style='background-color: lightcoral;'><span class='route_ref' style='background-color:" + route_master.tags.colour + "'>" + gtfs_route.route_short_name + `</span> <input type='button' value='Open' onclick='open_route(1, ${gtfs_route.route_id})'></div>`
+                    document.getElementById("container").innerHTML = html
+                }
+            }
+            html = document.getElementById("container").innerHTML
+            html = html + "<div class='route_overview_tile'>© Data <a href='https://www.openstreetmap.org/copyright' target='_blank'>OpenStreetMaps</a></div>"
+            document.getElementById("container").innerHTML = html
+        }
+
+        on_load()
+    </script>
+</body>
+
+</html>
