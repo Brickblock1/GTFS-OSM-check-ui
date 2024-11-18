@@ -30,6 +30,7 @@
         }
 
         function open_route(relation, gtfs_route) {
+            console.log(gtfs_route)
             window.open(`/GTFS-OSM-check-ui/main.html?relation=${relation}&gtfs_route=${gtfs_route}&data_url=${data_url}&ignore_code${ignore_code}&code=${code}`, "_blank")
         }
 
@@ -82,13 +83,13 @@
                         }
                     }
                 }
-                html = html + "<div class='route_overview_tile'><span class='route_ref' style='background-color:" + route_master.tags.colour + "'>" + route_master.tags.ref + "</span> " + match + `<input type='button' value='Open' onclick='open_route(${route_master.id}, ${combined_route_id})'></div>`
+                html = html + "<div class='route_overview_tile'><span class='route_ref' style='background-color:" + route_master.tags.colour + "'>" + route_master.tags.ref + "</span> " + match + `<input type='button' value='Open' onclick='open_route(${route_master.id}, "${combined_route_id}")'></div>`
                 document.getElementById("container").innerHTML = html
             }
             for (gtfs_route of Object.values(gtfs_routes)) {
                 if (!routes_in_osm.includes(gtfs_route.route_id)) {
                     html = document.getElementById("container").innerHTML
-                    html = html + "<div class='route_overview_tile' style='background-color: lightcoral;'><span class='route_ref' style='background-color:" + route_master.tags.colour + "'>" + gtfs_route.route_short_name + `</span> <input type='button' value='Open' onclick='open_route(1, ${gtfs_route.route_id})'></div>`
+                    html = html + "<div class='route_overview_tile' style='background-color: lightcoral;'><span class='route_ref' style='background-color:" + route_master.tags.colour + "'>" + gtfs_route.route_short_name + `</span> <input type='button' value='Open' onclick='open_route(1, "${gtfs_route.route_id}")'></div>`
                     document.getElementById("container").innerHTML = html
                 }
             }
