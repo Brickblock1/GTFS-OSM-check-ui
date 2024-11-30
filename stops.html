@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OSM GTFS stops</title>
+    <link rel="icon" href="favicon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <div class="flexcontainer" style="flex-direction: column;">
+        <h1>
+            GTFS-OSM-check
+        </h1>
+        <div class="flexcontainer" style="flex-direction: row;">
+            <div id="map"></div>
+            <div id="sidebar"></div>
+        </div>
+    </div>
+    <script>
+        var params = new URLSearchParams(window.location.search);
+        data_url = params.get("data_url")
+
+        var map = L.map("map").setView([59.858542, 17.638898, 273], 10);
+        L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+            maxZoom: 19,
+            attribution:
+                '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+            userAgent:
+                "GTFS-OSM-check-ui/N/A (https://brickblock1.github.io/GTFS-OSM-check-ui/)",
+        }).addTo(map);
+    </script>
+    <script>
+        async function on_load() {
+            var result = await fetch(`${data_url}/stops.json`);
+            const stops_data = await result.json();
+            console.log(stops_data)
+            for (stop of Object.values(stops_data)) {
+                if (stop.location_type == 1) {
+                    color = "purple"
+                } else if (stop.location_type == 0) {
+                    if (stop.inuse == true) {
+                        color = "blue"
+                    } else {
+                        color = "red"
+                    }
+                } else {
+                    color = "yellow"
+                }
+                var gtfs_stop = L.circle([stop.stop_lat, stop.stop_lon], {
+                    color: color,
+                    fillColor: "grey",
+                    fillOpacity: 1,
+                    weight: 4,
+                    radius: 1,
+                }).addTo(map);
+                gtfs_stop.bindTooltip(stop.stop_name + " (" + stop.platform_code + ")")
+                entries = Object.entries(stop)
+                popup_text = `<div id=${stop.stop_id}>`
+                for (entry of entries) {
+                    if (!(entry[0] == "stop_lon" || entry[0] == "stop_lat")) {
+                        popup_text = popup_text + "gtfs:" + entry[0] + ":" + "=" + entry[1] + "<br>"
+                    }
+                }
+                popup_text = popup_text + "</div>"
+                if (color != "red") {
+                    gtfs_stop.bindPopup(popup_text)
+                }
+            }
+        }
+
+        on_load()
+    </script>
+</body>
+
+</html>
