@@ -114,6 +114,7 @@
       if (route_master.tags.colour != null) {
         document.getElementById("ref").style.backgroundColor =
           route_master.tags.colour;
+        route_master_colour = route_master.tags.colour
       } else {
         document.getElementById("ref").style.backgroundColor = "black";
       }
@@ -168,7 +169,7 @@
     }
 
   </script>
-  <script src=/GTFS-OSM-check-ui/main.js></script>
+  <script src=/main.js></script>
   <script>
 
     var layers = {}
@@ -189,6 +190,7 @@
       });
       const osm_data = await result.json();
       gtfs_stops = [] //Stops that are meantioned in the osm data that have gtfs stop_ids
+      route_master_colour = "black"
 
       for (let element of osm_data.elements) {
         if (element.type == "relation") {
@@ -232,7 +234,7 @@
                 if (element.tags.colour != null) {
                   colour = element.tags.colour;
                 } else {
-                  colour = "black";
+                  colour = route_master_colour;
                 }
                 var polyline = L.polyline(latlngs, {
                   color: colour,
@@ -264,6 +266,78 @@
             }
             else {
               html = html + `<p onclick="toggle('${element.id}')">` + "OSM: " + element.tags.name + "</p>"
+            }
+            document.getElementById("sidebar").innerHTML = html
+          }
+
+          if (element.tags["planned:type"] == "route") {
+            stop_order = 0
+            layers[element.id] = L.layerGroup();
+            platform_latlngs = []
+            for (let member of element.members) {
+              if (
+                member.role.includes("platform") ||
+                member.role.includes("stop")
+              ) {
+                for (let global_entry of osm_data.elements) {
+                  if (global_entry.id == member.ref) {
+                    stop_order = stop_order + 1
+                    handle_stop(global_entry, layers[element.id], stop_order, member.role)
+
+                    // Add inuse stops to gtfs_stops
+                    if (global_entry.tags != null) {
+                      gtfs_stops = await update_gtfs_stops(global_entry, gtfs_stops)
+                      if ((global_entry.tags["gtfs:stop_id"] == null && global_entry.tags["gtfs:stop_id:SE-003-UL"] == null)) {
+                        if (global_entry.lon != null) {
+                          platform_latlngs.push([global_entry.lat, global_entry.lon])
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+
+              //Draw the path of the route
+              else if (member.type == "way" && member.role == "") {
+                let latlngs = [];
+                for (let p of member.geometry) {
+                  latlngs.push([p.lat, p.lon]);
+                }
+                if (element.tags.colour != null) {
+                  colour = element.tags.colour;
+                } else {
+                  colour = route_master_colour;
+                }
+                var polyline = L.polyline(latlngs, {
+                  color: colour,
+                }).addTo(layers[element.id]);
+              } else if (member.type == "way" && member.role == "hail_and_ride") {
+
+                let latlngs = [];
+                for (let p of member.geometry) {
+                  latlngs.push([p.lat, p.lon]);
+                }
+                colour = "grey";
+                var polyline = L.polyline(latlngs, {
+                  color: colour,
+                }).addTo(layers[element.id]);
+              }
+            }
+
+            platforms = await get_platforms(platform_latlngs)
+            for (platform of platforms.elements) {
+              handle_stop(platform, layers[element.id], "na", "platform")
+              gtfs_stops = await update_gtfs_stops(platform, gtfs_stops)
+            }
+
+            //Write sidebar entry
+            if (element.tags["gtfs:shape_id:SE-003-UL"] != null) {
+              html = html + `<div id="container_${element.tags["gtfs:shape_id:SE-003-UL"]}"><p onclick="toggle('${element.id}')">` + "OSM: " + element.tags["planned:name"] + " (planned)" + "</p></div>"
+            } else if (element.tags["gtfs:shape_id"] != null && ignore_code == true) {
+              html = html + `<div id="container_${element.tags["gtfs:shape_id"]}"><p onclick="toggle('${element.id}')">` + "OSM: " + element.tags["planned:name"] + " (planned)" + "</p></div>"
+            }
+            else {
+              html = html + `<p onclick="toggle('${element.id}')">` + "OSM: " + element.tags["planned:name"] + " (planned)" + "</p>"
             }
             document.getElementById("sidebar").innerHTML = html
           }
