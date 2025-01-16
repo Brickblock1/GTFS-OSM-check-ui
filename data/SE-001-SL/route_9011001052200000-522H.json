@@ -1,0 +1,4965 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011001052200000-522H",
+  "agency_id": "14010000000001001",
+  "route_short_name": "522H",
+  "route_long_name": "",
+  "route_type": "700",
+  "route_desc": "",
+  "shapes": [
+    {
+      "shape_id": "1014010000575169285",
+      "trips": [
+        {
+          "trip_id": "14010000666188600",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666193170",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666207746",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666209195",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666210319",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666212785",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666214216",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666216724",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666182973",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666206585",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666219326",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666181466",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666184701",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666190867",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666197835",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666201744",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666203545",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666205175",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666211664",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666309390",
+          "service_id": "27",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "27",
+            "start_date": "20241116",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "14010000666186568",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666195626",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666306990",
+          "service_id": "27",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "27",
+            "start_date": "20241116",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "14010000666312244",
+          "service_id": "27",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "27",
+            "start_date": "20241116",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "14010000666321372",
+          "service_id": "27",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "27",
+            "start_date": "20241116",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "14010000666319323",
+          "service_id": "27",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "27",
+            "start_date": "20241116",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "14010000666199903",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666215346",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666217813",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666315467",
+          "service_id": "27",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "27",
+            "start_date": "20241116",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "14010000666317396",
+          "service_id": "27",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001050501013",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429454",
+              "stop_lon": "17.948053",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052583001",
+              "stop_name": "Malmv\u00e4gen",
+              "stop_lat": "59.430048",
+              "stop_lon": "17.940467",
+              "location_type": "0",
+              "parent_station": "9021001052583000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052585001",
+              "stop_name": "Tistelv\u00e4gen",
+              "stop_lat": "59.429895",
+              "stop_lon": "17.936856",
+              "location_type": "0",
+              "parent_station": "9021001052585000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052586001",
+              "stop_name": "Knistav\u00e4gen",
+              "stop_lat": "59.434760",
+              "stop_lon": "17.931104",
+              "location_type": "0",
+              "parent_station": "9021001052586000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052444001",
+              "stop_name": "Mossv\u00e4gen",
+              "stop_lat": "59.437482",
+              "stop_lon": "17.930124",
+              "location_type": "0",
+              "parent_station": "9021001052444000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052375001",
+              "stop_name": "H\u00e4ggviksleden",
+              "stop_lat": "59.440451",
+              "stop_lon": "17.930792",
+              "location_type": "0",
+              "parent_station": "9021001052375000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052377001",
+              "stop_name": "H\u00e4ggvik s\u00f6dra",
+              "stop_lat": "59.438144",
+              "stop_lon": "17.934926",
+              "location_type": "0",
+              "parent_station": "9021001052377000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052591001",
+              "stop_name": "Stinsen",
+              "stop_lat": "59.435838",
+              "stop_lon": "17.937008",
+              "location_type": "0",
+              "parent_station": "9021001052591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001052841002",
+              "stop_name": "Turebergs all\u00e9",
+              "stop_lat": "59.431405",
+              "stop_lon": "17.942136",
+              "location_type": "0",
+              "parent_station": "9021001052841000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001050501001",
+              "stop_name": "Sollentuna station",
+              "stop_lat": "59.429279",
+              "stop_lon": "17.948020",
+              "location_type": "0",
+              "parent_station": "9021001050501000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "27",
+            "start_date": "20241116",
+            "end_date": "20250615"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.429454",
+          "17.948053"
+        ],
+        [
+          "59.429431",
+          "17.947989"
+        ],
+        [
+          "59.430049",
+          "17.947340"
+        ],
+        [
+          "59.430124",
+          "17.947605"
+        ],
+        [
+          "59.430107",
+          "17.947754"
+        ],
+        [
+          "59.430055",
+          "17.947875"
+        ],
+        [
+          "59.429752",
+          "17.948240"
+        ],
+        [
+          "59.429469",
+          "17.948509"
+        ],
+        [
+          "59.429341",
+          "17.948551"
+        ],
+        [
+          "59.429789",
+          "17.950006"
+        ],
+        [
+          "59.429873",
+          "17.950103"
+        ],
+        [
+          "59.429946",
+          "17.950065"
+        ],
+        [
+          "59.430402",
+          "17.949784"
+        ],
+        [
+          "59.430095",
+          "17.942864"
+        ],
+        [
+          "59.430147",
+          "17.942789"
+        ],
+        [
+          "59.430173",
+          "17.942631"
+        ],
+        [
+          "59.430134",
+          "17.942538"
+        ],
+        [
+          "59.430067",
+          "17.942488"
+        ],
+        [
+          "59.429999",
+          "17.940897"
+        ],
+        [
+          "59.430013",
+          "17.940266"
+        ],
+        [
+          "59.430048",
+          "17.940467"
+        ],
+        [
+          "59.430012",
+          "17.940286"
+        ],
+        [
+          "59.430023",
+          "17.940006"
+        ],
+        [
+          "59.430049",
+          "17.939514"
+        ],
+        [
+          "59.430074",
+          "17.939132"
+        ],
+        [
+          "59.430091",
+          "17.938801"
+        ],
+        [
+          "59.430094",
+          "17.938520"
+        ],
+        [
+          "59.430075",
+          "17.938156"
+        ],
+        [
+          "59.430045",
+          "17.937849"
+        ],
+        [
+          "59.429962",
+          "17.937381"
+        ],
+        [
+          "59.429857",
+          "17.936854"
+        ],
+        [
+          "59.429808",
+          "17.936607"
+        ],
+        [
+          "59.429717",
+          "17.936097"
+        ],
+        [
+          "59.429595",
+          "17.935063"
+        ],
+        [
+          "59.429572",
+          "17.934716"
+        ],
+        [
+          "59.429598",
+          "17.934706"
+        ],
+        [
+          "59.429629",
+          "17.934681"
+        ],
+        [
+          "59.429658",
+          "17.934628"
+        ],
+        [
+          "59.429671",
+          "17.934564"
+        ],
+        [
+          "59.429675",
+          "17.934482"
+        ],
+        [
+          "59.429663",
+          "17.934413"
+        ],
+        [
+          "59.429773",
+          "17.934271"
+        ],
+        [
+          "59.429970",
+          "17.934017"
+        ],
+        [
+          "59.430222",
+          "17.933686"
+        ],
+        [
+          "59.430658",
+          "17.933163"
+        ],
+        [
+          "59.431042",
+          "17.932683"
+        ],
+        [
+          "59.431355",
+          "17.932325"
+        ],
+        [
+          "59.431650",
+          "17.932024"
+        ],
+        [
+          "59.431839",
+          "17.931877"
+        ],
+        [
+          "59.432091",
+          "17.931693"
+        ],
+        [
+          "59.432277",
+          "17.931573"
+        ],
+        [
+          "59.432583",
+          "17.931426"
+        ],
+        [
+          "59.432847",
+          "17.931325"
+        ],
+        [
+          "59.433160",
+          "17.931249"
+        ],
+        [
+          "59.433581",
+          "17.931164"
+        ],
+        [
+          "59.433817",
+          "17.931128"
+        ],
+        [
+          "59.434055",
+          "17.931087"
+        ],
+        [
+          "59.434250",
+          "17.931052"
+        ],
+        [
+          "59.434635",
+          "17.930980"
+        ],
+        [
+          "59.434752",
+          "17.930956"
+        ],
+        [
+          "59.435184",
+          "17.930867"
+        ],
+        [
+          "59.435892",
+          "17.930712"
+        ],
+        [
+          "59.436075",
+          "17.930701"
+        ],
+        [
+          "59.436225",
+          "17.930692"
+        ],
+        [
+          "59.436341",
+          "17.930714"
+        ],
+        [
+          "59.436355",
+          "17.930717"
+        ],
+        [
+          "59.436492",
+          "17.930810"
+        ],
+        [
+          "59.436535",
+          "17.930847"
+        ],
+        [
+          "59.436576",
+          "17.930863"
+        ],
+        [
+          "59.436614",
+          "17.930848"
+        ],
+        [
+          "59.436665",
+          "17.930807"
+        ],
+        [
+          "59.436690",
+          "17.930743"
+        ],
+        [
+          "59.436842",
+          "17.930504"
+        ],
+        [
+          "59.436997",
+          "17.930348"
+        ],
+        [
+          "59.437221",
+          "17.930178"
+        ],
+        [
+          "59.437448",
+          "17.930007"
+        ],
+        [
+          "59.437482",
+          "17.930124"
+        ],
+        [
+          "59.437443",
+          "17.930009"
+        ],
+        [
+          "59.437833",
+          "17.929715"
+        ],
+        [
+          "59.438479",
+          "17.929101"
+        ],
+        [
+          "59.438939",
+          "17.928709"
+        ],
+        [
+          "59.439046",
+          "17.928689"
+        ],
+        [
+          "59.439205",
+          "17.928710"
+        ],
+        [
+          "59.439265",
+          "17.928730"
+        ],
+        [
+          "59.439468",
+          "17.928963"
+        ],
+        [
+          "59.439935",
+          "17.929614"
+        ],
+        [
+          "59.440379",
+          "17.930449"
+        ],
+        [
+          "59.440493",
+          "17.930734"
+        ],
+        [
+          "59.440451",
+          "17.930792"
+        ],
+        [
+          "59.440498",
+          "17.930729"
+        ],
+        [
+          "59.440555",
+          "17.930864"
+        ],
+        [
+          "59.440555",
+          "17.930864"
+        ],
+        [
+          "59.440649",
+          "17.931112"
+        ],
+        [
+          "59.440649",
+          "17.931112"
+        ],
+        [
+          "59.440711",
+          "17.931302"
+        ],
+        [
+          "59.440711",
+          "17.931302"
+        ],
+        [
+          "59.440696",
+          "17.931309"
+        ],
+        [
+          "59.440696",
+          "17.931309"
+        ],
+        [
+          "59.440681",
+          "17.931322"
+        ],
+        [
+          "59.440681",
+          "17.931322"
+        ],
+        [
+          "59.440670",
+          "17.931338"
+        ],
+        [
+          "59.440670",
+          "17.931338"
+        ],
+        [
+          "59.440662",
+          "17.931347"
+        ],
+        [
+          "59.440662",
+          "17.931347"
+        ],
+        [
+          "59.440651",
+          "17.931376"
+        ],
+        [
+          "59.440651",
+          "17.931376"
+        ],
+        [
+          "59.440642",
+          "17.931420"
+        ],
+        [
+          "59.440642",
+          "17.931420"
+        ],
+        [
+          "59.440639",
+          "17.931489"
+        ],
+        [
+          "59.440639",
+          "17.931489"
+        ],
+        [
+          "59.440644",
+          "17.931553"
+        ],
+        [
+          "59.440644",
+          "17.931553"
+        ],
+        [
+          "59.440653",
+          "17.931602"
+        ],
+        [
+          "59.440653",
+          "17.931602"
+        ],
+        [
+          "59.440654",
+          "17.931604"
+        ],
+        [
+          "59.440654",
+          "17.931604"
+        ],
+        [
+          "59.440621",
+          "17.931629"
+        ],
+        [
+          "59.440621",
+          "17.931629"
+        ],
+        [
+          "59.440557",
+          "17.931714"
+        ],
+        [
+          "59.440557",
+          "17.931714"
+        ],
+        [
+          "59.440515",
+          "17.931772"
+        ],
+        [
+          "59.440515",
+          "17.931772"
+        ],
+        [
+          "59.440435",
+          "17.931894"
+        ],
+        [
+          "59.440435",
+          "17.931894"
+        ],
+        [
+          "59.440332",
+          "17.932058"
+        ],
+        [
+          "59.440332",
+          "17.932058"
+        ],
+        [
+          "59.440233",
+          "17.932227"
+        ],
+        [
+          "59.440233",
+          "17.932227"
+        ],
+        [
+          "59.440093",
+          "17.932482"
+        ],
+        [
+          "59.440093",
+          "17.932482"
+        ],
+        [
+          "59.440060",
+          "17.932541"
+        ],
+        [
+          "59.440060",
+          "17.932541"
+        ],
+        [
+          "59.439458",
+          "17.933651"
+        ],
+        [
+          "59.439458",
+          "17.933651"
+        ],
+        [
+          "59.439412",
+          "17.933733"
+        ],
+        [
+          "59.439412",
+          "17.933733"
+        ],
+        [
+          "59.438936",
+          "17.934615"
+        ],
+        [
+          "59.438936",
+          "17.934615"
+        ],
+        [
+          "59.438910",
+          "17.934664"
+        ],
+        [
+          "59.438910",
+          "17.934664"
+        ],
+        [
+          "59.438843",
+          "17.934762"
+        ],
+        [
+          "59.438843",
+          "17.934762"
+        ],
+        [
+          "59.438784",
+          "17.934844"
+        ],
+        [
+          "59.438784",
+          "17.934844"
+        ],
+        [
+          "59.438736",
+          "17.934898"
+        ],
+        [
+          "59.438736",
+          "17.934898"
+        ],
+        [
+          "59.438687",
+          "17.934939"
+        ],
+        [
+          "59.438687",
+          "17.934939"
+        ],
+        [
+          "59.438633",
+          "17.934976"
+        ],
+        [
+          "59.438633",
+          "17.934976"
+        ],
+        [
+          "59.438578",
+          "17.934999"
+        ],
+        [
+          "59.438578",
+          "17.934999"
+        ],
+        [
+          "59.438522",
+          "17.935007"
+        ],
+        [
+          "59.438522",
+          "17.935007"
+        ],
+        [
+          "59.438487",
+          "17.935005"
+        ],
+        [
+          "59.438487",
+          "17.935005"
+        ],
+        [
+          "59.437922",
+          "17.934926"
+        ],
+        [
+          "59.437922",
+          "17.934926"
+        ],
+        [
+          "59.437830",
+          "17.934913"
+        ],
+        [
+          "59.437830",
+          "17.934913"
+        ],
+        [
+          "59.437818",
+          "17.934866"
+        ],
+        [
+          "59.437818",
+          "17.934866"
+        ],
+        [
+          "59.437802",
+          "17.934824"
+        ],
+        [
+          "59.437802",
+          "17.934824"
+        ],
+        [
+          "59.437783",
+          "17.934789"
+        ],
+        [
+          "59.437783",
+          "17.934789"
+        ],
+        [
+          "59.437760",
+          "17.934763"
+        ],
+        [
+          "59.437760",
+          "17.934763"
+        ],
+        [
+          "59.437735",
+          "17.934746"
+        ],
+        [
+          "59.437735",
+          "17.934746"
+        ],
+        [
+          "59.437708",
+          "17.934739"
+        ],
+        [
+          "59.437708",
+          "17.934739"
+        ],
+        [
+          "59.437682",
+          "17.934742"
+        ],
+        [
+          "59.437682",
+          "17.934742"
+        ],
+        [
+          "59.437656",
+          "17.934755"
+        ],
+        [
+          "59.437656",
+          "17.934755"
+        ],
+        [
+          "59.437632",
+          "17.934777"
+        ],
+        [
+          "59.437632",
+          "17.934777"
+        ],
+        [
+          "59.437611",
+          "17.934809"
+        ],
+        [
+          "59.437611",
+          "17.934809"
+        ],
+        [
+          "59.437593",
+          "17.934848"
+        ],
+        [
+          "59.437593",
+          "17.934848"
+        ],
+        [
+          "59.437580",
+          "17.934893"
+        ],
+        [
+          "59.437580",
+          "17.934893"
+        ],
+        [
+          "59.437571",
+          "17.934942"
+        ],
+        [
+          "59.437571",
+          "17.934942"
+        ],
+        [
+          "59.437567",
+          "17.934994"
+        ],
+        [
+          "59.437567",
+          "17.934994"
+        ],
+        [
+          "59.437569",
+          "17.935046"
+        ],
+        [
+          "59.437569",
+          "17.935046"
+        ],
+        [
+          "59.437576",
+          "17.935096"
+        ],
+        [
+          "59.437576",
+          "17.935096"
+        ],
+        [
+          "59.437332",
+          "17.935242"
+        ],
+        [
+          "59.437332",
+          "17.935242"
+        ],
+        [
+          "59.437286",
+          "17.935274"
+        ],
+        [
+          "59.437286",
+          "17.935274"
+        ],
+        [
+          "59.437070",
+          "17.935406"
+        ],
+        [
+          "59.437070",
+          "17.935406"
+        ],
+        [
+          "59.436829",
+          "17.935536"
+        ],
+        [
+          "59.436829",
+          "17.935536"
+        ],
+        [
+          "59.436586",
+          "17.935661"
+        ],
+        [
+          "59.436586",
+          "17.935661"
+        ],
+        [
+          "59.436301",
+          "17.935818"
+        ],
+        [
+          "59.436301",
+          "17.935818"
+        ],
+        [
+          "59.436186",
+          "17.935910"
+        ],
+        [
+          "59.436186",
+          "17.935910"
+        ],
+        [
+          "59.436105",
+          "17.936037"
+        ],
+        [
+          "59.436105",
+          "17.936037"
+        ],
+        [
+          "59.436041",
+          "17.936181"
+        ],
+        [
+          "59.436041",
+          "17.936181"
+        ],
+        [
+          "59.435997",
+          "17.936337"
+        ],
+        [
+          "59.435997",
+          "17.936337"
+        ],
+        [
+          "59.435960",
+          "17.936523"
+        ],
+        [
+          "59.435960",
+          "17.936523"
+        ],
+        [
+          "59.435916",
+          "17.936804"
+        ],
+        [
+          "59.435916",
+          "17.936804"
+        ],
+        [
+          "59.435880",
+          "17.937036"
+        ],
+        [
+          "59.435880",
+          "17.937036"
+        ],
+        [
+          "59.435864",
+          "17.937136"
+        ],
+        [
+          "59.435812",
+          "17.937439"
+        ],
+        [
+          "59.435723",
+          "17.937492"
+        ],
+        [
+          "59.435463",
+          "17.937649"
+        ],
+        [
+          "59.435136",
+          "17.937851"
+        ],
+        [
+          "59.434602",
+          "17.938148"
+        ],
+        [
+          "59.434252",
+          "17.938358"
+        ],
+        [
+          "59.433755",
+          "17.938671"
+        ],
+        [
+          "59.433681",
+          "17.938710"
+        ],
+        [
+          "59.433160",
+          "17.939025"
+        ],
+        [
+          "59.432742",
+          "17.939257"
+        ],
+        [
+          "59.432255",
+          "17.939559"
+        ],
+        [
+          "59.431778",
+          "17.939842"
+        ],
+        [
+          "59.431571",
+          "17.939970"
+        ],
+        [
+          "59.431392",
+          "17.940108"
+        ],
+        [
+          "59.431317",
+          "17.940187"
+        ],
+        [
+          "59.431252",
+          "17.940292"
+        ],
+        [
+          "59.431221",
+          "17.940421"
+        ],
+        [
+          "59.431270",
+          "17.940718"
+        ],
+        [
+          "59.431315",
+          "17.941092"
+        ],
+        [
+          "59.431364",
+          "17.941504"
+        ],
+        [
+          "59.431374",
+          "17.942087"
+        ],
+        [
+          "59.431375",
+          "17.942141"
+        ],
+        [
+          "59.431405",
+          "17.942136"
+        ],
+        [
+          "59.431375",
+          "17.942123"
+        ],
+        [
+          "59.431384",
+          "17.942675"
+        ],
+        [
+          "59.431250",
+          "17.942659"
+        ],
+        [
+          "59.430948",
+          "17.942679"
+        ],
+        [
+          "59.430492",
+          "17.942670"
+        ],
+        [
+          "59.430166",
+          "17.942673"
+        ],
+        [
+          "59.430149",
+          "17.942592"
+        ],
+        [
+          "59.430128",
+          "17.942548"
+        ],
+        [
+          "59.430100",
+          "17.942511"
+        ],
+        [
+          "59.430069",
+          "17.942495"
+        ],
+        [
+          "59.430029",
+          "17.942515"
+        ],
+        [
+          "59.430008",
+          "17.942552"
+        ],
+        [
+          "59.429995",
+          "17.942601"
+        ],
+        [
+          "59.429983",
+          "17.942684"
+        ],
+        [
+          "59.429989",
+          "17.942741"
+        ],
+        [
+          "59.430001",
+          "17.942784"
+        ],
+        [
+          "59.430015",
+          "17.942806"
+        ],
+        [
+          "59.430028",
+          "17.942827"
+        ],
+        [
+          "59.430048",
+          "17.942845"
+        ],
+        [
+          "59.430080",
+          "17.942853"
+        ],
+        [
+          "59.430106",
+          "17.943438"
+        ],
+        [
+          "59.430158",
+          "17.944713"
+        ],
+        [
+          "59.430163",
+          "17.944844"
+        ],
+        [
+          "59.430204",
+          "17.945886"
+        ],
+        [
+          "59.430229",
+          "17.946486"
+        ],
+        [
+          "59.430237",
+          "17.946807"
+        ],
+        [
+          "59.430255",
+          "17.947115"
+        ],
+        [
+          "59.430256",
+          "17.947134"
+        ],
+        [
+          "59.430275",
+          "17.947648"
+        ],
+        [
+          "59.430282",
+          "17.947807"
+        ],
+        [
+          "59.430302",
+          "17.948313"
+        ],
+        [
+          "59.430328",
+          "17.948853"
+        ],
+        [
+          "59.430363",
+          "17.949410"
+        ],
+        [
+          "59.430392",
+          "17.949717"
+        ],
+        [
+          "59.430401",
+          "17.949818"
+        ],
+        [
+          "59.430554",
+          "17.949786"
+        ],
+        [
+          "59.430653",
+          "17.949744"
+        ],
+        [
+          "59.430644",
+          "17.949478"
+        ],
+        [
+          "59.430640",
+          "17.949372"
+        ],
+        [
+          "59.430623",
+          "17.948847"
+        ],
+        [
+          "59.430603",
+          "17.948410"
+        ],
+        [
+          "59.430554",
+          "17.947412"
+        ],
+        [
+          "59.430553",
+          "17.947398"
+        ],
+        [
+          "59.430546",
+          "17.947199"
+        ],
+        [
+          "59.430513",
+          "17.947053"
+        ],
+        [
+          "59.430452",
+          "17.946979"
+        ],
+        [
+          "59.430384",
+          "17.946964"
+        ],
+        [
+          "59.430314",
+          "17.947046"
+        ],
+        [
+          "59.430307",
+          "17.947054"
+        ],
+        [
+          "59.430255",
+          "17.947115"
+        ],
+        [
+          "59.430193",
+          "17.947186"
+        ],
+        [
+          "59.430125",
+          "17.947266"
+        ],
+        [
+          "59.430057",
+          "17.947345"
+        ],
+        [
+          "59.429795",
+          "17.947599"
+        ],
+        [
+          "59.429408",
+          "17.947996"
+        ],
+        [
+          "59.429303",
+          "17.948123"
+        ],
+        [
+          "59.429279",
+          "17.948020"
+        ]
+      ]
+    }
+  ]
+}

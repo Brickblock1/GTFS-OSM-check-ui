@@ -1,0 +1,4829 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011001095300000",
+  "agency_id": "14010000000001001",
+  "route_short_name": "953",
+  "route_long_name": "",
+  "route_type": "700",
+  "route_desc": "N\u00e4rtrafiken",
+  "shapes": [
+    {
+      "shape_id": "1014010000632532393",
+      "trips": [
+        {
+          "trip_id": "14010000633242155",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051703001",
+              "stop_name": "Tallbohov",
+              "stop_lat": "59.417316",
+              "stop_lon": "17.846904",
+              "location_type": "0",
+              "parent_station": "9021001051703000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051700001",
+              "stop_name": "S\u00f6derh\u00f6jden",
+              "stop_lat": "59.415520",
+              "stop_lon": "17.850379",
+              "location_type": "0",
+              "parent_station": "9021001051700000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051698001",
+              "stop_name": "Hammarskogen",
+              "stop_lat": "59.412803",
+              "stop_lon": "17.847633",
+              "location_type": "0",
+              "parent_station": "9021001051698000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051699002",
+              "stop_name": "Dackev\u00e4gen",
+              "stop_lat": "59.416319",
+              "stop_lon": "17.842358",
+              "location_type": "0",
+              "parent_station": "9021001051699000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000633242792",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051703001",
+              "stop_name": "Tallbohov",
+              "stop_lat": "59.417316",
+              "stop_lon": "17.846904",
+              "location_type": "0",
+              "parent_station": "9021001051703000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051700001",
+              "stop_name": "S\u00f6derh\u00f6jden",
+              "stop_lat": "59.415520",
+              "stop_lon": "17.850379",
+              "location_type": "0",
+              "parent_station": "9021001051700000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051698001",
+              "stop_name": "Hammarskogen",
+              "stop_lat": "59.412803",
+              "stop_lon": "17.847633",
+              "location_type": "0",
+              "parent_station": "9021001051698000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051699002",
+              "stop_name": "Dackev\u00e4gen",
+              "stop_lat": "59.416319",
+              "stop_lon": "17.842358",
+              "location_type": "0",
+              "parent_station": "9021001051699000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000632533449",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051703001",
+              "stop_name": "Tallbohov",
+              "stop_lat": "59.417316",
+              "stop_lon": "17.846904",
+              "location_type": "0",
+              "parent_station": "9021001051703000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051700001",
+              "stop_name": "S\u00f6derh\u00f6jden",
+              "stop_lat": "59.415520",
+              "stop_lon": "17.850379",
+              "location_type": "0",
+              "parent_station": "9021001051700000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051698001",
+              "stop_name": "Hammarskogen",
+              "stop_lat": "59.412803",
+              "stop_lon": "17.847633",
+              "location_type": "0",
+              "parent_station": "9021001051698000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051699002",
+              "stop_name": "Dackev\u00e4gen",
+              "stop_lat": "59.416319",
+              "stop_lon": "17.842358",
+              "location_type": "0",
+              "parent_station": "9021001051699000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000632533626",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051703001",
+              "stop_name": "Tallbohov",
+              "stop_lat": "59.417316",
+              "stop_lon": "17.846904",
+              "location_type": "0",
+              "parent_station": "9021001051703000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051700001",
+              "stop_name": "S\u00f6derh\u00f6jden",
+              "stop_lat": "59.415520",
+              "stop_lon": "17.850379",
+              "location_type": "0",
+              "parent_station": "9021001051700000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051698001",
+              "stop_name": "Hammarskogen",
+              "stop_lat": "59.412803",
+              "stop_lon": "17.847633",
+              "location_type": "0",
+              "parent_station": "9021001051698000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051699002",
+              "stop_name": "Dackev\u00e4gen",
+              "stop_lat": "59.416319",
+              "stop_lon": "17.842358",
+              "location_type": "0",
+              "parent_station": "9021001051699000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000632533801",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051703001",
+              "stop_name": "Tallbohov",
+              "stop_lat": "59.417316",
+              "stop_lon": "17.846904",
+              "location_type": "0",
+              "parent_station": "9021001051703000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051700001",
+              "stop_name": "S\u00f6derh\u00f6jden",
+              "stop_lat": "59.415520",
+              "stop_lon": "17.850379",
+              "location_type": "0",
+              "parent_station": "9021001051700000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051698001",
+              "stop_name": "Hammarskogen",
+              "stop_lat": "59.412803",
+              "stop_lon": "17.847633",
+              "location_type": "0",
+              "parent_station": "9021001051698000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051699002",
+              "stop_name": "Dackev\u00e4gen",
+              "stop_lat": "59.416319",
+              "stop_lon": "17.842358",
+              "location_type": "0",
+              "parent_station": "9021001051699000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000633245161",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051703001",
+              "stop_name": "Tallbohov",
+              "stop_lat": "59.417316",
+              "stop_lon": "17.846904",
+              "location_type": "0",
+              "parent_station": "9021001051703000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051700001",
+              "stop_name": "S\u00f6derh\u00f6jden",
+              "stop_lat": "59.415520",
+              "stop_lon": "17.850379",
+              "location_type": "0",
+              "parent_station": "9021001051700000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051698001",
+              "stop_name": "Hammarskogen",
+              "stop_lat": "59.412803",
+              "stop_lon": "17.847633",
+              "location_type": "0",
+              "parent_station": "9021001051698000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051699002",
+              "stop_name": "Dackev\u00e4gen",
+              "stop_lat": "59.416319",
+              "stop_lon": "17.842358",
+              "location_type": "0",
+              "parent_station": "9021001051699000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000632533104",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051703001",
+              "stop_name": "Tallbohov",
+              "stop_lat": "59.417316",
+              "stop_lon": "17.846904",
+              "location_type": "0",
+              "parent_station": "9021001051703000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051700001",
+              "stop_name": "S\u00f6derh\u00f6jden",
+              "stop_lat": "59.415520",
+              "stop_lon": "17.850379",
+              "location_type": "0",
+              "parent_station": "9021001051700000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051698001",
+              "stop_name": "Hammarskogen",
+              "stop_lat": "59.412803",
+              "stop_lon": "17.847633",
+              "location_type": "0",
+              "parent_station": "9021001051698000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051699002",
+              "stop_name": "Dackev\u00e4gen",
+              "stop_lat": "59.416319",
+              "stop_lon": "17.842358",
+              "location_type": "0",
+              "parent_station": "9021001051699000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000632533275",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051703001",
+              "stop_name": "Tallbohov",
+              "stop_lat": "59.417316",
+              "stop_lon": "17.846904",
+              "location_type": "0",
+              "parent_station": "9021001051703000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051700001",
+              "stop_name": "S\u00f6derh\u00f6jden",
+              "stop_lat": "59.415520",
+              "stop_lon": "17.850379",
+              "location_type": "0",
+              "parent_station": "9021001051700000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051698001",
+              "stop_name": "Hammarskogen",
+              "stop_lat": "59.412803",
+              "stop_lon": "17.847633",
+              "location_type": "0",
+              "parent_station": "9021001051698000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051699002",
+              "stop_name": "Dackev\u00e4gen",
+              "stop_lat": "59.416319",
+              "stop_lon": "17.842358",
+              "location_type": "0",
+              "parent_station": "9021001051699000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000632533979",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051703001",
+              "stop_name": "Tallbohov",
+              "stop_lat": "59.417316",
+              "stop_lon": "17.846904",
+              "location_type": "0",
+              "parent_station": "9021001051703000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051700001",
+              "stop_name": "S\u00f6derh\u00f6jden",
+              "stop_lat": "59.415520",
+              "stop_lon": "17.850379",
+              "location_type": "0",
+              "parent_station": "9021001051700000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051698001",
+              "stop_name": "Hammarskogen",
+              "stop_lat": "59.412803",
+              "stop_lon": "17.847633",
+              "location_type": "0",
+              "parent_station": "9021001051698000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051699002",
+              "stop_name": "Dackev\u00e4gen",
+              "stop_lat": "59.416319",
+              "stop_lon": "17.842358",
+              "location_type": "0",
+              "parent_station": "9021001051699000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000633243587",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051703001",
+              "stop_name": "Tallbohov",
+              "stop_lat": "59.417316",
+              "stop_lon": "17.846904",
+              "location_type": "0",
+              "parent_station": "9021001051703000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051700001",
+              "stop_name": "S\u00f6derh\u00f6jden",
+              "stop_lat": "59.415520",
+              "stop_lon": "17.850379",
+              "location_type": "0",
+              "parent_station": "9021001051700000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051698001",
+              "stop_name": "Hammarskogen",
+              "stop_lat": "59.412803",
+              "stop_lon": "17.847633",
+              "location_type": "0",
+              "parent_station": "9021001051698000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051699002",
+              "stop_name": "Dackev\u00e4gen",
+              "stop_lat": "59.416319",
+              "stop_lon": "17.842358",
+              "location_type": "0",
+              "parent_station": "9021001051699000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000633244394",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051703001",
+              "stop_name": "Tallbohov",
+              "stop_lat": "59.417316",
+              "stop_lon": "17.846904",
+              "location_type": "0",
+              "parent_station": "9021001051703000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051700001",
+              "stop_name": "S\u00f6derh\u00f6jden",
+              "stop_lat": "59.415520",
+              "stop_lon": "17.850379",
+              "location_type": "0",
+              "parent_station": "9021001051700000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051698001",
+              "stop_name": "Hammarskogen",
+              "stop_lat": "59.412803",
+              "stop_lon": "17.847633",
+              "location_type": "0",
+              "parent_station": "9021001051698000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051699002",
+              "stop_name": "Dackev\u00e4gen",
+              "stop_lat": "59.416319",
+              "stop_lon": "17.842358",
+              "location_type": "0",
+              "parent_station": "9021001051699000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.422506",
+          "17.845321"
+        ],
+        [
+          "59.422470",
+          "17.844458"
+        ],
+        [
+          "59.422195",
+          "17.844514"
+        ],
+        [
+          "59.421750",
+          "17.844606"
+        ],
+        [
+          "59.421528",
+          "17.844656"
+        ],
+        [
+          "59.421411",
+          "17.844682"
+        ],
+        [
+          "59.421406",
+          "17.844597"
+        ],
+        [
+          "59.421384",
+          "17.844558"
+        ],
+        [
+          "59.421354",
+          "17.844541"
+        ],
+        [
+          "59.421356",
+          "17.844125"
+        ],
+        [
+          "59.421380",
+          "17.843411"
+        ],
+        [
+          "59.421402",
+          "17.842604"
+        ],
+        [
+          "59.421429",
+          "17.841664"
+        ],
+        [
+          "59.421443",
+          "17.841239"
+        ],
+        [
+          "59.421449",
+          "17.840890"
+        ],
+        [
+          "59.421460",
+          "17.840562"
+        ],
+        [
+          "59.421483",
+          "17.839813"
+        ],
+        [
+          "59.421489",
+          "17.839379"
+        ],
+        [
+          "59.421516",
+          "17.839305"
+        ],
+        [
+          "59.421532",
+          "17.839212"
+        ],
+        [
+          "59.421590",
+          "17.839217"
+        ],
+        [
+          "59.421827",
+          "17.839236"
+        ],
+        [
+          "59.422108",
+          "17.839268"
+        ],
+        [
+          "59.422325",
+          "17.839291"
+        ],
+        [
+          "59.422507",
+          "17.839247"
+        ],
+        [
+          "59.423046",
+          "17.839278"
+        ],
+        [
+          "59.422498",
+          "17.839249"
+        ],
+        [
+          "59.422325",
+          "17.839291"
+        ],
+        [
+          "59.422108",
+          "17.839268"
+        ],
+        [
+          "59.421827",
+          "17.839236"
+        ],
+        [
+          "59.421590",
+          "17.839217"
+        ],
+        [
+          "59.421532",
+          "17.839212"
+        ],
+        [
+          "59.421523",
+          "17.839153"
+        ],
+        [
+          "59.421511",
+          "17.839115"
+        ],
+        [
+          "59.421496",
+          "17.839076"
+        ],
+        [
+          "59.421456",
+          "17.839066"
+        ],
+        [
+          "59.421418",
+          "17.839073"
+        ],
+        [
+          "59.421393",
+          "17.839098"
+        ],
+        [
+          "59.421374",
+          "17.839176"
+        ],
+        [
+          "59.421376",
+          "17.839278"
+        ],
+        [
+          "59.421398",
+          "17.839361"
+        ],
+        [
+          "59.421402",
+          "17.839372"
+        ],
+        [
+          "59.421394",
+          "17.839733"
+        ],
+        [
+          "59.421375",
+          "17.840437"
+        ],
+        [
+          "59.421364",
+          "17.840780"
+        ],
+        [
+          "59.421344",
+          "17.841149"
+        ],
+        [
+          "59.421044",
+          "17.840854"
+        ],
+        [
+          "59.420560",
+          "17.840407"
+        ],
+        [
+          "59.420422",
+          "17.840263"
+        ],
+        [
+          "59.420184",
+          "17.840003"
+        ],
+        [
+          "59.419966",
+          "17.839755"
+        ],
+        [
+          "59.419823",
+          "17.839644"
+        ],
+        [
+          "59.419731",
+          "17.839586"
+        ],
+        [
+          "59.419640",
+          "17.839546"
+        ],
+        [
+          "59.419368",
+          "17.839462"
+        ],
+        [
+          "59.418836",
+          "17.839308"
+        ],
+        [
+          "59.418421",
+          "17.839176"
+        ],
+        [
+          "59.418033",
+          "17.839066"
+        ],
+        [
+          "59.417821",
+          "17.839006"
+        ],
+        [
+          "59.417563",
+          "17.838934"
+        ],
+        [
+          "59.417493",
+          "17.838917"
+        ],
+        [
+          "59.417109",
+          "17.838796"
+        ],
+        [
+          "59.417057",
+          "17.839119"
+        ],
+        [
+          "59.416990",
+          "17.839636"
+        ],
+        [
+          "59.416946",
+          "17.839977"
+        ],
+        [
+          "59.416864",
+          "17.840610"
+        ],
+        [
+          "59.416747",
+          "17.841473"
+        ],
+        [
+          "59.416695",
+          "17.841911"
+        ],
+        [
+          "59.416646",
+          "17.842353"
+        ],
+        [
+          "59.416628",
+          "17.842788"
+        ],
+        [
+          "59.416623",
+          "17.843177"
+        ],
+        [
+          "59.416639",
+          "17.843641"
+        ],
+        [
+          "59.416652",
+          "17.843766"
+        ],
+        [
+          "59.416695",
+          "17.844151"
+        ],
+        [
+          "59.416743",
+          "17.844430"
+        ],
+        [
+          "59.416827",
+          "17.844908"
+        ],
+        [
+          "59.416872",
+          "17.845111"
+        ],
+        [
+          "59.416982",
+          "17.845586"
+        ],
+        [
+          "59.417144",
+          "17.846193"
+        ],
+        [
+          "59.417251",
+          "17.846610"
+        ],
+        [
+          "59.417316",
+          "17.846899"
+        ],
+        [
+          "59.417316",
+          "17.846904"
+        ],
+        [
+          "59.417334",
+          "17.846979"
+        ],
+        [
+          "59.417359",
+          "17.847091"
+        ],
+        [
+          "59.417443",
+          "17.847519"
+        ],
+        [
+          "59.417506",
+          "17.848013"
+        ],
+        [
+          "59.417534",
+          "17.848387"
+        ],
+        [
+          "59.417542",
+          "17.848749"
+        ],
+        [
+          "59.417526",
+          "17.849057"
+        ],
+        [
+          "59.417490",
+          "17.849314"
+        ],
+        [
+          "59.417422",
+          "17.849593"
+        ],
+        [
+          "59.417323",
+          "17.849820"
+        ],
+        [
+          "59.417244",
+          "17.849936"
+        ],
+        [
+          "59.417208",
+          "17.849991"
+        ],
+        [
+          "59.417108",
+          "17.850084"
+        ],
+        [
+          "59.416894",
+          "17.850177"
+        ],
+        [
+          "59.416636",
+          "17.850218"
+        ],
+        [
+          "59.416347",
+          "17.850223"
+        ],
+        [
+          "59.416058",
+          "17.850242"
+        ],
+        [
+          "59.415735",
+          "17.850303"
+        ],
+        [
+          "59.415469",
+          "17.850407"
+        ],
+        [
+          "59.415451",
+          "17.850414"
+        ],
+        [
+          "59.415178",
+          "17.850531"
+        ],
+        [
+          "59.414854",
+          "17.850717"
+        ],
+        [
+          "59.414597",
+          "17.850890"
+        ],
+        [
+          "59.414530",
+          "17.850931"
+        ],
+        [
+          "59.414530",
+          "17.850931"
+        ],
+        [
+          "59.414299",
+          "17.851068"
+        ],
+        [
+          "59.414158",
+          "17.851135"
+        ],
+        [
+          "59.413917",
+          "17.851207"
+        ],
+        [
+          "59.413747",
+          "17.851256"
+        ],
+        [
+          "59.413693",
+          "17.851257"
+        ],
+        [
+          "59.413590",
+          "17.851267"
+        ],
+        [
+          "59.413498",
+          "17.851255"
+        ],
+        [
+          "59.413287",
+          "17.851175"
+        ],
+        [
+          "59.413117",
+          "17.851096"
+        ],
+        [
+          "59.412972",
+          "17.850968"
+        ],
+        [
+          "59.412913",
+          "17.850883"
+        ],
+        [
+          "59.412818",
+          "17.850749"
+        ],
+        [
+          "59.412733",
+          "17.850540"
+        ],
+        [
+          "59.412688",
+          "17.850379"
+        ],
+        [
+          "59.412649",
+          "17.850168"
+        ],
+        [
+          "59.412631",
+          "17.849961"
+        ],
+        [
+          "59.412631",
+          "17.849699"
+        ],
+        [
+          "59.412662",
+          "17.848951"
+        ],
+        [
+          "59.412707",
+          "17.848277"
+        ],
+        [
+          "59.412754",
+          "17.847793"
+        ],
+        [
+          "59.412770",
+          "17.847599"
+        ],
+        [
+          "59.412779",
+          "17.847493"
+        ],
+        [
+          "59.412824",
+          "17.847142"
+        ],
+        [
+          "59.412893",
+          "17.846600"
+        ],
+        [
+          "59.413003",
+          "17.845866"
+        ],
+        [
+          "59.413102",
+          "17.845310"
+        ],
+        [
+          "59.413158",
+          "17.845026"
+        ],
+        [
+          "59.413197",
+          "17.844829"
+        ],
+        [
+          "59.413396",
+          "17.843923"
+        ],
+        [
+          "59.413480",
+          "17.843512"
+        ],
+        [
+          "59.413521",
+          "17.843330"
+        ],
+        [
+          "59.413684",
+          "17.843357"
+        ],
+        [
+          "59.413733",
+          "17.843361"
+        ],
+        [
+          "59.413845",
+          "17.843354"
+        ],
+        [
+          "59.414026",
+          "17.843290"
+        ],
+        [
+          "59.414054",
+          "17.843281"
+        ],
+        [
+          "59.414199",
+          "17.843216"
+        ],
+        [
+          "59.414291",
+          "17.843160"
+        ],
+        [
+          "59.414387",
+          "17.843104"
+        ],
+        [
+          "59.414539",
+          "17.842985"
+        ],
+        [
+          "59.414614",
+          "17.842929"
+        ],
+        [
+          "59.414655",
+          "17.842897"
+        ],
+        [
+          "59.414659",
+          "17.842894"
+        ],
+        [
+          "59.414899",
+          "17.842697"
+        ],
+        [
+          "59.414936",
+          "17.842671"
+        ],
+        [
+          "59.415037",
+          "17.842600"
+        ],
+        [
+          "59.415170",
+          "17.842515"
+        ],
+        [
+          "59.415206",
+          "17.842491"
+        ],
+        [
+          "59.415356",
+          "17.842414"
+        ],
+        [
+          "59.415467",
+          "17.842368"
+        ],
+        [
+          "59.415509",
+          "17.842350"
+        ],
+        [
+          "59.415705",
+          "17.842302"
+        ],
+        [
+          "59.415846",
+          "17.842272"
+        ],
+        [
+          "59.416010",
+          "17.842257"
+        ],
+        [
+          "59.416203",
+          "17.842267"
+        ],
+        [
+          "59.416317",
+          "17.842283"
+        ],
+        [
+          "59.416326",
+          "17.842284"
+        ],
+        [
+          "59.416646",
+          "17.842353"
+        ],
+        [
+          "59.416859",
+          "17.842414"
+        ],
+        [
+          "59.417086",
+          "17.842472"
+        ],
+        [
+          "59.417275",
+          "17.842549"
+        ],
+        [
+          "59.417435",
+          "17.842638"
+        ],
+        [
+          "59.417613",
+          "17.842781"
+        ],
+        [
+          "59.417775",
+          "17.842951"
+        ],
+        [
+          "59.417990",
+          "17.843164"
+        ],
+        [
+          "59.418134",
+          "17.843286"
+        ],
+        [
+          "59.418252",
+          "17.843386"
+        ],
+        [
+          "59.418311",
+          "17.843427"
+        ],
+        [
+          "59.418614",
+          "17.843647"
+        ],
+        [
+          "59.419029",
+          "17.843912"
+        ],
+        [
+          "59.419415",
+          "17.844142"
+        ],
+        [
+          "59.419721",
+          "17.844337"
+        ],
+        [
+          "59.420002",
+          "17.844493"
+        ],
+        [
+          "59.420270",
+          "17.844613"
+        ],
+        [
+          "59.420364",
+          "17.844635"
+        ],
+        [
+          "59.420535",
+          "17.844676"
+        ],
+        [
+          "59.420924",
+          "17.844706"
+        ],
+        [
+          "59.421207",
+          "17.844707"
+        ],
+        [
+          "59.421209",
+          "17.844828"
+        ],
+        [
+          "59.421233",
+          "17.844898"
+        ],
+        [
+          "59.421264",
+          "17.844931"
+        ],
+        [
+          "59.421293",
+          "17.844947"
+        ],
+        [
+          "59.421326",
+          "17.844946"
+        ],
+        [
+          "59.421370",
+          "17.844916"
+        ],
+        [
+          "59.421391",
+          "17.844872"
+        ],
+        [
+          "59.421411",
+          "17.844811"
+        ],
+        [
+          "59.421415",
+          "17.844752"
+        ],
+        [
+          "59.421411",
+          "17.844682"
+        ],
+        [
+          "59.421528",
+          "17.844656"
+        ],
+        [
+          "59.421750",
+          "17.844606"
+        ],
+        [
+          "59.422195",
+          "17.844514"
+        ],
+        [
+          "59.422461",
+          "17.844460"
+        ],
+        [
+          "59.422506",
+          "17.845321"
+        ]
+      ]
+    },
+    {
+      "shape_id": "1014010000633238124",
+      "trips": [
+        {
+          "trip_id": "14010000633243957",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051693002",
+              "stop_name": "Jakobsbergs centrum",
+              "stop_lat": "59.423895",
+              "stop_lon": "17.833713",
+              "location_type": "0",
+              "parent_station": "9021001051693000",
+              "platform_code": "O"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055111001",
+              "stop_name": "Olovslund",
+              "stop_lat": "59.424922",
+              "stop_lon": "17.817193",
+              "location_type": "0",
+              "parent_station": "9021001055111000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055112001",
+              "stop_name": "K\u00e4rrv\u00e4gen",
+              "stop_lat": "59.426103",
+              "stop_lon": "17.822872",
+              "location_type": "0",
+              "parent_station": "9021001055112000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055114001",
+              "stop_name": "M\u00e5nadsv\u00e4gen",
+              "stop_lat": "59.422461",
+              "stop_lon": "17.820505",
+              "location_type": "0",
+              "parent_station": "9021001055114000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055101001",
+              "stop_name": "Riddarplatsen",
+              "stop_lat": "59.424358",
+              "stop_lon": "17.837027",
+              "location_type": "0",
+              "parent_station": "9021001055101000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051712002",
+              "stop_name": "Engelska skolan",
+              "stop_lat": "59.426952",
+              "stop_lon": "17.842108",
+              "location_type": "0",
+              "parent_station": "9021001051712000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055102001",
+              "stop_name": "Aspn\u00e4s norra",
+              "stop_lat": "59.428756",
+              "stop_lon": "17.845036",
+              "location_type": "0",
+              "parent_station": "9021001055102000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055103001",
+              "stop_name": "Aspn\u00e4s s\u00f6dra",
+              "stop_lat": "59.427776",
+              "stop_lon": "17.846246",
+              "location_type": "0",
+              "parent_station": "9021001055103000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000633244699",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051693002",
+              "stop_name": "Jakobsbergs centrum",
+              "stop_lat": "59.423895",
+              "stop_lon": "17.833713",
+              "location_type": "0",
+              "parent_station": "9021001051693000",
+              "platform_code": "O"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055111001",
+              "stop_name": "Olovslund",
+              "stop_lat": "59.424922",
+              "stop_lon": "17.817193",
+              "location_type": "0",
+              "parent_station": "9021001055111000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055112001",
+              "stop_name": "K\u00e4rrv\u00e4gen",
+              "stop_lat": "59.426103",
+              "stop_lon": "17.822872",
+              "location_type": "0",
+              "parent_station": "9021001055112000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055114001",
+              "stop_name": "M\u00e5nadsv\u00e4gen",
+              "stop_lat": "59.422461",
+              "stop_lon": "17.820505",
+              "location_type": "0",
+              "parent_station": "9021001055114000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055101001",
+              "stop_name": "Riddarplatsen",
+              "stop_lat": "59.424358",
+              "stop_lon": "17.837027",
+              "location_type": "0",
+              "parent_station": "9021001055101000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051712002",
+              "stop_name": "Engelska skolan",
+              "stop_lat": "59.426952",
+              "stop_lon": "17.842108",
+              "location_type": "0",
+              "parent_station": "9021001051712000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055102001",
+              "stop_name": "Aspn\u00e4s norra",
+              "stop_lat": "59.428756",
+              "stop_lon": "17.845036",
+              "location_type": "0",
+              "parent_station": "9021001055102000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055103001",
+              "stop_name": "Aspn\u00e4s s\u00f6dra",
+              "stop_lat": "59.427776",
+              "stop_lon": "17.846246",
+              "location_type": "0",
+              "parent_station": "9021001055103000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000633346680",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051693002",
+              "stop_name": "Jakobsbergs centrum",
+              "stop_lat": "59.423895",
+              "stop_lon": "17.833713",
+              "location_type": "0",
+              "parent_station": "9021001051693000",
+              "platform_code": "O"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055111001",
+              "stop_name": "Olovslund",
+              "stop_lat": "59.424922",
+              "stop_lon": "17.817193",
+              "location_type": "0",
+              "parent_station": "9021001055111000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055112001",
+              "stop_name": "K\u00e4rrv\u00e4gen",
+              "stop_lat": "59.426103",
+              "stop_lon": "17.822872",
+              "location_type": "0",
+              "parent_station": "9021001055112000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055114001",
+              "stop_name": "M\u00e5nadsv\u00e4gen",
+              "stop_lat": "59.422461",
+              "stop_lon": "17.820505",
+              "location_type": "0",
+              "parent_station": "9021001055114000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055101001",
+              "stop_name": "Riddarplatsen",
+              "stop_lat": "59.424358",
+              "stop_lon": "17.837027",
+              "location_type": "0",
+              "parent_station": "9021001055101000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051712002",
+              "stop_name": "Engelska skolan",
+              "stop_lat": "59.426952",
+              "stop_lon": "17.842108",
+              "location_type": "0",
+              "parent_station": "9021001051712000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055102001",
+              "stop_name": "Aspn\u00e4s norra",
+              "stop_lat": "59.428756",
+              "stop_lon": "17.845036",
+              "location_type": "0",
+              "parent_station": "9021001055102000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055103001",
+              "stop_name": "Aspn\u00e4s s\u00f6dra",
+              "stop_lat": "59.427776",
+              "stop_lon": "17.846246",
+              "location_type": "0",
+              "parent_station": "9021001055103000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000633346786",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051693002",
+              "stop_name": "Jakobsbergs centrum",
+              "stop_lat": "59.423895",
+              "stop_lon": "17.833713",
+              "location_type": "0",
+              "parent_station": "9021001051693000",
+              "platform_code": "O"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055111001",
+              "stop_name": "Olovslund",
+              "stop_lat": "59.424922",
+              "stop_lon": "17.817193",
+              "location_type": "0",
+              "parent_station": "9021001055111000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055112001",
+              "stop_name": "K\u00e4rrv\u00e4gen",
+              "stop_lat": "59.426103",
+              "stop_lon": "17.822872",
+              "location_type": "0",
+              "parent_station": "9021001055112000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055114001",
+              "stop_name": "M\u00e5nadsv\u00e4gen",
+              "stop_lat": "59.422461",
+              "stop_lon": "17.820505",
+              "location_type": "0",
+              "parent_station": "9021001055114000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055101001",
+              "stop_name": "Riddarplatsen",
+              "stop_lat": "59.424358",
+              "stop_lon": "17.837027",
+              "location_type": "0",
+              "parent_station": "9021001055101000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051712002",
+              "stop_name": "Engelska skolan",
+              "stop_lat": "59.426952",
+              "stop_lon": "17.842108",
+              "location_type": "0",
+              "parent_station": "9021001051712000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055102001",
+              "stop_name": "Aspn\u00e4s norra",
+              "stop_lat": "59.428756",
+              "stop_lon": "17.845036",
+              "location_type": "0",
+              "parent_station": "9021001055102000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055103001",
+              "stop_name": "Aspn\u00e4s s\u00f6dra",
+              "stop_lat": "59.427776",
+              "stop_lon": "17.846246",
+              "location_type": "0",
+              "parent_station": "9021001055103000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000633242378",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051693002",
+              "stop_name": "Jakobsbergs centrum",
+              "stop_lat": "59.423895",
+              "stop_lon": "17.833713",
+              "location_type": "0",
+              "parent_station": "9021001051693000",
+              "platform_code": "O"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055111001",
+              "stop_name": "Olovslund",
+              "stop_lat": "59.424922",
+              "stop_lon": "17.817193",
+              "location_type": "0",
+              "parent_station": "9021001055111000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055112001",
+              "stop_name": "K\u00e4rrv\u00e4gen",
+              "stop_lat": "59.426103",
+              "stop_lon": "17.822872",
+              "location_type": "0",
+              "parent_station": "9021001055112000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055114001",
+              "stop_name": "M\u00e5nadsv\u00e4gen",
+              "stop_lat": "59.422461",
+              "stop_lon": "17.820505",
+              "location_type": "0",
+              "parent_station": "9021001055114000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055101001",
+              "stop_name": "Riddarplatsen",
+              "stop_lat": "59.424358",
+              "stop_lon": "17.837027",
+              "location_type": "0",
+              "parent_station": "9021001055101000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051712002",
+              "stop_name": "Engelska skolan",
+              "stop_lat": "59.426952",
+              "stop_lon": "17.842108",
+              "location_type": "0",
+              "parent_station": "9021001051712000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055102001",
+              "stop_name": "Aspn\u00e4s norra",
+              "stop_lat": "59.428756",
+              "stop_lon": "17.845036",
+              "location_type": "0",
+              "parent_station": "9021001055102000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055103001",
+              "stop_name": "Aspn\u00e4s s\u00f6dra",
+              "stop_lat": "59.427776",
+              "stop_lon": "17.846246",
+              "location_type": "0",
+              "parent_station": "9021001055103000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000633346577",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051693002",
+              "stop_name": "Jakobsbergs centrum",
+              "stop_lat": "59.423895",
+              "stop_lon": "17.833713",
+              "location_type": "0",
+              "parent_station": "9021001051693000",
+              "platform_code": "O"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055111001",
+              "stop_name": "Olovslund",
+              "stop_lat": "59.424922",
+              "stop_lon": "17.817193",
+              "location_type": "0",
+              "parent_station": "9021001055111000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055112001",
+              "stop_name": "K\u00e4rrv\u00e4gen",
+              "stop_lat": "59.426103",
+              "stop_lon": "17.822872",
+              "location_type": "0",
+              "parent_station": "9021001055112000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055114001",
+              "stop_name": "M\u00e5nadsv\u00e4gen",
+              "stop_lat": "59.422461",
+              "stop_lon": "17.820505",
+              "location_type": "0",
+              "parent_station": "9021001055114000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055101001",
+              "stop_name": "Riddarplatsen",
+              "stop_lat": "59.424358",
+              "stop_lon": "17.837027",
+              "location_type": "0",
+              "parent_station": "9021001055101000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051712002",
+              "stop_name": "Engelska skolan",
+              "stop_lat": "59.426952",
+              "stop_lon": "17.842108",
+              "location_type": "0",
+              "parent_station": "9021001051712000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055102001",
+              "stop_name": "Aspn\u00e4s norra",
+              "stop_lat": "59.428756",
+              "stop_lon": "17.845036",
+              "location_type": "0",
+              "parent_station": "9021001055102000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055103001",
+              "stop_name": "Aspn\u00e4s s\u00f6dra",
+              "stop_lat": "59.427776",
+              "stop_lon": "17.846246",
+              "location_type": "0",
+              "parent_station": "9021001055103000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000633347115",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051693002",
+              "stop_name": "Jakobsbergs centrum",
+              "stop_lat": "59.423895",
+              "stop_lon": "17.833713",
+              "location_type": "0",
+              "parent_station": "9021001051693000",
+              "platform_code": "O"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055111001",
+              "stop_name": "Olovslund",
+              "stop_lat": "59.424922",
+              "stop_lon": "17.817193",
+              "location_type": "0",
+              "parent_station": "9021001055111000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055112001",
+              "stop_name": "K\u00e4rrv\u00e4gen",
+              "stop_lat": "59.426103",
+              "stop_lon": "17.822872",
+              "location_type": "0",
+              "parent_station": "9021001055112000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055114001",
+              "stop_name": "M\u00e5nadsv\u00e4gen",
+              "stop_lat": "59.422461",
+              "stop_lon": "17.820505",
+              "location_type": "0",
+              "parent_station": "9021001055114000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055101001",
+              "stop_name": "Riddarplatsen",
+              "stop_lat": "59.424358",
+              "stop_lon": "17.837027",
+              "location_type": "0",
+              "parent_station": "9021001055101000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051712002",
+              "stop_name": "Engelska skolan",
+              "stop_lat": "59.426952",
+              "stop_lon": "17.842108",
+              "location_type": "0",
+              "parent_station": "9021001051712000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055102001",
+              "stop_name": "Aspn\u00e4s norra",
+              "stop_lat": "59.428756",
+              "stop_lon": "17.845036",
+              "location_type": "0",
+              "parent_station": "9021001055102000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055103001",
+              "stop_name": "Aspn\u00e4s s\u00f6dra",
+              "stop_lat": "59.427776",
+              "stop_lon": "17.846246",
+              "location_type": "0",
+              "parent_station": "9021001055103000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000633245507",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051693002",
+              "stop_name": "Jakobsbergs centrum",
+              "stop_lat": "59.423895",
+              "stop_lon": "17.833713",
+              "location_type": "0",
+              "parent_station": "9021001051693000",
+              "platform_code": "O"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055111001",
+              "stop_name": "Olovslund",
+              "stop_lat": "59.424922",
+              "stop_lon": "17.817193",
+              "location_type": "0",
+              "parent_station": "9021001055111000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055112001",
+              "stop_name": "K\u00e4rrv\u00e4gen",
+              "stop_lat": "59.426103",
+              "stop_lon": "17.822872",
+              "location_type": "0",
+              "parent_station": "9021001055112000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055114001",
+              "stop_name": "M\u00e5nadsv\u00e4gen",
+              "stop_lat": "59.422461",
+              "stop_lon": "17.820505",
+              "location_type": "0",
+              "parent_station": "9021001055114000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055101001",
+              "stop_name": "Riddarplatsen",
+              "stop_lat": "59.424358",
+              "stop_lon": "17.837027",
+              "location_type": "0",
+              "parent_station": "9021001055101000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051712002",
+              "stop_name": "Engelska skolan",
+              "stop_lat": "59.426952",
+              "stop_lon": "17.842108",
+              "location_type": "0",
+              "parent_station": "9021001051712000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055102001",
+              "stop_name": "Aspn\u00e4s norra",
+              "stop_lat": "59.428756",
+              "stop_lon": "17.845036",
+              "location_type": "0",
+              "parent_station": "9021001055102000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055103001",
+              "stop_name": "Aspn\u00e4s s\u00f6dra",
+              "stop_lat": "59.427776",
+              "stop_lon": "17.846246",
+              "location_type": "0",
+              "parent_station": "9021001055103000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000633346893",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051693002",
+              "stop_name": "Jakobsbergs centrum",
+              "stop_lat": "59.423895",
+              "stop_lon": "17.833713",
+              "location_type": "0",
+              "parent_station": "9021001051693000",
+              "platform_code": "O"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055111001",
+              "stop_name": "Olovslund",
+              "stop_lat": "59.424922",
+              "stop_lon": "17.817193",
+              "location_type": "0",
+              "parent_station": "9021001055111000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055112001",
+              "stop_name": "K\u00e4rrv\u00e4gen",
+              "stop_lat": "59.426103",
+              "stop_lon": "17.822872",
+              "location_type": "0",
+              "parent_station": "9021001055112000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055114001",
+              "stop_name": "M\u00e5nadsv\u00e4gen",
+              "stop_lat": "59.422461",
+              "stop_lon": "17.820505",
+              "location_type": "0",
+              "parent_station": "9021001055114000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055101001",
+              "stop_name": "Riddarplatsen",
+              "stop_lat": "59.424358",
+              "stop_lon": "17.837027",
+              "location_type": "0",
+              "parent_station": "9021001055101000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051712002",
+              "stop_name": "Engelska skolan",
+              "stop_lat": "59.426952",
+              "stop_lon": "17.842108",
+              "location_type": "0",
+              "parent_station": "9021001051712000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055102001",
+              "stop_name": "Aspn\u00e4s norra",
+              "stop_lat": "59.428756",
+              "stop_lon": "17.845036",
+              "location_type": "0",
+              "parent_station": "9021001055102000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055103001",
+              "stop_name": "Aspn\u00e4s s\u00f6dra",
+              "stop_lat": "59.427776",
+              "stop_lon": "17.846246",
+              "location_type": "0",
+              "parent_station": "9021001055103000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000633347000",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051693002",
+              "stop_name": "Jakobsbergs centrum",
+              "stop_lat": "59.423895",
+              "stop_lon": "17.833713",
+              "location_type": "0",
+              "parent_station": "9021001051693000",
+              "platform_code": "O"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055111001",
+              "stop_name": "Olovslund",
+              "stop_lat": "59.424922",
+              "stop_lon": "17.817193",
+              "location_type": "0",
+              "parent_station": "9021001055111000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055112001",
+              "stop_name": "K\u00e4rrv\u00e4gen",
+              "stop_lat": "59.426103",
+              "stop_lon": "17.822872",
+              "location_type": "0",
+              "parent_station": "9021001055112000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055114001",
+              "stop_name": "M\u00e5nadsv\u00e4gen",
+              "stop_lat": "59.422461",
+              "stop_lon": "17.820505",
+              "location_type": "0",
+              "parent_station": "9021001055114000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055101001",
+              "stop_name": "Riddarplatsen",
+              "stop_lat": "59.424358",
+              "stop_lon": "17.837027",
+              "location_type": "0",
+              "parent_station": "9021001055101000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051712002",
+              "stop_name": "Engelska skolan",
+              "stop_lat": "59.426952",
+              "stop_lon": "17.842108",
+              "location_type": "0",
+              "parent_station": "9021001051712000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055102001",
+              "stop_name": "Aspn\u00e4s norra",
+              "stop_lat": "59.428756",
+              "stop_lon": "17.845036",
+              "location_type": "0",
+              "parent_station": "9021001055102000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055103001",
+              "stop_name": "Aspn\u00e4s s\u00f6dra",
+              "stop_lat": "59.427776",
+              "stop_lon": "17.846246",
+              "location_type": "0",
+              "parent_station": "9021001055103000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000633241785",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051693002",
+              "stop_name": "Jakobsbergs centrum",
+              "stop_lat": "59.423895",
+              "stop_lon": "17.833713",
+              "location_type": "0",
+              "parent_station": "9021001051693000",
+              "platform_code": "O"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055111001",
+              "stop_name": "Olovslund",
+              "stop_lat": "59.424922",
+              "stop_lon": "17.817193",
+              "location_type": "0",
+              "parent_station": "9021001055111000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055112001",
+              "stop_name": "K\u00e4rrv\u00e4gen",
+              "stop_lat": "59.426103",
+              "stop_lon": "17.822872",
+              "location_type": "0",
+              "parent_station": "9021001055112000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055114001",
+              "stop_name": "M\u00e5nadsv\u00e4gen",
+              "stop_lat": "59.422461",
+              "stop_lon": "17.820505",
+              "location_type": "0",
+              "parent_station": "9021001055114000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055101001",
+              "stop_name": "Riddarplatsen",
+              "stop_lat": "59.424358",
+              "stop_lon": "17.837027",
+              "location_type": "0",
+              "parent_station": "9021001055101000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051712002",
+              "stop_name": "Engelska skolan",
+              "stop_lat": "59.426952",
+              "stop_lon": "17.842108",
+              "location_type": "0",
+              "parent_station": "9021001051712000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055102001",
+              "stop_name": "Aspn\u00e4s norra",
+              "stop_lat": "59.428756",
+              "stop_lon": "17.845036",
+              "location_type": "0",
+              "parent_station": "9021001055102000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055103001",
+              "stop_name": "Aspn\u00e4s s\u00f6dra",
+              "stop_lat": "59.427776",
+              "stop_lon": "17.846246",
+              "location_type": "0",
+              "parent_station": "9021001055103000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000633243170",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055106001",
+              "stop_name": "Torn\u00e9rv\u00e4gen",
+              "stop_lat": "59.423046",
+              "stop_lon": "17.839278",
+              "location_type": "0",
+              "parent_station": "9021001055106000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051693002",
+              "stop_name": "Jakobsbergs centrum",
+              "stop_lat": "59.423895",
+              "stop_lon": "17.833713",
+              "location_type": "0",
+              "parent_station": "9021001051693000",
+              "platform_code": "O"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055111001",
+              "stop_name": "Olovslund",
+              "stop_lat": "59.424922",
+              "stop_lon": "17.817193",
+              "location_type": "0",
+              "parent_station": "9021001055111000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055112001",
+              "stop_name": "K\u00e4rrv\u00e4gen",
+              "stop_lat": "59.426103",
+              "stop_lon": "17.822872",
+              "location_type": "0",
+              "parent_station": "9021001055112000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055114001",
+              "stop_name": "M\u00e5nadsv\u00e4gen",
+              "stop_lat": "59.422461",
+              "stop_lon": "17.820505",
+              "location_type": "0",
+              "parent_station": "9021001055114000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055101001",
+              "stop_name": "Riddarplatsen",
+              "stop_lat": "59.424358",
+              "stop_lon": "17.837027",
+              "location_type": "0",
+              "parent_station": "9021001055101000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001051712002",
+              "stop_name": "Engelska skolan",
+              "stop_lat": "59.426952",
+              "stop_lon": "17.842108",
+              "location_type": "0",
+              "parent_station": "9021001051712000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055102001",
+              "stop_name": "Aspn\u00e4s norra",
+              "stop_lat": "59.428756",
+              "stop_lon": "17.845036",
+              "location_type": "0",
+              "parent_station": "9021001055102000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001055103001",
+              "stop_name": "Aspn\u00e4s s\u00f6dra",
+              "stop_lat": "59.427776",
+              "stop_lon": "17.846246",
+              "location_type": "0",
+              "parent_station": "9021001055103000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001055105001",
+              "stop_name": "Jakobsbergs sjukhus",
+              "stop_lat": "59.422506",
+              "stop_lon": "17.845321",
+              "location_type": "0",
+              "parent_station": "9021001055105000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.422506",
+          "17.845321"
+        ],
+        [
+          "59.422470",
+          "17.844458"
+        ],
+        [
+          "59.422195",
+          "17.844514"
+        ],
+        [
+          "59.421750",
+          "17.844606"
+        ],
+        [
+          "59.421528",
+          "17.844656"
+        ],
+        [
+          "59.421411",
+          "17.844682"
+        ],
+        [
+          "59.421406",
+          "17.844597"
+        ],
+        [
+          "59.421384",
+          "17.844558"
+        ],
+        [
+          "59.421354",
+          "17.844541"
+        ],
+        [
+          "59.421356",
+          "17.844125"
+        ],
+        [
+          "59.421380",
+          "17.843411"
+        ],
+        [
+          "59.421402",
+          "17.842604"
+        ],
+        [
+          "59.421429",
+          "17.841664"
+        ],
+        [
+          "59.421443",
+          "17.841239"
+        ],
+        [
+          "59.421449",
+          "17.840890"
+        ],
+        [
+          "59.421460",
+          "17.840562"
+        ],
+        [
+          "59.421483",
+          "17.839813"
+        ],
+        [
+          "59.421489",
+          "17.839379"
+        ],
+        [
+          "59.421516",
+          "17.839305"
+        ],
+        [
+          "59.421532",
+          "17.839212"
+        ],
+        [
+          "59.421590",
+          "17.839217"
+        ],
+        [
+          "59.421827",
+          "17.839236"
+        ],
+        [
+          "59.422108",
+          "17.839268"
+        ],
+        [
+          "59.422325",
+          "17.839291"
+        ],
+        [
+          "59.422507",
+          "17.839247"
+        ],
+        [
+          "59.422505",
+          "17.838209"
+        ],
+        [
+          "59.422585",
+          "17.837144"
+        ],
+        [
+          "59.422618",
+          "17.836708"
+        ],
+        [
+          "59.422639",
+          "17.836429"
+        ],
+        [
+          "59.422646",
+          "17.836337"
+        ],
+        [
+          "59.422600",
+          "17.834971"
+        ],
+        [
+          "59.422446",
+          "17.835007"
+        ],
+        [
+          "59.422467",
+          "17.834929"
+        ],
+        [
+          "59.422480",
+          "17.834881"
+        ],
+        [
+          "59.422483",
+          "17.834872"
+        ],
+        [
+          "59.422485",
+          "17.834864"
+        ],
+        [
+          "59.422490",
+          "17.834860"
+        ],
+        [
+          "59.422494",
+          "17.834859"
+        ],
+        [
+          "59.422562",
+          "17.834833"
+        ],
+        [
+          "59.422571",
+          "17.834749"
+        ],
+        [
+          "59.422570",
+          "17.833953"
+        ],
+        [
+          "59.422509",
+          "17.833871"
+        ],
+        [
+          "59.422517",
+          "17.833525"
+        ],
+        [
+          "59.422765",
+          "17.833562"
+        ],
+        [
+          "59.423016",
+          "17.833583"
+        ],
+        [
+          "59.423190",
+          "17.833656"
+        ],
+        [
+          "59.423257",
+          "17.833718"
+        ],
+        [
+          "59.423383",
+          "17.833734"
+        ],
+        [
+          "59.423503",
+          "17.833738"
+        ],
+        [
+          "59.423617",
+          "17.833733"
+        ],
+        [
+          "59.423668",
+          "17.833738"
+        ],
+        [
+          "59.423798",
+          "17.833730"
+        ],
+        [
+          "59.423885",
+          "17.833721"
+        ],
+        [
+          "59.423912",
+          "17.833718"
+        ],
+        [
+          "59.424029",
+          "17.833703"
+        ],
+        [
+          "59.424333",
+          "17.833628"
+        ],
+        [
+          "59.424515",
+          "17.833582"
+        ],
+        [
+          "59.424586",
+          "17.833563"
+        ],
+        [
+          "59.424671",
+          "17.833546"
+        ],
+        [
+          "59.424799",
+          "17.833511"
+        ],
+        [
+          "59.425036",
+          "17.833460"
+        ],
+        [
+          "59.425194",
+          "17.833421"
+        ],
+        [
+          "59.425197",
+          "17.833420"
+        ],
+        [
+          "59.425197",
+          "17.833420"
+        ],
+        [
+          "59.425464",
+          "17.833345"
+        ],
+        [
+          "59.425471",
+          "17.833343"
+        ],
+        [
+          "59.425839",
+          "17.833262"
+        ],
+        [
+          "59.425893",
+          "17.833239"
+        ],
+        [
+          "59.426029",
+          "17.833181"
+        ],
+        [
+          "59.426041",
+          "17.833456"
+        ],
+        [
+          "59.426051",
+          "17.833702"
+        ],
+        [
+          "59.426054",
+          "17.834346"
+        ],
+        [
+          "59.426052",
+          "17.834703"
+        ],
+        [
+          "59.426036",
+          "17.834896"
+        ],
+        [
+          "59.425997",
+          "17.835085"
+        ],
+        [
+          "59.425937",
+          "17.835254"
+        ],
+        [
+          "59.425872",
+          "17.835392"
+        ],
+        [
+          "59.425801",
+          "17.835474"
+        ],
+        [
+          "59.425721",
+          "17.835530"
+        ],
+        [
+          "59.425643",
+          "17.835543"
+        ],
+        [
+          "59.425590",
+          "17.835532"
+        ],
+        [
+          "59.425537",
+          "17.835472"
+        ],
+        [
+          "59.425490",
+          "17.835352"
+        ],
+        [
+          "59.425469",
+          "17.835166"
+        ],
+        [
+          "59.425426",
+          "17.834735"
+        ],
+        [
+          "59.425405",
+          "17.834003"
+        ],
+        [
+          "59.425371",
+          "17.833325"
+        ],
+        [
+          "59.425324",
+          "17.832440"
+        ],
+        [
+          "59.425289",
+          "17.831846"
+        ],
+        [
+          "59.425280",
+          "17.831665"
+        ],
+        [
+          "59.425272",
+          "17.831509"
+        ],
+        [
+          "59.425258",
+          "17.831240"
+        ],
+        [
+          "59.425240",
+          "17.830869"
+        ],
+        [
+          "59.425219",
+          "17.830336"
+        ],
+        [
+          "59.425211",
+          "17.829783"
+        ],
+        [
+          "59.425218",
+          "17.829408"
+        ],
+        [
+          "59.425221",
+          "17.829148"
+        ],
+        [
+          "59.425257",
+          "17.828612"
+        ],
+        [
+          "59.425312",
+          "17.827944"
+        ],
+        [
+          "59.425357",
+          "17.827364"
+        ],
+        [
+          "59.425409",
+          "17.826632"
+        ],
+        [
+          "59.425433",
+          "17.826260"
+        ],
+        [
+          "59.425439",
+          "17.825953"
+        ],
+        [
+          "59.425433",
+          "17.825511"
+        ],
+        [
+          "59.425404",
+          "17.824932"
+        ],
+        [
+          "59.425369",
+          "17.824593"
+        ],
+        [
+          "59.425325",
+          "17.824219"
+        ],
+        [
+          "59.425312",
+          "17.824104"
+        ],
+        [
+          "59.425327",
+          "17.824081"
+        ],
+        [
+          "59.425341",
+          "17.824049"
+        ],
+        [
+          "59.425352",
+          "17.824010"
+        ],
+        [
+          "59.425360",
+          "17.823954"
+        ],
+        [
+          "59.425476",
+          "17.823846"
+        ],
+        [
+          "59.425790",
+          "17.823567"
+        ],
+        [
+          "59.425844",
+          "17.823510"
+        ],
+        [
+          "59.425988",
+          "17.823366"
+        ],
+        [
+          "59.426008",
+          "17.823341"
+        ],
+        [
+          "59.426104",
+          "17.823225"
+        ],
+        [
+          "59.426107",
+          "17.823042"
+        ],
+        [
+          "59.426145",
+          "17.822837"
+        ],
+        [
+          "59.426190",
+          "17.822628"
+        ],
+        [
+          "59.426236",
+          "17.822456"
+        ],
+        [
+          "59.426272",
+          "17.822350"
+        ],
+        [
+          "59.426354",
+          "17.821743"
+        ],
+        [
+          "59.426435",
+          "17.821099"
+        ],
+        [
+          "59.426524",
+          "17.820399"
+        ],
+        [
+          "59.426307",
+          "17.819975"
+        ],
+        [
+          "59.425946",
+          "17.819245"
+        ],
+        [
+          "59.425781",
+          "17.818967"
+        ],
+        [
+          "59.425487",
+          "17.818314"
+        ],
+        [
+          "59.425369",
+          "17.818075"
+        ],
+        [
+          "59.425308",
+          "17.817938"
+        ],
+        [
+          "59.425283",
+          "17.817861"
+        ],
+        [
+          "59.425271",
+          "17.817827"
+        ],
+        [
+          "59.425092",
+          "17.817497"
+        ],
+        [
+          "59.424926",
+          "17.817209"
+        ],
+        [
+          "59.425092",
+          "17.817497"
+        ],
+        [
+          "59.425271",
+          "17.817827"
+        ],
+        [
+          "59.425283",
+          "17.817861"
+        ],
+        [
+          "59.425308",
+          "17.817938"
+        ],
+        [
+          "59.425369",
+          "17.818075"
+        ],
+        [
+          "59.425487",
+          "17.818314"
+        ],
+        [
+          "59.425781",
+          "17.818967"
+        ],
+        [
+          "59.425946",
+          "17.819245"
+        ],
+        [
+          "59.426307",
+          "17.819975"
+        ],
+        [
+          "59.426489",
+          "17.820330"
+        ],
+        [
+          "59.426524",
+          "17.820399"
+        ],
+        [
+          "59.426435",
+          "17.821099"
+        ],
+        [
+          "59.426354",
+          "17.821743"
+        ],
+        [
+          "59.426272",
+          "17.822350"
+        ],
+        [
+          "59.426236",
+          "17.822456"
+        ],
+        [
+          "59.426190",
+          "17.822628"
+        ],
+        [
+          "59.426145",
+          "17.822837"
+        ],
+        [
+          "59.426132",
+          "17.822906"
+        ],
+        [
+          "59.426103",
+          "17.822872"
+        ],
+        [
+          "59.426133",
+          "17.822888"
+        ],
+        [
+          "59.426108",
+          "17.823031"
+        ],
+        [
+          "59.426108",
+          "17.823237"
+        ],
+        [
+          "59.426021",
+          "17.823238"
+        ],
+        [
+          "59.425972",
+          "17.823268"
+        ],
+        [
+          "59.425866",
+          "17.823319"
+        ],
+        [
+          "59.425608",
+          "17.823529"
+        ],
+        [
+          "59.425324",
+          "17.823754"
+        ],
+        [
+          "59.425290",
+          "17.823708"
+        ],
+        [
+          "59.425243",
+          "17.823696"
+        ],
+        [
+          "59.425183",
+          "17.823408"
+        ],
+        [
+          "59.425083",
+          "17.823014"
+        ],
+        [
+          "59.424994",
+          "17.822690"
+        ],
+        [
+          "59.424903",
+          "17.822425"
+        ],
+        [
+          "59.424788",
+          "17.822090"
+        ],
+        [
+          "59.424614",
+          "17.821682"
+        ],
+        [
+          "59.424501",
+          "17.821432"
+        ],
+        [
+          "59.424334",
+          "17.821110"
+        ],
+        [
+          "59.424215",
+          "17.820946"
+        ],
+        [
+          "59.424082",
+          "17.821252"
+        ],
+        [
+          "59.423897",
+          "17.821742"
+        ],
+        [
+          "59.423846",
+          "17.821849"
+        ],
+        [
+          "59.423423",
+          "17.821420"
+        ],
+        [
+          "59.423137",
+          "17.821113"
+        ],
+        [
+          "59.422749",
+          "17.820704"
+        ],
+        [
+          "59.422617",
+          "17.820556"
+        ],
+        [
+          "59.422552",
+          "17.820516"
+        ],
+        [
+          "59.422487",
+          "17.820502"
+        ],
+        [
+          "59.422429",
+          "17.820549"
+        ],
+        [
+          "59.422461",
+          "17.820505"
+        ],
+        [
+          "59.422317",
+          "17.820953"
+        ],
+        [
+          "59.422378",
+          "17.820735"
+        ],
+        [
+          "59.422404",
+          "17.820643"
+        ],
+        [
+          "59.422432",
+          "17.820565"
+        ],
+        [
+          "59.422483",
+          "17.820509"
+        ],
+        [
+          "59.422533",
+          "17.820507"
+        ],
+        [
+          "59.422595",
+          "17.820537"
+        ],
+        [
+          "59.423396",
+          "17.821394"
+        ],
+        [
+          "59.423845",
+          "17.821860"
+        ],
+        [
+          "59.423892",
+          "17.821908"
+        ],
+        [
+          "59.423922",
+          "17.821953"
+        ],
+        [
+          "59.423985",
+          "17.821786"
+        ],
+        [
+          "59.424069",
+          "17.821592"
+        ],
+        [
+          "59.424172",
+          "17.821360"
+        ],
+        [
+          "59.424218",
+          "17.821255"
+        ],
+        [
+          "59.424365",
+          "17.821485"
+        ],
+        [
+          "59.424460",
+          "17.821668"
+        ],
+        [
+          "59.424595",
+          "17.821974"
+        ],
+        [
+          "59.424729",
+          "17.822311"
+        ],
+        [
+          "59.424845",
+          "17.822651"
+        ],
+        [
+          "59.424958",
+          "17.823021"
+        ],
+        [
+          "59.425035",
+          "17.823298"
+        ],
+        [
+          "59.425098",
+          "17.823600"
+        ],
+        [
+          "59.425145",
+          "17.823830"
+        ],
+        [
+          "59.425139",
+          "17.823871"
+        ],
+        [
+          "59.425136",
+          "17.823913"
+        ],
+        [
+          "59.425137",
+          "17.823955"
+        ],
+        [
+          "59.425143",
+          "17.823998"
+        ],
+        [
+          "59.425153",
+          "17.824037"
+        ],
+        [
+          "59.425167",
+          "17.824072"
+        ],
+        [
+          "59.425186",
+          "17.824105"
+        ],
+        [
+          "59.425221",
+          "17.824354"
+        ],
+        [
+          "59.425258",
+          "17.824698"
+        ],
+        [
+          "59.425286",
+          "17.824973"
+        ],
+        [
+          "59.425302",
+          "17.825238"
+        ],
+        [
+          "59.425316",
+          "17.825545"
+        ],
+        [
+          "59.425321",
+          "17.825905"
+        ],
+        [
+          "59.425312",
+          "17.826293"
+        ],
+        [
+          "59.425289",
+          "17.826711"
+        ],
+        [
+          "59.425256",
+          "17.827153"
+        ],
+        [
+          "59.425226",
+          "17.827537"
+        ],
+        [
+          "59.425193",
+          "17.827982"
+        ],
+        [
+          "59.425160",
+          "17.828386"
+        ],
+        [
+          "59.425134",
+          "17.828760"
+        ],
+        [
+          "59.425108",
+          "17.829151"
+        ],
+        [
+          "59.425099",
+          "17.829394"
+        ],
+        [
+          "59.425095",
+          "17.829822"
+        ],
+        [
+          "59.425098",
+          "17.830297"
+        ],
+        [
+          "59.425108",
+          "17.830640"
+        ],
+        [
+          "59.425142",
+          "17.831233"
+        ],
+        [
+          "59.425166",
+          "17.831676"
+        ],
+        [
+          "59.425180",
+          "17.831926"
+        ],
+        [
+          "59.425214",
+          "17.832546"
+        ],
+        [
+          "59.425255",
+          "17.833369"
+        ],
+        [
+          "59.425285",
+          "17.833995"
+        ],
+        [
+          "59.425305",
+          "17.834461"
+        ],
+        [
+          "59.425289",
+          "17.834758"
+        ],
+        [
+          "59.425255",
+          "17.835159"
+        ],
+        [
+          "59.425228",
+          "17.835305"
+        ],
+        [
+          "59.425173",
+          "17.835471"
+        ],
+        [
+          "59.425093",
+          "17.835554"
+        ],
+        [
+          "59.424998",
+          "17.835597"
+        ],
+        [
+          "59.424894",
+          "17.835566"
+        ],
+        [
+          "59.424797",
+          "17.835470"
+        ],
+        [
+          "59.424736",
+          "17.835659"
+        ],
+        [
+          "59.424699",
+          "17.835804"
+        ],
+        [
+          "59.424681",
+          "17.835871"
+        ],
+        [
+          "59.424627",
+          "17.836145"
+        ],
+        [
+          "59.424592",
+          "17.836409"
+        ],
+        [
+          "59.424502",
+          "17.836404"
+        ],
+        [
+          "59.424412",
+          "17.836399"
+        ],
+        [
+          "59.424403",
+          "17.836776"
+        ],
+        [
+          "59.424399",
+          "17.836883"
+        ],
+        [
+          "59.424381",
+          "17.837327"
+        ],
+        [
+          "59.424373",
+          "17.837472"
+        ],
+        [
+          "59.424335",
+          "17.838246"
+        ],
+        [
+          "59.424320",
+          "17.838723"
+        ],
+        [
+          "59.424820",
+          "17.838759"
+        ],
+        [
+          "59.425280",
+          "17.838803"
+        ],
+        [
+          "59.425265",
+          "17.839443"
+        ],
+        [
+          "59.425254",
+          "17.840015"
+        ],
+        [
+          "59.425254",
+          "17.840672"
+        ],
+        [
+          "59.425251",
+          "17.841182"
+        ],
+        [
+          "59.425250",
+          "17.841487"
+        ],
+        [
+          "59.425244",
+          "17.842063"
+        ],
+        [
+          "59.425228",
+          "17.842079"
+        ],
+        [
+          "59.425206",
+          "17.842111"
+        ],
+        [
+          "59.425188",
+          "17.842152"
+        ],
+        [
+          "59.425174",
+          "17.842198"
+        ],
+        [
+          "59.425165",
+          "17.842248"
+        ],
+        [
+          "59.425161",
+          "17.842311"
+        ],
+        [
+          "59.425163",
+          "17.842357"
+        ],
+        [
+          "59.425170",
+          "17.842409"
+        ],
+        [
+          "59.425182",
+          "17.842458"
+        ],
+        [
+          "59.425199",
+          "17.842500"
+        ],
+        [
+          "59.425219",
+          "17.842535"
+        ],
+        [
+          "59.425239",
+          "17.842559"
+        ],
+        [
+          "59.425268",
+          "17.842580"
+        ],
+        [
+          "59.425296",
+          "17.842588"
+        ],
+        [
+          "59.425323",
+          "17.842584"
+        ],
+        [
+          "59.425355",
+          "17.842567"
+        ],
+        [
+          "59.425375",
+          "17.842546"
+        ],
+        [
+          "59.425397",
+          "17.842514"
+        ],
+        [
+          "59.425415",
+          "17.842472"
+        ],
+        [
+          "59.425429",
+          "17.842426"
+        ],
+        [
+          "59.425438",
+          "17.842376"
+        ],
+        [
+          "59.425441",
+          "17.842324"
+        ],
+        [
+          "59.425441",
+          "17.842282"
+        ],
+        [
+          "59.425476",
+          "17.842278"
+        ],
+        [
+          "59.425593",
+          "17.842264"
+        ],
+        [
+          "59.425899",
+          "17.842226"
+        ],
+        [
+          "59.426200",
+          "17.842174"
+        ],
+        [
+          "59.426520",
+          "17.842109"
+        ],
+        [
+          "59.426862",
+          "17.842023"
+        ],
+        [
+          "59.426941",
+          "17.841999"
+        ],
+        [
+          "59.426952",
+          "17.842108"
+        ],
+        [
+          "59.426944",
+          "17.842002"
+        ],
+        [
+          "59.427344",
+          "17.841879"
+        ],
+        [
+          "59.427757",
+          "17.841768"
+        ],
+        [
+          "59.428251",
+          "17.841657"
+        ],
+        [
+          "59.428675",
+          "17.841552"
+        ],
+        [
+          "59.428699",
+          "17.842029"
+        ],
+        [
+          "59.428723",
+          "17.843299"
+        ],
+        [
+          "59.428734",
+          "17.843938"
+        ],
+        [
+          "59.428752",
+          "17.844792"
+        ],
+        [
+          "59.428756",
+          "17.845037"
+        ],
+        [
+          "59.428772",
+          "17.845900"
+        ],
+        [
+          "59.428128",
+          "17.846115"
+        ],
+        [
+          "59.427776",
+          "17.846246"
+        ],
+        [
+          "59.427779",
+          "17.846240"
+        ],
+        [
+          "59.427418",
+          "17.846375"
+        ],
+        [
+          "59.427170",
+          "17.846478"
+        ],
+        [
+          "59.426797",
+          "17.846595"
+        ],
+        [
+          "59.426412",
+          "17.846714"
+        ],
+        [
+          "59.426016",
+          "17.846877"
+        ],
+        [
+          "59.425536",
+          "17.847074"
+        ],
+        [
+          "59.425514",
+          "17.847037"
+        ],
+        [
+          "59.425475",
+          "17.846997"
+        ],
+        [
+          "59.425455",
+          "17.846984"
+        ],
+        [
+          "59.425424",
+          "17.846976"
+        ],
+        [
+          "59.425392",
+          "17.846980"
+        ],
+        [
+          "59.425358",
+          "17.847000"
+        ],
+        [
+          "59.425332",
+          "17.847024"
+        ],
+        [
+          "59.425307",
+          "17.847063"
+        ],
+        [
+          "59.425286",
+          "17.847109"
+        ],
+        [
+          "59.425270",
+          "17.847164"
+        ],
+        [
+          "59.425261",
+          "17.847207"
+        ],
+        [
+          "59.425066",
+          "17.847314"
+        ],
+        [
+          "59.424526",
+          "17.847587"
+        ],
+        [
+          "59.423968",
+          "17.847874"
+        ],
+        [
+          "59.423485",
+          "17.848120"
+        ],
+        [
+          "59.422969",
+          "17.848392"
+        ],
+        [
+          "59.422502",
+          "17.848654"
+        ],
+        [
+          "59.422436",
+          "17.848680"
+        ],
+        [
+          "59.422209",
+          "17.848774"
+        ],
+        [
+          "59.422087",
+          "17.848837"
+        ],
+        [
+          "59.422031",
+          "17.848848"
+        ],
+        [
+          "59.421946",
+          "17.848789"
+        ],
+        [
+          "59.421844",
+          "17.848432"
+        ],
+        [
+          "59.421744",
+          "17.847887"
+        ],
+        [
+          "59.421720",
+          "17.847752"
+        ],
+        [
+          "59.421647",
+          "17.847346"
+        ],
+        [
+          "59.421554",
+          "17.846758"
+        ],
+        [
+          "59.421467",
+          "17.846200"
+        ],
+        [
+          "59.421405",
+          "17.845576"
+        ],
+        [
+          "59.421382",
+          "17.845209"
+        ],
+        [
+          "59.421370",
+          "17.844916"
+        ],
+        [
+          "59.421391",
+          "17.844872"
+        ],
+        [
+          "59.421411",
+          "17.844811"
+        ],
+        [
+          "59.421415",
+          "17.844752"
+        ],
+        [
+          "59.421411",
+          "17.844682"
+        ],
+        [
+          "59.421528",
+          "17.844656"
+        ],
+        [
+          "59.421750",
+          "17.844606"
+        ],
+        [
+          "59.422195",
+          "17.844514"
+        ],
+        [
+          "59.422505",
+          "17.844451"
+        ],
+        [
+          "59.422515",
+          "17.844660"
+        ],
+        [
+          "59.422546",
+          "17.845315"
+        ],
+        [
+          "59.422506",
+          "17.845321"
+        ]
+      ]
+    }
+  ]
+}

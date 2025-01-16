@@ -1,0 +1,5543 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011001041600000",
+  "agency_id": "14010000000001001",
+  "route_short_name": "416",
+  "route_long_name": "",
+  "route_type": "700",
+  "route_desc": "",
+  "shapes": [
+    {
+      "shape_id": "1014010000596101249",
+      "trips": [
+        {
+          "trip_id": "14010000596110347",
+          "service_id": "510",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "510",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000596111503",
+          "service_id": "510",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "510",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000596115637",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000596103262",
+          "service_id": "35",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "35",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000596104795",
+          "service_id": "35",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "35",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000596114854",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000596103959",
+          "service_id": "35",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "35",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000596110969",
+          "service_id": "510",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "510",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000596116681",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000596121679",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000596122515",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000596112099",
+          "service_id": "511",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "511",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000630665544",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000630663338",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635150245",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635153324",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635158576",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635203367",
+          "service_id": "510",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "510",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635129396",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635133686",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635146819",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635155736",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635124348",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635143793",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635198410",
+          "service_id": "35",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "35",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635208417",
+          "service_id": "510",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "510",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635131372",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635140974",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635161447",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635164632",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635167328",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635175742",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635178134",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635196056",
+          "service_id": "35",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "35",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635200897",
+          "service_id": "35",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "35",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635205998",
+          "service_id": "510",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040273003",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.324889",
+              "stop_lon": "18.258643",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493001",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.328150",
+              "stop_lon": "18.262223",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421001",
+              "stop_name": "Korset",
+              "stop_lat": "59.332980",
+              "stop_lon": "18.265012",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389001",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.336816",
+              "stop_lon": "18.249332",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "510",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.324889",
+          "18.258643"
+        ],
+        [
+          "59.324885",
+          "18.258639"
+        ],
+        [
+          "59.324864",
+          "18.258771"
+        ],
+        [
+          "59.324864",
+          "18.258911"
+        ],
+        [
+          "59.324894",
+          "18.259054"
+        ],
+        [
+          "59.324946",
+          "18.259260"
+        ],
+        [
+          "59.324921",
+          "18.259481"
+        ],
+        [
+          "59.325527",
+          "18.260020"
+        ],
+        [
+          "59.326012",
+          "18.260385"
+        ],
+        [
+          "59.326474",
+          "18.260748"
+        ],
+        [
+          "59.327253",
+          "18.261365"
+        ],
+        [
+          "59.327777",
+          "18.261795"
+        ],
+        [
+          "59.328166",
+          "18.262112"
+        ],
+        [
+          "59.328150",
+          "18.262223"
+        ],
+        [
+          "59.328167",
+          "18.262123"
+        ],
+        [
+          "59.328751",
+          "18.262603"
+        ],
+        [
+          "59.329307",
+          "18.263035"
+        ],
+        [
+          "59.329801",
+          "18.263469"
+        ],
+        [
+          "59.329921",
+          "18.263576"
+        ],
+        [
+          "59.330261",
+          "18.263958"
+        ],
+        [
+          "59.330370",
+          "18.264106"
+        ],
+        [
+          "59.330535",
+          "18.264332"
+        ],
+        [
+          "59.330740",
+          "18.264670"
+        ],
+        [
+          "59.330871",
+          "18.264923"
+        ],
+        [
+          "59.330901",
+          "18.264980"
+        ],
+        [
+          "59.331120",
+          "18.265468"
+        ],
+        [
+          "59.331324",
+          "18.266054"
+        ],
+        [
+          "59.331595",
+          "18.265681"
+        ],
+        [
+          "59.331880",
+          "18.265384"
+        ],
+        [
+          "59.331982",
+          "18.265306"
+        ],
+        [
+          "59.332226",
+          "18.265138"
+        ],
+        [
+          "59.332336",
+          "18.265075"
+        ],
+        [
+          "59.332398",
+          "18.265039"
+        ],
+        [
+          "59.332618",
+          "18.264984"
+        ],
+        [
+          "59.332761",
+          "18.264948"
+        ],
+        [
+          "59.332939",
+          "18.264894"
+        ],
+        [
+          "59.332980",
+          "18.265012"
+        ],
+        [
+          "59.332907",
+          "18.264925"
+        ],
+        [
+          "59.333584",
+          "18.264539"
+        ],
+        [
+          "59.334056",
+          "18.263776"
+        ],
+        [
+          "59.334450",
+          "18.262321"
+        ],
+        [
+          "59.334575",
+          "18.261120"
+        ],
+        [
+          "59.334464",
+          "18.259834"
+        ],
+        [
+          "59.334329",
+          "18.258872"
+        ],
+        [
+          "59.334151",
+          "18.257736"
+        ],
+        [
+          "59.334169",
+          "18.256696"
+        ],
+        [
+          "59.334407",
+          "18.254806"
+        ],
+        [
+          "59.334693",
+          "18.253558"
+        ],
+        [
+          "59.335017",
+          "18.252329"
+        ],
+        [
+          "59.335431",
+          "18.251032"
+        ],
+        [
+          "59.335927",
+          "18.250255"
+        ],
+        [
+          "59.336639",
+          "18.249110"
+        ],
+        [
+          "59.336792",
+          "18.249358"
+        ],
+        [
+          "59.336816",
+          "18.249332"
+        ],
+        [
+          "59.336739",
+          "18.249357"
+        ],
+        [
+          "59.336874",
+          "18.249299"
+        ],
+        [
+          "59.336985",
+          "18.249214"
+        ],
+        [
+          "59.336789",
+          "18.248817"
+        ],
+        [
+          "59.337167",
+          "18.248214"
+        ],
+        [
+          "59.337395",
+          "18.247786"
+        ],
+        [
+          "59.337554",
+          "18.247233"
+        ],
+        [
+          "59.337739",
+          "18.246635"
+        ],
+        [
+          "59.337977",
+          "18.245805"
+        ],
+        [
+          "59.338178",
+          "18.245019"
+        ],
+        [
+          "59.338371",
+          "18.244067"
+        ],
+        [
+          "59.338652",
+          "18.242981"
+        ],
+        [
+          "59.338751",
+          "18.242398"
+        ],
+        [
+          "59.338866",
+          "18.241178"
+        ],
+        [
+          "59.338949",
+          "18.240310"
+        ],
+        [
+          "59.339009",
+          "18.239818"
+        ],
+        [
+          "59.339184",
+          "18.239101"
+        ],
+        [
+          "59.339470",
+          "18.238299"
+        ],
+        [
+          "59.339782",
+          "18.237453"
+        ],
+        [
+          "59.339908",
+          "18.236755"
+        ],
+        [
+          "59.339995",
+          "18.235674"
+        ],
+        [
+          "59.339954",
+          "18.234415"
+        ],
+        [
+          "59.339962",
+          "18.233610"
+        ],
+        [
+          "59.339942",
+          "18.233443"
+        ],
+        [
+          "59.340033",
+          "18.233191"
+        ],
+        [
+          "59.340045",
+          "18.233169"
+        ],
+        [
+          "59.340092",
+          "18.233183"
+        ]
+      ]
+    },
+    {
+      "shape_id": "1014010000596101270",
+      "trips": [
+        {
+          "trip_id": "14010000630648402",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000630653565",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000630659100",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000630661756",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000630664242",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000630669494",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000630671975",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000630666336",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000630645844",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000630674310",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000630650828",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000630656298",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635115728",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635134144",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635189233",
+          "service_id": "35",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "35",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635201205",
+          "service_id": "35",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "35",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635206304",
+          "service_id": "510",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "510",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635213146",
+          "service_id": "510",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "510",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635121274",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635125709",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635130257",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635138675",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635144337",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635203678",
+          "service_id": "510",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "510",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635214846",
+          "service_id": "510",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "510",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635216153",
+          "service_id": "510",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "510",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635132020",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635191510",
+          "service_id": "35",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "35",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635196398",
+          "service_id": "35",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "35",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635198724",
+          "service_id": "35",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "35",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635208679",
+          "service_id": "510",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "510",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635211054",
+          "service_id": "510",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "510",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635118076",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635135830",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635141407",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635147387",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635193893",
+          "service_id": "35",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001040500001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.340092",
+              "stop_lon": "18.233183",
+              "location_type": "0",
+              "parent_station": "9021001040500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040389002",
+              "stop_name": "Kummelbergets industriomr\u00e5de",
+              "stop_lat": "59.337062",
+              "stop_lon": "18.248393",
+              "location_type": "0",
+              "parent_station": "9021001040389000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040421002",
+              "stop_name": "Korset",
+              "stop_lat": "59.332758",
+              "stop_lon": "18.264903",
+              "location_type": "0",
+              "parent_station": "9021001040421000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040493002",
+              "stop_name": "Sarvtr\u00e4sk",
+              "stop_lat": "59.329056",
+              "stop_lon": "18.262746",
+              "location_type": "0",
+              "parent_station": "9021001040493000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001040273004",
+              "stop_name": "Orminge centrum",
+              "stop_lat": "59.325149",
+              "stop_lon": "18.258299",
+              "location_type": "0",
+              "parent_station": "9021001040273000",
+              "platform_code": "B"
+            }
+          ],
+          "service": {
+            "service_id": "35",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.340092",
+          "18.233183"
+        ],
+        [
+          "59.340063",
+          "18.233104"
+        ],
+        [
+          "59.340081",
+          "18.232837"
+        ],
+        [
+          "59.339999",
+          "18.232495"
+        ],
+        [
+          "59.339898",
+          "18.232418"
+        ],
+        [
+          "59.339942",
+          "18.233852"
+        ],
+        [
+          "59.339930",
+          "18.234788"
+        ],
+        [
+          "59.339947",
+          "18.235951"
+        ],
+        [
+          "59.339916",
+          "18.236730"
+        ],
+        [
+          "59.339774",
+          "18.237409"
+        ],
+        [
+          "59.339493",
+          "18.238141"
+        ],
+        [
+          "59.339149",
+          "18.239136"
+        ],
+        [
+          "59.339008",
+          "18.239770"
+        ],
+        [
+          "59.338908",
+          "18.240586"
+        ],
+        [
+          "59.338763",
+          "18.241801"
+        ],
+        [
+          "59.338724",
+          "18.242467"
+        ],
+        [
+          "59.338611",
+          "18.243349"
+        ],
+        [
+          "59.338263",
+          "18.244500"
+        ],
+        [
+          "59.337953",
+          "18.245944"
+        ],
+        [
+          "59.337553",
+          "18.247335"
+        ],
+        [
+          "59.337296",
+          "18.248025"
+        ],
+        [
+          "59.337023",
+          "18.248468"
+        ],
+        [
+          "59.337062",
+          "18.248393"
+        ],
+        [
+          "59.337075",
+          "18.248415"
+        ],
+        [
+          "59.336860",
+          "18.248792"
+        ],
+        [
+          "59.336851",
+          "18.248807"
+        ],
+        [
+          "59.336213",
+          "18.249793"
+        ],
+        [
+          "59.335848",
+          "18.250333"
+        ],
+        [
+          "59.335482",
+          "18.251036"
+        ],
+        [
+          "59.335378",
+          "18.251265"
+        ],
+        [
+          "59.335188",
+          "18.251831"
+        ],
+        [
+          "59.334989",
+          "18.252524"
+        ],
+        [
+          "59.334757",
+          "18.253390"
+        ],
+        [
+          "59.334535",
+          "18.254243"
+        ],
+        [
+          "59.334425",
+          "18.254745"
+        ],
+        [
+          "59.334300",
+          "18.255667"
+        ],
+        [
+          "59.334183",
+          "18.256499"
+        ],
+        [
+          "59.334143",
+          "18.257130"
+        ],
+        [
+          "59.334146",
+          "18.257437"
+        ],
+        [
+          "59.334175",
+          "18.257874"
+        ],
+        [
+          "59.334229",
+          "18.258333"
+        ],
+        [
+          "59.334360",
+          "18.259173"
+        ],
+        [
+          "59.334483",
+          "18.259998"
+        ],
+        [
+          "59.334540",
+          "18.260665"
+        ],
+        [
+          "59.334547",
+          "18.261188"
+        ],
+        [
+          "59.334506",
+          "18.261704"
+        ],
+        [
+          "59.334421",
+          "18.262320"
+        ],
+        [
+          "59.334306",
+          "18.262907"
+        ],
+        [
+          "59.334251",
+          "18.263159"
+        ],
+        [
+          "59.334151",
+          "18.263501"
+        ],
+        [
+          "59.334045",
+          "18.263795"
+        ],
+        [
+          "59.333923",
+          "18.264038"
+        ],
+        [
+          "59.333837",
+          "18.264212"
+        ],
+        [
+          "59.333656",
+          "18.264452"
+        ],
+        [
+          "59.333468",
+          "18.264644"
+        ],
+        [
+          "59.333223",
+          "18.264807"
+        ],
+        [
+          "59.332761",
+          "18.264948"
+        ],
+        [
+          "59.332708",
+          "18.264961"
+        ],
+        [
+          "59.332618",
+          "18.264984"
+        ],
+        [
+          "59.332398",
+          "18.265039"
+        ],
+        [
+          "59.332336",
+          "18.265075"
+        ],
+        [
+          "59.332226",
+          "18.265138"
+        ],
+        [
+          "59.331982",
+          "18.265306"
+        ],
+        [
+          "59.331880",
+          "18.265384"
+        ],
+        [
+          "59.331595",
+          "18.265681"
+        ],
+        [
+          "59.331324",
+          "18.266054"
+        ],
+        [
+          "59.331120",
+          "18.265468"
+        ],
+        [
+          "59.330901",
+          "18.264980"
+        ],
+        [
+          "59.330871",
+          "18.264923"
+        ],
+        [
+          "59.330740",
+          "18.264670"
+        ],
+        [
+          "59.330535",
+          "18.264332"
+        ],
+        [
+          "59.330370",
+          "18.264106"
+        ],
+        [
+          "59.330261",
+          "18.263958"
+        ],
+        [
+          "59.329921",
+          "18.263576"
+        ],
+        [
+          "59.329801",
+          "18.263469"
+        ],
+        [
+          "59.329307",
+          "18.263035"
+        ],
+        [
+          "59.329033",
+          "18.262822"
+        ],
+        [
+          "59.329056",
+          "18.262746"
+        ],
+        [
+          "59.329002",
+          "18.262832"
+        ],
+        [
+          "59.326656",
+          "18.260884"
+        ],
+        [
+          "59.326605",
+          "18.260715"
+        ],
+        [
+          "59.326526",
+          "18.260498"
+        ],
+        [
+          "59.326457",
+          "18.260473"
+        ],
+        [
+          "59.326372",
+          "18.260510"
+        ],
+        [
+          "59.326309",
+          "18.260595"
+        ],
+        [
+          "59.326253",
+          "18.260599"
+        ],
+        [
+          "59.325090",
+          "18.259612"
+        ],
+        [
+          "59.325070",
+          "18.259492"
+        ],
+        [
+          "59.325026",
+          "18.259397"
+        ],
+        [
+          "59.324951",
+          "18.259389"
+        ],
+        [
+          "59.324938",
+          "18.259361"
+        ],
+        [
+          "59.324919",
+          "18.259204"
+        ],
+        [
+          "59.325142",
+          "18.258296"
+        ],
+        [
+          "59.325149",
+          "18.258299"
+        ]
+      ]
+    }
+  ]
+}

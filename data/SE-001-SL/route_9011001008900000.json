@@ -1,0 +1,4655 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011001008900000",
+  "agency_id": "14010000000001001",
+  "route_short_name": "89",
+  "route_long_name": "",
+  "route_type": "1000",
+  "route_desc": "Pendelb\u00e5t",
+  "shapes": [
+    {
+      "shape_id": "6014010000543778507",
+      "trips": [
+        {
+          "trip_id": "14010000647157609",
+          "service_id": "566",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "566",
+            "start_date": "20241115",
+            "end_date": "20250228"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.327713",
+          "18.058119"
+        ],
+        [
+          "59.327141",
+          "18.057192"
+        ],
+        [
+          "59.323826",
+          "18.011092"
+        ],
+        [
+          "59.315807",
+          "17.986056"
+        ],
+        [
+          "59.304554",
+          "17.942154"
+        ],
+        [
+          "59.300783",
+          "17.914652"
+        ],
+        [
+          "59.305840",
+          "17.901138"
+        ],
+        [
+          "59.305784",
+          "17.887186"
+        ],
+        [
+          "59.289486",
+          "17.855064"
+        ],
+        [
+          "59.289344",
+          "17.836465"
+        ],
+        [
+          "59.292411",
+          "17.813127"
+        ],
+        [
+          "59.292539",
+          "17.811514"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000460585856",
+      "trips": [
+        {
+          "trip_id": "14010000647157642",
+          "service_id": "567",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "567",
+            "start_date": "20241216",
+            "end_date": "20250228"
+          }
+        },
+        {
+          "trip_id": "14010000647157693",
+          "service_id": "567",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "567",
+            "start_date": "20241216",
+            "end_date": "20250228"
+          }
+        },
+        {
+          "trip_id": "14010000647157795",
+          "service_id": "568",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "568",
+            "start_date": "20241215",
+            "end_date": "20250223"
+          }
+        },
+        {
+          "trip_id": "14010000647157813",
+          "service_id": "568",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "568",
+            "start_date": "20241215",
+            "end_date": "20250223"
+          }
+        },
+        {
+          "trip_id": "14010000647157625",
+          "service_id": "567",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "567",
+            "start_date": "20241216",
+            "end_date": "20250228"
+          }
+        },
+        {
+          "trip_id": "14010000647157710",
+          "service_id": "569",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "569",
+            "start_date": "20241216",
+            "end_date": "20250228"
+          }
+        },
+        {
+          "trip_id": "14010000647157727",
+          "service_id": "567",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "567",
+            "start_date": "20241216",
+            "end_date": "20250228"
+          }
+        },
+        {
+          "trip_id": "14010000647157955",
+          "service_id": "555",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "555",
+            "start_date": "20250301",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000647157983",
+          "service_id": "555",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "555",
+            "start_date": "20250301",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000647157676",
+          "service_id": "569",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "569",
+            "start_date": "20241216",
+            "end_date": "20250228"
+          }
+        },
+        {
+          "trip_id": "14010000647157846",
+          "service_id": "570",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "570",
+            "start_date": "20250303",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000647157873",
+          "service_id": "570",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "570",
+            "start_date": "20250303",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000647157659",
+          "service_id": "567",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "567",
+            "start_date": "20241216",
+            "end_date": "20250228"
+          }
+        },
+        {
+          "trip_id": "14010000647157744",
+          "service_id": "571",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "571",
+            "start_date": "20241215",
+            "end_date": "20250223"
+          }
+        },
+        {
+          "trip_id": "14010000647157761",
+          "service_id": "571",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "571",
+            "start_date": "20241215",
+            "end_date": "20250223"
+          }
+        },
+        {
+          "trip_id": "14010000647157778",
+          "service_id": "571",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "571",
+            "start_date": "20241215",
+            "end_date": "20250223"
+          }
+        },
+        {
+          "trip_id": "14010000647157900",
+          "service_id": "570",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "570",
+            "start_date": "20250303",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000647157927",
+          "service_id": "555",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "555",
+            "start_date": "20250301",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000656931886",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000656931912",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000656931938",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000656931951",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000656932003",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000656931860",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000656931873",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000656931925",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000656931990",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000656931899",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000656931964",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000656931977",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.327713",
+          "18.058119"
+        ],
+        [
+          "59.327647",
+          "18.058132"
+        ],
+        [
+          "59.326531",
+          "18.057251"
+        ],
+        [
+          "59.323072",
+          "18.008779"
+        ],
+        [
+          "59.323149",
+          "18.008671"
+        ],
+        [
+          "59.323146",
+          "18.008756"
+        ],
+        [
+          "59.322086",
+          "18.007283"
+        ],
+        [
+          "59.315616",
+          "17.988188"
+        ],
+        [
+          "59.315569",
+          "17.988190"
+        ],
+        [
+          "59.315568",
+          "17.988206"
+        ],
+        [
+          "59.315690",
+          "17.984367"
+        ],
+        [
+          "59.303577",
+          "17.937056"
+        ],
+        [
+          "59.302041",
+          "17.925513"
+        ],
+        [
+          "59.302228",
+          "17.911014"
+        ],
+        [
+          "59.304699",
+          "17.902381"
+        ],
+        [
+          "59.304687",
+          "17.902413"
+        ],
+        [
+          "59.304738",
+          "17.902310"
+        ],
+        [
+          "59.306645",
+          "17.895532"
+        ],
+        [
+          "59.306219",
+          "17.886696"
+        ],
+        [
+          "59.290889",
+          "17.858506"
+        ],
+        [
+          "59.289822",
+          "17.852123"
+        ],
+        [
+          "59.290671",
+          "17.824947"
+        ],
+        [
+          "59.291871",
+          "17.818538"
+        ],
+        [
+          "59.292498",
+          "17.811510"
+        ],
+        [
+          "59.292539",
+          "17.811514"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000543778525",
+      "trips": [
+        {
+          "trip_id": "14010000647157830",
+          "service_id": "566",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "566",
+            "start_date": "20241115",
+            "end_date": "20250228"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.327713",
+          "18.058119"
+        ],
+        [
+          "59.327647",
+          "18.058132"
+        ],
+        [
+          "59.326531",
+          "18.057251"
+        ],
+        [
+          "59.323072",
+          "18.008779"
+        ],
+        [
+          "59.323149",
+          "18.008671"
+        ],
+        [
+          "59.323146",
+          "18.008756"
+        ],
+        [
+          "59.322086",
+          "18.007283"
+        ],
+        [
+          "59.315616",
+          "17.988188"
+        ],
+        [
+          "59.315569",
+          "17.988190"
+        ],
+        [
+          "59.315430",
+          "17.988135"
+        ],
+        [
+          "59.315663",
+          "17.984416"
+        ],
+        [
+          "59.303394",
+          "17.937620"
+        ],
+        [
+          "59.302143",
+          "17.925722"
+        ],
+        [
+          "59.302135",
+          "17.910770"
+        ],
+        [
+          "59.304875",
+          "17.902185"
+        ],
+        [
+          "59.306764",
+          "17.894390"
+        ],
+        [
+          "59.306064",
+          "17.886183"
+        ],
+        [
+          "59.290842",
+          "17.858544"
+        ],
+        [
+          "59.289704",
+          "17.852317"
+        ],
+        [
+          "59.290737",
+          "17.825194"
+        ],
+        [
+          "59.291667",
+          "17.818468"
+        ],
+        [
+          "59.292505",
+          "17.811447"
+        ],
+        [
+          "59.292539",
+          "17.811514"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000460585876",
+      "trips": [
+        {
+          "trip_id": "14010000647158041",
+          "service_id": "567",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "567",
+            "start_date": "20241216",
+            "end_date": "20250228"
+          }
+        },
+        {
+          "trip_id": "14010000647158126",
+          "service_id": "567",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "567",
+            "start_date": "20241216",
+            "end_date": "20250228"
+          }
+        },
+        {
+          "trip_id": "14010000647158229",
+          "service_id": "568",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "568",
+            "start_date": "20241215",
+            "end_date": "20250223"
+          }
+        },
+        {
+          "trip_id": "14010000647158328",
+          "service_id": "555",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "555",
+            "start_date": "20250301",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000647158058",
+          "service_id": "569",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "569",
+            "start_date": "20241216",
+            "end_date": "20250228"
+          }
+        },
+        {
+          "trip_id": "14010000647158075",
+          "service_id": "567",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "567",
+            "start_date": "20241216",
+            "end_date": "20250228"
+          }
+        },
+        {
+          "trip_id": "14010000647158194",
+          "service_id": "571",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "571",
+            "start_date": "20241215",
+            "end_date": "20250223"
+          }
+        },
+        {
+          "trip_id": "14010000647158211",
+          "service_id": "568",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "568",
+            "start_date": "20241215",
+            "end_date": "20250223"
+          }
+        },
+        {
+          "trip_id": "14010000647158301",
+          "service_id": "570",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "570",
+            "start_date": "20250303",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000647158024",
+          "service_id": "569",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "569",
+            "start_date": "20241216",
+            "end_date": "20250228"
+          }
+        },
+        {
+          "trip_id": "14010000647158109",
+          "service_id": "567",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "567",
+            "start_date": "20241216",
+            "end_date": "20250228"
+          }
+        },
+        {
+          "trip_id": "14010000647158160",
+          "service_id": "571",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "571",
+            "start_date": "20241215",
+            "end_date": "20250223"
+          }
+        },
+        {
+          "trip_id": "14010000647158384",
+          "service_id": "555",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "555",
+            "start_date": "20250301",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000647158092",
+          "service_id": "569",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "569",
+            "start_date": "20241216",
+            "end_date": "20250228"
+          }
+        },
+        {
+          "trip_id": "14010000647158143",
+          "service_id": "569",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "569",
+            "start_date": "20241216",
+            "end_date": "20250228"
+          }
+        },
+        {
+          "trip_id": "14010000647158177",
+          "service_id": "571",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "571",
+            "start_date": "20241215",
+            "end_date": "20250223"
+          }
+        },
+        {
+          "trip_id": "14010000647158247",
+          "service_id": "570",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "570",
+            "start_date": "20250303",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000647158274",
+          "service_id": "570",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "570",
+            "start_date": "20250303",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000647158356",
+          "service_id": "555",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "555",
+            "start_date": "20250301",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000656932017",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000656932030",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000656932056",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000656932082",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000656932108",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000656932134",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000656932173",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000656932095",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000656932160",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000656932043",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000656932069",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000656932121",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000656932147",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008019001",
+              "stop_name": "Kungsh\u00e4ttan",
+              "stop_lat": "59.304687",
+              "stop_lon": "17.902413",
+              "location_type": "0",
+              "parent_station": "9021001008019000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008018001",
+              "stop_name": "Ekensberg",
+              "stop_lat": "59.315569",
+              "stop_lon": "17.988190",
+              "location_type": "0",
+              "parent_station": "9021001008018000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008017001",
+              "stop_name": "Lilla Essingen",
+              "stop_lat": "59.323149",
+              "stop_lon": "18.008671",
+              "location_type": "0",
+              "parent_station": "9021001008017000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.292539",
+          "17.811514"
+        ],
+        [
+          "59.292497",
+          "17.811581"
+        ],
+        [
+          "59.291950",
+          "17.818259"
+        ],
+        [
+          "59.290749",
+          "17.824739"
+        ],
+        [
+          "59.289856",
+          "17.852269"
+        ],
+        [
+          "59.290816",
+          "17.858500"
+        ],
+        [
+          "59.306216",
+          "17.886838"
+        ],
+        [
+          "59.306724",
+          "17.895253"
+        ],
+        [
+          "59.305281",
+          "17.900926"
+        ],
+        [
+          "59.304700",
+          "17.902379"
+        ],
+        [
+          "59.304687",
+          "17.902413"
+        ],
+        [
+          "59.304737",
+          "17.902249"
+        ],
+        [
+          "59.302255",
+          "17.911354"
+        ],
+        [
+          "59.302101",
+          "17.925924"
+        ],
+        [
+          "59.303641",
+          "17.937264"
+        ],
+        [
+          "59.315728",
+          "17.984235"
+        ],
+        [
+          "59.315568",
+          "17.988206"
+        ],
+        [
+          "59.315569",
+          "17.988190"
+        ],
+        [
+          "59.315625",
+          "17.988173"
+        ],
+        [
+          "59.322085",
+          "18.007315"
+        ],
+        [
+          "59.323154",
+          "18.008725"
+        ],
+        [
+          "59.323149",
+          "18.008671"
+        ],
+        [
+          "59.323111",
+          "18.008822"
+        ],
+        [
+          "59.326492",
+          "18.057209"
+        ],
+        [
+          "59.327667",
+          "18.058134"
+        ],
+        [
+          "59.327713",
+          "18.058119"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000543778545",
+      "trips": [
+        {
+          "trip_id": "14010000647158008",
+          "service_id": "572",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008015001",
+              "stop_name": "Tappstr\u00f6m",
+              "stop_lat": "59.292539",
+              "stop_lon": "17.811514",
+              "location_type": "0",
+              "parent_station": "9021001008015000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008011001",
+              "stop_name": "Klara M\u00e4larstrand",
+              "stop_lat": "59.327713",
+              "stop_lon": "18.058119",
+              "location_type": "0",
+              "parent_station": "9021001008011000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "572",
+            "start_date": "20241115",
+            "end_date": "20250228"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.292539",
+          "17.811514"
+        ],
+        [
+          "59.292556",
+          "17.811441"
+        ],
+        [
+          "59.290928",
+          "17.823478"
+        ],
+        [
+          "59.289916",
+          "17.852485"
+        ],
+        [
+          "59.291002",
+          "17.858365"
+        ],
+        [
+          "59.306116",
+          "17.885769"
+        ],
+        [
+          "59.306966",
+          "17.895346"
+        ],
+        [
+          "59.301056",
+          "17.915185"
+        ],
+        [
+          "59.307010",
+          "17.950890"
+        ],
+        [
+          "59.315626",
+          "17.982683"
+        ],
+        [
+          "59.321491",
+          "18.008306"
+        ],
+        [
+          "59.327544",
+          "18.058177"
+        ],
+        [
+          "59.327713",
+          "18.058119"
+        ]
+      ]
+    }
+  ]
+}

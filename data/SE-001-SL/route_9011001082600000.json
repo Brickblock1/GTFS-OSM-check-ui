@@ -1,0 +1,3401 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011001082600000",
+  "agency_id": "14010000000001001",
+  "route_short_name": "826",
+  "route_long_name": "",
+  "route_type": "700",
+  "route_desc": "",
+  "shapes": [
+    {
+      "shape_id": "1014010000583041765",
+      "trips": [
+        {
+          "trip_id": "14010000621456157",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080425008",
+              "stop_name": "Handens station",
+              "stop_lat": "59.166286",
+              "stop_lon": "18.135903",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "H"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801001",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.162343",
+              "stop_lon": "18.137861",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803001",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.157233",
+              "stop_lon": "18.135350",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070001",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154696",
+              "stop_lon": "18.165661",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621457001",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080425008",
+              "stop_name": "Handens station",
+              "stop_lat": "59.166286",
+              "stop_lon": "18.135903",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "H"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801001",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.162343",
+              "stop_lon": "18.137861",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803001",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.157233",
+              "stop_lon": "18.135350",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070001",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154696",
+              "stop_lon": "18.165661",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621458188",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080425008",
+              "stop_name": "Handens station",
+              "stop_lat": "59.166286",
+              "stop_lon": "18.135903",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "H"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801001",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.162343",
+              "stop_lon": "18.137861",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803001",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.157233",
+              "stop_lon": "18.135350",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070001",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154696",
+              "stop_lon": "18.165661",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621463638",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080425008",
+              "stop_name": "Handens station",
+              "stop_lat": "59.166286",
+              "stop_lon": "18.135903",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "H"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801001",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.162343",
+              "stop_lon": "18.137861",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803001",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.157233",
+              "stop_lon": "18.135350",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070001",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154696",
+              "stop_lon": "18.165661",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621478339",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080425008",
+              "stop_name": "Handens station",
+              "stop_lat": "59.166286",
+              "stop_lon": "18.135903",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "H"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801001",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.162343",
+              "stop_lon": "18.137861",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803001",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.157233",
+              "stop_lon": "18.135350",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070001",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154696",
+              "stop_lon": "18.165661",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621461136",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080425008",
+              "stop_name": "Handens station",
+              "stop_lat": "59.166286",
+              "stop_lon": "18.135903",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "H"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801001",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.162343",
+              "stop_lon": "18.137861",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803001",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.157233",
+              "stop_lon": "18.135350",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070001",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154696",
+              "stop_lon": "18.165661",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621469635",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080425008",
+              "stop_name": "Handens station",
+              "stop_lat": "59.166286",
+              "stop_lon": "18.135903",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "H"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801001",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.162343",
+              "stop_lon": "18.137861",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803001",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.157233",
+              "stop_lon": "18.135350",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070001",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154696",
+              "stop_lon": "18.165661",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621481138",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080425008",
+              "stop_name": "Handens station",
+              "stop_lat": "59.166286",
+              "stop_lon": "18.135903",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "H"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801001",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.162343",
+              "stop_lon": "18.137861",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803001",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.157233",
+              "stop_lon": "18.135350",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070001",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154696",
+              "stop_lon": "18.165661",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621465676",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080425008",
+              "stop_name": "Handens station",
+              "stop_lat": "59.166286",
+              "stop_lon": "18.135903",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "H"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801001",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.162343",
+              "stop_lon": "18.137861",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803001",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.157233",
+              "stop_lon": "18.135350",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070001",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154696",
+              "stop_lon": "18.165661",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621475690",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080425008",
+              "stop_name": "Handens station",
+              "stop_lat": "59.166286",
+              "stop_lon": "18.135903",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "H"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801001",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.162343",
+              "stop_lon": "18.137861",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803001",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.157233",
+              "stop_lon": "18.135350",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070001",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154696",
+              "stop_lon": "18.165661",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621485934",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080425008",
+              "stop_name": "Handens station",
+              "stop_lat": "59.166286",
+              "stop_lon": "18.135903",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "H"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801001",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.162343",
+              "stop_lon": "18.137861",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803001",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.157233",
+              "stop_lon": "18.135350",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070001",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154696",
+              "stop_lon": "18.165661",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621459732",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080425008",
+              "stop_name": "Handens station",
+              "stop_lat": "59.166286",
+              "stop_lon": "18.135903",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "H"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801001",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.162343",
+              "stop_lon": "18.137861",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803001",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.157233",
+              "stop_lon": "18.135350",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070001",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154696",
+              "stop_lon": "18.165661",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621467428",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080425008",
+              "stop_name": "Handens station",
+              "stop_lat": "59.166286",
+              "stop_lon": "18.135903",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "H"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801001",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.162343",
+              "stop_lon": "18.137861",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803001",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.157233",
+              "stop_lon": "18.135350",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070001",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154696",
+              "stop_lon": "18.165661",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621471457",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080425008",
+              "stop_name": "Handens station",
+              "stop_lat": "59.166286",
+              "stop_lon": "18.135903",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "H"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801001",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.162343",
+              "stop_lon": "18.137861",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803001",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.157233",
+              "stop_lon": "18.135350",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070001",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154696",
+              "stop_lon": "18.165661",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621473314",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080425008",
+              "stop_name": "Handens station",
+              "stop_lat": "59.166286",
+              "stop_lon": "18.135903",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "H"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801001",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.162343",
+              "stop_lon": "18.137861",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803001",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.157233",
+              "stop_lon": "18.135350",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070001",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154696",
+              "stop_lon": "18.165661",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621483853",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080425008",
+              "stop_name": "Handens station",
+              "stop_lat": "59.166286",
+              "stop_lon": "18.135903",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "H"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801001",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.162343",
+              "stop_lon": "18.137861",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803001",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.157233",
+              "stop_lon": "18.135350",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070001",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154696",
+              "stop_lon": "18.165661",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.166286",
+          "18.135903"
+        ],
+        [
+          "59.166281",
+          "18.135855"
+        ],
+        [
+          "59.166271",
+          "18.136041"
+        ],
+        [
+          "59.166218",
+          "18.136103"
+        ],
+        [
+          "59.166150",
+          "18.136097"
+        ],
+        [
+          "59.165947",
+          "18.136078"
+        ],
+        [
+          "59.165931",
+          "18.136717"
+        ],
+        [
+          "59.165906",
+          "18.137521"
+        ],
+        [
+          "59.165955",
+          "18.137835"
+        ],
+        [
+          "59.165864",
+          "18.137838"
+        ],
+        [
+          "59.165761",
+          "18.137905"
+        ],
+        [
+          "59.165287",
+          "18.138271"
+        ],
+        [
+          "59.165171",
+          "18.138392"
+        ],
+        [
+          "59.164993",
+          "18.138454"
+        ],
+        [
+          "59.164805",
+          "18.138502"
+        ],
+        [
+          "59.164590",
+          "18.138494"
+        ],
+        [
+          "59.164048",
+          "18.138367"
+        ],
+        [
+          "59.163888",
+          "18.138430"
+        ],
+        [
+          "59.163702",
+          "18.138379"
+        ],
+        [
+          "59.162839",
+          "18.138168"
+        ],
+        [
+          "59.162361",
+          "18.138013"
+        ],
+        [
+          "59.162343",
+          "18.137861"
+        ],
+        [
+          "59.162327",
+          "18.137999"
+        ],
+        [
+          "59.162300",
+          "18.137991"
+        ],
+        [
+          "59.162180",
+          "18.137979"
+        ],
+        [
+          "59.162035",
+          "18.137920"
+        ],
+        [
+          "59.161809",
+          "18.137805"
+        ],
+        [
+          "59.161513",
+          "18.137658"
+        ],
+        [
+          "59.161449",
+          "18.137623"
+        ],
+        [
+          "59.161210",
+          "18.137485"
+        ],
+        [
+          "59.160999",
+          "18.137343"
+        ],
+        [
+          "59.160818",
+          "18.137228"
+        ],
+        [
+          "59.160680",
+          "18.137168"
+        ],
+        [
+          "59.160565",
+          "18.137112"
+        ],
+        [
+          "59.160520",
+          "18.137091"
+        ],
+        [
+          "59.160472",
+          "18.137049"
+        ],
+        [
+          "59.160486",
+          "18.136965"
+        ],
+        [
+          "59.160488",
+          "18.136906"
+        ],
+        [
+          "59.160484",
+          "18.136859"
+        ],
+        [
+          "59.160475",
+          "18.136801"
+        ],
+        [
+          "59.160464",
+          "18.136739"
+        ],
+        [
+          "59.160451",
+          "18.136696"
+        ],
+        [
+          "59.160433",
+          "18.136660"
+        ],
+        [
+          "59.160412",
+          "18.136635"
+        ],
+        [
+          "59.160394",
+          "18.136620"
+        ],
+        [
+          "59.160354",
+          "18.136594"
+        ],
+        [
+          "59.160324",
+          "18.136589"
+        ],
+        [
+          "59.160294",
+          "18.136598"
+        ],
+        [
+          "59.160265",
+          "18.136615"
+        ],
+        [
+          "59.160237",
+          "18.136639"
+        ],
+        [
+          "59.160215",
+          "18.136668"
+        ],
+        [
+          "59.160191",
+          "18.136716"
+        ],
+        [
+          "59.160173",
+          "18.136766"
+        ],
+        [
+          "59.160111",
+          "18.136715"
+        ],
+        [
+          "59.160064",
+          "18.136698"
+        ],
+        [
+          "59.159896",
+          "18.136635"
+        ],
+        [
+          "59.159603",
+          "18.136524"
+        ],
+        [
+          "59.159430",
+          "18.136455"
+        ],
+        [
+          "59.159310",
+          "18.136408"
+        ],
+        [
+          "59.159073",
+          "18.136316"
+        ],
+        [
+          "59.158824",
+          "18.136212"
+        ],
+        [
+          "59.158501",
+          "18.136067"
+        ],
+        [
+          "59.158091",
+          "18.135895"
+        ],
+        [
+          "59.157927",
+          "18.135826"
+        ],
+        [
+          "59.157785",
+          "18.135764"
+        ],
+        [
+          "59.157726",
+          "18.135738"
+        ],
+        [
+          "59.157641",
+          "18.135685"
+        ],
+        [
+          "59.157585",
+          "18.135652"
+        ],
+        [
+          "59.157561",
+          "18.135639"
+        ],
+        [
+          "59.157223",
+          "18.135422"
+        ],
+        [
+          "59.157233",
+          "18.135350"
+        ],
+        [
+          "59.157177",
+          "18.135392"
+        ],
+        [
+          "59.156273",
+          "18.134728"
+        ],
+        [
+          "59.155518",
+          "18.134614"
+        ],
+        [
+          "59.154911",
+          "18.135006"
+        ],
+        [
+          "59.154484",
+          "18.135548"
+        ],
+        [
+          "59.153958",
+          "18.136395"
+        ],
+        [
+          "59.153585",
+          "18.136629"
+        ],
+        [
+          "59.153526",
+          "18.136221"
+        ],
+        [
+          "59.153413",
+          "18.136122"
+        ],
+        [
+          "59.153273",
+          "18.136198"
+        ],
+        [
+          "59.153152",
+          "18.136456"
+        ],
+        [
+          "59.153208",
+          "18.136998"
+        ],
+        [
+          "59.153285",
+          "18.138570"
+        ],
+        [
+          "59.153536",
+          "18.140562"
+        ],
+        [
+          "59.153587",
+          "18.142222"
+        ],
+        [
+          "59.153661",
+          "18.144869"
+        ],
+        [
+          "59.153736",
+          "18.147471"
+        ],
+        [
+          "59.153923",
+          "18.150172"
+        ],
+        [
+          "59.154095",
+          "18.152559"
+        ],
+        [
+          "59.154041",
+          "18.152912"
+        ],
+        [
+          "59.154148",
+          "18.153235"
+        ],
+        [
+          "59.154394",
+          "18.156345"
+        ],
+        [
+          "59.154645",
+          "18.158292"
+        ],
+        [
+          "59.154852",
+          "18.160191"
+        ],
+        [
+          "59.155007",
+          "18.161368"
+        ],
+        [
+          "59.155316",
+          "18.163768"
+        ],
+        [
+          "59.155562",
+          "18.164999"
+        ],
+        [
+          "59.155441",
+          "18.165256"
+        ],
+        [
+          "59.155086",
+          "18.165671"
+        ],
+        [
+          "59.154646",
+          "18.165809"
+        ],
+        [
+          "59.154696",
+          "18.165661"
+        ],
+        [
+          "59.154688",
+          "18.165761"
+        ],
+        [
+          "59.154414",
+          "18.165808"
+        ],
+        [
+          "59.154275",
+          "18.165916"
+        ],
+        [
+          "59.154260",
+          "18.165529"
+        ],
+        [
+          "59.154227",
+          "18.165092"
+        ],
+        [
+          "59.154179",
+          "18.164798"
+        ],
+        [
+          "59.154120",
+          "18.164419"
+        ],
+        [
+          "59.154093",
+          "18.164247"
+        ],
+        [
+          "59.154037",
+          "18.164001"
+        ],
+        [
+          "59.153958",
+          "18.163681"
+        ],
+        [
+          "59.153822",
+          "18.163186"
+        ],
+        [
+          "59.153691",
+          "18.162715"
+        ],
+        [
+          "59.153477",
+          "18.162093"
+        ],
+        [
+          "59.153359",
+          "18.161841"
+        ],
+        [
+          "59.153122",
+          "18.161397"
+        ],
+        [
+          "59.152957",
+          "18.161068"
+        ],
+        [
+          "59.152772",
+          "18.160774"
+        ],
+        [
+          "59.152592",
+          "18.160528"
+        ],
+        [
+          "59.152395",
+          "18.160257"
+        ],
+        [
+          "59.152165",
+          "18.160019"
+        ],
+        [
+          "59.151899",
+          "18.159777"
+        ],
+        [
+          "59.151729",
+          "18.159641"
+        ],
+        [
+          "59.151533",
+          "18.159515"
+        ],
+        [
+          "59.151344",
+          "18.159413"
+        ],
+        [
+          "59.151180",
+          "18.159277"
+        ],
+        [
+          "59.151020",
+          "18.159238"
+        ],
+        [
+          "59.150775",
+          "18.159119"
+        ],
+        [
+          "59.150573",
+          "18.159052"
+        ],
+        [
+          "59.150282",
+          "18.159026"
+        ],
+        [
+          "59.150078",
+          "18.159031"
+        ],
+        [
+          "59.149903",
+          "18.159075"
+        ],
+        [
+          "59.149772",
+          "18.159135"
+        ],
+        [
+          "59.149609",
+          "18.159229"
+        ],
+        [
+          "59.149477",
+          "18.159277"
+        ],
+        [
+          "59.149339",
+          "18.159348"
+        ],
+        [
+          "59.149181",
+          "18.159478"
+        ],
+        [
+          "59.149067",
+          "18.159589"
+        ],
+        [
+          "59.148959",
+          "18.159723"
+        ],
+        [
+          "59.148883",
+          "18.159788"
+        ],
+        [
+          "59.148819",
+          "18.159855"
+        ],
+        [
+          "59.148799",
+          "18.159937"
+        ],
+        [
+          "59.148783",
+          "18.160093"
+        ],
+        [
+          "59.148805",
+          "18.160203"
+        ],
+        [
+          "59.148872",
+          "18.160245"
+        ],
+        [
+          "59.148929",
+          "18.160190"
+        ],
+        [
+          "59.148957",
+          "18.160036"
+        ],
+        [
+          "59.148966",
+          "18.159917"
+        ],
+        [
+          "59.148964",
+          "18.159760"
+        ],
+        [
+          "59.149029",
+          "18.159633"
+        ],
+        [
+          "59.149161",
+          "18.159561"
+        ],
+        [
+          "59.149275",
+          "18.159427"
+        ],
+        [
+          "59.149477",
+          "18.159277"
+        ],
+        [
+          "59.149690",
+          "18.159176"
+        ],
+        [
+          "59.149897",
+          "18.159086"
+        ],
+        [
+          "59.150041",
+          "18.159027"
+        ],
+        [
+          "59.150146",
+          "18.159037"
+        ],
+        [
+          "59.150282",
+          "18.159026"
+        ],
+        [
+          "59.150400",
+          "18.159036"
+        ],
+        [
+          "59.150517",
+          "18.159047"
+        ],
+        [
+          "59.150689",
+          "18.159087"
+        ],
+        [
+          "59.150837",
+          "18.159125"
+        ],
+        [
+          "59.150977",
+          "18.159222"
+        ],
+        [
+          "59.151100",
+          "18.159258"
+        ],
+        [
+          "59.151222",
+          "18.159329"
+        ],
+        [
+          "59.151198",
+          "18.159398"
+        ]
+      ]
+    },
+    {
+      "shape_id": "1014010000583042037",
+      "trips": [
+        {
+          "trip_id": "14010000583061467",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070002",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154911",
+              "stop_lon": "18.165923",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803002",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.158237",
+              "stop_lon": "18.136128",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801002",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.161490",
+              "stop_lon": "18.137823",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080425009",
+              "stop_name": "Handens station",
+              "stop_lat": "59.167063",
+              "stop_lon": "18.137094",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000583072168",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070002",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154911",
+              "stop_lon": "18.165923",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803002",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.158237",
+              "stop_lon": "18.136128",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801002",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.161490",
+              "stop_lon": "18.137823",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080425009",
+              "stop_name": "Handens station",
+              "stop_lat": "59.167063",
+              "stop_lon": "18.137094",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000583070352",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070002",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154911",
+              "stop_lon": "18.165923",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803002",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.158237",
+              "stop_lon": "18.136128",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801002",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.161490",
+              "stop_lon": "18.137823",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080425009",
+              "stop_name": "Handens station",
+              "stop_lat": "59.167063",
+              "stop_lon": "18.137094",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000583057725",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070002",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154911",
+              "stop_lon": "18.165923",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803002",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.158237",
+              "stop_lon": "18.136128",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801002",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.161490",
+              "stop_lon": "18.137823",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080425009",
+              "stop_name": "Handens station",
+              "stop_lat": "59.167063",
+              "stop_lon": "18.137094",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000583059532",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070002",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154911",
+              "stop_lon": "18.165923",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803002",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.158237",
+              "stop_lon": "18.136128",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801002",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.161490",
+              "stop_lon": "18.137823",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080425009",
+              "stop_name": "Handens station",
+              "stop_lat": "59.167063",
+              "stop_lon": "18.137094",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621461659",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070002",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154911",
+              "stop_lon": "18.165923",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803002",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.158237",
+              "stop_lon": "18.136128",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801002",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.161490",
+              "stop_lon": "18.137823",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080425009",
+              "stop_name": "Handens station",
+              "stop_lat": "59.167063",
+              "stop_lon": "18.137094",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621464141",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070002",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154911",
+              "stop_lon": "18.165923",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803002",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.158237",
+              "stop_lon": "18.136128",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801002",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.161490",
+              "stop_lon": "18.137823",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080425009",
+              "stop_name": "Handens station",
+              "stop_lat": "59.167063",
+              "stop_lon": "18.137094",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621466147",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070002",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154911",
+              "stop_lon": "18.165923",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803002",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.158237",
+              "stop_lon": "18.136128",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801002",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.161490",
+              "stop_lon": "18.137823",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080425009",
+              "stop_name": "Handens station",
+              "stop_lat": "59.167063",
+              "stop_lon": "18.137094",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621478779",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070002",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154911",
+              "stop_lon": "18.165923",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803002",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.158237",
+              "stop_lon": "18.136128",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801002",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.161490",
+              "stop_lon": "18.137823",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080425009",
+              "stop_name": "Handens station",
+              "stop_lat": "59.167063",
+              "stop_lon": "18.137094",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621456533",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070002",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154911",
+              "stop_lon": "18.165923",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803002",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.158237",
+              "stop_lon": "18.136128",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801002",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.161490",
+              "stop_lon": "18.137823",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080425009",
+              "stop_name": "Handens station",
+              "stop_lat": "59.167063",
+              "stop_lon": "18.137094",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621458914",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070002",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154911",
+              "stop_lon": "18.165923",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803002",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.158237",
+              "stop_lon": "18.136128",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801002",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.161490",
+              "stop_lon": "18.137823",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080425009",
+              "stop_name": "Handens station",
+              "stop_lat": "59.167063",
+              "stop_lon": "18.137094",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621467929",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070002",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154911",
+              "stop_lon": "18.165923",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803002",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.158237",
+              "stop_lon": "18.136128",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801002",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.161490",
+              "stop_lon": "18.137823",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080425009",
+              "stop_name": "Handens station",
+              "stop_lat": "59.167063",
+              "stop_lon": "18.137094",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621476206",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070002",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154911",
+              "stop_lon": "18.165923",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803002",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.158237",
+              "stop_lon": "18.136128",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801002",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.161490",
+              "stop_lon": "18.137823",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080425009",
+              "stop_name": "Handens station",
+              "stop_lat": "59.167063",
+              "stop_lon": "18.137094",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621477377",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070002",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154911",
+              "stop_lon": "18.165923",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803002",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.158237",
+              "stop_lon": "18.136128",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801002",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.161490",
+              "stop_lon": "18.137823",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080425009",
+              "stop_name": "Handens station",
+              "stop_lat": "59.167063",
+              "stop_lon": "18.137094",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621480204",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070002",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154911",
+              "stop_lon": "18.165923",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803002",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.158237",
+              "stop_lon": "18.136128",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801002",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.161490",
+              "stop_lon": "18.137823",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080425009",
+              "stop_name": "Handens station",
+              "stop_lat": "59.167063",
+              "stop_lon": "18.137094",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000621481594",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070002",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154911",
+              "stop_lon": "18.165923",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803002",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.158237",
+              "stop_lon": "18.136128",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801002",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.161490",
+              "stop_lon": "18.137823",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080425009",
+              "stop_name": "Handens station",
+              "stop_lat": "59.167063",
+              "stop_lon": "18.137094",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000636963813",
+          "service_id": "71",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070002",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154911",
+              "stop_lon": "18.165923",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803002",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.158237",
+              "stop_lon": "18.136128",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801002",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.161490",
+              "stop_lon": "18.137823",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080425009",
+              "stop_name": "Handens station",
+              "stop_lat": "59.167063",
+              "stop_lon": "18.137094",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "71",
+            "start_date": "20241118",
+            "end_date": "20250618"
+          }
+        },
+        {
+          "trip_id": "14010000636952205",
+          "service_id": "83",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001084092001",
+              "stop_name": "Dammliden",
+              "stop_lat": "59.151198",
+              "stop_lon": "18.159398",
+              "location_type": "0",
+              "parent_station": "9021001084092000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001084070002",
+              "stop_name": "Albyberg",
+              "stop_lat": "59.154911",
+              "stop_lon": "18.165923",
+              "location_type": "0",
+              "parent_station": "9021001084070000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080803002",
+              "stop_name": "Tuvv\u00e4gen",
+              "stop_lat": "59.158237",
+              "stop_lon": "18.136128",
+              "location_type": "0",
+              "parent_station": "9021001080803000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080801002",
+              "stop_name": "Vallav\u00e4gen",
+              "stop_lat": "59.161490",
+              "stop_lon": "18.137823",
+              "location_type": "0",
+              "parent_station": "9021001080801000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080425009",
+              "stop_name": "Handens station",
+              "stop_lat": "59.167063",
+              "stop_lon": "18.137094",
+              "location_type": "0",
+              "parent_station": "9021001080425000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "83",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.151198",
+          "18.159398"
+        ],
+        [
+          "59.151205",
+          "18.159325"
+        ],
+        [
+          "59.151248",
+          "18.159348"
+        ],
+        [
+          "59.151560",
+          "18.159538"
+        ],
+        [
+          "59.151638",
+          "18.159598"
+        ],
+        [
+          "59.151958",
+          "18.159828"
+        ],
+        [
+          "59.152299",
+          "18.160169"
+        ],
+        [
+          "59.152633",
+          "18.160579"
+        ],
+        [
+          "59.152967",
+          "18.161081"
+        ],
+        [
+          "59.153242",
+          "18.161594"
+        ],
+        [
+          "59.153476",
+          "18.162119"
+        ],
+        [
+          "59.153738",
+          "18.162852"
+        ],
+        [
+          "59.153887",
+          "18.163389"
+        ],
+        [
+          "59.154032",
+          "18.164002"
+        ],
+        [
+          "59.154161",
+          "18.164682"
+        ],
+        [
+          "59.154220",
+          "18.165130"
+        ],
+        [
+          "59.154252",
+          "18.165471"
+        ],
+        [
+          "59.154293",
+          "18.165936"
+        ],
+        [
+          "59.154373",
+          "18.165982"
+        ],
+        [
+          "59.154431",
+          "18.165964"
+        ],
+        [
+          "59.154512",
+          "18.165939"
+        ],
+        [
+          "59.154753",
+          "18.165870"
+        ],
+        [
+          "59.154905",
+          "18.165826"
+        ],
+        [
+          "59.154911",
+          "18.165923"
+        ],
+        [
+          "59.154898",
+          "18.165907"
+        ],
+        [
+          "59.155362",
+          "18.165551"
+        ],
+        [
+          "59.155562",
+          "18.165747"
+        ],
+        [
+          "59.155724",
+          "18.165629"
+        ],
+        [
+          "59.155730",
+          "18.165364"
+        ],
+        [
+          "59.155711",
+          "18.165229"
+        ],
+        [
+          "59.155535",
+          "18.164991"
+        ],
+        [
+          "59.155272",
+          "18.163638"
+        ],
+        [
+          "59.154933",
+          "18.160728"
+        ],
+        [
+          "59.154920",
+          "18.160328"
+        ],
+        [
+          "59.154273",
+          "18.153270"
+        ],
+        [
+          "59.154304",
+          "18.152919"
+        ],
+        [
+          "59.154184",
+          "18.152243"
+        ],
+        [
+          "59.153929",
+          "18.148677"
+        ],
+        [
+          "59.153790",
+          "18.145032"
+        ],
+        [
+          "59.153690",
+          "18.141657"
+        ],
+        [
+          "59.153625",
+          "18.140588"
+        ],
+        [
+          "59.153459",
+          "18.138978"
+        ],
+        [
+          "59.153327",
+          "18.137859"
+        ],
+        [
+          "59.153370",
+          "18.137021"
+        ],
+        [
+          "59.153489",
+          "18.136810"
+        ],
+        [
+          "59.153584",
+          "18.136642"
+        ],
+        [
+          "59.153815",
+          "18.136486"
+        ],
+        [
+          "59.153931",
+          "18.136408"
+        ],
+        [
+          "59.154354",
+          "18.135827"
+        ],
+        [
+          "59.154851",
+          "18.135031"
+        ],
+        [
+          "59.155612",
+          "18.134613"
+        ],
+        [
+          "59.156111",
+          "18.134659"
+        ],
+        [
+          "59.156448",
+          "18.134867"
+        ],
+        [
+          "59.157566",
+          "18.135634"
+        ],
+        [
+          "59.158285",
+          "18.136010"
+        ],
+        [
+          "59.158237",
+          "18.136128"
+        ],
+        [
+          "59.158335",
+          "18.135998"
+        ],
+        [
+          "59.158501",
+          "18.136067"
+        ],
+        [
+          "59.158824",
+          "18.136212"
+        ],
+        [
+          "59.159073",
+          "18.136316"
+        ],
+        [
+          "59.159310",
+          "18.136408"
+        ],
+        [
+          "59.159430",
+          "18.136455"
+        ],
+        [
+          "59.159603",
+          "18.136524"
+        ],
+        [
+          "59.159896",
+          "18.136635"
+        ],
+        [
+          "59.160064",
+          "18.136698"
+        ],
+        [
+          "59.160111",
+          "18.136715"
+        ],
+        [
+          "59.160173",
+          "18.136766"
+        ],
+        [
+          "59.160161",
+          "18.136813"
+        ],
+        [
+          "59.160155",
+          "18.136871"
+        ],
+        [
+          "59.160156",
+          "18.136934"
+        ],
+        [
+          "59.160162",
+          "18.136994"
+        ],
+        [
+          "59.160172",
+          "18.137048"
+        ],
+        [
+          "59.160190",
+          "18.137112"
+        ],
+        [
+          "59.160212",
+          "18.137151"
+        ],
+        [
+          "59.160238",
+          "18.137186"
+        ],
+        [
+          "59.160255",
+          "18.137203"
+        ],
+        [
+          "59.160282",
+          "18.137225"
+        ],
+        [
+          "59.160310",
+          "18.137239"
+        ],
+        [
+          "59.160333",
+          "18.137239"
+        ],
+        [
+          "59.160364",
+          "18.137224"
+        ],
+        [
+          "59.160393",
+          "18.137205"
+        ],
+        [
+          "59.160419",
+          "18.137177"
+        ],
+        [
+          "59.160441",
+          "18.137140"
+        ],
+        [
+          "59.160458",
+          "18.137099"
+        ],
+        [
+          "59.160472",
+          "18.137049"
+        ],
+        [
+          "59.160520",
+          "18.137091"
+        ],
+        [
+          "59.160565",
+          "18.137112"
+        ],
+        [
+          "59.160680",
+          "18.137168"
+        ],
+        [
+          "59.160818",
+          "18.137228"
+        ],
+        [
+          "59.160999",
+          "18.137343"
+        ],
+        [
+          "59.161210",
+          "18.137485"
+        ],
+        [
+          "59.161449",
+          "18.137623"
+        ],
+        [
+          "59.161513",
+          "18.137658"
+        ],
+        [
+          "59.161490",
+          "18.137823"
+        ],
+        [
+          "59.161484",
+          "18.137799"
+        ],
+        [
+          "59.162290",
+          "18.137952"
+        ],
+        [
+          "59.162892",
+          "18.138185"
+        ],
+        [
+          "59.163565",
+          "18.138404"
+        ],
+        [
+          "59.163878",
+          "18.138433"
+        ],
+        [
+          "59.164056",
+          "18.138587"
+        ],
+        [
+          "59.164499",
+          "18.138707"
+        ],
+        [
+          "59.165066",
+          "18.138680"
+        ],
+        [
+          "59.165521",
+          "18.138288"
+        ],
+        [
+          "59.165915",
+          "18.137930"
+        ],
+        [
+          "59.165956",
+          "18.137894"
+        ],
+        [
+          "59.165881",
+          "18.137631"
+        ],
+        [
+          "59.165940",
+          "18.136473"
+        ],
+        [
+          "59.166465",
+          "18.136541"
+        ],
+        [
+          "59.166926",
+          "18.136721"
+        ],
+        [
+          "59.167066",
+          "18.136793"
+        ],
+        [
+          "59.167177",
+          "18.136783"
+        ],
+        [
+          "59.167293",
+          "18.136617"
+        ],
+        [
+          "59.167317",
+          "18.136461"
+        ],
+        [
+          "59.167240",
+          "18.136296"
+        ],
+        [
+          "59.166995",
+          "18.135958"
+        ],
+        [
+          "59.167063",
+          "18.137094"
+        ]
+      ]
+    }
+  ]
+}

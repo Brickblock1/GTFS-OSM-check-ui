@@ -1,0 +1,5935 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011001008300000-83X",
+  "agency_id": "14010000000001001",
+  "route_short_name": "83X",
+  "route_long_name": "",
+  "route_type": "1000",
+  "route_desc": "Pendelb\u00e5t",
+  "shapes": [
+    {
+      "shape_id": "6014010000651315019",
+      "trips": [
+        {
+          "trip_id": "14010000667905207",
+          "service_id": "530",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008040002",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "2"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026008",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "8"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "530",
+            "start_date": "20241118",
+            "end_date": "20241211"
+          }
+        },
+        {
+          "trip_id": "14010000667905323",
+          "service_id": "113",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008040002",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "2"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026008",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "8"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "113",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000667905270",
+          "service_id": "529",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008040002",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "2"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026008",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "8"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "529",
+            "start_date": "20241121",
+            "end_date": "20241212"
+          }
+        },
+        {
+          "trip_id": "14010000667905174",
+          "service_id": "527",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008040002",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "2"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026008",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "8"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "527",
+            "start_date": "20241119",
+            "end_date": "20241210"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.328845",
+          "18.076070"
+        ],
+        [
+          "59.328817",
+          "18.076073"
+        ],
+        [
+          "59.327703",
+          "18.076040"
+        ],
+        [
+          "59.325189",
+          "18.077541"
+        ],
+        [
+          "59.323969",
+          "18.077648"
+        ],
+        [
+          "59.323805",
+          "18.076241"
+        ],
+        [
+          "59.323806",
+          "18.076335"
+        ],
+        [
+          "59.323818",
+          "18.075986"
+        ],
+        [
+          "59.318349",
+          "18.098490"
+        ],
+        [
+          "59.318297",
+          "18.133721"
+        ],
+        [
+          "59.318762",
+          "18.137892"
+        ],
+        [
+          "59.318070",
+          "18.157141"
+        ],
+        [
+          "59.318068",
+          "18.156862"
+        ],
+        [
+          "59.317620",
+          "18.156763"
+        ],
+        [
+          "59.341410",
+          "18.225976"
+        ],
+        [
+          "59.341406",
+          "18.225849"
+        ],
+        [
+          "59.341320",
+          "18.225832"
+        ],
+        [
+          "59.342977",
+          "18.225172"
+        ],
+        [
+          "59.348963",
+          "18.241585"
+        ],
+        [
+          "59.348617",
+          "18.244484"
+        ],
+        [
+          "59.348591",
+          "18.244480"
+        ],
+        [
+          "59.348568",
+          "18.244218"
+        ],
+        [
+          "59.349860",
+          "18.246507"
+        ],
+        [
+          "59.357021",
+          "18.235115"
+        ],
+        [
+          "59.357077",
+          "18.235011"
+        ],
+        [
+          "59.357033",
+          "18.235032"
+        ],
+        [
+          "59.362939",
+          "18.260806"
+        ],
+        [
+          "59.379243",
+          "18.293865"
+        ],
+        [
+          "59.379930",
+          "18.335725"
+        ],
+        [
+          "59.386915",
+          "18.342533"
+        ],
+        [
+          "59.387022",
+          "18.342568"
+        ],
+        [
+          "59.386792",
+          "18.342749"
+        ],
+        [
+          "59.387830",
+          "18.340597"
+        ],
+        [
+          "59.392962",
+          "18.343217"
+        ],
+        [
+          "59.400131",
+          "18.333634"
+        ],
+        [
+          "59.400398",
+          "18.333699"
+        ],
+        [
+          "59.400129",
+          "18.333656"
+        ],
+        [
+          "59.398992",
+          "18.336189"
+        ],
+        [
+          "59.398720",
+          "18.353020"
+        ],
+        [
+          "59.401825",
+          "18.355480"
+        ],
+        [
+          "59.401825",
+          "18.355502"
+        ],
+        [
+          "59.401821",
+          "18.355507"
+        ],
+        [
+          "59.401398",
+          "18.359387"
+        ],
+        [
+          "59.401150",
+          "18.361053"
+        ],
+        [
+          "59.403102",
+          "18.365238"
+        ],
+        [
+          "59.403111",
+          "18.365253"
+        ],
+        [
+          "59.403106",
+          "18.365228"
+        ],
+        [
+          "59.392769",
+          "18.376359"
+        ],
+        [
+          "59.392973",
+          "18.376353"
+        ],
+        [
+          "59.392909",
+          "18.376314"
+        ],
+        [
+          "59.393445",
+          "18.379514"
+        ],
+        [
+          "59.391115",
+          "18.397736"
+        ],
+        [
+          "59.390382",
+          "18.398908"
+        ],
+        [
+          "59.390437",
+          "18.398902"
+        ],
+        [
+          "59.390347",
+          "18.398784"
+        ],
+        [
+          "59.390831",
+          "18.401851"
+        ],
+        [
+          "59.388937",
+          "18.432042"
+        ],
+        [
+          "59.391015",
+          "18.434013"
+        ],
+        [
+          "59.390972",
+          "18.434038"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000657764858",
+      "trips": [
+        {
+          "trip_id": "14010000667905762",
+          "service_id": "532",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008040005",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "5"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026008",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "8"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "532",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000668575106",
+          "service_id": "531",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008040005",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "5"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026008",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "8"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "531",
+            "start_date": "20241120",
+            "end_date": "20241211"
+          }
+        },
+        {
+          "trip_id": "14010000668575126",
+          "service_id": "527",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008040005",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "5"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026008",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "8"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "527",
+            "start_date": "20241119",
+            "end_date": "20241210"
+          }
+        },
+        {
+          "trip_id": "14010000668575151",
+          "service_id": "529",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008040005",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "5"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026008",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "8"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "529",
+            "start_date": "20241121",
+            "end_date": "20241212"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.328845",
+          "18.076070"
+        ],
+        [
+          "59.328849",
+          "18.076064"
+        ],
+        [
+          "59.328235",
+          "18.075617"
+        ],
+        [
+          "59.325089",
+          "18.077592"
+        ],
+        [
+          "59.323967",
+          "18.077675"
+        ],
+        [
+          "59.323800",
+          "18.076276"
+        ],
+        [
+          "59.323806",
+          "18.076335"
+        ],
+        [
+          "59.323818",
+          "18.075986"
+        ],
+        [
+          "59.318349",
+          "18.098490"
+        ],
+        [
+          "59.318297",
+          "18.133721"
+        ],
+        [
+          "59.318762",
+          "18.137892"
+        ],
+        [
+          "59.318070",
+          "18.157141"
+        ],
+        [
+          "59.318068",
+          "18.156862"
+        ],
+        [
+          "59.317620",
+          "18.156763"
+        ],
+        [
+          "59.341410",
+          "18.225976"
+        ],
+        [
+          "59.341406",
+          "18.225849"
+        ],
+        [
+          "59.341320",
+          "18.225832"
+        ],
+        [
+          "59.342977",
+          "18.225172"
+        ],
+        [
+          "59.348963",
+          "18.241585"
+        ],
+        [
+          "59.348617",
+          "18.244484"
+        ],
+        [
+          "59.348591",
+          "18.244480"
+        ],
+        [
+          "59.348568",
+          "18.244218"
+        ],
+        [
+          "59.349860",
+          "18.246507"
+        ],
+        [
+          "59.357021",
+          "18.235115"
+        ],
+        [
+          "59.357077",
+          "18.235011"
+        ],
+        [
+          "59.357033",
+          "18.235032"
+        ],
+        [
+          "59.362939",
+          "18.260806"
+        ],
+        [
+          "59.379243",
+          "18.293865"
+        ],
+        [
+          "59.379930",
+          "18.335725"
+        ],
+        [
+          "59.386915",
+          "18.342533"
+        ],
+        [
+          "59.387022",
+          "18.342568"
+        ],
+        [
+          "59.386792",
+          "18.342749"
+        ],
+        [
+          "59.387830",
+          "18.340597"
+        ],
+        [
+          "59.392962",
+          "18.343217"
+        ],
+        [
+          "59.400131",
+          "18.333634"
+        ],
+        [
+          "59.400398",
+          "18.333699"
+        ],
+        [
+          "59.400129",
+          "18.333656"
+        ],
+        [
+          "59.398992",
+          "18.336189"
+        ],
+        [
+          "59.398720",
+          "18.353020"
+        ],
+        [
+          "59.401825",
+          "18.355480"
+        ],
+        [
+          "59.401825",
+          "18.355502"
+        ],
+        [
+          "59.401821",
+          "18.355507"
+        ],
+        [
+          "59.401398",
+          "18.359387"
+        ],
+        [
+          "59.401150",
+          "18.361053"
+        ],
+        [
+          "59.403102",
+          "18.365238"
+        ],
+        [
+          "59.403111",
+          "18.365253"
+        ],
+        [
+          "59.403106",
+          "18.365228"
+        ],
+        [
+          "59.392769",
+          "18.376359"
+        ],
+        [
+          "59.392973",
+          "18.376353"
+        ],
+        [
+          "59.392909",
+          "18.376314"
+        ],
+        [
+          "59.393445",
+          "18.379514"
+        ],
+        [
+          "59.391115",
+          "18.397736"
+        ],
+        [
+          "59.390382",
+          "18.398908"
+        ],
+        [
+          "59.390437",
+          "18.398902"
+        ],
+        [
+          "59.390347",
+          "18.398784"
+        ],
+        [
+          "59.390831",
+          "18.401851"
+        ],
+        [
+          "59.388937",
+          "18.432042"
+        ],
+        [
+          "59.391015",
+          "18.434013"
+        ],
+        [
+          "59.390972",
+          "18.434038"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000667904568",
+      "trips": [
+        {
+          "trip_id": "14010000668575191",
+          "service_id": "531",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008040004",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "4"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026008",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "8"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "531",
+            "start_date": "20241120",
+            "end_date": "20241211"
+          }
+        },
+        {
+          "trip_id": "14010000668575265",
+          "service_id": "113",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008040004",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "4"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026008",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "8"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "113",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000668575171",
+          "service_id": "527",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008040004",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "4"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026008",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "8"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "527",
+            "start_date": "20241119",
+            "end_date": "20241210"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.328845",
+          "18.076070"
+        ],
+        [
+          "59.328835",
+          "18.076063"
+        ],
+        [
+          "59.327681",
+          "18.076010"
+        ],
+        [
+          "59.325252",
+          "18.077445"
+        ],
+        [
+          "59.323935",
+          "18.077611"
+        ],
+        [
+          "59.323785",
+          "18.076296"
+        ],
+        [
+          "59.323806",
+          "18.076335"
+        ],
+        [
+          "59.323818",
+          "18.075986"
+        ],
+        [
+          "59.318349",
+          "18.098490"
+        ],
+        [
+          "59.318297",
+          "18.133721"
+        ],
+        [
+          "59.318762",
+          "18.137892"
+        ],
+        [
+          "59.318070",
+          "18.157141"
+        ],
+        [
+          "59.318068",
+          "18.156862"
+        ],
+        [
+          "59.317620",
+          "18.156763"
+        ],
+        [
+          "59.341410",
+          "18.225976"
+        ],
+        [
+          "59.341406",
+          "18.225849"
+        ],
+        [
+          "59.341320",
+          "18.225832"
+        ],
+        [
+          "59.342977",
+          "18.225172"
+        ],
+        [
+          "59.348963",
+          "18.241585"
+        ],
+        [
+          "59.348617",
+          "18.244484"
+        ],
+        [
+          "59.348591",
+          "18.244480"
+        ],
+        [
+          "59.348568",
+          "18.244218"
+        ],
+        [
+          "59.349860",
+          "18.246507"
+        ],
+        [
+          "59.357021",
+          "18.235115"
+        ],
+        [
+          "59.357077",
+          "18.235011"
+        ],
+        [
+          "59.357033",
+          "18.235032"
+        ],
+        [
+          "59.362939",
+          "18.260806"
+        ],
+        [
+          "59.379243",
+          "18.293865"
+        ],
+        [
+          "59.379930",
+          "18.335725"
+        ],
+        [
+          "59.386915",
+          "18.342533"
+        ],
+        [
+          "59.387022",
+          "18.342568"
+        ],
+        [
+          "59.386792",
+          "18.342749"
+        ],
+        [
+          "59.387830",
+          "18.340597"
+        ],
+        [
+          "59.392962",
+          "18.343217"
+        ],
+        [
+          "59.400131",
+          "18.333634"
+        ],
+        [
+          "59.400398",
+          "18.333699"
+        ],
+        [
+          "59.400129",
+          "18.333656"
+        ],
+        [
+          "59.398992",
+          "18.336189"
+        ],
+        [
+          "59.398720",
+          "18.353020"
+        ],
+        [
+          "59.401825",
+          "18.355480"
+        ],
+        [
+          "59.401825",
+          "18.355502"
+        ],
+        [
+          "59.401821",
+          "18.355507"
+        ],
+        [
+          "59.401398",
+          "18.359387"
+        ],
+        [
+          "59.401150",
+          "18.361053"
+        ],
+        [
+          "59.403102",
+          "18.365238"
+        ],
+        [
+          "59.403111",
+          "18.365253"
+        ],
+        [
+          "59.403106",
+          "18.365228"
+        ],
+        [
+          "59.392769",
+          "18.376359"
+        ],
+        [
+          "59.392973",
+          "18.376353"
+        ],
+        [
+          "59.392909",
+          "18.376314"
+        ],
+        [
+          "59.393445",
+          "18.379514"
+        ],
+        [
+          "59.391115",
+          "18.397736"
+        ],
+        [
+          "59.390382",
+          "18.398908"
+        ],
+        [
+          "59.390437",
+          "18.398902"
+        ],
+        [
+          "59.390347",
+          "18.398784"
+        ],
+        [
+          "59.390831",
+          "18.401851"
+        ],
+        [
+          "59.388937",
+          "18.432042"
+        ],
+        [
+          "59.391015",
+          "18.434013"
+        ],
+        [
+          "59.390972",
+          "18.434038"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000663755947",
+      "trips": [
+        {
+          "trip_id": "14010000668575231",
+          "service_id": "209",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008040006",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "6"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026008",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "8"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "209",
+            "start_date": "20241118",
+            "end_date": "20241209"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.328845",
+          "18.076070"
+        ],
+        [
+          "59.328829",
+          "18.076048"
+        ],
+        [
+          "59.328363",
+          "18.075464"
+        ],
+        [
+          "59.325358",
+          "18.077501"
+        ],
+        [
+          "59.323955",
+          "18.077628"
+        ],
+        [
+          "59.323783",
+          "18.076293"
+        ],
+        [
+          "59.323806",
+          "18.076335"
+        ],
+        [
+          "59.323818",
+          "18.075986"
+        ],
+        [
+          "59.318349",
+          "18.098490"
+        ],
+        [
+          "59.318297",
+          "18.133721"
+        ],
+        [
+          "59.318762",
+          "18.137892"
+        ],
+        [
+          "59.318070",
+          "18.157141"
+        ],
+        [
+          "59.318068",
+          "18.156862"
+        ],
+        [
+          "59.317620",
+          "18.156763"
+        ],
+        [
+          "59.341410",
+          "18.225976"
+        ],
+        [
+          "59.341406",
+          "18.225849"
+        ],
+        [
+          "59.341320",
+          "18.225832"
+        ],
+        [
+          "59.342977",
+          "18.225172"
+        ],
+        [
+          "59.348963",
+          "18.241585"
+        ],
+        [
+          "59.348617",
+          "18.244484"
+        ],
+        [
+          "59.348591",
+          "18.244480"
+        ],
+        [
+          "59.348568",
+          "18.244218"
+        ],
+        [
+          "59.349860",
+          "18.246507"
+        ],
+        [
+          "59.357021",
+          "18.235115"
+        ],
+        [
+          "59.357077",
+          "18.235011"
+        ],
+        [
+          "59.357033",
+          "18.235032"
+        ],
+        [
+          "59.362939",
+          "18.260806"
+        ],
+        [
+          "59.379243",
+          "18.293865"
+        ],
+        [
+          "59.379930",
+          "18.335725"
+        ],
+        [
+          "59.386915",
+          "18.342533"
+        ],
+        [
+          "59.387022",
+          "18.342568"
+        ],
+        [
+          "59.386792",
+          "18.342749"
+        ],
+        [
+          "59.387830",
+          "18.340597"
+        ],
+        [
+          "59.392962",
+          "18.343217"
+        ],
+        [
+          "59.400131",
+          "18.333634"
+        ],
+        [
+          "59.400398",
+          "18.333699"
+        ],
+        [
+          "59.400129",
+          "18.333656"
+        ],
+        [
+          "59.398992",
+          "18.336189"
+        ],
+        [
+          "59.398720",
+          "18.353020"
+        ],
+        [
+          "59.401825",
+          "18.355480"
+        ],
+        [
+          "59.401825",
+          "18.355502"
+        ],
+        [
+          "59.401821",
+          "18.355507"
+        ],
+        [
+          "59.401398",
+          "18.359387"
+        ],
+        [
+          "59.401150",
+          "18.361053"
+        ],
+        [
+          "59.403102",
+          "18.365238"
+        ],
+        [
+          "59.403111",
+          "18.365253"
+        ],
+        [
+          "59.403106",
+          "18.365228"
+        ],
+        [
+          "59.392769",
+          "18.376359"
+        ],
+        [
+          "59.392973",
+          "18.376353"
+        ],
+        [
+          "59.392909",
+          "18.376314"
+        ],
+        [
+          "59.393445",
+          "18.379514"
+        ],
+        [
+          "59.391115",
+          "18.397736"
+        ],
+        [
+          "59.390382",
+          "18.398908"
+        ],
+        [
+          "59.390437",
+          "18.398902"
+        ],
+        [
+          "59.390347",
+          "18.398784"
+        ],
+        [
+          "59.390831",
+          "18.401851"
+        ],
+        [
+          "59.388937",
+          "18.432042"
+        ],
+        [
+          "59.391015",
+          "18.434013"
+        ],
+        [
+          "59.390972",
+          "18.434038"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000651315150",
+      "trips": [
+        {
+          "trip_id": "14010000668575211",
+          "service_id": "529",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008040003",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "3"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026008",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "8"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "529",
+            "start_date": "20241121",
+            "end_date": "20241212"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.328845",
+          "18.076070"
+        ],
+        [
+          "59.328840",
+          "18.076036"
+        ],
+        [
+          "59.325082",
+          "18.077546"
+        ],
+        [
+          "59.323955",
+          "18.077644"
+        ],
+        [
+          "59.323810",
+          "18.076231"
+        ],
+        [
+          "59.323806",
+          "18.076335"
+        ],
+        [
+          "59.323818",
+          "18.075986"
+        ],
+        [
+          "59.318349",
+          "18.098490"
+        ],
+        [
+          "59.318297",
+          "18.133721"
+        ],
+        [
+          "59.318762",
+          "18.137892"
+        ],
+        [
+          "59.318070",
+          "18.157141"
+        ],
+        [
+          "59.318068",
+          "18.156862"
+        ],
+        [
+          "59.317620",
+          "18.156763"
+        ],
+        [
+          "59.341410",
+          "18.225976"
+        ],
+        [
+          "59.341406",
+          "18.225849"
+        ],
+        [
+          "59.341320",
+          "18.225832"
+        ],
+        [
+          "59.342977",
+          "18.225172"
+        ],
+        [
+          "59.348963",
+          "18.241585"
+        ],
+        [
+          "59.348617",
+          "18.244484"
+        ],
+        [
+          "59.348591",
+          "18.244480"
+        ],
+        [
+          "59.348568",
+          "18.244218"
+        ],
+        [
+          "59.349860",
+          "18.246507"
+        ],
+        [
+          "59.357021",
+          "18.235115"
+        ],
+        [
+          "59.357077",
+          "18.235011"
+        ],
+        [
+          "59.357033",
+          "18.235032"
+        ],
+        [
+          "59.362939",
+          "18.260806"
+        ],
+        [
+          "59.379243",
+          "18.293865"
+        ],
+        [
+          "59.379930",
+          "18.335725"
+        ],
+        [
+          "59.386915",
+          "18.342533"
+        ],
+        [
+          "59.387022",
+          "18.342568"
+        ],
+        [
+          "59.386792",
+          "18.342749"
+        ],
+        [
+          "59.387830",
+          "18.340597"
+        ],
+        [
+          "59.392962",
+          "18.343217"
+        ],
+        [
+          "59.400131",
+          "18.333634"
+        ],
+        [
+          "59.400398",
+          "18.333699"
+        ],
+        [
+          "59.400129",
+          "18.333656"
+        ],
+        [
+          "59.398992",
+          "18.336189"
+        ],
+        [
+          "59.398720",
+          "18.353020"
+        ],
+        [
+          "59.401825",
+          "18.355480"
+        ],
+        [
+          "59.401825",
+          "18.355502"
+        ],
+        [
+          "59.401821",
+          "18.355507"
+        ],
+        [
+          "59.401398",
+          "18.359387"
+        ],
+        [
+          "59.401150",
+          "18.361053"
+        ],
+        [
+          "59.403102",
+          "18.365238"
+        ],
+        [
+          "59.403111",
+          "18.365253"
+        ],
+        [
+          "59.403106",
+          "18.365228"
+        ],
+        [
+          "59.392769",
+          "18.376359"
+        ],
+        [
+          "59.392973",
+          "18.376353"
+        ],
+        [
+          "59.392909",
+          "18.376314"
+        ],
+        [
+          "59.393445",
+          "18.379514"
+        ],
+        [
+          "59.391115",
+          "18.397736"
+        ],
+        [
+          "59.390382",
+          "18.398908"
+        ],
+        [
+          "59.390437",
+          "18.398902"
+        ],
+        [
+          "59.390347",
+          "18.398784"
+        ],
+        [
+          "59.390831",
+          "18.401851"
+        ],
+        [
+          "59.388937",
+          "18.432042"
+        ],
+        [
+          "59.391015",
+          "18.434013"
+        ],
+        [
+          "59.390972",
+          "18.434038"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000654852362",
+      "trips": [
+        {
+          "trip_id": "14010000667906182",
+          "service_id": "527",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026009",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "9"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008040001",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "1"
+            }
+          ],
+          "service": {
+            "service_id": "527",
+            "start_date": "20241119",
+            "end_date": "20241210"
+          }
+        },
+        {
+          "trip_id": "14010000667906217",
+          "service_id": "530",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026009",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "9"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008040001",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "1"
+            }
+          ],
+          "service": {
+            "service_id": "530",
+            "start_date": "20241118",
+            "end_date": "20241211"
+          }
+        },
+        {
+          "trip_id": "14010000667906571",
+          "service_id": "527",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026009",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "9"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008040001",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "1"
+            }
+          ],
+          "service": {
+            "service_id": "527",
+            "start_date": "20241119",
+            "end_date": "20241210"
+          }
+        },
+        {
+          "trip_id": "14010000667906615",
+          "service_id": "529",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026009",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "9"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008040001",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "1"
+            }
+          ],
+          "service": {
+            "service_id": "529",
+            "start_date": "20241121",
+            "end_date": "20241212"
+          }
+        },
+        {
+          "trip_id": "14010000667906740",
+          "service_id": "529",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026009",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "9"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008040001",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "1"
+            }
+          ],
+          "service": {
+            "service_id": "529",
+            "start_date": "20241121",
+            "end_date": "20241212"
+          }
+        },
+        {
+          "trip_id": "14010000667907138",
+          "service_id": "531",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026009",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "9"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008040001",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "1"
+            }
+          ],
+          "service": {
+            "service_id": "531",
+            "start_date": "20241120",
+            "end_date": "20241211"
+          }
+        },
+        {
+          "trip_id": "14010000667907160",
+          "service_id": "529",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026009",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "9"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008040001",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "1"
+            }
+          ],
+          "service": {
+            "service_id": "529",
+            "start_date": "20241121",
+            "end_date": "20241212"
+          }
+        },
+        {
+          "trip_id": "14010000667906284",
+          "service_id": "529",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026009",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "9"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008040001",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "1"
+            }
+          ],
+          "service": {
+            "service_id": "529",
+            "start_date": "20241121",
+            "end_date": "20241212"
+          }
+        },
+        {
+          "trip_id": "14010000667906341",
+          "service_id": "113",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026009",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "9"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008040001",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "1"
+            }
+          ],
+          "service": {
+            "service_id": "113",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000667906549",
+          "service_id": "532",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026009",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "9"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008040001",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "1"
+            }
+          ],
+          "service": {
+            "service_id": "532",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000667906673",
+          "service_id": "530",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026009",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "9"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008040001",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "1"
+            }
+          ],
+          "service": {
+            "service_id": "530",
+            "start_date": "20241118",
+            "end_date": "20241211"
+          }
+        },
+        {
+          "trip_id": "14010000667906593",
+          "service_id": "531",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026009",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "9"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008040001",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "1"
+            }
+          ],
+          "service": {
+            "service_id": "531",
+            "start_date": "20241120",
+            "end_date": "20241211"
+          }
+        },
+        {
+          "trip_id": "14010000667906638",
+          "service_id": "527",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026009",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "9"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008040001",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "1"
+            }
+          ],
+          "service": {
+            "service_id": "527",
+            "start_date": "20241119",
+            "end_date": "20241210"
+          }
+        },
+        {
+          "trip_id": "14010000667906797",
+          "service_id": "113",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026009",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "9"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008040001",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "1"
+            }
+          ],
+          "service": {
+            "service_id": "113",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000667907094",
+          "service_id": "532",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026009",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "9"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008040001",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "1"
+            }
+          ],
+          "service": {
+            "service_id": "532",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000667907116",
+          "service_id": "527",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008022001",
+              "stop_name": "Grenadj\u00e4rbryggan",
+              "stop_lat": "59.390972",
+              "stop_lon": "18.434038",
+              "location_type": "0",
+              "parent_station": "9021001008022000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008023001",
+              "stop_name": "Rams\u00f6",
+              "stop_lat": "59.390437",
+              "stop_lon": "18.398902",
+              "location_type": "0",
+              "parent_station": "9021001008023000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008024001",
+              "stop_name": "Norra Tynning\u00f6",
+              "stop_lat": "59.392973",
+              "stop_lon": "18.376353",
+              "location_type": "0",
+              "parent_station": "9021001008024000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008025001",
+              "stop_name": "Rind\u00f6 v\u00e4stra",
+              "stop_lat": "59.403111",
+              "stop_lon": "18.365253",
+              "location_type": "0",
+              "parent_station": "9021001008025000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008026009",
+              "stop_name": "Vaxholm",
+              "stop_lat": "59.401825",
+              "stop_lon": "18.355502",
+              "location_type": "0",
+              "parent_station": "9021001008026000",
+              "platform_code": "9"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008027001",
+              "stop_name": "Fredriksberg",
+              "stop_lat": "59.400398",
+              "stop_lon": "18.333699",
+              "location_type": "0",
+              "parent_station": "9021001008027000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008029001",
+              "stop_name": "H\u00f6gan\u00e4s",
+              "stop_lat": "59.387022",
+              "stop_lon": "18.342568",
+              "location_type": "0",
+              "parent_station": "9021001008029000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008035001",
+              "stop_name": "G\u00e5shaga brygga",
+              "stop_lat": "59.357077",
+              "stop_lon": "18.235011",
+              "location_type": "0",
+              "parent_station": "9021001008035000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008036001",
+              "stop_name": "Hasseludden",
+              "stop_lat": "59.348591",
+              "stop_lon": "18.244480",
+              "location_type": "0",
+              "parent_station": "9021001008036000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008038001",
+              "stop_name": "Telegrafberget",
+              "stop_lat": "59.341406",
+              "stop_lon": "18.225849",
+              "location_type": "0",
+              "parent_station": "9021001008038000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008039001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318068",
+              "stop_lon": "18.156862",
+              "location_type": "0",
+              "parent_station": "9021001008039000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008054001",
+              "stop_name": "Slussen",
+              "stop_lat": "59.323806",
+              "stop_lon": "18.076335",
+              "location_type": "0",
+              "parent_station": "9021001008054000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008040001",
+              "stop_name": "Str\u00f6mkajen",
+              "stop_lat": "59.328845",
+              "stop_lon": "18.076070",
+              "location_type": "0",
+              "parent_station": "9021001008040000",
+              "platform_code": "1"
+            }
+          ],
+          "service": {
+            "service_id": "527",
+            "start_date": "20241119",
+            "end_date": "20241210"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.390972",
+          "18.434038"
+        ],
+        [
+          "59.390957",
+          "18.434259"
+        ],
+        [
+          "59.388914",
+          "18.431939"
+        ],
+        [
+          "59.390919",
+          "18.400451"
+        ],
+        [
+          "59.390472",
+          "18.398897"
+        ],
+        [
+          "59.390437",
+          "18.398902"
+        ],
+        [
+          "59.390417",
+          "18.398879"
+        ],
+        [
+          "59.391068",
+          "18.397633"
+        ],
+        [
+          "59.393401",
+          "18.379248"
+        ],
+        [
+          "59.392974",
+          "18.376386"
+        ],
+        [
+          "59.392973",
+          "18.376353"
+        ],
+        [
+          "59.392859",
+          "18.376403"
+        ],
+        [
+          "59.403071",
+          "18.365153"
+        ],
+        [
+          "59.403111",
+          "18.365253"
+        ],
+        [
+          "59.403106",
+          "18.365256"
+        ],
+        [
+          "59.401148",
+          "18.361061"
+        ],
+        [
+          "59.401817",
+          "18.355467"
+        ],
+        [
+          "59.401825",
+          "18.355502"
+        ],
+        [
+          "59.401815",
+          "18.355469"
+        ],
+        [
+          "59.398725",
+          "18.353020"
+        ],
+        [
+          "59.398982",
+          "18.336188"
+        ],
+        [
+          "59.400410",
+          "18.333644"
+        ],
+        [
+          "59.400398",
+          "18.333699"
+        ],
+        [
+          "59.400341",
+          "18.333689"
+        ],
+        [
+          "59.392352",
+          "18.341614"
+        ],
+        [
+          "59.388994",
+          "18.340231"
+        ],
+        [
+          "59.387098",
+          "18.340905"
+        ],
+        [
+          "59.386982",
+          "18.342569"
+        ],
+        [
+          "59.387022",
+          "18.342568"
+        ],
+        [
+          "59.386915",
+          "18.342533"
+        ],
+        [
+          "59.380002",
+          "18.335881"
+        ],
+        [
+          "59.379334",
+          "18.293277"
+        ],
+        [
+          "59.362939",
+          "18.260806"
+        ],
+        [
+          "59.356884",
+          "18.234869"
+        ],
+        [
+          "59.357077",
+          "18.235011"
+        ],
+        [
+          "59.357113",
+          "18.235035"
+        ],
+        [
+          "59.349890",
+          "18.246510"
+        ],
+        [
+          "59.348688",
+          "18.244289"
+        ],
+        [
+          "59.348591",
+          "18.244480"
+        ],
+        [
+          "59.348616",
+          "18.244540"
+        ],
+        [
+          "59.348936",
+          "18.241498"
+        ],
+        [
+          "59.343005",
+          "18.225203"
+        ],
+        [
+          "59.341321",
+          "18.225776"
+        ],
+        [
+          "59.341406",
+          "18.225849"
+        ],
+        [
+          "59.341418",
+          "18.225690"
+        ],
+        [
+          "59.336087",
+          "18.206261"
+        ],
+        [
+          "59.318010",
+          "18.156799"
+        ],
+        [
+          "59.318068",
+          "18.156862"
+        ],
+        [
+          "59.318147",
+          "18.157075"
+        ],
+        [
+          "59.318810",
+          "18.137454"
+        ],
+        [
+          "59.318338",
+          "18.133577"
+        ],
+        [
+          "59.318386",
+          "18.098494"
+        ],
+        [
+          "59.323702",
+          "18.076123"
+        ],
+        [
+          "59.323806",
+          "18.076335"
+        ],
+        [
+          "59.323797",
+          "18.076312"
+        ],
+        [
+          "59.323965",
+          "18.077635"
+        ],
+        [
+          "59.325250",
+          "18.077544"
+        ],
+        [
+          "59.327713",
+          "18.076013"
+        ],
+        [
+          "59.328843",
+          "18.076046"
+        ],
+        [
+          "59.328845",
+          "18.076070"
+        ]
+      ]
+    }
+  ]
+}

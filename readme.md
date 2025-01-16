@@ -1,0 +1,1 @@
+Run python make_linefiles.py \[code] to generate the json files from gtfs files.

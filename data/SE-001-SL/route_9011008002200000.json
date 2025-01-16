@@ -1,0 +1,2329 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011008002200000",
+  "agency_id": "14010000000002071",
+  "route_short_name": "22",
+  "route_long_name": "",
+  "route_type": "1000",
+  "route_desc": "Waxholmsbolaget",
+  "shapes": [
+    {
+      "shape_id": "6014010000121156703",
+      "trips": [
+        {
+          "trip_id": "14010000646217537",
+          "service_id": "10",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "10",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000646217509",
+          "service_id": "113",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "113",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000654846081",
+          "service_id": "1026",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1026",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000656121253",
+          "service_id": "16",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "16",
+            "start_date": "20241117",
+            "end_date": "20241208"
+          }
+        },
+        {
+          "trip_id": "14010000654846094",
+          "service_id": "531",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "531",
+            "start_date": "20241120",
+            "end_date": "20241211"
+          }
+        },
+        {
+          "trip_id": "14010000670504947",
+          "service_id": "1027",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1027",
+            "start_date": "20241218",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000670504977",
+          "service_id": "809",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "809",
+            "start_date": "20241221",
+            "end_date": "20250412"
+          }
+        },
+        {
+          "trip_id": "14010000670504933",
+          "service_id": "1022",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1022",
+            "start_date": "20241218",
+            "end_date": "20250409"
+          }
+        },
+        {
+          "trip_id": "14010000670504961",
+          "service_id": "1015",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1015",
+            "start_date": "20241220",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000670504992",
+          "service_id": "59",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "59",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.900794",
+          "17.952821"
+        ],
+        [
+          "58.900289",
+          "17.953645"
+        ],
+        [
+          "58.899562",
+          "17.956840"
+        ],
+        [
+          "58.898643",
+          "17.958785"
+        ],
+        [
+          "58.900846",
+          "17.961562"
+        ],
+        [
+          "58.904899",
+          "17.963759"
+        ],
+        [
+          "58.907476",
+          "17.967073"
+        ],
+        [
+          "58.910156",
+          "17.971087"
+        ],
+        [
+          "58.912402",
+          "17.982768"
+        ],
+        [
+          "58.912873",
+          "17.986120"
+        ],
+        [
+          "58.885333",
+          "18.077305"
+        ],
+        [
+          "58.885065",
+          "18.102835"
+        ],
+        [
+          "58.885079",
+          "18.103986"
+        ],
+        [
+          "58.884702",
+          "18.104797"
+        ],
+        [
+          "58.883040",
+          "18.108539"
+        ],
+        [
+          "58.881221",
+          "18.110596"
+        ],
+        [
+          "58.881745",
+          "18.109679"
+        ],
+        [
+          "58.882302",
+          "18.109405"
+        ],
+        [
+          "58.883032",
+          "18.108916"
+        ],
+        [
+          "58.883995",
+          "18.108679"
+        ],
+        [
+          "58.885433",
+          "18.108623"
+        ],
+        [
+          "58.887111",
+          "18.109514"
+        ],
+        [
+          "58.888230",
+          "18.110771"
+        ],
+        [
+          "58.889615",
+          "18.112930"
+        ],
+        [
+          "58.891254",
+          "18.116454"
+        ],
+        [
+          "58.893399",
+          "18.121782"
+        ],
+        [
+          "58.895147",
+          "18.125733"
+        ],
+        [
+          "58.896910",
+          "18.131027"
+        ],
+        [
+          "58.898469",
+          "18.135841"
+        ],
+        [
+          "58.899480",
+          "18.139588"
+        ],
+        [
+          "58.901068",
+          "18.144174"
+        ],
+        [
+          "58.901481",
+          "18.145877"
+        ],
+        [
+          "58.901653",
+          "18.146679"
+        ],
+        [
+          "58.901682",
+          "18.147468"
+        ],
+        [
+          "58.901646",
+          "18.147429"
+        ],
+        [
+          "58.901689",
+          "18.147343"
+        ],
+        [
+          "58.901766",
+          "18.147289"
+        ],
+        [
+          "58.901851",
+          "18.147227"
+        ],
+        [
+          "58.901956",
+          "18.147198"
+        ],
+        [
+          "58.902090",
+          "18.147241"
+        ],
+        [
+          "58.902243",
+          "18.147332"
+        ],
+        [
+          "58.902397",
+          "18.147539"
+        ],
+        [
+          "58.902617",
+          "18.148151"
+        ],
+        [
+          "58.902779",
+          "18.148535"
+        ],
+        [
+          "58.903110",
+          "18.149157"
+        ],
+        [
+          "58.903503",
+          "18.149654"
+        ],
+        [
+          "58.903786",
+          "18.149957"
+        ],
+        [
+          "58.904232",
+          "18.150267"
+        ],
+        [
+          "58.904513",
+          "18.150338"
+        ],
+        [
+          "58.904753",
+          "18.150306"
+        ],
+        [
+          "58.904922",
+          "18.150206"
+        ],
+        [
+          "58.905016",
+          "18.150115"
+        ],
+        [
+          "58.905092",
+          "18.149930"
+        ],
+        [
+          "58.905128",
+          "18.149831"
+        ],
+        [
+          "58.905092",
+          "18.149877"
+        ],
+        [
+          "58.905063",
+          "18.150370"
+        ],
+        [
+          "58.905204",
+          "18.151573"
+        ],
+        [
+          "58.905421",
+          "18.152485"
+        ],
+        [
+          "58.905729",
+          "18.153207"
+        ],
+        [
+          "58.906088",
+          "18.153901"
+        ],
+        [
+          "58.906339",
+          "18.154816"
+        ],
+        [
+          "58.906568",
+          "18.155961"
+        ],
+        [
+          "58.906639",
+          "18.157256"
+        ],
+        [
+          "58.906608",
+          "18.159203"
+        ],
+        [
+          "58.906540",
+          "18.162701"
+        ],
+        [
+          "58.906501",
+          "18.164284"
+        ],
+        [
+          "58.906695",
+          "18.165425"
+        ],
+        [
+          "58.906909",
+          "18.166469"
+        ],
+        [
+          "58.907197",
+          "18.167289"
+        ],
+        [
+          "58.907829",
+          "18.168008"
+        ],
+        [
+          "58.908715",
+          "18.168816"
+        ],
+        [
+          "58.910751",
+          "18.170193"
+        ],
+        [
+          "58.912162",
+          "18.171215"
+        ],
+        [
+          "58.913128",
+          "18.172262"
+        ],
+        [
+          "58.914454",
+          "18.173971"
+        ],
+        [
+          "58.915996",
+          "18.175964"
+        ],
+        [
+          "58.917623",
+          "18.177932"
+        ],
+        [
+          "58.918175",
+          "18.178446"
+        ],
+        [
+          "58.918495",
+          "18.178640"
+        ],
+        [
+          "58.918872",
+          "18.178609"
+        ],
+        [
+          "58.918994",
+          "18.178521"
+        ],
+        [
+          "58.919244",
+          "18.178081"
+        ],
+        [
+          "58.919287",
+          "18.177935"
+        ],
+        [
+          "58.919255",
+          "18.178125"
+        ],
+        [
+          "58.919241",
+          "18.178491"
+        ],
+        [
+          "58.919296",
+          "18.179178"
+        ],
+        [
+          "58.919487",
+          "18.180061"
+        ],
+        [
+          "58.919790",
+          "18.181647"
+        ],
+        [
+          "58.919911",
+          "18.183087"
+        ],
+        [
+          "58.919822",
+          "18.183988"
+        ],
+        [
+          "58.919714",
+          "18.185417"
+        ],
+        [
+          "58.919602",
+          "18.187214"
+        ],
+        [
+          "58.919580",
+          "18.188132"
+        ],
+        [
+          "58.919680",
+          "18.189277"
+        ],
+        [
+          "58.919833",
+          "18.190319"
+        ],
+        [
+          "58.919960",
+          "18.191099"
+        ],
+        [
+          "58.919961",
+          "18.191489"
+        ],
+        [
+          "58.919979",
+          "18.191796"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000121156724",
+      "trips": [
+        {
+          "trip_id": "14010000654846186",
+          "service_id": "531",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "531",
+            "start_date": "20241120",
+            "end_date": "20241211"
+          }
+        },
+        {
+          "trip_id": "14010000654846258",
+          "service_id": "87",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "87",
+            "start_date": "20241115",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000654846241",
+          "service_id": "10",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "10",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000654846203",
+          "service_id": "531",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "531",
+            "start_date": "20241120",
+            "end_date": "20241211"
+          }
+        },
+        {
+          "trip_id": "14010000654846277",
+          "service_id": "16",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "16",
+            "start_date": "20241117",
+            "end_date": "20241208"
+          }
+        },
+        {
+          "trip_id": "14010000670505042",
+          "service_id": "1015",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1015",
+            "start_date": "20241220",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000670505062",
+          "service_id": "809",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "809",
+            "start_date": "20241221",
+            "end_date": "20250412"
+          }
+        },
+        {
+          "trip_id": "14010000670505006",
+          "service_id": "1022",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1022",
+            "start_date": "20241218",
+            "end_date": "20250409"
+          }
+        },
+        {
+          "trip_id": "14010000670505024",
+          "service_id": "1027",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1027",
+            "start_date": "20241218",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000670505081",
+          "service_id": "59",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000224001",
+              "stop_name": "\u00c5l\u00f6",
+              "stop_lat": "58.919979",
+              "stop_lon": "18.191796",
+              "location_type": "0",
+              "parent_station": "9021001000224000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000223001",
+              "stop_name": "R\u00e5n\u00f6",
+              "stop_lat": "58.919287",
+              "stop_lon": "18.177935",
+              "location_type": "0",
+              "parent_station": "9021001000223000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000222001",
+              "stop_name": "Norr\u00f6",
+              "stop_lat": "58.905128",
+              "stop_lon": "18.149831",
+              "location_type": "0",
+              "parent_station": "9021001000222000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000221001",
+              "stop_name": "Asp\u00f6",
+              "stop_lat": "58.901646",
+              "stop_lon": "18.147429",
+              "location_type": "0",
+              "parent_station": "9021001000221000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000220001",
+              "stop_name": "N\u00e5ttar\u00f6",
+              "stop_lat": "58.881221",
+              "stop_lon": "18.110596",
+              "location_type": "0",
+              "parent_station": "9021001000220000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000601001",
+              "stop_name": "Nyn\u00e4shamn",
+              "stop_lat": "58.900794",
+              "stop_lon": "17.952821",
+              "location_type": "0",
+              "parent_station": "9021001000601000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "59",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.919979",
+          "18.191796"
+        ],
+        [
+          "58.919956",
+          "18.191478"
+        ],
+        [
+          "58.919960",
+          "18.191305"
+        ],
+        [
+          "58.919945",
+          "18.191000"
+        ],
+        [
+          "58.919838",
+          "18.190341"
+        ],
+        [
+          "58.919695",
+          "18.189365"
+        ],
+        [
+          "58.919592",
+          "18.188317"
+        ],
+        [
+          "58.919583",
+          "18.187537"
+        ],
+        [
+          "58.919645",
+          "18.186157"
+        ],
+        [
+          "58.919760",
+          "18.185140"
+        ],
+        [
+          "58.919808",
+          "18.184300"
+        ],
+        [
+          "58.919900",
+          "18.183313"
+        ],
+        [
+          "58.919876",
+          "18.182673"
+        ],
+        [
+          "58.919776",
+          "18.181744"
+        ],
+        [
+          "58.919656",
+          "18.180943"
+        ],
+        [
+          "58.919480",
+          "18.180126"
+        ],
+        [
+          "58.919365",
+          "18.179574"
+        ],
+        [
+          "58.919299",
+          "18.179092"
+        ],
+        [
+          "58.919261",
+          "18.178818"
+        ],
+        [
+          "58.919250",
+          "18.178546"
+        ],
+        [
+          "58.919249",
+          "18.178384"
+        ],
+        [
+          "58.919250",
+          "18.178113"
+        ],
+        [
+          "58.919287",
+          "18.177935"
+        ],
+        [
+          "58.919277",
+          "18.178117"
+        ],
+        [
+          "58.918994",
+          "18.178521"
+        ],
+        [
+          "58.918786",
+          "18.178634"
+        ],
+        [
+          "58.918528",
+          "18.178676"
+        ],
+        [
+          "58.917924",
+          "18.178224"
+        ],
+        [
+          "58.916791",
+          "18.176996"
+        ],
+        [
+          "58.915764",
+          "18.175645"
+        ],
+        [
+          "58.914105",
+          "18.173575"
+        ],
+        [
+          "58.912628",
+          "18.171721"
+        ],
+        [
+          "58.910848",
+          "18.170400"
+        ],
+        [
+          "58.909373",
+          "18.169207"
+        ],
+        [
+          "58.907914",
+          "18.168016"
+        ],
+        [
+          "58.907070",
+          "18.166881"
+        ],
+        [
+          "58.906708",
+          "18.165592"
+        ],
+        [
+          "58.906485",
+          "18.163522"
+        ],
+        [
+          "58.906551",
+          "18.161545"
+        ],
+        [
+          "58.906637",
+          "18.158016"
+        ],
+        [
+          "58.906648",
+          "18.156166"
+        ],
+        [
+          "58.906152",
+          "18.154072"
+        ],
+        [
+          "58.905667",
+          "18.152937"
+        ],
+        [
+          "58.905295",
+          "18.152076"
+        ],
+        [
+          "58.905057",
+          "18.150601"
+        ],
+        [
+          "58.905109",
+          "18.149878"
+        ],
+        [
+          "58.905128",
+          "18.149831"
+        ],
+        [
+          "58.905100",
+          "18.149923"
+        ],
+        [
+          "58.905049",
+          "18.150056"
+        ],
+        [
+          "58.904910",
+          "18.150221"
+        ],
+        [
+          "58.904638",
+          "18.150296"
+        ],
+        [
+          "58.904288",
+          "18.150272"
+        ],
+        [
+          "58.903900",
+          "18.150036"
+        ],
+        [
+          "58.903449",
+          "18.149595"
+        ],
+        [
+          "58.903133",
+          "18.149167"
+        ],
+        [
+          "58.902722",
+          "18.148399"
+        ],
+        [
+          "58.902476",
+          "18.147730"
+        ],
+        [
+          "58.902247",
+          "18.147325"
+        ],
+        [
+          "58.902019",
+          "18.147204"
+        ],
+        [
+          "58.901843",
+          "18.147250"
+        ],
+        [
+          "58.901689",
+          "18.147351"
+        ],
+        [
+          "58.901646",
+          "18.147429"
+        ],
+        [
+          "58.901633",
+          "18.147510"
+        ],
+        [
+          "58.901667",
+          "18.147097"
+        ],
+        [
+          "58.901340",
+          "18.145772"
+        ],
+        [
+          "58.900523",
+          "18.142968"
+        ],
+        [
+          "58.899480",
+          "18.139588"
+        ],
+        [
+          "58.897453",
+          "18.132326"
+        ],
+        [
+          "58.895261",
+          "18.125975"
+        ],
+        [
+          "58.893209",
+          "18.121719"
+        ],
+        [
+          "58.890247",
+          "18.114513"
+        ],
+        [
+          "58.888251",
+          "18.110911"
+        ],
+        [
+          "58.887240",
+          "18.109155"
+        ],
+        [
+          "58.886199",
+          "18.108646"
+        ],
+        [
+          "58.885102",
+          "18.108455"
+        ],
+        [
+          "58.883568",
+          "18.108548"
+        ],
+        [
+          "58.882333",
+          "18.109131"
+        ],
+        [
+          "58.881769",
+          "18.109681"
+        ],
+        [
+          "58.881221",
+          "18.110596"
+        ],
+        [
+          "58.883040",
+          "18.108539"
+        ],
+        [
+          "58.884702",
+          "18.104797"
+        ],
+        [
+          "58.885079",
+          "18.103986"
+        ],
+        [
+          "58.885313",
+          "18.077295"
+        ],
+        [
+          "58.912873",
+          "17.986120"
+        ],
+        [
+          "58.912402",
+          "17.982768"
+        ],
+        [
+          "58.910156",
+          "17.971087"
+        ],
+        [
+          "58.907476",
+          "17.967073"
+        ],
+        [
+          "58.905417",
+          "17.964103"
+        ],
+        [
+          "58.900762",
+          "17.961842"
+        ],
+        [
+          "58.898413",
+          "17.958689"
+        ],
+        [
+          "58.899481",
+          "17.956903"
+        ],
+        [
+          "58.900218",
+          "17.954002"
+        ],
+        [
+          "58.900794",
+          "17.952821"
+        ]
+      ]
+    }
+  ]
+}

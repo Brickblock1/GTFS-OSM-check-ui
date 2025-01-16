@@ -1,0 +1,164 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011137007500000",
+  "agency_id": "777700000000000001",
+  "route_short_name": "75",
+  "route_long_name": "",
+  "route_type": "100",
+  "route_desc": "",
+  "shapes": [
+    {
+      "shape_id": "4777700000000000018",
+      "trips": [
+        {
+          "trip_id": "777700000000000018",
+          "service_id": "5",
+          "stops": [
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000002001",
+              "stop_name": "G\u00f6teborg Centralstation",
+              "stop_lat": "57.708894",
+              "stop_lon": "11.973478",
+              "location_type": "0",
+              "parent_station": "9021137000002000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000191001",
+              "stop_name": "Trollh\u00e4ttan Centralstation",
+              "stop_lat": "58.287579",
+              "stop_lon": "12.299218",
+              "location_type": "0",
+              "parent_station": "9021137000191000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000039001",
+              "stop_name": "Mellerud station",
+              "stop_lat": "58.701860",
+              "stop_lon": "12.464742",
+              "location_type": "0",
+              "parent_station": "9021137000039000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000076001",
+              "stop_name": "\u00c5m\u00e5l station",
+              "stop_lat": "59.046416",
+              "stop_lon": "12.698150",
+              "location_type": "0",
+              "parent_station": "9021137000076000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000023001",
+              "stop_name": "S\u00e4ffle station",
+              "stop_lat": "59.132229",
+              "stop_lon": "12.916874",
+              "location_type": "0",
+              "parent_station": "9021137000023000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000217001",
+              "stop_name": "Grums station",
+              "stop_lat": "59.352987",
+              "stop_lon": "13.113765",
+              "location_type": "0",
+              "parent_station": "9021137000217000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000206001",
+              "stop_name": "Kil station",
+              "stop_lat": "59.505031",
+              "stop_lon": "13.316341",
+              "location_type": "0",
+              "parent_station": "9021137000206000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000070001",
+              "stop_name": "Karlstad Centralstation",
+              "stop_lat": "59.377797",
+              "stop_lon": "13.499047",
+              "location_type": "0",
+              "parent_station": "9021137000070000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000222001",
+              "stop_name": "Kristinehamn station",
+              "stop_lat": "59.316500",
+              "stop_lon": "14.108292",
+              "location_type": "0",
+              "parent_station": "9021137000222000",
+              "platform_code": "*"
+            }
+          ],
+          "service": {
+            "service_id": "5",
+            "start_date": "20241117",
+            "end_date": "20241208"
+          }
+        }
+      ],
+      "points": [
+        [
+          "57.708894",
+          "11.973478"
+        ],
+        [
+          "58.287579",
+          "12.299218"
+        ],
+        [
+          "58.701860",
+          "12.464742"
+        ],
+        [
+          "59.046416",
+          "12.698150"
+        ],
+        [
+          "59.132229",
+          "12.916874"
+        ],
+        [
+          "59.352987",
+          "13.113765"
+        ],
+        [
+          "59.505031",
+          "13.316341"
+        ],
+        [
+          "59.377797",
+          "13.499047"
+        ],
+        [
+          "59.316500",
+          "14.108292"
+        ]
+      ]
+    }
+  ]
+}

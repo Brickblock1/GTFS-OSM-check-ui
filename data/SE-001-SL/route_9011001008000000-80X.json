@@ -1,0 +1,4449 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011001008000000-80X",
+  "agency_id": "14010000000001001",
+  "route_short_name": "80X",
+  "route_long_name": "",
+  "route_type": "1000",
+  "route_desc": "Pendelb\u00e5t",
+  "shapes": [
+    {
+      "shape_id": "6014010000648286760",
+      "trips": [
+        {
+          "trip_id": "14010000648287438",
+          "service_id": "57",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "57",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000648287382",
+          "service_id": "57",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "57",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000648287424",
+          "service_id": "57",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "57",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000648287452",
+          "service_id": "57",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "57",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000668731341",
+          "service_id": "57",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "57",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000668731370",
+          "service_id": "57",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "57",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000668731354",
+          "service_id": "57",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "57",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000668731327",
+          "service_id": "57",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "57",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.332060",
+          "18.076519"
+        ],
+        [
+          "59.331946",
+          "18.076593"
+        ],
+        [
+          "59.326261",
+          "18.090425"
+        ],
+        [
+          "59.318383",
+          "18.097087"
+        ],
+        [
+          "59.318447",
+          "18.119504"
+        ],
+        [
+          "59.319491",
+          "18.134770"
+        ],
+        [
+          "59.319714",
+          "18.144514"
+        ],
+        [
+          "59.320887",
+          "18.151380"
+        ],
+        [
+          "59.320915",
+          "18.151398"
+        ],
+        [
+          "59.320913",
+          "18.151415"
+        ],
+        [
+          "59.318367",
+          "18.160029"
+        ],
+        [
+          "59.318368",
+          "18.160055"
+        ],
+        [
+          "59.318134",
+          "18.160025"
+        ],
+        [
+          "59.318729",
+          "18.158770"
+        ],
+        [
+          "59.325511",
+          "18.159676"
+        ],
+        [
+          "59.328266",
+          "18.159449"
+        ],
+        [
+          "59.330754",
+          "18.158645"
+        ],
+        [
+          "59.333020",
+          "18.156785"
+        ],
+        [
+          "59.335341",
+          "18.155552"
+        ],
+        [
+          "59.343102",
+          "18.152476"
+        ],
+        [
+          "59.343186",
+          "18.152407"
+        ],
+        [
+          "59.343170",
+          "18.152363"
+        ],
+        [
+          "59.346170",
+          "18.130876"
+        ],
+        [
+          "59.345561",
+          "18.131458"
+        ],
+        [
+          "59.345499",
+          "18.131638"
+        ],
+        [
+          "59.347948",
+          "18.134300"
+        ],
+        [
+          "59.357964",
+          "18.109369"
+        ],
+        [
+          "59.358306",
+          "18.106294"
+        ],
+        [
+          "59.358321",
+          "18.106337"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000648288280",
+      "trips": [
+        {
+          "trip_id": "14010000648288438",
+          "service_id": "515",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "515",
+            "start_date": "20241216",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000648288464",
+          "service_id": "515",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "515",
+            "start_date": "20241216",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000648288451",
+          "service_id": "515",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "515",
+            "start_date": "20241216",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000648288425",
+          "service_id": "515",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "515",
+            "start_date": "20241216",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000668732988",
+          "service_id": "515",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "515",
+            "start_date": "20241216",
+            "end_date": "20250411"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.332060",
+          "18.076519"
+        ],
+        [
+          "59.331997",
+          "18.076486"
+        ],
+        [
+          "59.327147",
+          "18.088630"
+        ],
+        [
+          "59.318595",
+          "18.096817"
+        ],
+        [
+          "59.318030",
+          "18.116386"
+        ],
+        [
+          "59.318336",
+          "18.133111"
+        ],
+        [
+          "59.318903",
+          "18.140588"
+        ],
+        [
+          "59.318335",
+          "18.160002"
+        ],
+        [
+          "59.318368",
+          "18.160055"
+        ],
+        [
+          "59.318134",
+          "18.160025"
+        ],
+        [
+          "59.318729",
+          "18.158770"
+        ],
+        [
+          "59.325511",
+          "18.159676"
+        ],
+        [
+          "59.328266",
+          "18.159449"
+        ],
+        [
+          "59.330754",
+          "18.158645"
+        ],
+        [
+          "59.333020",
+          "18.156785"
+        ],
+        [
+          "59.335341",
+          "18.155552"
+        ],
+        [
+          "59.343102",
+          "18.152476"
+        ],
+        [
+          "59.343186",
+          "18.152407"
+        ],
+        [
+          "59.343170",
+          "18.152363"
+        ],
+        [
+          "59.346170",
+          "18.130876"
+        ],
+        [
+          "59.345561",
+          "18.131458"
+        ],
+        [
+          "59.345499",
+          "18.131638"
+        ],
+        [
+          "59.347948",
+          "18.134300"
+        ],
+        [
+          "59.357964",
+          "18.109369"
+        ],
+        [
+          "59.358306",
+          "18.106294"
+        ],
+        [
+          "59.358321",
+          "18.106337"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000445735524",
+      "trips": [
+        {
+          "trip_id": "14010000660073123",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000660073143",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000660073213",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000660073133",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000660073163",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000660073183",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000660073203",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000660073193",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000660073223",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000660073153",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000660073173",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000665212214",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000665212232",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000665212299",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000665212280",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000665212205",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000665212241",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000665212260",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000665212223",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000665212250",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000665212270",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000665212290",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.332060",
+          "18.076519"
+        ],
+        [
+          "59.331997",
+          "18.076486"
+        ],
+        [
+          "59.327147",
+          "18.088630"
+        ],
+        [
+          "59.318595",
+          "18.096817"
+        ],
+        [
+          "59.318030",
+          "18.116386"
+        ],
+        [
+          "59.318336",
+          "18.133111"
+        ],
+        [
+          "59.318903",
+          "18.140588"
+        ],
+        [
+          "59.318335",
+          "18.160002"
+        ],
+        [
+          "59.318368",
+          "18.160055"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000452573021",
+      "trips": [
+        {
+          "trip_id": "14010000666871667",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666871678",
+          "service_id": "53",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "53",
+            "start_date": "20241115",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666872053",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666872108",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666872130",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666872152",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666872174",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666872185",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666871612",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666871726",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666872086",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666872119",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666872141",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666872163",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000667461803",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000667462359",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000667462381",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000667462392",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000667462403",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000667462436",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000667462449",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000666871634",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666871691",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000667461814",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000667461836",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000667462370",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000666871704",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666871715",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666872064",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666872075",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666872097",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000666872196",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000667461825",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000667462414",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000667462460",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000667461847",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000667462425",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.318368",
+          "18.160055"
+        ],
+        [
+          "59.318335",
+          "18.160041"
+        ],
+        [
+          "59.318702",
+          "18.158652"
+        ],
+        [
+          "59.318746",
+          "18.138150"
+        ],
+        [
+          "59.318274",
+          "18.133259"
+        ],
+        [
+          "59.317714",
+          "18.113164"
+        ],
+        [
+          "59.318613",
+          "18.096896"
+        ],
+        [
+          "59.326477",
+          "18.089531"
+        ],
+        [
+          "59.332037",
+          "18.076451"
+        ],
+        [
+          "59.332060",
+          "18.076519"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000648286820",
+      "trips": [
+        {
+          "trip_id": "14010000668731811",
+          "service_id": "57",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "57",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000668731871",
+          "service_id": "60",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "60",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000668731918",
+          "service_id": "60",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "60",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000668733539",
+          "service_id": "515",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "515",
+            "start_date": "20241216",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000668733569",
+          "service_id": "515",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "515",
+            "start_date": "20241216",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000668733599",
+          "service_id": "515",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "515",
+            "start_date": "20241216",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000668731826",
+          "service_id": "57",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "57",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000668731887",
+          "service_id": "60",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "60",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000668731934",
+          "service_id": "60",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "60",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000668731841",
+          "service_id": "57",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "57",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000668731856",
+          "service_id": "57",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "57",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000668731903",
+          "service_id": "57",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "57",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000668733554",
+          "service_id": "515",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "515",
+            "start_date": "20241216",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000668733584",
+          "service_id": "515",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001008041001",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.358321",
+              "stop_lon": "18.106337",
+              "location_type": "0",
+              "parent_station": "9021001008041000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008007001",
+              "stop_name": "Frihamnen",
+              "stop_lat": "59.345561",
+              "stop_lon": "18.131458",
+              "location_type": "0",
+              "parent_station": "9021001008007000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008005001",
+              "stop_name": "Liding\u00f6/Dal\u00e9num",
+              "stop_lat": "59.343186",
+              "stop_lon": "18.152407",
+              "location_type": "0",
+              "parent_station": "9021001008005000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008003001",
+              "stop_name": "Nacka strand",
+              "stop_lat": "59.318368",
+              "stop_lon": "18.160055",
+              "location_type": "0",
+              "parent_station": "9021001008003000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001008006001",
+              "stop_name": "Blockhusudden",
+              "stop_lat": "59.320915",
+              "stop_lon": "18.151398",
+              "location_type": "0",
+              "parent_station": "9021001008006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001008000001",
+              "stop_name": "Nybroplan",
+              "stop_lat": "59.332060",
+              "stop_lon": "18.076519",
+              "location_type": "0",
+              "parent_station": "9021001008000000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "515",
+            "start_date": "20241216",
+            "end_date": "20250411"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.358321",
+          "18.106337"
+        ],
+        [
+          "59.358324",
+          "18.106319"
+        ],
+        [
+          "59.357970",
+          "18.109393"
+        ],
+        [
+          "59.348359",
+          "18.133215"
+        ],
+        [
+          "59.345582",
+          "18.131478"
+        ],
+        [
+          "59.345561",
+          "18.131458"
+        ],
+        [
+          "59.346173",
+          "18.130959"
+        ],
+        [
+          "59.343114",
+          "18.152348"
+        ],
+        [
+          "59.343186",
+          "18.152407"
+        ],
+        [
+          "59.343066",
+          "18.152473"
+        ],
+        [
+          "59.340892",
+          "18.153444"
+        ],
+        [
+          "59.338897",
+          "18.154295"
+        ],
+        [
+          "59.335765",
+          "18.155522"
+        ],
+        [
+          "59.332733",
+          "18.156966"
+        ],
+        [
+          "59.331042",
+          "18.158396"
+        ],
+        [
+          "59.329906",
+          "18.158704"
+        ],
+        [
+          "59.327201",
+          "18.159764"
+        ],
+        [
+          "59.325052",
+          "18.159702"
+        ],
+        [
+          "59.323084",
+          "18.159450"
+        ],
+        [
+          "59.319390",
+          "18.159107"
+        ],
+        [
+          "59.318511",
+          "18.159025"
+        ],
+        [
+          "59.318167",
+          "18.160097"
+        ],
+        [
+          "59.318368",
+          "18.160055"
+        ],
+        [
+          "59.318357",
+          "18.160054"
+        ],
+        [
+          "59.320913",
+          "18.151380"
+        ],
+        [
+          "59.320915",
+          "18.151398"
+        ],
+        [
+          "59.320910",
+          "18.151389"
+        ],
+        [
+          "59.319679",
+          "18.153513"
+        ],
+        [
+          "59.319584",
+          "18.133427"
+        ],
+        [
+          "59.318133",
+          "18.113183"
+        ],
+        [
+          "59.318573",
+          "18.096935"
+        ],
+        [
+          "59.326618",
+          "18.089504"
+        ],
+        [
+          "59.332065",
+          "18.076529"
+        ],
+        [
+          "59.332060",
+          "18.076519"
+        ]
+      ]
+    }
+  ]
+}

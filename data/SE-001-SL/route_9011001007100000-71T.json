@@ -1,0 +1,5294 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011001007100000-71T",
+  "agency_id": "14010000000001001",
+  "route_short_name": "71T",
+  "route_long_name": "",
+  "route_type": "700",
+  "route_desc": "",
+  "shapes": [
+    {
+      "shape_id": "1014010000670555406",
+      "trips": [
+        {
+          "trip_id": "14010000670555533",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670555571",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670555650",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670555690",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670555738",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670556029",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670556070",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556110",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556182",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556258",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556373",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556449",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556682",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556717",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556960",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670557005",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670557099",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670557759",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670555839",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670555983",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670556223",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556295",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556527",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556565",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556793",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556835",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670557290",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670557478",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670557650",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670557689",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670557825",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670555608",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670555788",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670555887",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670555937",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670556144",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556335",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556642",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670557149",
+          "service_id": "511",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "511",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670557244",
+          "service_id": "511",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "511",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670557384",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670557431",
+          "service_id": "511",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "511",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670557527",
+          "service_id": "511",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "511",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670557565",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670557607",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670557792",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000670556409",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556488",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556602",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556755",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556874",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670556916",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670557051",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670557199",
+          "service_id": "512",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "512",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670557339",
+          "service_id": "511",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "511",
+            "start_date": "20241115",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000670557725",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010595006",
+              "stop_name": "Henriksdal",
+              "stop_lat": "59.312590",
+              "stop_lon": "18.108156",
+              "location_type": "0",
+              "parent_station": "9021001010595000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591005",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314588",
+              "stop_lon": "18.098027",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001011002010",
+              "stop_name": "Slussen",
+              "stop_lat": "59.320094",
+              "stop_lon": "18.070981",
+              "location_type": "0",
+              "parent_station": "9021001011002000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010130004",
+              "stop_name": "Medborgarplatsen",
+              "stop_lat": "59.313992",
+              "stop_lon": "18.072178",
+              "location_type": "0",
+              "parent_station": "9021001010130000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001010591001",
+              "stop_name": "Londonviadukten",
+              "stop_lat": "59.314965",
+              "stop_lon": "18.095871",
+              "location_type": "0",
+              "parent_station": "9021001010591000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010599001",
+              "stop_name": "Henriksdalsviadukten",
+              "stop_lat": "59.311949",
+              "stop_lon": "18.109802",
+              "location_type": "0",
+              "parent_station": "9021001010599000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.312590",
+          "18.108156"
+        ],
+        [
+          "59.312547",
+          "18.108056"
+        ],
+        [
+          "59.312706",
+          "18.107822"
+        ],
+        [
+          "59.312837",
+          "18.107285"
+        ],
+        [
+          "59.313017",
+          "18.106882"
+        ],
+        [
+          "59.313460",
+          "18.105774"
+        ],
+        [
+          "59.313597",
+          "18.105538"
+        ],
+        [
+          "59.313959",
+          "18.104148"
+        ],
+        [
+          "59.314029",
+          "18.103598"
+        ],
+        [
+          "59.314023",
+          "18.103477"
+        ],
+        [
+          "59.314105",
+          "18.102259"
+        ],
+        [
+          "59.314097",
+          "18.101101"
+        ],
+        [
+          "59.314100",
+          "18.100073"
+        ],
+        [
+          "59.314184",
+          "18.099498"
+        ],
+        [
+          "59.314481",
+          "18.098231"
+        ],
+        [
+          "59.314607",
+          "18.097719"
+        ],
+        [
+          "59.314588",
+          "18.098027"
+        ],
+        [
+          "59.314604",
+          "18.097730"
+        ],
+        [
+          "59.314709",
+          "18.097322"
+        ],
+        [
+          "59.315044",
+          "18.096121"
+        ],
+        [
+          "59.315120",
+          "18.095904"
+        ],
+        [
+          "59.315184",
+          "18.095742"
+        ],
+        [
+          "59.315263",
+          "18.095600"
+        ],
+        [
+          "59.315302",
+          "18.095530"
+        ],
+        [
+          "59.315399",
+          "18.095379"
+        ],
+        [
+          "59.315364",
+          "18.095095"
+        ],
+        [
+          "59.315359",
+          "18.094844"
+        ],
+        [
+          "59.315357",
+          "18.094812"
+        ],
+        [
+          "59.315365",
+          "18.094413"
+        ],
+        [
+          "59.315392",
+          "18.094015"
+        ],
+        [
+          "59.315425",
+          "18.093656"
+        ],
+        [
+          "59.315473",
+          "18.093122"
+        ],
+        [
+          "59.315474",
+          "18.093104"
+        ],
+        [
+          "59.315494",
+          "18.092915"
+        ],
+        [
+          "59.315579",
+          "18.092108"
+        ],
+        [
+          "59.315618",
+          "18.091744"
+        ],
+        [
+          "59.315638",
+          "18.091564"
+        ],
+        [
+          "59.315629",
+          "18.089958"
+        ],
+        [
+          "59.315625",
+          "18.089724"
+        ],
+        [
+          "59.315611",
+          "18.088899"
+        ],
+        [
+          "59.315605",
+          "18.088583"
+        ],
+        [
+          "59.315600",
+          "18.088292"
+        ],
+        [
+          "59.315565",
+          "18.086292"
+        ],
+        [
+          "59.315564",
+          "18.086269"
+        ],
+        [
+          "59.315547",
+          "18.085997"
+        ],
+        [
+          "59.315545",
+          "18.085854"
+        ],
+        [
+          "59.315526",
+          "18.084045"
+        ],
+        [
+          "59.315523",
+          "18.083799"
+        ],
+        [
+          "59.315588",
+          "18.083769"
+        ],
+        [
+          "59.315633",
+          "18.083749"
+        ],
+        [
+          "59.315746",
+          "18.083696"
+        ],
+        [
+          "59.316112",
+          "18.083527"
+        ],
+        [
+          "59.316197",
+          "18.083485"
+        ],
+        [
+          "59.316641",
+          "18.083265"
+        ],
+        [
+          "59.316730",
+          "18.083221"
+        ],
+        [
+          "59.317384",
+          "18.082896"
+        ],
+        [
+          "59.317532",
+          "18.082822"
+        ],
+        [
+          "59.317609",
+          "18.082761"
+        ],
+        [
+          "59.317623",
+          "18.082734"
+        ],
+        [
+          "59.317663",
+          "18.082653"
+        ],
+        [
+          "59.317709",
+          "18.082542"
+        ],
+        [
+          "59.317732",
+          "18.082431"
+        ],
+        [
+          "59.317894",
+          "18.081637"
+        ],
+        [
+          "59.318157",
+          "18.080454"
+        ],
+        [
+          "59.318542",
+          "18.078808"
+        ],
+        [
+          "59.318627",
+          "18.078413"
+        ],
+        [
+          "59.318666",
+          "18.078226"
+        ],
+        [
+          "59.318698",
+          "18.078053"
+        ],
+        [
+          "59.318719",
+          "18.077929"
+        ],
+        [
+          "59.318724",
+          "18.077890"
+        ],
+        [
+          "59.318740",
+          "18.077769"
+        ],
+        [
+          "59.318768",
+          "18.077473"
+        ],
+        [
+          "59.318851",
+          "18.076553"
+        ],
+        [
+          "59.318880",
+          "18.076104"
+        ],
+        [
+          "59.318890",
+          "18.075951"
+        ],
+        [
+          "59.318904",
+          "18.075786"
+        ],
+        [
+          "59.318952",
+          "18.075246"
+        ],
+        [
+          "59.318962",
+          "18.075124"
+        ],
+        [
+          "59.318968",
+          "18.075059"
+        ],
+        [
+          "59.318998",
+          "18.074719"
+        ],
+        [
+          "59.319053",
+          "18.074091"
+        ],
+        [
+          "59.319068",
+          "18.073919"
+        ],
+        [
+          "59.319110",
+          "18.073646"
+        ],
+        [
+          "59.319178",
+          "18.073338"
+        ],
+        [
+          "59.319251",
+          "18.073026"
+        ],
+        [
+          "59.319309",
+          "18.072833"
+        ],
+        [
+          "59.319389",
+          "18.072737"
+        ],
+        [
+          "59.319447",
+          "18.072661"
+        ],
+        [
+          "59.319589",
+          "18.072589"
+        ],
+        [
+          "59.319756",
+          "18.072504"
+        ],
+        [
+          "59.319918",
+          "18.072422"
+        ],
+        [
+          "59.319936",
+          "18.072413"
+        ],
+        [
+          "59.320117",
+          "18.072321"
+        ],
+        [
+          "59.320156",
+          "18.072301"
+        ],
+        [
+          "59.320189",
+          "18.072282"
+        ],
+        [
+          "59.320214",
+          "18.072269"
+        ],
+        [
+          "59.320248",
+          "18.072250"
+        ],
+        [
+          "59.320202",
+          "18.072078"
+        ],
+        [
+          "59.320186",
+          "18.072015"
+        ],
+        [
+          "59.320148",
+          "18.071735"
+        ],
+        [
+          "59.320087",
+          "18.071462"
+        ],
+        [
+          "59.320019",
+          "18.071019"
+        ],
+        [
+          "59.320094",
+          "18.070981"
+        ],
+        [
+          "59.320050",
+          "18.071004"
+        ],
+        [
+          "59.320032",
+          "18.070869"
+        ],
+        [
+          "59.319999",
+          "18.070625"
+        ],
+        [
+          "59.319981",
+          "18.070550"
+        ],
+        [
+          "59.319960",
+          "18.070484"
+        ],
+        [
+          "59.319931",
+          "18.070426"
+        ],
+        [
+          "59.319918",
+          "18.070398"
+        ],
+        [
+          "59.319882",
+          "18.070333"
+        ],
+        [
+          "59.319848",
+          "18.070237"
+        ],
+        [
+          "59.319833",
+          "18.070169"
+        ],
+        [
+          "59.319774",
+          "18.069743"
+        ],
+        [
+          "59.319716",
+          "18.069274"
+        ],
+        [
+          "59.319628",
+          "18.068589"
+        ],
+        [
+          "59.319570",
+          "18.068621"
+        ],
+        [
+          "59.319520",
+          "18.068647"
+        ],
+        [
+          "59.318807",
+          "18.069028"
+        ],
+        [
+          "59.318507",
+          "18.069216"
+        ],
+        [
+          "59.318069",
+          "18.069618"
+        ],
+        [
+          "59.317493",
+          "18.069888"
+        ],
+        [
+          "59.317044",
+          "18.070123"
+        ],
+        [
+          "59.316741",
+          "18.070260"
+        ],
+        [
+          "59.316327",
+          "18.070341"
+        ],
+        [
+          "59.315979",
+          "18.070448"
+        ],
+        [
+          "59.315754",
+          "18.070529"
+        ],
+        [
+          "59.315591",
+          "18.070591"
+        ],
+        [
+          "59.315385",
+          "18.070689"
+        ],
+        [
+          "59.315288",
+          "18.070740"
+        ],
+        [
+          "59.315170",
+          "18.070803"
+        ],
+        [
+          "59.315026",
+          "18.070873"
+        ],
+        [
+          "59.314863",
+          "18.070946"
+        ],
+        [
+          "59.314711",
+          "18.071020"
+        ],
+        [
+          "59.314606",
+          "18.071069"
+        ],
+        [
+          "59.314525",
+          "18.071115"
+        ],
+        [
+          "59.314334",
+          "18.071257"
+        ],
+        [
+          "59.314285",
+          "18.071283"
+        ],
+        [
+          "59.314201",
+          "18.071320"
+        ],
+        [
+          "59.314117",
+          "18.071362"
+        ],
+        [
+          "59.314038",
+          "18.071407"
+        ],
+        [
+          "59.313981",
+          "18.071454"
+        ],
+        [
+          "59.313956",
+          "18.071515"
+        ],
+        [
+          "59.313948",
+          "18.071583"
+        ],
+        [
+          "59.313955",
+          "18.071681"
+        ],
+        [
+          "59.313973",
+          "18.071836"
+        ],
+        [
+          "59.314010",
+          "18.072163"
+        ],
+        [
+          "59.314018",
+          "18.072232"
+        ],
+        [
+          "59.314143",
+          "18.073188"
+        ],
+        [
+          "59.314152",
+          "18.073254"
+        ],
+        [
+          "59.314180",
+          "18.073328"
+        ],
+        [
+          "59.314213",
+          "18.073418"
+        ],
+        [
+          "59.314224",
+          "18.073504"
+        ],
+        [
+          "59.314244",
+          "18.073668"
+        ],
+        [
+          "59.314562",
+          "18.076287"
+        ],
+        [
+          "59.314583",
+          "18.076460"
+        ],
+        [
+          "59.314604",
+          "18.076619"
+        ],
+        [
+          "59.314979",
+          "18.079530"
+        ],
+        [
+          "59.315004",
+          "18.079725"
+        ],
+        [
+          "59.315190",
+          "18.081168"
+        ],
+        [
+          "59.315215",
+          "18.081367"
+        ],
+        [
+          "59.315239",
+          "18.081557"
+        ],
+        [
+          "59.315488",
+          "18.083518"
+        ],
+        [
+          "59.315523",
+          "18.083800"
+        ],
+        [
+          "59.315526",
+          "18.084045"
+        ],
+        [
+          "59.315546",
+          "18.085854"
+        ],
+        [
+          "59.315548",
+          "18.085998"
+        ],
+        [
+          "59.315565",
+          "18.086269"
+        ],
+        [
+          "59.315566",
+          "18.086292"
+        ],
+        [
+          "59.315601",
+          "18.088293"
+        ],
+        [
+          "59.315606",
+          "18.088583"
+        ],
+        [
+          "59.315626",
+          "18.089724"
+        ],
+        [
+          "59.315630",
+          "18.089959"
+        ],
+        [
+          "59.315638",
+          "18.091564"
+        ],
+        [
+          "59.315619",
+          "18.091744"
+        ],
+        [
+          "59.315580",
+          "18.092108"
+        ],
+        [
+          "59.315475",
+          "18.093104"
+        ],
+        [
+          "59.315473",
+          "18.093122"
+        ],
+        [
+          "59.315425",
+          "18.093656"
+        ],
+        [
+          "59.315393",
+          "18.094015"
+        ],
+        [
+          "59.315365",
+          "18.094414"
+        ],
+        [
+          "59.315358",
+          "18.094813"
+        ],
+        [
+          "59.315360",
+          "18.094845"
+        ],
+        [
+          "59.315365",
+          "18.095096"
+        ],
+        [
+          "59.315229",
+          "18.095286"
+        ],
+        [
+          "59.315203",
+          "18.095319"
+        ],
+        [
+          "59.315111",
+          "18.095473"
+        ],
+        [
+          "59.315071",
+          "18.095562"
+        ],
+        [
+          "59.314993",
+          "18.095772"
+        ],
+        [
+          "59.314981",
+          "18.095818"
+        ],
+        [
+          "59.314634",
+          "18.097127"
+        ],
+        [
+          "59.314487",
+          "18.097653"
+        ],
+        [
+          "59.314280",
+          "18.098418"
+        ],
+        [
+          "59.314176",
+          "18.098812"
+        ],
+        [
+          "59.314135",
+          "18.098970"
+        ],
+        [
+          "59.314117",
+          "18.099047"
+        ],
+        [
+          "59.314038",
+          "18.099393"
+        ],
+        [
+          "59.313986",
+          "18.099762"
+        ],
+        [
+          "59.313968",
+          "18.100072"
+        ],
+        [
+          "59.313956",
+          "18.100603"
+        ],
+        [
+          "59.313982",
+          "18.101194"
+        ],
+        [
+          "59.313986",
+          "18.101907"
+        ],
+        [
+          "59.313978",
+          "18.102279"
+        ],
+        [
+          "59.313971",
+          "18.102580"
+        ],
+        [
+          "59.313952",
+          "18.103053"
+        ],
+        [
+          "59.313925",
+          "18.103380"
+        ],
+        [
+          "59.313886",
+          "18.103683"
+        ],
+        [
+          "59.313842",
+          "18.103920"
+        ],
+        [
+          "59.313720",
+          "18.104393"
+        ],
+        [
+          "59.313573",
+          "18.104964"
+        ],
+        [
+          "59.313569",
+          "18.104980"
+        ],
+        [
+          "59.313411",
+          "18.105482"
+        ],
+        [
+          "59.313318",
+          "18.105714"
+        ],
+        [
+          "59.313230",
+          "18.105916"
+        ],
+        [
+          "59.312949",
+          "18.106503"
+        ],
+        [
+          "59.312848",
+          "18.106710"
+        ],
+        [
+          "59.312761",
+          "18.106872"
+        ],
+        [
+          "59.312647",
+          "18.107055"
+        ],
+        [
+          "59.312578",
+          "18.107150"
+        ],
+        [
+          "59.312449",
+          "18.107285"
+        ],
+        [
+          "59.312267",
+          "18.107417"
+        ],
+        [
+          "59.312148",
+          "18.107497"
+        ],
+        [
+          "59.312012",
+          "18.107554"
+        ],
+        [
+          "59.311931",
+          "18.107590"
+        ],
+        [
+          "59.311770",
+          "18.107570"
+        ],
+        [
+          "59.311678",
+          "18.107559"
+        ],
+        [
+          "59.311623",
+          "18.107549"
+        ],
+        [
+          "59.311586",
+          "18.107542"
+        ],
+        [
+          "59.311585",
+          "18.107687"
+        ],
+        [
+          "59.311584",
+          "18.107831"
+        ],
+        [
+          "59.311578",
+          "18.108012"
+        ],
+        [
+          "59.311569",
+          "18.108287"
+        ],
+        [
+          "59.311568",
+          "18.108304"
+        ],
+        [
+          "59.311578",
+          "18.108485"
+        ],
+        [
+          "59.311595",
+          "18.108585"
+        ],
+        [
+          "59.311604",
+          "18.108641"
+        ],
+        [
+          "59.311632",
+          "18.108744"
+        ],
+        [
+          "59.311676",
+          "18.108901"
+        ],
+        [
+          "59.311897",
+          "18.109600"
+        ],
+        [
+          "59.311967",
+          "18.109826"
+        ],
+        [
+          "59.311949",
+          "18.109802"
+        ]
+      ]
+    }
+  ]
+}

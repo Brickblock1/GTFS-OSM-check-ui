@@ -1,0 +1,623 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011137007600000",
+  "agency_id": "777700000000000001",
+  "route_short_name": "76",
+  "route_long_name": "",
+  "route_type": "100",
+  "route_desc": "",
+  "shapes": [
+    {
+      "shape_id": "4777700000000000030",
+      "trips": [
+        {
+          "trip_id": "777700000000000030",
+          "service_id": "5",
+          "stops": [
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000030001",
+              "stop_name": "Falun Centralstation",
+              "stop_lat": "60.603289",
+              "stop_lon": "15.641624",
+              "location_type": "0",
+              "parent_station": "9021137000030000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000160001",
+              "stop_name": "Borl\u00e4nge Centralstation",
+              "stop_lat": "60.483535",
+              "stop_lon": "15.425840",
+              "location_type": "0",
+              "parent_station": "9021137000160000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000291001",
+              "stop_name": "Ludvika station",
+              "stop_lat": "60.149828",
+              "stop_lon": "15.182648",
+              "location_type": "0",
+              "parent_station": "9021137000291000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000162001",
+              "stop_name": "Gr\u00e4ngesberg station",
+              "stop_lat": "60.076395",
+              "stop_lon": "15.005463",
+              "location_type": "0",
+              "parent_station": "9021137000162000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000638001",
+              "stop_name": "St\u00e4lldalen station",
+              "stop_lat": "59.933651",
+              "stop_lon": "14.943210",
+              "location_type": "0",
+              "parent_station": "9021137000638000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000419001",
+              "stop_name": "H\u00e4llefors station",
+              "stop_lat": "59.782636",
+              "stop_lon": "14.518613",
+              "location_type": "0",
+              "parent_station": "9021137000419000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000482001",
+              "stop_name": "Grythyttan station",
+              "stop_lat": "59.704246",
+              "stop_lon": "14.530401",
+              "location_type": "0",
+              "parent_station": "9021137000482000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "0",
+              "stop_id": "9022137000206001",
+              "stop_name": "Kil station",
+              "stop_lat": "59.505031",
+              "stop_lon": "13.316341",
+              "location_type": "0",
+              "parent_station": "9021137000206000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "0",
+              "stop_id": "9022137000070001",
+              "stop_name": "Karlstad Centralstation",
+              "stop_lat": "59.377797",
+              "stop_lon": "13.499047",
+              "location_type": "0",
+              "parent_station": "9021137000070000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000222001",
+              "stop_name": "Kristinehamn station",
+              "stop_lat": "59.316500",
+              "stop_lon": "14.108292",
+              "location_type": "0",
+              "parent_station": "9021137000222000",
+              "platform_code": "*"
+            }
+          ],
+          "service": {
+            "service_id": "5",
+            "start_date": "20241117",
+            "end_date": "20241208"
+          }
+        }
+      ],
+      "points": [
+        [
+          "60.603289",
+          "15.641624"
+        ],
+        [
+          "60.483535",
+          "15.425840"
+        ],
+        [
+          "60.149828",
+          "15.182648"
+        ],
+        [
+          "60.076395",
+          "15.005463"
+        ],
+        [
+          "59.933651",
+          "14.943210"
+        ],
+        [
+          "59.782636",
+          "14.518613"
+        ],
+        [
+          "59.704246",
+          "14.530401"
+        ],
+        [
+          "59.505031",
+          "13.316341"
+        ],
+        [
+          "59.377797",
+          "13.499047"
+        ],
+        [
+          "59.316500",
+          "14.108292"
+        ]
+      ]
+    },
+    {
+      "shape_id": "4777700000000000067",
+      "trips": [
+        {
+          "trip_id": "777700000000000067",
+          "service_id": "29",
+          "stops": [
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000030001",
+              "stop_name": "Falun Centralstation",
+              "stop_lat": "60.603289",
+              "stop_lon": "15.641624",
+              "location_type": "0",
+              "parent_station": "9021137000030000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000160001",
+              "stop_name": "Borl\u00e4nge Centralstation",
+              "stop_lat": "60.483535",
+              "stop_lon": "15.425840",
+              "location_type": "0",
+              "parent_station": "9021137000160000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000291001",
+              "stop_name": "Ludvika station",
+              "stop_lat": "60.149828",
+              "stop_lon": "15.182648",
+              "location_type": "0",
+              "parent_station": "9021137000291000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000162001",
+              "stop_name": "Gr\u00e4ngesberg station",
+              "stop_lat": "60.076395",
+              "stop_lon": "15.005463",
+              "location_type": "0",
+              "parent_station": "9021137000162000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000638001",
+              "stop_name": "St\u00e4lldalen station",
+              "stop_lat": "59.933651",
+              "stop_lon": "14.943210",
+              "location_type": "0",
+              "parent_station": "9021137000638000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000419001",
+              "stop_name": "H\u00e4llefors station",
+              "stop_lat": "59.782636",
+              "stop_lon": "14.518613",
+              "location_type": "0",
+              "parent_station": "9021137000419000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000482001",
+              "stop_name": "Grythyttan station",
+              "stop_lat": "59.704246",
+              "stop_lon": "14.530401",
+              "location_type": "0",
+              "parent_station": "9021137000482000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000206001",
+              "stop_name": "Kil station",
+              "stop_lat": "59.505031",
+              "stop_lon": "13.316341",
+              "location_type": "0",
+              "parent_station": "9021137000206000",
+              "platform_code": "*"
+            }
+          ],
+          "service": {
+            "service_id": "29",
+            "start_date": "20241222",
+            "end_date": "20250323"
+          }
+        }
+      ],
+      "points": [
+        [
+          "60.603289",
+          "15.641624"
+        ],
+        [
+          "60.483535",
+          "15.425840"
+        ],
+        [
+          "60.149828",
+          "15.182648"
+        ],
+        [
+          "60.076395",
+          "15.005463"
+        ],
+        [
+          "59.933651",
+          "14.943210"
+        ],
+        [
+          "59.782636",
+          "14.518613"
+        ],
+        [
+          "59.704246",
+          "14.530401"
+        ],
+        [
+          "59.505031",
+          "13.316341"
+        ]
+      ]
+    },
+    {
+      "shape_id": "4777700000000000026",
+      "trips": [
+        {
+          "trip_id": "777700000000000026",
+          "service_id": "5",
+          "stops": [
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000222001",
+              "stop_name": "Kristinehamn station",
+              "stop_lat": "59.316500",
+              "stop_lon": "14.108292",
+              "location_type": "0",
+              "parent_station": "9021137000222000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000347001",
+              "stop_name": "Storfors station",
+              "stop_lat": "59.533168",
+              "stop_lon": "14.271408",
+              "location_type": "0",
+              "parent_station": "9021137000347000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000816001",
+              "stop_name": "Nykroppa station",
+              "stop_lat": "59.623839",
+              "stop_lon": "14.307433",
+              "location_type": "0",
+              "parent_station": "9021137000816000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000482001",
+              "stop_name": "Grythyttan station",
+              "stop_lat": "59.704246",
+              "stop_lon": "14.530401",
+              "location_type": "0",
+              "parent_station": "9021137000482000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000419001",
+              "stop_name": "H\u00e4llefors station",
+              "stop_lat": "59.782636",
+              "stop_lon": "14.518613",
+              "location_type": "0",
+              "parent_station": "9021137000419000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000638001",
+              "stop_name": "St\u00e4lldalen station",
+              "stop_lat": "59.933651",
+              "stop_lon": "14.943210",
+              "location_type": "0",
+              "parent_station": "9021137000638000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000162001",
+              "stop_name": "Gr\u00e4ngesberg station",
+              "stop_lat": "60.076395",
+              "stop_lon": "15.005463",
+              "location_type": "0",
+              "parent_station": "9021137000162000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000291001",
+              "stop_name": "Ludvika station",
+              "stop_lat": "60.149828",
+              "stop_lon": "15.182648",
+              "location_type": "0",
+              "parent_station": "9021137000291000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000160001",
+              "stop_name": "Borl\u00e4nge Centralstation",
+              "stop_lat": "60.483535",
+              "stop_lon": "15.425840",
+              "location_type": "0",
+              "parent_station": "9021137000160000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000030001",
+              "stop_name": "Falun Centralstation",
+              "stop_lat": "60.603289",
+              "stop_lon": "15.641624",
+              "location_type": "0",
+              "parent_station": "9021137000030000",
+              "platform_code": "*"
+            }
+          ],
+          "service": {
+            "service_id": "5",
+            "start_date": "20241117",
+            "end_date": "20241208"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.316500",
+          "14.108292"
+        ],
+        [
+          "59.533168",
+          "14.271408"
+        ],
+        [
+          "59.623839",
+          "14.307433"
+        ],
+        [
+          "59.704246",
+          "14.530401"
+        ],
+        [
+          "59.782636",
+          "14.518613"
+        ],
+        [
+          "59.933651",
+          "14.943210"
+        ],
+        [
+          "60.076395",
+          "15.005463"
+        ],
+        [
+          "60.149828",
+          "15.182648"
+        ],
+        [
+          "60.483535",
+          "15.425840"
+        ],
+        [
+          "60.603289",
+          "15.641624"
+        ]
+      ]
+    },
+    {
+      "shape_id": "4777700000000000064",
+      "trips": [
+        {
+          "trip_id": "777700000000000064",
+          "service_id": "16",
+          "stops": [
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000222001",
+              "stop_name": "Kristinehamn station",
+              "stop_lat": "59.316500",
+              "stop_lon": "14.108292",
+              "location_type": "0",
+              "parent_station": "9021137000222000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000070001",
+              "stop_name": "Karlstad Centralstation",
+              "stop_lat": "59.377797",
+              "stop_lon": "13.499047",
+              "location_type": "0",
+              "parent_station": "9021137000070000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000206001",
+              "stop_name": "Kil station",
+              "stop_lat": "59.505031",
+              "stop_lon": "13.316341",
+              "location_type": "0",
+              "parent_station": "9021137000206000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000482001",
+              "stop_name": "Grythyttan station",
+              "stop_lat": "59.704246",
+              "stop_lon": "14.530401",
+              "location_type": "0",
+              "parent_station": "9021137000482000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000419001",
+              "stop_name": "H\u00e4llefors station",
+              "stop_lat": "59.782636",
+              "stop_lon": "14.518613",
+              "location_type": "0",
+              "parent_station": "9021137000419000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000291001",
+              "stop_name": "Ludvika station",
+              "stop_lat": "60.149828",
+              "stop_lon": "15.182648",
+              "location_type": "0",
+              "parent_station": "9021137000291000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000160001",
+              "stop_name": "Borl\u00e4nge Centralstation",
+              "stop_lat": "60.483535",
+              "stop_lon": "15.425840",
+              "location_type": "0",
+              "parent_station": "9021137000160000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000030001",
+              "stop_name": "Falun Centralstation",
+              "stop_lat": "60.603289",
+              "stop_lon": "15.641624",
+              "location_type": "0",
+              "parent_station": "9021137000030000",
+              "platform_code": "*"
+            }
+          ],
+          "service": {
+            "service_id": "16",
+            "start_date": "20241221",
+            "end_date": "20250322"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.316500",
+          "14.108292"
+        ],
+        [
+          "59.377797",
+          "13.499047"
+        ],
+        [
+          "59.505031",
+          "13.316341"
+        ],
+        [
+          "59.704246",
+          "14.530401"
+        ],
+        [
+          "59.782636",
+          "14.518613"
+        ],
+        [
+          "60.149828",
+          "15.182648"
+        ],
+        [
+          "60.483535",
+          "15.425840"
+        ],
+        [
+          "60.603289",
+          "15.641624"
+        ]
+      ]
+    }
+  ]
+}

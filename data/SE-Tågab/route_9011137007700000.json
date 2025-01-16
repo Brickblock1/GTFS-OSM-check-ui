@@ -1,0 +1,1238 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011137007700000",
+  "agency_id": "777700000000000001",
+  "route_short_name": "77",
+  "route_long_name": "",
+  "route_type": "100",
+  "route_desc": "",
+  "shapes": [
+    {
+      "shape_id": "4777700000000000001",
+      "trips": [
+        {
+          "trip_id": "777700000000000001",
+          "service_id": "3",
+          "stops": [
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000206001",
+              "stop_name": "Kil station",
+              "stop_lat": "59.505031",
+              "stop_lon": "13.316341",
+              "location_type": "0",
+              "parent_station": "9021137000206000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000070001",
+              "stop_name": "Karlstad Centralstation",
+              "stop_lat": "59.377797",
+              "stop_lon": "13.499047",
+              "location_type": "0",
+              "parent_station": "9021137000070000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000222001",
+              "stop_name": "Kristinehamn station",
+              "stop_lat": "59.316500",
+              "stop_lon": "14.108292",
+              "location_type": "0",
+              "parent_station": "9021137000222000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000129001",
+              "stop_name": "Degerfors station",
+              "stop_lat": "59.229130",
+              "stop_lon": "14.439840",
+              "location_type": "0",
+              "parent_station": "9021137000129000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000077001",
+              "stop_name": "Hallsberg station",
+              "stop_lat": "59.067102",
+              "stop_lon": "15.110379",
+              "location_type": "0",
+              "parent_station": "9021137000077000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000180001",
+              "stop_name": "Mj\u00f6lby station",
+              "stop_lat": "58.322981",
+              "stop_lon": "15.131987",
+              "location_type": "0",
+              "parent_station": "9021137000180000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000140001",
+              "stop_name": "N\u00e4ssj\u00f6 Centralstation",
+              "stop_lat": "57.652439",
+              "stop_lon": "14.693982",
+              "location_type": "0",
+              "parent_station": "9021137000140000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000004001",
+              "stop_name": "Alvesta station",
+              "stop_lat": "56.898781",
+              "stop_lon": "14.556318",
+              "location_type": "0",
+              "parent_station": "9021137000004000",
+              "platform_code": "*"
+            }
+          ],
+          "service": {
+            "service_id": "3",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.505031",
+          "13.316341"
+        ],
+        [
+          "59.377797",
+          "13.499047"
+        ],
+        [
+          "59.316500",
+          "14.108292"
+        ],
+        [
+          "59.229130",
+          "14.439840"
+        ],
+        [
+          "59.067102",
+          "15.110379"
+        ],
+        [
+          "58.322981",
+          "15.131987"
+        ],
+        [
+          "57.652439",
+          "14.693982"
+        ],
+        [
+          "56.898781",
+          "14.556318"
+        ]
+      ]
+    },
+    {
+      "shape_id": "4777700000000000028",
+      "trips": [
+        {
+          "trip_id": "777700000000000028",
+          "service_id": "7",
+          "stops": [
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000222001",
+              "stop_name": "Kristinehamn station",
+              "stop_lat": "59.316500",
+              "stop_lon": "14.108292",
+              "location_type": "0",
+              "parent_station": "9021137000222000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000129001",
+              "stop_name": "Degerfors station",
+              "stop_lat": "59.229130",
+              "stop_lon": "14.439840",
+              "location_type": "0",
+              "parent_station": "9021137000129000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000077001",
+              "stop_name": "Hallsberg station",
+              "stop_lat": "59.067102",
+              "stop_lon": "15.110379",
+              "location_type": "0",
+              "parent_station": "9021137000077000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000180001",
+              "stop_name": "Mj\u00f6lby station",
+              "stop_lat": "58.322981",
+              "stop_lon": "15.131987",
+              "location_type": "0",
+              "parent_station": "9021137000180000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000004001",
+              "stop_name": "Alvesta station",
+              "stop_lat": "56.898781",
+              "stop_lon": "14.556318",
+              "location_type": "0",
+              "parent_station": "9021137000004000",
+              "platform_code": "*"
+            }
+          ],
+          "service": {
+            "service_id": "7",
+            "start_date": "20241124",
+            "end_date": "20241124"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.316500",
+          "14.108292"
+        ],
+        [
+          "59.229130",
+          "14.439840"
+        ],
+        [
+          "59.067102",
+          "15.110379"
+        ],
+        [
+          "58.322981",
+          "15.131987"
+        ],
+        [
+          "56.898781",
+          "14.556318"
+        ]
+      ]
+    },
+    {
+      "shape_id": "4777700000000000029",
+      "trips": [
+        {
+          "trip_id": "777700000000000029",
+          "service_id": "5",
+          "stops": [
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000070001",
+              "stop_name": "Karlstad Centralstation",
+              "stop_lat": "59.377797",
+              "stop_lon": "13.499047",
+              "location_type": "0",
+              "parent_station": "9021137000070000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000222001",
+              "stop_name": "Kristinehamn station",
+              "stop_lat": "59.316500",
+              "stop_lon": "14.108292",
+              "location_type": "0",
+              "parent_station": "9021137000222000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000129001",
+              "stop_name": "Degerfors station",
+              "stop_lat": "59.229130",
+              "stop_lon": "14.439840",
+              "location_type": "0",
+              "parent_station": "9021137000129000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000077001",
+              "stop_name": "Hallsberg station",
+              "stop_lat": "59.067102",
+              "stop_lon": "15.110379",
+              "location_type": "0",
+              "parent_station": "9021137000077000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000180001",
+              "stop_name": "Mj\u00f6lby station",
+              "stop_lat": "58.322981",
+              "stop_lon": "15.131987",
+              "location_type": "0",
+              "parent_station": "9021137000180000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000004001",
+              "stop_name": "Alvesta station",
+              "stop_lat": "56.898781",
+              "stop_lon": "14.556318",
+              "location_type": "0",
+              "parent_station": "9021137000004000",
+              "platform_code": "*"
+            }
+          ],
+          "service": {
+            "service_id": "5",
+            "start_date": "20241117",
+            "end_date": "20241208"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.377797",
+          "13.499047"
+        ],
+        [
+          "59.316500",
+          "14.108292"
+        ],
+        [
+          "59.229130",
+          "14.439840"
+        ],
+        [
+          "59.067102",
+          "15.110379"
+        ],
+        [
+          "58.322981",
+          "15.131987"
+        ],
+        [
+          "56.898781",
+          "14.556318"
+        ]
+      ]
+    },
+    {
+      "shape_id": "4777700000000000038",
+      "trips": [
+        {
+          "trip_id": "777700000000000038",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000206001",
+              "stop_name": "Kil station",
+              "stop_lat": "59.505031",
+              "stop_lon": "13.316341",
+              "location_type": "0",
+              "parent_station": "9021137000206000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000070001",
+              "stop_name": "Karlstad Centralstation",
+              "stop_lat": "59.377797",
+              "stop_lon": "13.499047",
+              "location_type": "0",
+              "parent_station": "9021137000070000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000222001",
+              "stop_name": "Kristinehamn station",
+              "stop_lat": "59.316500",
+              "stop_lon": "14.108292",
+              "location_type": "0",
+              "parent_station": "9021137000222000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000129001",
+              "stop_name": "Degerfors station",
+              "stop_lat": "59.229130",
+              "stop_lon": "14.439840",
+              "location_type": "0",
+              "parent_station": "9021137000129000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000077001",
+              "stop_name": "Hallsberg station",
+              "stop_lat": "59.067102",
+              "stop_lon": "15.110379",
+              "location_type": "0",
+              "parent_station": "9021137000077000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000172001",
+              "stop_name": "Motala station",
+              "stop_lat": "58.537486",
+              "stop_lon": "15.048309",
+              "location_type": "0",
+              "parent_station": "9021137000172000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000180001",
+              "stop_name": "Mj\u00f6lby station",
+              "stop_lat": "58.322981",
+              "stop_lon": "15.131987",
+              "location_type": "0",
+              "parent_station": "9021137000180000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000140001",
+              "stop_name": "N\u00e4ssj\u00f6 Centralstation",
+              "stop_lat": "57.652439",
+              "stop_lon": "14.693982",
+              "location_type": "0",
+              "parent_station": "9021137000140000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000004001",
+              "stop_name": "Alvesta station",
+              "stop_lat": "56.898781",
+              "stop_lon": "14.556318",
+              "location_type": "0",
+              "parent_station": "9021137000004000",
+              "platform_code": "*"
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241220",
+            "end_date": "20250321"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.505031",
+          "13.316341"
+        ],
+        [
+          "59.377797",
+          "13.499047"
+        ],
+        [
+          "59.316500",
+          "14.108292"
+        ],
+        [
+          "59.229130",
+          "14.439840"
+        ],
+        [
+          "59.067102",
+          "15.110379"
+        ],
+        [
+          "58.537486",
+          "15.048309"
+        ],
+        [
+          "58.322981",
+          "15.131987"
+        ],
+        [
+          "57.652439",
+          "14.693982"
+        ],
+        [
+          "56.898781",
+          "14.556318"
+        ]
+      ]
+    },
+    {
+      "shape_id": "4777700000000000040",
+      "trips": [
+        {
+          "trip_id": "777700000000000040",
+          "service_id": "10",
+          "stops": [
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000070001",
+              "stop_name": "Karlstad Centralstation",
+              "stop_lat": "59.377797",
+              "stop_lon": "13.499047",
+              "location_type": "0",
+              "parent_station": "9021137000070000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000222001",
+              "stop_name": "Kristinehamn station",
+              "stop_lat": "59.316500",
+              "stop_lon": "14.108292",
+              "location_type": "0",
+              "parent_station": "9021137000222000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000129001",
+              "stop_name": "Degerfors station",
+              "stop_lat": "59.229130",
+              "stop_lon": "14.439840",
+              "location_type": "0",
+              "parent_station": "9021137000129000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000077001",
+              "stop_name": "Hallsberg station",
+              "stop_lat": "59.067102",
+              "stop_lon": "15.110379",
+              "location_type": "0",
+              "parent_station": "9021137000077000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000172001",
+              "stop_name": "Motala station",
+              "stop_lat": "58.537486",
+              "stop_lon": "15.048309",
+              "location_type": "0",
+              "parent_station": "9021137000172000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000180001",
+              "stop_name": "Mj\u00f6lby station",
+              "stop_lat": "58.322981",
+              "stop_lon": "15.131987",
+              "location_type": "0",
+              "parent_station": "9021137000180000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000140001",
+              "stop_name": "N\u00e4ssj\u00f6 Centralstation",
+              "stop_lat": "57.652439",
+              "stop_lon": "14.693982",
+              "location_type": "0",
+              "parent_station": "9021137000140000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000004001",
+              "stop_name": "Alvesta station",
+              "stop_lat": "56.898781",
+              "stop_lon": "14.556318",
+              "location_type": "0",
+              "parent_station": "9021137000004000",
+              "platform_code": "*"
+            }
+          ],
+          "service": {
+            "service_id": "10",
+            "start_date": "20241215",
+            "end_date": "20250323"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.377797",
+          "13.499047"
+        ],
+        [
+          "59.316500",
+          "14.108292"
+        ],
+        [
+          "59.229130",
+          "14.439840"
+        ],
+        [
+          "59.067102",
+          "15.110379"
+        ],
+        [
+          "58.537486",
+          "15.048309"
+        ],
+        [
+          "58.322981",
+          "15.131987"
+        ],
+        [
+          "57.652439",
+          "14.693982"
+        ],
+        [
+          "56.898781",
+          "14.556318"
+        ]
+      ]
+    },
+    {
+      "shape_id": "4777700000000000011",
+      "trips": [
+        {
+          "trip_id": "777700000000000011",
+          "service_id": "3",
+          "stops": [
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000004001",
+              "stop_name": "Alvesta station",
+              "stop_lat": "56.898781",
+              "stop_lon": "14.556318",
+              "location_type": "0",
+              "parent_station": "9021137000004000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000140001",
+              "stop_name": "N\u00e4ssj\u00f6 Centralstation",
+              "stop_lat": "57.652439",
+              "stop_lon": "14.693982",
+              "location_type": "0",
+              "parent_station": "9021137000140000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000041001",
+              "stop_name": "Tran\u00e5s station",
+              "stop_lat": "58.037967",
+              "stop_lon": "14.975024",
+              "location_type": "0",
+              "parent_station": "9021137000041000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000180001",
+              "stop_name": "Mj\u00f6lby station",
+              "stop_lat": "58.322981",
+              "stop_lon": "15.131987",
+              "location_type": "0",
+              "parent_station": "9021137000180000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000172001",
+              "stop_name": "Motala station",
+              "stop_lat": "58.537486",
+              "stop_lon": "15.048309",
+              "location_type": "0",
+              "parent_station": "9021137000172000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000077001",
+              "stop_name": "Hallsberg station",
+              "stop_lat": "59.067102",
+              "stop_lon": "15.110379",
+              "location_type": "0",
+              "parent_station": "9021137000077000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000129001",
+              "stop_name": "Degerfors station",
+              "stop_lat": "59.229130",
+              "stop_lon": "14.439840",
+              "location_type": "0",
+              "parent_station": "9021137000129000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000222001",
+              "stop_name": "Kristinehamn station",
+              "stop_lat": "59.316500",
+              "stop_lon": "14.108292",
+              "location_type": "0",
+              "parent_station": "9021137000222000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000287001",
+              "stop_name": "V\u00e4se",
+              "stop_lat": "59.381610",
+              "stop_lon": "13.853490",
+              "location_type": "0",
+              "parent_station": "9021137000287000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137025002001",
+              "stop_name": "V\u00e4lsviken station",
+              "stop_lat": "59.391296",
+              "stop_lon": "13.582952",
+              "location_type": "0",
+              "parent_station": "9021137025002000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000070001",
+              "stop_name": "Karlstad Centralstation",
+              "stop_lat": "59.377797",
+              "stop_lon": "13.499047",
+              "location_type": "0",
+              "parent_station": "9021137000070000",
+              "platform_code": "*"
+            }
+          ],
+          "service": {
+            "service_id": "3",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        }
+      ],
+      "points": [
+        [
+          "56.898781",
+          "14.556318"
+        ],
+        [
+          "57.652439",
+          "14.693982"
+        ],
+        [
+          "58.037967",
+          "14.975024"
+        ],
+        [
+          "58.322981",
+          "15.131987"
+        ],
+        [
+          "58.537486",
+          "15.048309"
+        ],
+        [
+          "59.067102",
+          "15.110379"
+        ],
+        [
+          "59.229130",
+          "14.439840"
+        ],
+        [
+          "59.316500",
+          "14.108292"
+        ],
+        [
+          "59.381610",
+          "13.853490"
+        ],
+        [
+          "59.391296",
+          "13.582952"
+        ],
+        [
+          "59.377797",
+          "13.499047"
+        ]
+      ]
+    },
+    {
+      "shape_id": "4777700000000000012",
+      "trips": [
+        {
+          "trip_id": "777700000000000012",
+          "service_id": "30",
+          "stops": [
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000004001",
+              "stop_name": "Alvesta station",
+              "stop_lat": "56.898781",
+              "stop_lon": "14.556318",
+              "location_type": "0",
+              "parent_station": "9021137000004000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000140001",
+              "stop_name": "N\u00e4ssj\u00f6 Centralstation",
+              "stop_lat": "57.652439",
+              "stop_lon": "14.693982",
+              "location_type": "0",
+              "parent_station": "9021137000140000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000180001",
+              "stop_name": "Mj\u00f6lby station",
+              "stop_lat": "58.322981",
+              "stop_lon": "15.131987",
+              "location_type": "0",
+              "parent_station": "9021137000180000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000172001",
+              "stop_name": "Motala station",
+              "stop_lat": "58.537486",
+              "stop_lon": "15.048309",
+              "location_type": "0",
+              "parent_station": "9021137000172000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000077001",
+              "stop_name": "Hallsberg station",
+              "stop_lat": "59.067102",
+              "stop_lon": "15.110379",
+              "location_type": "0",
+              "parent_station": "9021137000077000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000129001",
+              "stop_name": "Degerfors station",
+              "stop_lat": "59.229130",
+              "stop_lon": "14.439840",
+              "location_type": "0",
+              "parent_station": "9021137000129000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000222001",
+              "stop_name": "Kristinehamn station",
+              "stop_lat": "59.316500",
+              "stop_lon": "14.108292",
+              "location_type": "0",
+              "parent_station": "9021137000222000",
+              "platform_code": "*"
+            }
+          ],
+          "service": {
+            "service_id": "30",
+            "start_date": "20241117",
+            "end_date": "20241208"
+          }
+        }
+      ],
+      "points": [
+        [
+          "56.898781",
+          "14.556318"
+        ],
+        [
+          "57.652439",
+          "14.693982"
+        ],
+        [
+          "58.322981",
+          "15.131987"
+        ],
+        [
+          "58.537486",
+          "15.048309"
+        ],
+        [
+          "59.067102",
+          "15.110379"
+        ],
+        [
+          "59.229130",
+          "14.439840"
+        ],
+        [
+          "59.316500",
+          "14.108292"
+        ]
+      ]
+    },
+    {
+      "shape_id": "4777700000000000039",
+      "trips": [
+        {
+          "trip_id": "777700000000000039",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000004001",
+              "stop_name": "Alvesta station",
+              "stop_lat": "56.898781",
+              "stop_lon": "14.556318",
+              "location_type": "0",
+              "parent_station": "9021137000004000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000140001",
+              "stop_name": "N\u00e4ssj\u00f6 Centralstation",
+              "stop_lat": "57.652439",
+              "stop_lon": "14.693982",
+              "location_type": "0",
+              "parent_station": "9021137000140000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000180001",
+              "stop_name": "Mj\u00f6lby station",
+              "stop_lat": "58.322981",
+              "stop_lon": "15.131987",
+              "location_type": "0",
+              "parent_station": "9021137000180000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000009001",
+              "stop_name": "Link\u00f6ping Centralstation",
+              "stop_lat": "58.416635",
+              "stop_lon": "15.624963",
+              "location_type": "0",
+              "parent_station": "9021137000009000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000007001",
+              "stop_name": "Norrk\u00f6ping Centralstation",
+              "stop_lat": "58.596626",
+              "stop_lon": "16.183346",
+              "location_type": "0",
+              "parent_station": "9021137000007000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000077001",
+              "stop_name": "Hallsberg station",
+              "stop_lat": "59.067102",
+              "stop_lon": "15.110379",
+              "location_type": "0",
+              "parent_station": "9021137000077000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000129001",
+              "stop_name": "Degerfors station",
+              "stop_lat": "59.229130",
+              "stop_lon": "14.439840",
+              "location_type": "0",
+              "parent_station": "9021137000129000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000222001",
+              "stop_name": "Kristinehamn station",
+              "stop_lat": "59.316500",
+              "stop_lon": "14.108292",
+              "location_type": "0",
+              "parent_station": "9021137000222000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000070001",
+              "stop_name": "Karlstad Centralstation",
+              "stop_lat": "59.377797",
+              "stop_lon": "13.499047",
+              "location_type": "0",
+              "parent_station": "9021137000070000",
+              "platform_code": "*"
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241220",
+            "end_date": "20250321"
+          }
+        }
+      ],
+      "points": [
+        [
+          "56.898781",
+          "14.556318"
+        ],
+        [
+          "57.652439",
+          "14.693982"
+        ],
+        [
+          "58.322981",
+          "15.131987"
+        ],
+        [
+          "58.416635",
+          "15.624963"
+        ],
+        [
+          "58.596626",
+          "16.183346"
+        ],
+        [
+          "59.067102",
+          "15.110379"
+        ],
+        [
+          "59.229130",
+          "14.439840"
+        ],
+        [
+          "59.316500",
+          "14.108292"
+        ],
+        [
+          "59.377797",
+          "13.499047"
+        ]
+      ]
+    },
+    {
+      "shape_id": "4777700000000000041",
+      "trips": [
+        {
+          "trip_id": "777700000000000041",
+          "service_id": "10",
+          "stops": [
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000004001",
+              "stop_name": "Alvesta station",
+              "stop_lat": "56.898781",
+              "stop_lon": "14.556318",
+              "location_type": "0",
+              "parent_station": "9021137000004000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000140001",
+              "stop_name": "N\u00e4ssj\u00f6 Centralstation",
+              "stop_lat": "57.652439",
+              "stop_lon": "14.693982",
+              "location_type": "0",
+              "parent_station": "9021137000140000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000180001",
+              "stop_name": "Mj\u00f6lby station",
+              "stop_lat": "58.322981",
+              "stop_lon": "15.131987",
+              "location_type": "0",
+              "parent_station": "9021137000180000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000172001",
+              "stop_name": "Motala station",
+              "stop_lat": "58.537486",
+              "stop_lon": "15.048309",
+              "location_type": "0",
+              "parent_station": "9021137000172000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000077001",
+              "stop_name": "Hallsberg station",
+              "stop_lat": "59.067102",
+              "stop_lon": "15.110379",
+              "location_type": "0",
+              "parent_station": "9021137000077000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000129001",
+              "stop_name": "Degerfors station",
+              "stop_lat": "59.229130",
+              "stop_lon": "14.439840",
+              "location_type": "0",
+              "parent_station": "9021137000129000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000222001",
+              "stop_name": "Kristinehamn station",
+              "stop_lat": "59.316500",
+              "stop_lon": "14.108292",
+              "location_type": "0",
+              "parent_station": "9021137000222000",
+              "platform_code": "*"
+            },
+            {
+              "pickup_type": "0",
+              "drop_off_type": "0",
+              "stop_id": "9022137000070001",
+              "stop_name": "Karlstad Centralstation",
+              "stop_lat": "59.377797",
+              "stop_lon": "13.499047",
+              "location_type": "0",
+              "parent_station": "9021137000070000",
+              "platform_code": "*"
+            }
+          ],
+          "service": {
+            "service_id": "10",
+            "start_date": "20241215",
+            "end_date": "20250323"
+          }
+        }
+      ],
+      "points": [
+        [
+          "56.898781",
+          "14.556318"
+        ],
+        [
+          "57.652439",
+          "14.693982"
+        ],
+        [
+          "58.322981",
+          "15.131987"
+        ],
+        [
+          "58.537486",
+          "15.048309"
+        ],
+        [
+          "59.067102",
+          "15.110379"
+        ],
+        [
+          "59.229130",
+          "14.439840"
+        ],
+        [
+          "59.316500",
+          "14.108292"
+        ],
+        [
+          "59.377797",
+          "13.499047"
+        ]
+      ]
+    }
+  ]
+}

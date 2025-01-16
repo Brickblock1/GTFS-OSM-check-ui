@@ -1,0 +1,4476 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011001022200000",
+  "agency_id": "14010000000001001",
+  "route_short_name": "222",
+  "route_long_name": "",
+  "route_type": "700",
+  "route_desc": "",
+  "shapes": [
+    {
+      "shape_id": "1014010000527523066",
+      "trips": [
+        {
+          "trip_id": "14010000664201313",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010032004",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357317",
+              "stop_lon": "18.104345",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231003",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371837",
+              "stop_lon": "18.156561",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241001",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372228",
+              "stop_lon": "18.163676",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251001",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373750",
+              "stop_lon": "18.173505",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261001",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374928",
+              "stop_lon": "18.176783",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271001",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375161",
+              "stop_lon": "18.180361",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281001",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372552",
+              "stop_lon": "18.189962",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250210",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000664202015",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010032004",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357317",
+              "stop_lon": "18.104345",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231003",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371837",
+              "stop_lon": "18.156561",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241001",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372228",
+              "stop_lon": "18.163676",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251001",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373750",
+              "stop_lon": "18.173505",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261001",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374928",
+              "stop_lon": "18.176783",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271001",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375161",
+              "stop_lon": "18.180361",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281001",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372552",
+              "stop_lon": "18.189962",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250210",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000664200777",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010032004",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357317",
+              "stop_lon": "18.104345",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231003",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371837",
+              "stop_lon": "18.156561",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241001",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372228",
+              "stop_lon": "18.163676",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251001",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373750",
+              "stop_lon": "18.173505",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261001",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374928",
+              "stop_lon": "18.176783",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271001",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375161",
+              "stop_lon": "18.180361",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281001",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372552",
+              "stop_lon": "18.189962",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250210",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000664200412",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010032004",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357317",
+              "stop_lon": "18.104345",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231003",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371837",
+              "stop_lon": "18.156561",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241001",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372228",
+              "stop_lon": "18.163676",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251001",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373750",
+              "stop_lon": "18.173505",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261001",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374928",
+              "stop_lon": "18.176783",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271001",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375161",
+              "stop_lon": "18.180361",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281001",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372552",
+              "stop_lon": "18.189962",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250210",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000664201712",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010032004",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357317",
+              "stop_lon": "18.104345",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231003",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371837",
+              "stop_lon": "18.156561",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241001",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372228",
+              "stop_lon": "18.163676",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251001",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373750",
+              "stop_lon": "18.173505",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261001",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374928",
+              "stop_lon": "18.176783",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271001",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375161",
+              "stop_lon": "18.180361",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281001",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372552",
+              "stop_lon": "18.189962",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250210",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000664202483",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010032004",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357317",
+              "stop_lon": "18.104345",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231003",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371837",
+              "stop_lon": "18.156561",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241001",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372228",
+              "stop_lon": "18.163676",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251001",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373750",
+              "stop_lon": "18.173505",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261001",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374928",
+              "stop_lon": "18.176783",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271001",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375161",
+              "stop_lon": "18.180361",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281001",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372552",
+              "stop_lon": "18.189962",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250210",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000664199102",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010032004",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357317",
+              "stop_lon": "18.104345",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231003",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371837",
+              "stop_lon": "18.156561",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241001",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372228",
+              "stop_lon": "18.163676",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251001",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373750",
+              "stop_lon": "18.173505",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261001",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374928",
+              "stop_lon": "18.176783",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271001",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375161",
+              "stop_lon": "18.180361",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281001",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372552",
+              "stop_lon": "18.189962",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250210",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000664199518",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010032004",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357317",
+              "stop_lon": "18.104345",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231003",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371837",
+              "stop_lon": "18.156561",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241001",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372228",
+              "stop_lon": "18.163676",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251001",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373750",
+              "stop_lon": "18.173505",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261001",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374928",
+              "stop_lon": "18.176783",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271001",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375161",
+              "stop_lon": "18.180361",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281001",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372552",
+              "stop_lon": "18.189962",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250210",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000664199957",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010032004",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357317",
+              "stop_lon": "18.104345",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231003",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371837",
+              "stop_lon": "18.156561",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241001",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372228",
+              "stop_lon": "18.163676",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251001",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373750",
+              "stop_lon": "18.173505",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261001",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374928",
+              "stop_lon": "18.176783",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271001",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375161",
+              "stop_lon": "18.180361",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281001",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372552",
+              "stop_lon": "18.189962",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250210",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000666472033",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010032004",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357317",
+              "stop_lon": "18.104345",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231003",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371837",
+              "stop_lon": "18.156561",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241001",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372228",
+              "stop_lon": "18.163676",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251001",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373750",
+              "stop_lon": "18.173505",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261001",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374928",
+              "stop_lon": "18.176783",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271001",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375161",
+              "stop_lon": "18.180361",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281001",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372552",
+              "stop_lon": "18.189962",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000666472550",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010032004",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357317",
+              "stop_lon": "18.104345",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231003",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371837",
+              "stop_lon": "18.156561",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241001",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372228",
+              "stop_lon": "18.163676",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251001",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373750",
+              "stop_lon": "18.173505",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261001",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374928",
+              "stop_lon": "18.176783",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271001",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375161",
+              "stop_lon": "18.180361",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281001",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372552",
+              "stop_lon": "18.189962",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000666473669",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010032004",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357317",
+              "stop_lon": "18.104345",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231003",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371837",
+              "stop_lon": "18.156561",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241001",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372228",
+              "stop_lon": "18.163676",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251001",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373750",
+              "stop_lon": "18.173505",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261001",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374928",
+              "stop_lon": "18.176783",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271001",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375161",
+              "stop_lon": "18.180361",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281001",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372552",
+              "stop_lon": "18.189962",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000666471799",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010032004",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357317",
+              "stop_lon": "18.104345",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231003",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371837",
+              "stop_lon": "18.156561",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241001",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372228",
+              "stop_lon": "18.163676",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251001",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373750",
+              "stop_lon": "18.173505",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261001",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374928",
+              "stop_lon": "18.176783",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271001",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375161",
+              "stop_lon": "18.180361",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281001",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372552",
+              "stop_lon": "18.189962",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000666472896",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010032004",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357317",
+              "stop_lon": "18.104345",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231003",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371837",
+              "stop_lon": "18.156561",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241001",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372228",
+              "stop_lon": "18.163676",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251001",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373750",
+              "stop_lon": "18.173505",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261001",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374928",
+              "stop_lon": "18.176783",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271001",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375161",
+              "stop_lon": "18.180361",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281001",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372552",
+              "stop_lon": "18.189962",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000666474017",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010032004",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357317",
+              "stop_lon": "18.104345",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231003",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371837",
+              "stop_lon": "18.156561",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241001",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372228",
+              "stop_lon": "18.163676",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251001",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373750",
+              "stop_lon": "18.173505",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261001",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374928",
+              "stop_lon": "18.176783",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271001",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375161",
+              "stop_lon": "18.180361",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281001",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372552",
+              "stop_lon": "18.189962",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000666473172",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010032004",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357317",
+              "stop_lon": "18.104345",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231003",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371837",
+              "stop_lon": "18.156561",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241001",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372228",
+              "stop_lon": "18.163676",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251001",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373750",
+              "stop_lon": "18.173505",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261001",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374928",
+              "stop_lon": "18.176783",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271001",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375161",
+              "stop_lon": "18.180361",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281001",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372552",
+              "stop_lon": "18.189962",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000666474635",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010032004",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357317",
+              "stop_lon": "18.104345",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231003",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371837",
+              "stop_lon": "18.156561",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241001",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372228",
+              "stop_lon": "18.163676",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251001",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373750",
+              "stop_lon": "18.173505",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261001",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374928",
+              "stop_lon": "18.176783",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271001",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375161",
+              "stop_lon": "18.180361",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281001",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372552",
+              "stop_lon": "18.189962",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000666474226",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001010032004",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357317",
+              "stop_lon": "18.104345",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231003",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371837",
+              "stop_lon": "18.156561",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241001",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372228",
+              "stop_lon": "18.163676",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251001",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373750",
+              "stop_lon": "18.173505",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261001",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374928",
+              "stop_lon": "18.176783",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271001",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375161",
+              "stop_lon": "18.180361",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281001",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372552",
+              "stop_lon": "18.189962",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.357317",
+          "18.104345"
+        ],
+        [
+          "59.357291",
+          "18.104301"
+        ],
+        [
+          "59.357169",
+          "18.104808"
+        ],
+        [
+          "59.357143",
+          "18.104877"
+        ],
+        [
+          "59.357206",
+          "18.105005"
+        ],
+        [
+          "59.357092",
+          "18.105157"
+        ],
+        [
+          "59.356993",
+          "18.105279"
+        ],
+        [
+          "59.356958",
+          "18.105311"
+        ],
+        [
+          "59.356723",
+          "18.105526"
+        ],
+        [
+          "59.356723",
+          "18.105332"
+        ],
+        [
+          "59.356723",
+          "18.105281"
+        ],
+        [
+          "59.356669",
+          "18.105102"
+        ],
+        [
+          "59.356636",
+          "18.104943"
+        ],
+        [
+          "59.356616",
+          "18.104746"
+        ],
+        [
+          "59.356624",
+          "18.104611"
+        ],
+        [
+          "59.356638",
+          "18.104564"
+        ],
+        [
+          "59.356656",
+          "18.104501"
+        ],
+        [
+          "59.356707",
+          "18.104418"
+        ],
+        [
+          "59.356752",
+          "18.104362"
+        ],
+        [
+          "59.356894",
+          "18.104254"
+        ],
+        [
+          "59.356978",
+          "18.104268"
+        ],
+        [
+          "59.357071",
+          "18.104302"
+        ],
+        [
+          "59.357161",
+          "18.104344"
+        ],
+        [
+          "59.357233",
+          "18.104392"
+        ],
+        [
+          "59.357392",
+          "18.104520"
+        ],
+        [
+          "59.357525",
+          "18.104667"
+        ],
+        [
+          "59.357691",
+          "18.104904"
+        ],
+        [
+          "59.357978",
+          "18.105400"
+        ],
+        [
+          "59.358249",
+          "18.105976"
+        ],
+        [
+          "59.358592",
+          "18.106665"
+        ],
+        [
+          "59.358943",
+          "18.107406"
+        ],
+        [
+          "59.359409",
+          "18.108377"
+        ],
+        [
+          "59.359983",
+          "18.109570"
+        ],
+        [
+          "59.360443",
+          "18.110528"
+        ],
+        [
+          "59.360939",
+          "18.111478"
+        ],
+        [
+          "59.361275",
+          "18.112237"
+        ],
+        [
+          "59.361693",
+          "18.113241"
+        ],
+        [
+          "59.362009",
+          "18.113996"
+        ],
+        [
+          "59.362415",
+          "18.115027"
+        ],
+        [
+          "59.362687",
+          "18.115837"
+        ],
+        [
+          "59.362733",
+          "18.116002"
+        ],
+        [
+          "59.362817",
+          "18.116309"
+        ],
+        [
+          "59.362855",
+          "18.116448"
+        ],
+        [
+          "59.362864",
+          "18.116485"
+        ],
+        [
+          "59.362945",
+          "18.116847"
+        ],
+        [
+          "59.363058",
+          "18.117874"
+        ],
+        [
+          "59.363059",
+          "18.118128"
+        ],
+        [
+          "59.363047",
+          "18.118326"
+        ],
+        [
+          "59.363027",
+          "18.118495"
+        ],
+        [
+          "59.362997",
+          "18.118610"
+        ],
+        [
+          "59.362961",
+          "18.118703"
+        ],
+        [
+          "59.362922",
+          "18.118765"
+        ],
+        [
+          "59.362879",
+          "18.118815"
+        ],
+        [
+          "59.362830",
+          "18.118857"
+        ],
+        [
+          "59.362768",
+          "18.118880"
+        ],
+        [
+          "59.362710",
+          "18.118877"
+        ],
+        [
+          "59.362656",
+          "18.118857"
+        ],
+        [
+          "59.362601",
+          "18.118814"
+        ],
+        [
+          "59.362552",
+          "18.118746"
+        ],
+        [
+          "59.362510",
+          "18.118672"
+        ],
+        [
+          "59.362476",
+          "18.118573"
+        ],
+        [
+          "59.362453",
+          "18.118483"
+        ],
+        [
+          "59.362434",
+          "18.118336"
+        ],
+        [
+          "59.362435",
+          "18.118170"
+        ],
+        [
+          "59.362475",
+          "18.117970"
+        ],
+        [
+          "59.362701",
+          "18.117052"
+        ],
+        [
+          "59.362840",
+          "18.116527"
+        ],
+        [
+          "59.362957",
+          "18.116144"
+        ],
+        [
+          "59.363030",
+          "18.115950"
+        ],
+        [
+          "59.363093",
+          "18.115805"
+        ],
+        [
+          "59.363173",
+          "18.115654"
+        ],
+        [
+          "59.363259",
+          "18.115521"
+        ],
+        [
+          "59.363350",
+          "18.115401"
+        ],
+        [
+          "59.363443",
+          "18.115296"
+        ],
+        [
+          "59.363580",
+          "18.115191"
+        ],
+        [
+          "59.364085",
+          "18.115033"
+        ],
+        [
+          "59.364324",
+          "18.115016"
+        ],
+        [
+          "59.364598",
+          "18.115012"
+        ],
+        [
+          "59.364903",
+          "18.115036"
+        ],
+        [
+          "59.365149",
+          "18.115074"
+        ],
+        [
+          "59.365224",
+          "18.115097"
+        ],
+        [
+          "59.365367",
+          "18.115158"
+        ],
+        [
+          "59.365568",
+          "18.115236"
+        ],
+        [
+          "59.365752",
+          "18.115337"
+        ],
+        [
+          "59.365885",
+          "18.115422"
+        ],
+        [
+          "59.366066",
+          "18.115561"
+        ],
+        [
+          "59.366302",
+          "18.115769"
+        ],
+        [
+          "59.366467",
+          "18.115943"
+        ],
+        [
+          "59.366644",
+          "18.116160"
+        ],
+        [
+          "59.366819",
+          "18.116382"
+        ],
+        [
+          "59.366933",
+          "18.116549"
+        ],
+        [
+          "59.366956",
+          "18.116582"
+        ],
+        [
+          "59.367134",
+          "18.116860"
+        ],
+        [
+          "59.367312",
+          "18.117205"
+        ],
+        [
+          "59.367524",
+          "18.117626"
+        ],
+        [
+          "59.367740",
+          "18.118090"
+        ],
+        [
+          "59.367913",
+          "18.118474"
+        ],
+        [
+          "59.368177",
+          "18.119060"
+        ],
+        [
+          "59.368444",
+          "18.119630"
+        ],
+        [
+          "59.368768",
+          "18.120350"
+        ],
+        [
+          "59.369011",
+          "18.120910"
+        ],
+        [
+          "59.369361",
+          "18.121676"
+        ],
+        [
+          "59.369590",
+          "18.122145"
+        ],
+        [
+          "59.369678",
+          "18.122297"
+        ],
+        [
+          "59.369706",
+          "18.122352"
+        ],
+        [
+          "59.369839",
+          "18.122614"
+        ],
+        [
+          "59.369959",
+          "18.122822"
+        ],
+        [
+          "59.370086",
+          "18.123047"
+        ],
+        [
+          "59.370207",
+          "18.123282"
+        ],
+        [
+          "59.370286",
+          "18.123469"
+        ],
+        [
+          "59.370389",
+          "18.123732"
+        ],
+        [
+          "59.370476",
+          "18.124029"
+        ],
+        [
+          "59.370542",
+          "18.124253"
+        ],
+        [
+          "59.370614",
+          "18.124512"
+        ],
+        [
+          "59.370676",
+          "18.124787"
+        ],
+        [
+          "59.370747",
+          "18.125188"
+        ],
+        [
+          "59.370794",
+          "18.125533"
+        ],
+        [
+          "59.370837",
+          "18.126175"
+        ],
+        [
+          "59.370863",
+          "18.126514"
+        ],
+        [
+          "59.370883",
+          "18.126791"
+        ],
+        [
+          "59.370899",
+          "18.127261"
+        ],
+        [
+          "59.370902",
+          "18.127343"
+        ],
+        [
+          "59.370908",
+          "18.127471"
+        ],
+        [
+          "59.370918",
+          "18.127699"
+        ],
+        [
+          "59.370943",
+          "18.128087"
+        ],
+        [
+          "59.370988",
+          "18.128744"
+        ],
+        [
+          "59.371023",
+          "18.129224"
+        ],
+        [
+          "59.371040",
+          "18.129639"
+        ],
+        [
+          "59.371045",
+          "18.129837"
+        ],
+        [
+          "59.371049",
+          "18.129878"
+        ],
+        [
+          "59.371048",
+          "18.130189"
+        ],
+        [
+          "59.371034",
+          "18.130641"
+        ],
+        [
+          "59.371016",
+          "18.131140"
+        ],
+        [
+          "59.370996",
+          "18.131895"
+        ],
+        [
+          "59.370940",
+          "18.133349"
+        ],
+        [
+          "59.370922",
+          "18.134400"
+        ],
+        [
+          "59.370921",
+          "18.134954"
+        ],
+        [
+          "59.370909",
+          "18.135593"
+        ],
+        [
+          "59.370903",
+          "18.136366"
+        ],
+        [
+          "59.370897",
+          "18.137410"
+        ],
+        [
+          "59.370888",
+          "18.138539"
+        ],
+        [
+          "59.370885",
+          "18.139767"
+        ],
+        [
+          "59.370880",
+          "18.140795"
+        ],
+        [
+          "59.370877",
+          "18.141792"
+        ],
+        [
+          "59.370892",
+          "18.142689"
+        ],
+        [
+          "59.370912",
+          "18.143304"
+        ],
+        [
+          "59.370929",
+          "18.143663"
+        ],
+        [
+          "59.370965",
+          "18.144378"
+        ],
+        [
+          "59.371010",
+          "18.144888"
+        ],
+        [
+          "59.371053",
+          "18.145351"
+        ],
+        [
+          "59.371106",
+          "18.145912"
+        ],
+        [
+          "59.371160",
+          "18.146492"
+        ],
+        [
+          "59.371198",
+          "18.146942"
+        ],
+        [
+          "59.371207",
+          "18.147246"
+        ],
+        [
+          "59.371212",
+          "18.147391"
+        ],
+        [
+          "59.371242",
+          "18.147983"
+        ],
+        [
+          "59.371283",
+          "18.148678"
+        ],
+        [
+          "59.371325",
+          "18.149514"
+        ],
+        [
+          "59.371363",
+          "18.150405"
+        ],
+        [
+          "59.371401",
+          "18.151201"
+        ],
+        [
+          "59.371431",
+          "18.151854"
+        ],
+        [
+          "59.371483",
+          "18.152604"
+        ],
+        [
+          "59.371526",
+          "18.153195"
+        ],
+        [
+          "59.371542",
+          "18.153361"
+        ],
+        [
+          "59.371528",
+          "18.153544"
+        ],
+        [
+          "59.371572",
+          "18.154042"
+        ],
+        [
+          "59.371606",
+          "18.154390"
+        ],
+        [
+          "59.371671",
+          "18.154886"
+        ],
+        [
+          "59.371698",
+          "18.155095"
+        ],
+        [
+          "59.371702",
+          "18.155162"
+        ],
+        [
+          "59.371701",
+          "18.155223"
+        ],
+        [
+          "59.371694",
+          "18.155281"
+        ],
+        [
+          "59.371680",
+          "18.155351"
+        ],
+        [
+          "59.371663",
+          "18.155400"
+        ],
+        [
+          "59.371653",
+          "18.155449"
+        ],
+        [
+          "59.371650",
+          "18.155495"
+        ],
+        [
+          "59.371651",
+          "18.155538"
+        ],
+        [
+          "59.371657",
+          "18.155580"
+        ],
+        [
+          "59.371667",
+          "18.155618"
+        ],
+        [
+          "59.371681",
+          "18.155652"
+        ],
+        [
+          "59.371698",
+          "18.155680"
+        ],
+        [
+          "59.371717",
+          "18.155702"
+        ],
+        [
+          "59.371741",
+          "18.155756"
+        ],
+        [
+          "59.371763",
+          "18.155816"
+        ],
+        [
+          "59.371778",
+          "18.155876"
+        ],
+        [
+          "59.371829",
+          "18.156248"
+        ],
+        [
+          "59.371855",
+          "18.156456"
+        ],
+        [
+          "59.371837",
+          "18.156561"
+        ],
+        [
+          "59.371868",
+          "18.156560"
+        ],
+        [
+          "59.371893",
+          "18.156751"
+        ],
+        [
+          "59.371976",
+          "18.157344"
+        ],
+        [
+          "59.372026",
+          "18.157540"
+        ],
+        [
+          "59.372057",
+          "18.157786"
+        ],
+        [
+          "59.372084",
+          "18.158193"
+        ],
+        [
+          "59.372114",
+          "18.158661"
+        ],
+        [
+          "59.372124",
+          "18.159061"
+        ],
+        [
+          "59.372126",
+          "18.159453"
+        ],
+        [
+          "59.372114",
+          "18.159905"
+        ],
+        [
+          "59.372102",
+          "18.160355"
+        ],
+        [
+          "59.372102",
+          "18.160826"
+        ],
+        [
+          "59.372094",
+          "18.161407"
+        ],
+        [
+          "59.372098",
+          "18.161759"
+        ],
+        [
+          "59.372133",
+          "18.162309"
+        ],
+        [
+          "59.372180",
+          "18.162970"
+        ],
+        [
+          "59.372248",
+          "18.163641"
+        ],
+        [
+          "59.372228",
+          "18.163676"
+        ],
+        [
+          "59.372260",
+          "18.163763"
+        ],
+        [
+          "59.372303",
+          "18.164249"
+        ],
+        [
+          "59.372386",
+          "18.165213"
+        ],
+        [
+          "59.372410",
+          "18.165587"
+        ],
+        [
+          "59.372419",
+          "18.166083"
+        ],
+        [
+          "59.372438",
+          "18.166889"
+        ],
+        [
+          "59.372443",
+          "18.167552"
+        ],
+        [
+          "59.372457",
+          "18.168136"
+        ],
+        [
+          "59.372484",
+          "18.168627"
+        ],
+        [
+          "59.372516",
+          "18.168908"
+        ],
+        [
+          "59.372568",
+          "18.169221"
+        ],
+        [
+          "59.372612",
+          "18.169460"
+        ],
+        [
+          "59.372682",
+          "18.169756"
+        ],
+        [
+          "59.372752",
+          "18.170007"
+        ],
+        [
+          "59.372850",
+          "18.170315"
+        ],
+        [
+          "59.372954",
+          "18.170593"
+        ],
+        [
+          "59.373093",
+          "18.170931"
+        ],
+        [
+          "59.373234",
+          "18.171255"
+        ],
+        [
+          "59.373318",
+          "18.171457"
+        ],
+        [
+          "59.373394",
+          "18.171659"
+        ],
+        [
+          "59.373468",
+          "18.171898"
+        ],
+        [
+          "59.373545",
+          "18.172170"
+        ],
+        [
+          "59.373569",
+          "18.172255"
+        ],
+        [
+          "59.373606",
+          "18.172396"
+        ],
+        [
+          "59.373652",
+          "18.172613"
+        ],
+        [
+          "59.373690",
+          "18.172839"
+        ],
+        [
+          "59.373751",
+          "18.173302"
+        ],
+        [
+          "59.373777",
+          "18.173470"
+        ],
+        [
+          "59.373750",
+          "18.173505"
+        ],
+        [
+          "59.373777",
+          "18.173490"
+        ],
+        [
+          "59.373822",
+          "18.173772"
+        ],
+        [
+          "59.373886",
+          "18.174173"
+        ],
+        [
+          "59.373961",
+          "18.174484"
+        ],
+        [
+          "59.374039",
+          "18.174797"
+        ],
+        [
+          "59.374118",
+          "18.175072"
+        ],
+        [
+          "59.374197",
+          "18.175279"
+        ],
+        [
+          "59.374283",
+          "18.175506"
+        ],
+        [
+          "59.374413",
+          "18.175806"
+        ],
+        [
+          "59.374541",
+          "18.176056"
+        ],
+        [
+          "59.374669",
+          "18.176291"
+        ],
+        [
+          "59.374787",
+          "18.176489"
+        ],
+        [
+          "59.374933",
+          "18.176666"
+        ],
+        [
+          "59.374967",
+          "18.176705"
+        ],
+        [
+          "59.375068",
+          "18.176865"
+        ],
+        [
+          "59.375211",
+          "18.177070"
+        ],
+        [
+          "59.375217",
+          "18.177079"
+        ],
+        [
+          "59.375344",
+          "18.177317"
+        ],
+        [
+          "59.375441",
+          "18.177576"
+        ],
+        [
+          "59.375510",
+          "18.177815"
+        ],
+        [
+          "59.375560",
+          "18.178116"
+        ],
+        [
+          "59.375577",
+          "18.178352"
+        ],
+        [
+          "59.375592",
+          "18.178630"
+        ],
+        [
+          "59.375584",
+          "18.178930"
+        ],
+        [
+          "59.375554",
+          "18.179175"
+        ],
+        [
+          "59.375508",
+          "18.179427"
+        ],
+        [
+          "59.375445",
+          "18.179684"
+        ],
+        [
+          "59.375335",
+          "18.179994"
+        ],
+        [
+          "59.375267",
+          "18.180193"
+        ],
+        [
+          "59.375187",
+          "18.180398"
+        ],
+        [
+          "59.375106",
+          "18.180585"
+        ],
+        [
+          "59.374932",
+          "18.180965"
+        ],
+        [
+          "59.374900",
+          "18.181035"
+        ],
+        [
+          "59.374874",
+          "18.181091"
+        ],
+        [
+          "59.374684",
+          "18.181504"
+        ],
+        [
+          "59.374476",
+          "18.182026"
+        ],
+        [
+          "59.374300",
+          "18.182518"
+        ],
+        [
+          "59.374078",
+          "18.183223"
+        ],
+        [
+          "59.373831",
+          "18.184117"
+        ],
+        [
+          "59.373507",
+          "18.185359"
+        ],
+        [
+          "59.373259",
+          "18.186307"
+        ],
+        [
+          "59.373092",
+          "18.187008"
+        ],
+        [
+          "59.372996",
+          "18.187442"
+        ],
+        [
+          "59.372924",
+          "18.187823"
+        ],
+        [
+          "59.372833",
+          "18.188322"
+        ],
+        [
+          "59.372763",
+          "18.188777"
+        ],
+        [
+          "59.372722",
+          "18.189042"
+        ],
+        [
+          "59.372667",
+          "18.189427"
+        ],
+        [
+          "59.372626",
+          "18.189772"
+        ],
+        [
+          "59.372605",
+          "18.189984"
+        ],
+        [
+          "59.372560",
+          "18.190337"
+        ],
+        [
+          "59.372512",
+          "18.190858"
+        ],
+        [
+          "59.372484",
+          "18.191308"
+        ],
+        [
+          "59.372456",
+          "18.191716"
+        ],
+        [
+          "59.372441",
+          "18.192253"
+        ],
+        [
+          "59.372433",
+          "18.192572"
+        ],
+        [
+          "59.372436",
+          "18.192768"
+        ],
+        [
+          "59.372444",
+          "18.192979"
+        ],
+        [
+          "59.372456",
+          "18.193271"
+        ],
+        [
+          "59.372474",
+          "18.193663"
+        ],
+        [
+          "59.372491",
+          "18.193958"
+        ],
+        [
+          "59.372519",
+          "18.194309"
+        ],
+        [
+          "59.372538",
+          "18.194470"
+        ],
+        [
+          "59.372574",
+          "18.194765"
+        ],
+        [
+          "59.372592",
+          "18.194909"
+        ],
+        [
+          "59.372606",
+          "18.195021"
+        ],
+        [
+          "59.372632",
+          "18.195186"
+        ],
+        [
+          "59.372703",
+          "18.195739"
+        ],
+        [
+          "59.372767",
+          "18.196261"
+        ],
+        [
+          "59.372786",
+          "18.196505"
+        ],
+        [
+          "59.372790",
+          "18.196628"
+        ],
+        [
+          "59.372797",
+          "18.196839"
+        ],
+        [
+          "59.372788",
+          "18.197153"
+        ],
+        [
+          "59.372777",
+          "18.197469"
+        ],
+        [
+          "59.372795",
+          "18.197595"
+        ],
+        [
+          "59.372833",
+          "18.197692"
+        ],
+        [
+          "59.372905",
+          "18.197789"
+        ],
+        [
+          "59.372970",
+          "18.197819"
+        ],
+        [
+          "59.373014",
+          "18.197779"
+        ],
+        [
+          "59.373029",
+          "18.197674"
+        ],
+        [
+          "59.373027",
+          "18.197534"
+        ],
+        [
+          "59.372998",
+          "18.197309"
+        ],
+        [
+          "59.372992",
+          "18.197296"
+        ],
+        [
+          "59.373016",
+          "18.197278"
+        ]
+      ]
+    },
+    {
+      "shape_id": "1014010000460284729",
+      "trips": [
+        {
+          "trip_id": "14010000664189225",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281002",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372645",
+              "stop_lon": "18.189793",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271002",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375458",
+              "stop_lon": "18.179756",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261002",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374804",
+              "stop_lon": "18.176349",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251002",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373373",
+              "stop_lon": "18.171490",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241002",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372153",
+              "stop_lon": "18.160038",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231004",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371719",
+              "stop_lon": "18.154261",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010032014",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357413",
+              "stop_lon": "18.101837",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000664190225",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281002",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372645",
+              "stop_lon": "18.189793",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271002",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375458",
+              "stop_lon": "18.179756",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261002",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374804",
+              "stop_lon": "18.176349",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251002",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373373",
+              "stop_lon": "18.171490",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241002",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372153",
+              "stop_lon": "18.160038",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231004",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371719",
+              "stop_lon": "18.154261",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010032014",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357413",
+              "stop_lon": "18.101837",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000664189620",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281002",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372645",
+              "stop_lon": "18.189793",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271002",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375458",
+              "stop_lon": "18.179756",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261002",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374804",
+              "stop_lon": "18.176349",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251002",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373373",
+              "stop_lon": "18.171490",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241002",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372153",
+              "stop_lon": "18.160038",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231004",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371719",
+              "stop_lon": "18.154261",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010032014",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357413",
+              "stop_lon": "18.101837",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000664189848",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281002",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372645",
+              "stop_lon": "18.189793",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271002",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375458",
+              "stop_lon": "18.179756",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261002",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374804",
+              "stop_lon": "18.176349",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251002",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373373",
+              "stop_lon": "18.171490",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241002",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372153",
+              "stop_lon": "18.160038",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231004",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371719",
+              "stop_lon": "18.154261",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010032014",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357413",
+              "stop_lon": "18.101837",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000664190625",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281002",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372645",
+              "stop_lon": "18.189793",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271002",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375458",
+              "stop_lon": "18.179756",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261002",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374804",
+              "stop_lon": "18.176349",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251002",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373373",
+              "stop_lon": "18.171490",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241002",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372153",
+              "stop_lon": "18.160038",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231004",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371719",
+              "stop_lon": "18.154261",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010032014",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357413",
+              "stop_lon": "18.101837",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000664191000",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281002",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372645",
+              "stop_lon": "18.189793",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271002",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375458",
+              "stop_lon": "18.179756",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261002",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374804",
+              "stop_lon": "18.176349",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251002",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373373",
+              "stop_lon": "18.171490",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241002",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372153",
+              "stop_lon": "18.160038",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231004",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371719",
+              "stop_lon": "18.154261",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010032014",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357413",
+              "stop_lon": "18.101837",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000664191348",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001020291002",
+              "stop_name": "S\u00f6dergarnsv\u00e4gen",
+              "stop_lat": "59.373016",
+              "stop_lon": "18.197278",
+              "location_type": "0",
+              "parent_station": "9021001020291000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020281002",
+              "stop_name": "Hembyv\u00e4gen",
+              "stop_lat": "59.372645",
+              "stop_lon": "18.189793",
+              "location_type": "0",
+              "parent_station": "9021001020281000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020271002",
+              "stop_name": "Lojov\u00e4gen",
+              "stop_lat": "59.375458",
+              "stop_lon": "18.179756",
+              "location_type": "0",
+              "parent_station": "9021001020271000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020261002",
+              "stop_name": "Rudboda torg",
+              "stop_lat": "59.374804",
+              "stop_lon": "18.176349",
+              "location_type": "0",
+              "parent_station": "9021001020261000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020251002",
+              "stop_name": "Grankottev\u00e4gen",
+              "stop_lat": "59.373373",
+              "stop_lon": "18.171490",
+              "location_type": "0",
+              "parent_station": "9021001020251000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020241002",
+              "stop_name": "Askrikev\u00e4gen",
+              "stop_lat": "59.372153",
+              "stop_lon": "18.160038",
+              "location_type": "0",
+              "parent_station": "9021001020241000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001020231004",
+              "stop_name": "Liding\u00f6vallen",
+              "stop_lat": "59.371719",
+              "stop_lon": "18.154261",
+              "location_type": "0",
+              "parent_station": "9021001020231000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001010032014",
+              "stop_name": "Ropsten",
+              "stop_lat": "59.357413",
+              "stop_lon": "18.101837",
+              "location_type": "0",
+              "parent_station": "9021001010032000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.373016",
+          "18.197278"
+        ],
+        [
+          "59.372990",
+          "18.197277"
+        ],
+        [
+          "59.372958",
+          "18.197129"
+        ],
+        [
+          "59.372891",
+          "18.196931"
+        ],
+        [
+          "59.372790",
+          "18.196629"
+        ],
+        [
+          "59.372786",
+          "18.196505"
+        ],
+        [
+          "59.372767",
+          "18.196261"
+        ],
+        [
+          "59.372703",
+          "18.195739"
+        ],
+        [
+          "59.372632",
+          "18.195186"
+        ],
+        [
+          "59.372606",
+          "18.195021"
+        ],
+        [
+          "59.372592",
+          "18.194909"
+        ],
+        [
+          "59.372574",
+          "18.194765"
+        ],
+        [
+          "59.372538",
+          "18.194470"
+        ],
+        [
+          "59.372519",
+          "18.194309"
+        ],
+        [
+          "59.372491",
+          "18.193958"
+        ],
+        [
+          "59.372474",
+          "18.193663"
+        ],
+        [
+          "59.372456",
+          "18.193271"
+        ],
+        [
+          "59.372444",
+          "18.192979"
+        ],
+        [
+          "59.372436",
+          "18.192768"
+        ],
+        [
+          "59.372433",
+          "18.192572"
+        ],
+        [
+          "59.372441",
+          "18.192253"
+        ],
+        [
+          "59.372456",
+          "18.191716"
+        ],
+        [
+          "59.372484",
+          "18.191308"
+        ],
+        [
+          "59.372512",
+          "18.190859"
+        ],
+        [
+          "59.372560",
+          "18.190337"
+        ],
+        [
+          "59.372624",
+          "18.189789"
+        ],
+        [
+          "59.372626",
+          "18.189772"
+        ],
+        [
+          "59.372641",
+          "18.189647"
+        ],
+        [
+          "59.372667",
+          "18.189427"
+        ],
+        [
+          "59.372722",
+          "18.189042"
+        ],
+        [
+          "59.372763",
+          "18.188776"
+        ],
+        [
+          "59.372833",
+          "18.188322"
+        ],
+        [
+          "59.372924",
+          "18.187823"
+        ],
+        [
+          "59.372996",
+          "18.187442"
+        ],
+        [
+          "59.373092",
+          "18.187008"
+        ],
+        [
+          "59.373259",
+          "18.186307"
+        ],
+        [
+          "59.373507",
+          "18.185359"
+        ],
+        [
+          "59.373831",
+          "18.184117"
+        ],
+        [
+          "59.374078",
+          "18.183223"
+        ],
+        [
+          "59.374300",
+          "18.182518"
+        ],
+        [
+          "59.374476",
+          "18.182026"
+        ],
+        [
+          "59.374684",
+          "18.181504"
+        ],
+        [
+          "59.374874",
+          "18.181091"
+        ],
+        [
+          "59.374900",
+          "18.181036"
+        ],
+        [
+          "59.374932",
+          "18.180965"
+        ],
+        [
+          "59.375106",
+          "18.180585"
+        ],
+        [
+          "59.375267",
+          "18.180193"
+        ],
+        [
+          "59.375335",
+          "18.179994"
+        ],
+        [
+          "59.375434",
+          "18.179713"
+        ],
+        [
+          "59.375445",
+          "18.179684"
+        ],
+        [
+          "59.375508",
+          "18.179426"
+        ],
+        [
+          "59.375554",
+          "18.179175"
+        ],
+        [
+          "59.375584",
+          "18.178930"
+        ],
+        [
+          "59.375586",
+          "18.178836"
+        ],
+        [
+          "59.375592",
+          "18.178630"
+        ],
+        [
+          "59.375577",
+          "18.178352"
+        ],
+        [
+          "59.375560",
+          "18.178116"
+        ],
+        [
+          "59.375510",
+          "18.177815"
+        ],
+        [
+          "59.375441",
+          "18.177576"
+        ],
+        [
+          "59.375344",
+          "18.177317"
+        ],
+        [
+          "59.375217",
+          "18.177079"
+        ],
+        [
+          "59.375211",
+          "18.177070"
+        ],
+        [
+          "59.375149",
+          "18.176980"
+        ],
+        [
+          "59.375068",
+          "18.176865"
+        ],
+        [
+          "59.374933",
+          "18.176666"
+        ],
+        [
+          "59.374787",
+          "18.176489"
+        ],
+        [
+          "59.374752",
+          "18.176431"
+        ],
+        [
+          "59.374804",
+          "18.176349"
+        ],
+        [
+          "59.374756",
+          "18.176426"
+        ],
+        [
+          "59.374669",
+          "18.176291"
+        ],
+        [
+          "59.374541",
+          "18.176056"
+        ],
+        [
+          "59.374413",
+          "18.175806"
+        ],
+        [
+          "59.374283",
+          "18.175506"
+        ],
+        [
+          "59.374197",
+          "18.175279"
+        ],
+        [
+          "59.374118",
+          "18.175072"
+        ],
+        [
+          "59.374039",
+          "18.174797"
+        ],
+        [
+          "59.373961",
+          "18.174484"
+        ],
+        [
+          "59.373886",
+          "18.174173"
+        ],
+        [
+          "59.373822",
+          "18.173772"
+        ],
+        [
+          "59.373751",
+          "18.173302"
+        ],
+        [
+          "59.373690",
+          "18.172839"
+        ],
+        [
+          "59.373652",
+          "18.172613"
+        ],
+        [
+          "59.373606",
+          "18.172396"
+        ],
+        [
+          "59.373569",
+          "18.172255"
+        ],
+        [
+          "59.373468",
+          "18.171898"
+        ],
+        [
+          "59.373394",
+          "18.171659"
+        ],
+        [
+          "59.373346",
+          "18.171524"
+        ],
+        [
+          "59.373318",
+          "18.171457"
+        ],
+        [
+          "59.373234",
+          "18.171254"
+        ],
+        [
+          "59.373093",
+          "18.170931"
+        ],
+        [
+          "59.372954",
+          "18.170594"
+        ],
+        [
+          "59.372850",
+          "18.170315"
+        ],
+        [
+          "59.372752",
+          "18.170007"
+        ],
+        [
+          "59.372682",
+          "18.169756"
+        ],
+        [
+          "59.372612",
+          "18.169461"
+        ],
+        [
+          "59.372568",
+          "18.169221"
+        ],
+        [
+          "59.372516",
+          "18.168908"
+        ],
+        [
+          "59.372484",
+          "18.168627"
+        ],
+        [
+          "59.372457",
+          "18.168136"
+        ],
+        [
+          "59.372443",
+          "18.167552"
+        ],
+        [
+          "59.372437",
+          "18.166889"
+        ],
+        [
+          "59.372419",
+          "18.166083"
+        ],
+        [
+          "59.372410",
+          "18.165587"
+        ],
+        [
+          "59.372386",
+          "18.165213"
+        ],
+        [
+          "59.372303",
+          "18.164249"
+        ],
+        [
+          "59.372252",
+          "18.163676"
+        ],
+        [
+          "59.372180",
+          "18.162970"
+        ],
+        [
+          "59.372133",
+          "18.162309"
+        ],
+        [
+          "59.372098",
+          "18.161759"
+        ],
+        [
+          "59.372094",
+          "18.161407"
+        ],
+        [
+          "59.372103",
+          "18.160826"
+        ],
+        [
+          "59.372102",
+          "18.160355"
+        ],
+        [
+          "59.372108",
+          "18.160035"
+        ],
+        [
+          "59.372153",
+          "18.160038"
+        ],
+        [
+          "59.372110",
+          "18.160061"
+        ],
+        [
+          "59.372114",
+          "18.159905"
+        ],
+        [
+          "59.372126",
+          "18.159453"
+        ],
+        [
+          "59.372124",
+          "18.159061"
+        ],
+        [
+          "59.372114",
+          "18.158661"
+        ],
+        [
+          "59.372084",
+          "18.158193"
+        ],
+        [
+          "59.372057",
+          "18.157786"
+        ],
+        [
+          "59.372026",
+          "18.157540"
+        ],
+        [
+          "59.372024",
+          "18.157319"
+        ],
+        [
+          "59.371920",
+          "18.156380"
+        ],
+        [
+          "59.371858",
+          "18.156013"
+        ],
+        [
+          "59.371845",
+          "18.155910"
+        ],
+        [
+          "59.371841",
+          "18.155852"
+        ],
+        [
+          "59.371840",
+          "18.155788"
+        ],
+        [
+          "59.371845",
+          "18.155715"
+        ],
+        [
+          "59.371854",
+          "18.155626"
+        ],
+        [
+          "59.371865",
+          "18.155588"
+        ],
+        [
+          "59.371872",
+          "18.155547"
+        ],
+        [
+          "59.371875",
+          "18.155504"
+        ],
+        [
+          "59.371873",
+          "18.155461"
+        ],
+        [
+          "59.371867",
+          "18.155419"
+        ],
+        [
+          "59.371857",
+          "18.155381"
+        ],
+        [
+          "59.371843",
+          "18.155347"
+        ],
+        [
+          "59.371827",
+          "18.155319"
+        ],
+        [
+          "59.371803",
+          "18.155249"
+        ],
+        [
+          "59.371782",
+          "18.155159"
+        ],
+        [
+          "59.371765",
+          "18.155068"
+        ],
+        [
+          "59.371755",
+          "18.154991"
+        ],
+        [
+          "59.371673",
+          "18.154257"
+        ],
+        [
+          "59.371719",
+          "18.154261"
+        ],
+        [
+          "59.371606",
+          "18.154321"
+        ],
+        [
+          "59.371254",
+          "18.148995"
+        ],
+        [
+          "59.371194",
+          "18.146887"
+        ],
+        [
+          "59.370958",
+          "18.144400"
+        ],
+        [
+          "59.370846",
+          "18.141345"
+        ],
+        [
+          "59.370926",
+          "18.134973"
+        ],
+        [
+          "59.371051",
+          "18.129764"
+        ],
+        [
+          "59.370966",
+          "18.128669"
+        ],
+        [
+          "59.370804",
+          "18.127711"
+        ],
+        [
+          "59.370825",
+          "18.126843"
+        ],
+        [
+          "59.370816",
+          "18.125683"
+        ],
+        [
+          "59.370724",
+          "18.124877"
+        ],
+        [
+          "59.370316",
+          "18.123389"
+        ],
+        [
+          "59.369818",
+          "18.122546"
+        ],
+        [
+          "59.369248",
+          "18.121623"
+        ],
+        [
+          "59.367320",
+          "18.117169"
+        ],
+        [
+          "59.366393",
+          "18.115707"
+        ],
+        [
+          "59.365552",
+          "18.115267"
+        ],
+        [
+          "59.364485",
+          "18.115025"
+        ],
+        [
+          "59.363595",
+          "18.115088"
+        ],
+        [
+          "59.363191",
+          "18.114978"
+        ],
+        [
+          "59.362217",
+          "18.113947"
+        ],
+        [
+          "59.360703",
+          "18.110692"
+        ],
+        [
+          "59.358486",
+          "18.105923"
+        ],
+        [
+          "59.357990",
+          "18.105008"
+        ],
+        [
+          "59.357418",
+          "18.104158"
+        ],
+        [
+          "59.357096",
+          "18.103694"
+        ],
+        [
+          "59.356887",
+          "18.103168"
+        ],
+        [
+          "59.356934",
+          "18.102737"
+        ],
+        [
+          "59.357287",
+          "18.101900"
+        ],
+        [
+          "59.357413",
+          "18.101837"
+        ]
+      ]
+    }
+  ]
+}

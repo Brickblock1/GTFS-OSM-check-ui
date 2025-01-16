@@ -4,6 +4,9 @@
 <head>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.1.0/dist/MarkerCluster.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.1.0/dist/MarkerCluster.Default.css">
+    <script src="https://unpkg.com/leaflet.markercluster@1.1.0/dist/leaflet.markercluster.js"></script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>OSM GTFS stops</title>
@@ -35,6 +38,7 @@
             userAgent:
                 "GTFS-OSM-check-ui/N/A (https://brickblock1.github.io/GTFS-OSM-check-ui/)",
         }).addTo(map);
+        var markercluster = L.markerClusterGroup({spiderfyOnMaxZoom: true, spiderfyDistanceMultiplier: 1.5}).addTo(map)
     </script>
     <script>
         async function on_load() {
@@ -59,7 +63,7 @@
                     fillOpacity: 1,
                     weight: 4,
                     radius: 1,
-                }).addTo(map);
+                }).addTo(markercluster);
                 gtfs_stop.bindTooltip(stop.stop_name + " (" + stop.platform_code + ")")
                 entries = Object.entries(stop)
                 popup_text = `<div id=${stop.stop_id}>`

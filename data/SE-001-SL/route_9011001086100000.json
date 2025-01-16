@@ -1,0 +1,6245 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011001086100000",
+  "agency_id": "14010000000001001",
+  "route_short_name": "861",
+  "route_long_name": "",
+  "route_type": "700",
+  "route_desc": "",
+  "shapes": [
+    {
+      "shape_id": "1014010000552315537",
+      "trips": [
+        {
+          "trip_id": "14010000552350429",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011723001",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293665",
+              "stop_lon": "18.076370",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006002",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977111",
+              "stop_lon": "17.911784",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075515001",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914628",
+              "stop_lon": "17.945588",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075716003",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.900961",
+              "stop_lon": "17.950629",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081643003",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896824",
+              "stop_lon": "17.941573",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081660002",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894396",
+              "stop_lon": "17.934170",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000552352767",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011723001",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293665",
+              "stop_lon": "18.076370",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006002",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977111",
+              "stop_lon": "17.911784",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075515001",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914628",
+              "stop_lon": "17.945588",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075716003",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.900961",
+              "stop_lon": "17.950629",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081643003",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896824",
+              "stop_lon": "17.941573",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081660002",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894396",
+              "stop_lon": "17.934170",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000552361699",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011723001",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293665",
+              "stop_lon": "18.076370",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006002",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977111",
+              "stop_lon": "17.911784",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075515001",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914628",
+              "stop_lon": "17.945588",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075716003",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.900961",
+              "stop_lon": "17.950629",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081643003",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896824",
+              "stop_lon": "17.941573",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081660002",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894396",
+              "stop_lon": "17.934170",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000552357437",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011723001",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293665",
+              "stop_lon": "18.076370",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006002",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977111",
+              "stop_lon": "17.911784",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075515001",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914628",
+              "stop_lon": "17.945588",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075716003",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.900961",
+              "stop_lon": "17.950629",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081643003",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896824",
+              "stop_lon": "17.941573",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081660002",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894396",
+              "stop_lon": "17.934170",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000552358665",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011723001",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293665",
+              "stop_lon": "18.076370",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006002",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977111",
+              "stop_lon": "17.911784",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075515001",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914628",
+              "stop_lon": "17.945588",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075716003",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.900961",
+              "stop_lon": "17.950629",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081643003",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896824",
+              "stop_lon": "17.941573",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081660002",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894396",
+              "stop_lon": "17.934170",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000552360189",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011723001",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293665",
+              "stop_lon": "18.076370",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006002",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977111",
+              "stop_lon": "17.911784",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075515001",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914628",
+              "stop_lon": "17.945588",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075716003",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.900961",
+              "stop_lon": "17.950629",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081643003",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896824",
+              "stop_lon": "17.941573",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081660002",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894396",
+              "stop_lon": "17.934170",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000552348613",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011723001",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293665",
+              "stop_lon": "18.076370",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006002",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977111",
+              "stop_lon": "17.911784",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075515001",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914628",
+              "stop_lon": "17.945588",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075716003",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.900961",
+              "stop_lon": "17.950629",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081643003",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896824",
+              "stop_lon": "17.941573",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081660002",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894396",
+              "stop_lon": "17.934170",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000552355584",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011723001",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293665",
+              "stop_lon": "18.076370",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006002",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977111",
+              "stop_lon": "17.911784",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075515001",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914628",
+              "stop_lon": "17.945588",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075716003",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.900961",
+              "stop_lon": "17.950629",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081643003",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896824",
+              "stop_lon": "17.941573",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081660002",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894396",
+              "stop_lon": "17.934170",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000552354136",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011723001",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293665",
+              "stop_lon": "18.076370",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006002",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977111",
+              "stop_lon": "17.911784",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075515001",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914628",
+              "stop_lon": "17.945588",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075716003",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.900961",
+              "stop_lon": "17.950629",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081643003",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896824",
+              "stop_lon": "17.941573",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081660002",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894396",
+              "stop_lon": "17.934170",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000552362936",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011723001",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293665",
+              "stop_lon": "18.076370",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006002",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977111",
+              "stop_lon": "17.911784",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075515001",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914628",
+              "stop_lon": "17.945588",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001075716003",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.900961",
+              "stop_lon": "17.950629",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081643003",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896824",
+              "stop_lon": "17.941573",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081660002",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894396",
+              "stop_lon": "17.934170",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.293665",
+          "18.076370"
+        ],
+        [
+          "59.293679",
+          "18.076401"
+        ],
+        [
+          "59.295023",
+          "18.085525"
+        ],
+        [
+          "59.283828",
+          "18.089929"
+        ],
+        [
+          "59.274178",
+          "18.096019"
+        ],
+        [
+          "59.262210",
+          "18.099574"
+        ],
+        [
+          "59.253010",
+          "18.103378"
+        ],
+        [
+          "59.246631",
+          "18.105118"
+        ],
+        [
+          "59.238790",
+          "18.118319"
+        ],
+        [
+          "59.233843",
+          "18.126370"
+        ],
+        [
+          "59.225809",
+          "18.131043"
+        ],
+        [
+          "59.220671",
+          "18.130572"
+        ],
+        [
+          "59.213162",
+          "18.129884"
+        ],
+        [
+          "59.208024",
+          "18.129414"
+        ],
+        [
+          "59.199255",
+          "18.131699"
+        ],
+        [
+          "59.184204",
+          "18.148073"
+        ],
+        [
+          "59.174438",
+          "18.158749"
+        ],
+        [
+          "59.166064",
+          "18.161061"
+        ],
+        [
+          "59.156691",
+          "18.155569"
+        ],
+        [
+          "59.150386",
+          "18.154217"
+        ],
+        [
+          "59.142370",
+          "18.158104"
+        ],
+        [
+          "59.136949",
+          "18.152980"
+        ],
+        [
+          "59.122643",
+          "18.138567"
+        ],
+        [
+          "59.112609",
+          "18.127636"
+        ],
+        [
+          "59.104457",
+          "18.120732"
+        ],
+        [
+          "59.099090",
+          "18.113315"
+        ],
+        [
+          "59.095736",
+          "18.104543"
+        ],
+        [
+          "59.091663",
+          "18.092628"
+        ],
+        [
+          "59.087931",
+          "18.083057"
+        ],
+        [
+          "59.082956",
+          "18.075684"
+        ],
+        [
+          "59.073543",
+          "18.071764"
+        ],
+        [
+          "59.069341",
+          "18.065235"
+        ],
+        [
+          "59.065606",
+          "18.055672"
+        ],
+        [
+          "59.062769",
+          "18.041576"
+        ],
+        [
+          "59.058258",
+          "18.014264"
+        ],
+        [
+          "59.056784",
+          "18.009521"
+        ],
+        [
+          "59.041287",
+          "17.977422"
+        ],
+        [
+          "59.038731",
+          "17.967979"
+        ],
+        [
+          "59.030025",
+          "17.950326"
+        ],
+        [
+          "59.020642",
+          "17.944913"
+        ],
+        [
+          "59.010022",
+          "17.941701"
+        ],
+        [
+          "59.001825",
+          "17.936395"
+        ],
+        [
+          "58.990930",
+          "17.927793"
+        ],
+        [
+          "58.985912",
+          "17.921996"
+        ],
+        [
+          "58.977422",
+          "17.912071"
+        ],
+        [
+          "58.977111",
+          "17.911784"
+        ],
+        [
+          "58.977251",
+          "17.911867"
+        ],
+        [
+          "58.975343",
+          "17.911509"
+        ],
+        [
+          "58.974361",
+          "17.910964"
+        ],
+        [
+          "58.973588",
+          "17.910518"
+        ],
+        [
+          "58.972674",
+          "17.909966"
+        ],
+        [
+          "58.971966",
+          "17.909521"
+        ],
+        [
+          "58.970470",
+          "17.908591"
+        ],
+        [
+          "58.969983",
+          "17.908348"
+        ],
+        [
+          "58.969440",
+          "17.908166"
+        ],
+        [
+          "58.968865",
+          "17.908091"
+        ],
+        [
+          "58.968374",
+          "17.908086"
+        ],
+        [
+          "58.967815",
+          "17.908123"
+        ],
+        [
+          "58.967102",
+          "17.908150"
+        ],
+        [
+          "58.966434",
+          "17.908070"
+        ],
+        [
+          "58.965885",
+          "17.907877"
+        ],
+        [
+          "58.965524",
+          "17.907687"
+        ],
+        [
+          "58.965100",
+          "17.907400"
+        ],
+        [
+          "58.964542",
+          "17.906999"
+        ],
+        [
+          "58.964076",
+          "17.906673"
+        ],
+        [
+          "58.963312",
+          "17.906222"
+        ],
+        [
+          "58.962429",
+          "17.905825"
+        ],
+        [
+          "58.962101",
+          "17.905710"
+        ],
+        [
+          "58.961315",
+          "17.905535"
+        ],
+        [
+          "58.960388",
+          "17.905486"
+        ],
+        [
+          "58.958987",
+          "17.905482"
+        ],
+        [
+          "58.958198",
+          "17.905414"
+        ],
+        [
+          "58.957776",
+          "17.905302"
+        ],
+        [
+          "58.957119",
+          "17.905095"
+        ],
+        [
+          "58.956841",
+          "17.904977"
+        ],
+        [
+          "58.956386",
+          "17.904712"
+        ],
+        [
+          "58.955958",
+          "17.904349"
+        ],
+        [
+          "58.955593",
+          "17.903938"
+        ],
+        [
+          "58.955078",
+          "17.903279"
+        ],
+        [
+          "58.954711",
+          "17.902807"
+        ],
+        [
+          "58.954435",
+          "17.902471"
+        ],
+        [
+          "58.954052",
+          "17.902072"
+        ],
+        [
+          "58.953781",
+          "17.901849"
+        ],
+        [
+          "58.953311",
+          "17.901578"
+        ],
+        [
+          "58.952862",
+          "17.901430"
+        ],
+        [
+          "58.952418",
+          "17.901355"
+        ],
+        [
+          "58.951904",
+          "17.901339"
+        ],
+        [
+          "58.951512",
+          "17.901385"
+        ],
+        [
+          "58.951136",
+          "17.901511"
+        ],
+        [
+          "58.950906",
+          "17.901611"
+        ],
+        [
+          "58.950333",
+          "17.901898"
+        ],
+        [
+          "58.949846",
+          "17.902179"
+        ],
+        [
+          "58.949344",
+          "17.902509"
+        ],
+        [
+          "58.949058",
+          "17.902732"
+        ],
+        [
+          "58.948547",
+          "17.903185"
+        ],
+        [
+          "58.948036",
+          "17.903732"
+        ],
+        [
+          "58.947763",
+          "17.904123"
+        ],
+        [
+          "58.947245",
+          "17.905073"
+        ],
+        [
+          "58.946430",
+          "17.906837"
+        ],
+        [
+          "58.946042",
+          "17.907639"
+        ],
+        [
+          "58.945666",
+          "17.908344"
+        ],
+        [
+          "58.945368",
+          "17.908819"
+        ],
+        [
+          "58.944993",
+          "17.909403"
+        ],
+        [
+          "58.944589",
+          "17.910035"
+        ],
+        [
+          "58.944142",
+          "17.910700"
+        ],
+        [
+          "58.943565",
+          "17.911611"
+        ],
+        [
+          "58.943389",
+          "17.911969"
+        ],
+        [
+          "58.942995",
+          "17.912386"
+        ],
+        [
+          "58.942817",
+          "17.912606"
+        ],
+        [
+          "58.942668",
+          "17.912735"
+        ],
+        [
+          "58.942477",
+          "17.912795"
+        ],
+        [
+          "58.942261",
+          "17.912695"
+        ],
+        [
+          "58.941893",
+          "17.912181"
+        ],
+        [
+          "58.941683",
+          "17.911894"
+        ],
+        [
+          "58.941585",
+          "17.911821"
+        ],
+        [
+          "58.941422",
+          "17.911814"
+        ],
+        [
+          "58.941416",
+          "17.911815"
+        ],
+        [
+          "58.941160",
+          "17.912023"
+        ],
+        [
+          "58.940807",
+          "17.912448"
+        ],
+        [
+          "58.939276",
+          "17.914289"
+        ],
+        [
+          "58.938741",
+          "17.914863"
+        ],
+        [
+          "58.938097",
+          "17.915488"
+        ],
+        [
+          "58.937311",
+          "17.916178"
+        ],
+        [
+          "58.935810",
+          "17.917325"
+        ],
+        [
+          "58.933503",
+          "17.919070"
+        ],
+        [
+          "58.932044",
+          "17.920173"
+        ],
+        [
+          "58.931373",
+          "17.920668"
+        ],
+        [
+          "58.930773",
+          "17.920978"
+        ],
+        [
+          "58.930304",
+          "17.921116"
+        ],
+        [
+          "58.929814",
+          "17.921182"
+        ],
+        [
+          "58.927326",
+          "17.920870"
+        ],
+        [
+          "58.926248",
+          "17.920713"
+        ],
+        [
+          "58.925364",
+          "17.920626"
+        ],
+        [
+          "58.924585",
+          "17.920737"
+        ],
+        [
+          "58.924121",
+          "17.920904"
+        ],
+        [
+          "58.923708",
+          "17.921115"
+        ],
+        [
+          "58.923274",
+          "17.921434"
+        ],
+        [
+          "58.922642",
+          "17.921900"
+        ],
+        [
+          "58.922165",
+          "17.922276"
+        ],
+        [
+          "58.921136",
+          "17.923104"
+        ],
+        [
+          "58.920695",
+          "17.923547"
+        ],
+        [
+          "58.920431",
+          "17.923922"
+        ],
+        [
+          "58.920181",
+          "17.924376"
+        ],
+        [
+          "58.919973",
+          "17.924840"
+        ],
+        [
+          "58.919693",
+          "17.925767"
+        ],
+        [
+          "58.919414",
+          "17.927204"
+        ],
+        [
+          "58.919266",
+          "17.928201"
+        ],
+        [
+          "58.919071",
+          "17.929592"
+        ],
+        [
+          "58.918950",
+          "17.931169"
+        ],
+        [
+          "58.918942",
+          "17.932383"
+        ],
+        [
+          "58.918964",
+          "17.932974"
+        ],
+        [
+          "58.918987",
+          "17.933385"
+        ],
+        [
+          "58.918974",
+          "17.933862"
+        ],
+        [
+          "58.919051",
+          "17.935262"
+        ],
+        [
+          "58.919023",
+          "17.936026"
+        ],
+        [
+          "58.918927",
+          "17.936654"
+        ],
+        [
+          "58.918787",
+          "17.937077"
+        ],
+        [
+          "58.918681",
+          "17.937316"
+        ],
+        [
+          "58.918449",
+          "17.937655"
+        ],
+        [
+          "58.918165",
+          "17.938016"
+        ],
+        [
+          "58.917849",
+          "17.938500"
+        ],
+        [
+          "58.917526",
+          "17.938949"
+        ],
+        [
+          "58.917433",
+          "17.939102"
+        ],
+        [
+          "58.917095",
+          "17.939728"
+        ],
+        [
+          "58.916594",
+          "17.940535"
+        ],
+        [
+          "58.916258",
+          "17.940807"
+        ],
+        [
+          "58.915983",
+          "17.941031"
+        ],
+        [
+          "58.915758",
+          "17.941285"
+        ],
+        [
+          "58.915618",
+          "17.941585"
+        ],
+        [
+          "58.915495",
+          "17.942238"
+        ],
+        [
+          "58.915344",
+          "17.943183"
+        ],
+        [
+          "58.915173",
+          "17.943988"
+        ],
+        [
+          "58.915001",
+          "17.944621"
+        ],
+        [
+          "58.914637",
+          "17.945606"
+        ],
+        [
+          "58.914498",
+          "17.945915"
+        ],
+        [
+          "58.914346",
+          "17.946201"
+        ],
+        [
+          "58.914211",
+          "17.946407"
+        ],
+        [
+          "58.914068",
+          "17.946604"
+        ],
+        [
+          "58.913969",
+          "17.946741"
+        ],
+        [
+          "58.913409",
+          "17.947521"
+        ],
+        [
+          "58.913081",
+          "17.948030"
+        ],
+        [
+          "58.912846",
+          "17.948388"
+        ],
+        [
+          "58.912639",
+          "17.948703"
+        ],
+        [
+          "58.912565",
+          "17.948817"
+        ],
+        [
+          "58.912501",
+          "17.948925"
+        ],
+        [
+          "58.912438",
+          "17.949032"
+        ],
+        [
+          "58.912309",
+          "17.949288"
+        ],
+        [
+          "58.912117",
+          "17.949676"
+        ],
+        [
+          "58.912084",
+          "17.949745"
+        ],
+        [
+          "58.912007",
+          "17.949904"
+        ],
+        [
+          "58.911807",
+          "17.950317"
+        ],
+        [
+          "58.911620",
+          "17.950688"
+        ],
+        [
+          "58.911543",
+          "17.950870"
+        ],
+        [
+          "58.911510",
+          "17.950949"
+        ],
+        [
+          "58.911476",
+          "17.951030"
+        ],
+        [
+          "58.911395",
+          "17.951261"
+        ],
+        [
+          "58.911318",
+          "17.951501"
+        ],
+        [
+          "58.911189",
+          "17.951923"
+        ],
+        [
+          "58.911098",
+          "17.952193"
+        ],
+        [
+          "58.911021",
+          "17.952359"
+        ],
+        [
+          "58.911004",
+          "17.952395"
+        ],
+        [
+          "58.910892",
+          "17.952582"
+        ],
+        [
+          "58.910802",
+          "17.952706"
+        ],
+        [
+          "58.910657",
+          "17.952904"
+        ],
+        [
+          "58.910546",
+          "17.953032"
+        ],
+        [
+          "58.910433",
+          "17.953135"
+        ],
+        [
+          "58.910158",
+          "17.953337"
+        ],
+        [
+          "58.909914",
+          "17.953549"
+        ],
+        [
+          "58.909889",
+          "17.953568"
+        ],
+        [
+          "58.909768",
+          "17.953659"
+        ],
+        [
+          "58.909622",
+          "17.953768"
+        ],
+        [
+          "58.909487",
+          "17.953852"
+        ],
+        [
+          "58.909468",
+          "17.953782"
+        ],
+        [
+          "58.909443",
+          "17.953737"
+        ],
+        [
+          "58.909399",
+          "17.953700"
+        ],
+        [
+          "58.909358",
+          "17.953702"
+        ],
+        [
+          "58.909301",
+          "17.953752"
+        ],
+        [
+          "58.909281",
+          "17.953806"
+        ],
+        [
+          "58.909267",
+          "17.953899"
+        ],
+        [
+          "58.909272",
+          "17.953986"
+        ],
+        [
+          "58.909060",
+          "17.954012"
+        ],
+        [
+          "58.909040",
+          "17.954025"
+        ],
+        [
+          "58.909016",
+          "17.954045"
+        ],
+        [
+          "58.908987",
+          "17.954072"
+        ],
+        [
+          "58.908966",
+          "17.954096"
+        ],
+        [
+          "58.908944",
+          "17.954121"
+        ],
+        [
+          "58.908919",
+          "17.954155"
+        ],
+        [
+          "58.908901",
+          "17.954182"
+        ],
+        [
+          "58.908882",
+          "17.954214"
+        ],
+        [
+          "58.908858",
+          "17.954258"
+        ],
+        [
+          "58.908834",
+          "17.954311"
+        ],
+        [
+          "58.908809",
+          "17.954372"
+        ],
+        [
+          "58.908780",
+          "17.954457"
+        ],
+        [
+          "58.908721",
+          "17.954683"
+        ],
+        [
+          "58.908659",
+          "17.954634"
+        ],
+        [
+          "58.908580",
+          "17.954574"
+        ],
+        [
+          "58.908498",
+          "17.954520"
+        ],
+        [
+          "58.908417",
+          "17.954472"
+        ],
+        [
+          "58.908340",
+          "17.954433"
+        ],
+        [
+          "58.908248",
+          "17.954394"
+        ],
+        [
+          "58.908188",
+          "17.954372"
+        ],
+        [
+          "58.908119",
+          "17.954351"
+        ],
+        [
+          "58.908027",
+          "17.954330"
+        ],
+        [
+          "58.907939",
+          "17.954317"
+        ],
+        [
+          "58.907871",
+          "17.954312"
+        ],
+        [
+          "58.907782",
+          "17.954311"
+        ],
+        [
+          "58.907703",
+          "17.954315"
+        ],
+        [
+          "58.907615",
+          "17.954327"
+        ],
+        [
+          "58.907476",
+          "17.954351"
+        ],
+        [
+          "58.907360",
+          "17.954373"
+        ],
+        [
+          "58.907245",
+          "17.954406"
+        ],
+        [
+          "58.907133",
+          "17.954449"
+        ],
+        [
+          "58.907021",
+          "17.954508"
+        ],
+        [
+          "58.906911",
+          "17.954578"
+        ],
+        [
+          "58.906802",
+          "17.954660"
+        ],
+        [
+          "58.906693",
+          "17.954754"
+        ],
+        [
+          "58.906583",
+          "17.954852"
+        ],
+        [
+          "58.906472",
+          "17.954947"
+        ],
+        [
+          "58.906357",
+          "17.955032"
+        ],
+        [
+          "58.906242",
+          "17.955104"
+        ],
+        [
+          "58.906128",
+          "17.955150"
+        ],
+        [
+          "58.906014",
+          "17.955186"
+        ],
+        [
+          "58.905901",
+          "17.955208"
+        ],
+        [
+          "58.905786",
+          "17.955222"
+        ],
+        [
+          "58.905671",
+          "17.955237"
+        ],
+        [
+          "58.905556",
+          "17.955241"
+        ],
+        [
+          "58.905440",
+          "17.955240"
+        ],
+        [
+          "58.905325",
+          "17.955221"
+        ],
+        [
+          "58.905210",
+          "17.955186"
+        ],
+        [
+          "58.905096",
+          "17.955136"
+        ],
+        [
+          "58.904979",
+          "17.955080"
+        ],
+        [
+          "58.904864",
+          "17.955011"
+        ],
+        [
+          "58.904753",
+          "17.954928"
+        ],
+        [
+          "58.904641",
+          "17.954836"
+        ],
+        [
+          "58.904528",
+          "17.954731"
+        ],
+        [
+          "58.904416",
+          "17.954620"
+        ],
+        [
+          "58.904302",
+          "17.954516"
+        ],
+        [
+          "58.904189",
+          "17.954411"
+        ],
+        [
+          "58.904075",
+          "17.954306"
+        ],
+        [
+          "58.903961",
+          "17.954200"
+        ],
+        [
+          "58.903846",
+          "17.954095"
+        ],
+        [
+          "58.903731",
+          "17.953987"
+        ],
+        [
+          "58.903616",
+          "17.953881"
+        ],
+        [
+          "58.903499",
+          "17.953776"
+        ],
+        [
+          "58.903385",
+          "17.953668"
+        ],
+        [
+          "58.903274",
+          "17.953563"
+        ],
+        [
+          "58.903168",
+          "17.953455"
+        ],
+        [
+          "58.903067",
+          "17.953341"
+        ],
+        [
+          "58.903015",
+          "17.953274"
+        ],
+        [
+          "58.902971",
+          "17.953219"
+        ],
+        [
+          "58.902879",
+          "17.953091"
+        ],
+        [
+          "58.902793",
+          "17.952949"
+        ],
+        [
+          "58.902711",
+          "17.952800"
+        ],
+        [
+          "58.902633",
+          "17.952645"
+        ],
+        [
+          "58.902559",
+          "17.952485"
+        ],
+        [
+          "58.902492",
+          "17.952317"
+        ],
+        [
+          "58.902425",
+          "17.952144"
+        ],
+        [
+          "58.902363",
+          "17.951964"
+        ],
+        [
+          "58.902305",
+          "17.951778"
+        ],
+        [
+          "58.902249",
+          "17.951589"
+        ],
+        [
+          "58.902195",
+          "17.951402"
+        ],
+        [
+          "58.902141",
+          "17.951223"
+        ],
+        [
+          "58.902097",
+          "17.951053"
+        ],
+        [
+          "58.902054",
+          "17.950913"
+        ],
+        [
+          "58.902034",
+          "17.950852"
+        ],
+        [
+          "58.902017",
+          "17.950796"
+        ],
+        [
+          "58.901916",
+          "17.950682"
+        ],
+        [
+          "58.901909",
+          "17.950658"
+        ],
+        [
+          "58.901860",
+          "17.950474"
+        ],
+        [
+          "58.901765",
+          "17.950098"
+        ],
+        [
+          "58.901690",
+          "17.949751"
+        ],
+        [
+          "58.901616",
+          "17.949377"
+        ],
+        [
+          "58.901561",
+          "17.949008"
+        ],
+        [
+          "58.901519",
+          "17.948765"
+        ],
+        [
+          "58.901442",
+          "17.948816"
+        ],
+        [
+          "58.901399",
+          "17.948850"
+        ],
+        [
+          "58.901323",
+          "17.948936"
+        ],
+        [
+          "58.901253",
+          "17.949028"
+        ],
+        [
+          "58.901153",
+          "17.949249"
+        ],
+        [
+          "58.900846",
+          "17.949940"
+        ],
+        [
+          "58.900804",
+          "17.950080"
+        ],
+        [
+          "58.900801",
+          "17.950126"
+        ],
+        [
+          "58.900811",
+          "17.950202"
+        ],
+        [
+          "58.900818",
+          "17.950245"
+        ],
+        [
+          "58.900887",
+          "17.950391"
+        ],
+        [
+          "58.900969",
+          "17.950523"
+        ],
+        [
+          "58.901060",
+          "17.950689"
+        ],
+        [
+          "58.901384",
+          "17.951232"
+        ],
+        [
+          "58.901535",
+          "17.951498"
+        ],
+        [
+          "58.901555",
+          "17.951446"
+        ],
+        [
+          "58.901627",
+          "17.951258"
+        ],
+        [
+          "58.901726",
+          "17.951124"
+        ],
+        [
+          "58.901811",
+          "17.951054"
+        ],
+        [
+          "58.901955",
+          "17.950917"
+        ],
+        [
+          "58.902034",
+          "17.950852"
+        ],
+        [
+          "58.902017",
+          "17.950796"
+        ],
+        [
+          "58.901916",
+          "17.950682"
+        ],
+        [
+          "58.901909",
+          "17.950658"
+        ],
+        [
+          "58.901860",
+          "17.950474"
+        ],
+        [
+          "58.901765",
+          "17.950098"
+        ],
+        [
+          "58.901690",
+          "17.949751"
+        ],
+        [
+          "58.901616",
+          "17.949377"
+        ],
+        [
+          "58.901561",
+          "17.949008"
+        ],
+        [
+          "58.901519",
+          "17.948765"
+        ],
+        [
+          "58.901464",
+          "17.948496"
+        ],
+        [
+          "58.901386",
+          "17.948156"
+        ],
+        [
+          "58.901353",
+          "17.948013"
+        ],
+        [
+          "58.901283",
+          "17.947776"
+        ],
+        [
+          "58.901212",
+          "17.947593"
+        ],
+        [
+          "58.901053",
+          "17.947243"
+        ],
+        [
+          "58.900893",
+          "17.946930"
+        ],
+        [
+          "58.900663",
+          "17.946436"
+        ],
+        [
+          "58.900174",
+          "17.945412"
+        ],
+        [
+          "58.899936",
+          "17.944911"
+        ],
+        [
+          "58.899663",
+          "17.944355"
+        ],
+        [
+          "58.899511",
+          "17.944038"
+        ],
+        [
+          "58.899465",
+          "17.943941"
+        ],
+        [
+          "58.899348",
+          "17.943714"
+        ],
+        [
+          "58.899253",
+          "17.943549"
+        ],
+        [
+          "58.899167",
+          "17.943438"
+        ],
+        [
+          "58.899053",
+          "17.943312"
+        ],
+        [
+          "58.898946",
+          "17.943214"
+        ],
+        [
+          "58.898834",
+          "17.943116"
+        ],
+        [
+          "58.898769",
+          "17.943072"
+        ],
+        [
+          "58.898733",
+          "17.943048"
+        ],
+        [
+          "58.898651",
+          "17.943007"
+        ],
+        [
+          "58.898558",
+          "17.942967"
+        ],
+        [
+          "58.898445",
+          "17.942937"
+        ],
+        [
+          "58.898354",
+          "17.942917"
+        ],
+        [
+          "58.898191",
+          "17.942903"
+        ],
+        [
+          "58.897876",
+          "17.942927"
+        ],
+        [
+          "58.897684",
+          "17.942939"
+        ],
+        [
+          "58.897539",
+          "17.942953"
+        ],
+        [
+          "58.897423",
+          "17.942966"
+        ],
+        [
+          "58.897341",
+          "17.942959"
+        ],
+        [
+          "58.897265",
+          "17.942942"
+        ],
+        [
+          "58.897199",
+          "17.942915"
+        ],
+        [
+          "58.897161",
+          "17.942891"
+        ],
+        [
+          "58.897115",
+          "17.942832"
+        ],
+        [
+          "58.897045",
+          "17.942729"
+        ],
+        [
+          "58.896982",
+          "17.942554"
+        ],
+        [
+          "58.896917",
+          "17.942300"
+        ],
+        [
+          "58.896821",
+          "17.941808"
+        ],
+        [
+          "58.896779",
+          "17.941605"
+        ],
+        [
+          "58.896824",
+          "17.941573"
+        ],
+        [
+          "58.896786",
+          "17.941613"
+        ],
+        [
+          "58.896767",
+          "17.941523"
+        ],
+        [
+          "58.896743",
+          "17.941413"
+        ],
+        [
+          "58.896714",
+          "17.941278"
+        ],
+        [
+          "58.896688",
+          "17.941158"
+        ],
+        [
+          "58.896684",
+          "17.941138"
+        ],
+        [
+          "58.896657",
+          "17.941018"
+        ],
+        [
+          "58.896628",
+          "17.940887"
+        ],
+        [
+          "58.896609",
+          "17.940802"
+        ],
+        [
+          "58.896602",
+          "17.940772"
+        ],
+        [
+          "58.896567",
+          "17.940623"
+        ],
+        [
+          "58.896537",
+          "17.940494"
+        ],
+        [
+          "58.896512",
+          "17.940384"
+        ],
+        [
+          "58.896510",
+          "17.940377"
+        ],
+        [
+          "58.896466",
+          "17.940192"
+        ],
+        [
+          "58.896433",
+          "17.940050"
+        ],
+        [
+          "58.896420",
+          "17.939997"
+        ],
+        [
+          "58.896387",
+          "17.939858"
+        ],
+        [
+          "58.896346",
+          "17.939692"
+        ],
+        [
+          "58.896311",
+          "17.939545"
+        ],
+        [
+          "58.896293",
+          "17.939471"
+        ],
+        [
+          "58.896270",
+          "17.939371"
+        ],
+        [
+          "58.896221",
+          "17.939158"
+        ],
+        [
+          "58.896216",
+          "17.939138"
+        ],
+        [
+          "58.896205",
+          "17.939096"
+        ],
+        [
+          "58.896169",
+          "17.938950"
+        ],
+        [
+          "58.896160",
+          "17.938916"
+        ],
+        [
+          "58.896154",
+          "17.938893"
+        ],
+        [
+          "58.896150",
+          "17.938877"
+        ],
+        [
+          "58.896055",
+          "17.938477"
+        ],
+        [
+          "58.895910",
+          "17.937864"
+        ],
+        [
+          "58.895843",
+          "17.937608"
+        ],
+        [
+          "58.895782",
+          "17.937406"
+        ],
+        [
+          "58.895720",
+          "17.937232"
+        ],
+        [
+          "58.895622",
+          "17.936994"
+        ],
+        [
+          "58.895503",
+          "17.936723"
+        ],
+        [
+          "58.895402",
+          "17.936506"
+        ],
+        [
+          "58.895187",
+          "17.936052"
+        ],
+        [
+          "58.895029",
+          "17.935723"
+        ],
+        [
+          "58.894894",
+          "17.935399"
+        ],
+        [
+          "58.894874",
+          "17.935357"
+        ],
+        [
+          "58.894830",
+          "17.935266"
+        ],
+        [
+          "58.894825",
+          "17.935255"
+        ],
+        [
+          "58.894813",
+          "17.935231"
+        ],
+        [
+          "58.894805",
+          "17.935213"
+        ],
+        [
+          "58.894794",
+          "17.935191"
+        ],
+        [
+          "58.894755",
+          "17.935110"
+        ],
+        [
+          "58.894716",
+          "17.935024"
+        ],
+        [
+          "58.894674",
+          "17.934932"
+        ],
+        [
+          "58.894633",
+          "17.934841"
+        ],
+        [
+          "58.894535",
+          "17.934626"
+        ],
+        [
+          "58.894478",
+          "17.934501"
+        ],
+        [
+          "58.894463",
+          "17.934468"
+        ],
+        [
+          "58.894389",
+          "17.934314"
+        ],
+        [
+          "58.894352",
+          "17.934235"
+        ],
+        [
+          "58.894396",
+          "17.934170"
+        ]
+      ]
+    },
+    {
+      "shape_id": "1014010000552315268",
+      "trips": [
+        {
+          "trip_id": "14010000554785689",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081660001",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894356",
+              "stop_lon": "17.934428",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081643004",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896678",
+              "stop_lon": "17.941165",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075716001",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.901333",
+              "stop_lon": "17.951269",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075515002",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914606",
+              "stop_lon": "17.945865",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006003",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977578",
+              "stop_lon": "17.914426",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011723002",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293701",
+              "stop_lon": "18.075618",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000554786062",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081660001",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894356",
+              "stop_lon": "17.934428",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081643004",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896678",
+              "stop_lon": "17.941165",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075716001",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.901333",
+              "stop_lon": "17.951269",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075515002",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914606",
+              "stop_lon": "17.945865",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006003",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977578",
+              "stop_lon": "17.914426",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011723002",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293701",
+              "stop_lon": "18.075618",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000554785578",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081660001",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894356",
+              "stop_lon": "17.934428",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081643004",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896678",
+              "stop_lon": "17.941165",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075716001",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.901333",
+              "stop_lon": "17.951269",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075515002",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914606",
+              "stop_lon": "17.945865",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006003",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977578",
+              "stop_lon": "17.914426",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011723002",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293701",
+              "stop_lon": "18.075618",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000554785626",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081660001",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894356",
+              "stop_lon": "17.934428",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081643004",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896678",
+              "stop_lon": "17.941165",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075716001",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.901333",
+              "stop_lon": "17.951269",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075515002",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914606",
+              "stop_lon": "17.945865",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006003",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977578",
+              "stop_lon": "17.914426",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011723002",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293701",
+              "stop_lon": "18.075618",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000554785820",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081660001",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894356",
+              "stop_lon": "17.934428",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081643004",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896678",
+              "stop_lon": "17.941165",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075716001",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.901333",
+              "stop_lon": "17.951269",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075515002",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914606",
+              "stop_lon": "17.945865",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006003",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977578",
+              "stop_lon": "17.914426",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011723002",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293701",
+              "stop_lon": "18.075618",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000554785963",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081660001",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894356",
+              "stop_lon": "17.934428",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081643004",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896678",
+              "stop_lon": "17.941165",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075716001",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.901333",
+              "stop_lon": "17.951269",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075515002",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914606",
+              "stop_lon": "17.945865",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006003",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977578",
+              "stop_lon": "17.914426",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011723002",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293701",
+              "stop_lon": "18.075618",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000554786221",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081660001",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894356",
+              "stop_lon": "17.934428",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081643004",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896678",
+              "stop_lon": "17.941165",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075716001",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.901333",
+              "stop_lon": "17.951269",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075515002",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914606",
+              "stop_lon": "17.945865",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006003",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977578",
+              "stop_lon": "17.914426",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011723002",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293701",
+              "stop_lon": "18.075618",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000554786380",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081660001",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894356",
+              "stop_lon": "17.934428",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081643004",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896678",
+              "stop_lon": "17.941165",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075716001",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.901333",
+              "stop_lon": "17.951269",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075515002",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914606",
+              "stop_lon": "17.945865",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006003",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977578",
+              "stop_lon": "17.914426",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011723002",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293701",
+              "stop_lon": "18.075618",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000554786884",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081660001",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894356",
+              "stop_lon": "17.934428",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081643004",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896678",
+              "stop_lon": "17.941165",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075716001",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.901333",
+              "stop_lon": "17.951269",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075515002",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914606",
+              "stop_lon": "17.945865",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006003",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977578",
+              "stop_lon": "17.914426",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011723002",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293701",
+              "stop_lon": "18.075618",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000645761588",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081660001",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894356",
+              "stop_lon": "17.934428",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081643004",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896678",
+              "stop_lon": "17.941165",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075716001",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.901333",
+              "stop_lon": "17.951269",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075515002",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914606",
+              "stop_lon": "17.945865",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006003",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977578",
+              "stop_lon": "17.914426",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011723002",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293701",
+              "stop_lon": "18.075618",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000645762107",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081660001",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894356",
+              "stop_lon": "17.934428",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081643004",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896678",
+              "stop_lon": "17.941165",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075716001",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.901333",
+              "stop_lon": "17.951269",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075515002",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914606",
+              "stop_lon": "17.945865",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006003",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977578",
+              "stop_lon": "17.914426",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011723002",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293701",
+              "stop_lon": "18.075618",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671764199",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081660001",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894356",
+              "stop_lon": "17.934428",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081643004",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896678",
+              "stop_lon": "17.941165",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075716001",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.901333",
+              "stop_lon": "17.951269",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075515002",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914606",
+              "stop_lon": "17.945865",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006003",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977578",
+              "stop_lon": "17.914426",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011723002",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293701",
+              "stop_lon": "18.075618",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671764453",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081660001",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894356",
+              "stop_lon": "17.934428",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081643004",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896678",
+              "stop_lon": "17.941165",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075716001",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.901333",
+              "stop_lon": "17.951269",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075515002",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914606",
+              "stop_lon": "17.945865",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006003",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977578",
+              "stop_lon": "17.914426",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011723002",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293701",
+              "stop_lon": "18.075618",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671765576",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081660001",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894356",
+              "stop_lon": "17.934428",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081643004",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896678",
+              "stop_lon": "17.941165",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075716001",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.901333",
+              "stop_lon": "17.951269",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075515002",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914606",
+              "stop_lon": "17.945865",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006003",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977578",
+              "stop_lon": "17.914426",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011723002",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293701",
+              "stop_lon": "18.075618",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671764891",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081660001",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894356",
+              "stop_lon": "17.934428",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081643004",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896678",
+              "stop_lon": "17.941165",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075716001",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.901333",
+              "stop_lon": "17.951269",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075515002",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914606",
+              "stop_lon": "17.945865",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006003",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977578",
+              "stop_lon": "17.914426",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011723002",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293701",
+              "stop_lon": "18.075618",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671765223",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081660001",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894356",
+              "stop_lon": "17.934428",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081643004",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896678",
+              "stop_lon": "17.941165",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075716001",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.901333",
+              "stop_lon": "17.951269",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075515002",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914606",
+              "stop_lon": "17.945865",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006003",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977578",
+              "stop_lon": "17.914426",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011723002",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293701",
+              "stop_lon": "18.075618",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671765878",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081660001",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894356",
+              "stop_lon": "17.934428",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081643004",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896678",
+              "stop_lon": "17.941165",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075716001",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.901333",
+              "stop_lon": "17.951269",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075515002",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914606",
+              "stop_lon": "17.945865",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006003",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977578",
+              "stop_lon": "17.914426",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011723002",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293701",
+              "stop_lon": "18.075618",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671764690",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081660001",
+              "stop_name": "Est\u00f6garaget",
+              "stop_lat": "58.894356",
+              "stop_lon": "17.934428",
+              "location_type": "0",
+              "parent_station": "9021001081660000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081643004",
+              "stop_name": "Nyn\u00e4s havsbad",
+              "stop_lat": "58.896678",
+              "stop_lon": "17.941165",
+              "location_type": "0",
+              "parent_station": "9021001081643000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075716001",
+              "stop_name": "Nyn\u00e4shamns station",
+              "stop_lat": "58.901333",
+              "stop_lon": "17.951269",
+              "location_type": "0",
+              "parent_station": "9021001075716000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001075515002",
+              "stop_name": "Kullstaplan",
+              "stop_lat": "58.914606",
+              "stop_lon": "17.945865",
+              "location_type": "0",
+              "parent_station": "9021001075515000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001086006003",
+              "stop_name": "\u00d6smo trafikplats",
+              "stop_lat": "58.977578",
+              "stop_lon": "17.914426",
+              "location_type": "0",
+              "parent_station": "9021001086006000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011723002",
+              "stop_name": "Slakthuset (Globen)",
+              "stop_lat": "59.293701",
+              "stop_lon": "18.075618",
+              "location_type": "0",
+              "parent_station": "9021001011723000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.894356",
+          "17.934428"
+        ],
+        [
+          "58.894389",
+          "17.934314"
+        ],
+        [
+          "58.894463",
+          "17.934468"
+        ],
+        [
+          "58.894478",
+          "17.934501"
+        ],
+        [
+          "58.894535",
+          "17.934626"
+        ],
+        [
+          "58.894633",
+          "17.934841"
+        ],
+        [
+          "58.894674",
+          "17.934932"
+        ],
+        [
+          "58.894716",
+          "17.935024"
+        ],
+        [
+          "58.894755",
+          "17.935110"
+        ],
+        [
+          "58.894794",
+          "17.935191"
+        ],
+        [
+          "58.894805",
+          "17.935213"
+        ],
+        [
+          "58.894813",
+          "17.935231"
+        ],
+        [
+          "58.894825",
+          "17.935255"
+        ],
+        [
+          "58.894830",
+          "17.935266"
+        ],
+        [
+          "58.894874",
+          "17.935357"
+        ],
+        [
+          "58.894894",
+          "17.935399"
+        ],
+        [
+          "58.895029",
+          "17.935723"
+        ],
+        [
+          "58.895187",
+          "17.936052"
+        ],
+        [
+          "58.895402",
+          "17.936506"
+        ],
+        [
+          "58.895503",
+          "17.936723"
+        ],
+        [
+          "58.895622",
+          "17.936994"
+        ],
+        [
+          "58.895720",
+          "17.937232"
+        ],
+        [
+          "58.895782",
+          "17.937406"
+        ],
+        [
+          "58.895843",
+          "17.937608"
+        ],
+        [
+          "58.895910",
+          "17.937864"
+        ],
+        [
+          "58.896055",
+          "17.938477"
+        ],
+        [
+          "58.896150",
+          "17.938877"
+        ],
+        [
+          "58.896154",
+          "17.938893"
+        ],
+        [
+          "58.896160",
+          "17.938916"
+        ],
+        [
+          "58.896169",
+          "17.938950"
+        ],
+        [
+          "58.896205",
+          "17.939096"
+        ],
+        [
+          "58.896216",
+          "17.939138"
+        ],
+        [
+          "58.896221",
+          "17.939158"
+        ],
+        [
+          "58.896270",
+          "17.939371"
+        ],
+        [
+          "58.896293",
+          "17.939471"
+        ],
+        [
+          "58.896311",
+          "17.939545"
+        ],
+        [
+          "58.896346",
+          "17.939692"
+        ],
+        [
+          "58.896387",
+          "17.939858"
+        ],
+        [
+          "58.896420",
+          "17.939997"
+        ],
+        [
+          "58.896433",
+          "17.940050"
+        ],
+        [
+          "58.896466",
+          "17.940192"
+        ],
+        [
+          "58.896510",
+          "17.940377"
+        ],
+        [
+          "58.896512",
+          "17.940384"
+        ],
+        [
+          "58.896537",
+          "17.940494"
+        ],
+        [
+          "58.896567",
+          "17.940623"
+        ],
+        [
+          "58.896602",
+          "17.940772"
+        ],
+        [
+          "58.896609",
+          "17.940802"
+        ],
+        [
+          "58.896628",
+          "17.940887"
+        ],
+        [
+          "58.896657",
+          "17.941018"
+        ],
+        [
+          "58.896684",
+          "17.941138"
+        ],
+        [
+          "58.896688",
+          "17.941158"
+        ],
+        [
+          "58.896695",
+          "17.941188"
+        ],
+        [
+          "58.896714",
+          "17.941278"
+        ],
+        [
+          "58.896743",
+          "17.941413"
+        ],
+        [
+          "58.896767",
+          "17.941523"
+        ],
+        [
+          "58.896792",
+          "17.941644"
+        ],
+        [
+          "58.896810",
+          "17.941725"
+        ],
+        [
+          "58.896812",
+          "17.941735"
+        ],
+        [
+          "58.896818",
+          "17.941766"
+        ],
+        [
+          "58.896821",
+          "17.941782"
+        ],
+        [
+          "58.896832",
+          "17.941836"
+        ],
+        [
+          "58.896854",
+          "17.941945"
+        ],
+        [
+          "58.896859",
+          "17.941974"
+        ],
+        [
+          "58.896866",
+          "17.942016"
+        ],
+        [
+          "58.896867",
+          "17.942021"
+        ],
+        [
+          "58.896891",
+          "17.942166"
+        ],
+        [
+          "58.896892",
+          "17.942170"
+        ],
+        [
+          "58.896894",
+          "17.942185"
+        ],
+        [
+          "58.896910",
+          "17.942274"
+        ],
+        [
+          "58.896912",
+          "17.942288"
+        ],
+        [
+          "58.896935",
+          "17.942423"
+        ],
+        [
+          "58.896947",
+          "17.942491"
+        ],
+        [
+          "58.896947",
+          "17.942493"
+        ],
+        [
+          "58.896954",
+          "17.942533"
+        ],
+        [
+          "58.896957",
+          "17.942548"
+        ],
+        [
+          "58.896981",
+          "17.942677"
+        ],
+        [
+          "58.897023",
+          "17.942732"
+        ],
+        [
+          "58.897048",
+          "17.942767"
+        ],
+        [
+          "58.897075",
+          "17.942802"
+        ],
+        [
+          "58.897078",
+          "17.942806"
+        ],
+        [
+          "58.897088",
+          "17.942820"
+        ],
+        [
+          "58.897105",
+          "17.942834"
+        ],
+        [
+          "58.897153",
+          "17.942875"
+        ],
+        [
+          "58.897188",
+          "17.942904"
+        ],
+        [
+          "58.897210",
+          "17.942923"
+        ],
+        [
+          "58.897217",
+          "17.942926"
+        ],
+        [
+          "58.897250",
+          "17.942938"
+        ],
+        [
+          "58.897282",
+          "17.942949"
+        ],
+        [
+          "58.897324",
+          "17.942965"
+        ],
+        [
+          "58.897336",
+          "17.942969"
+        ],
+        [
+          "58.897357",
+          "17.942969"
+        ],
+        [
+          "58.897401",
+          "17.942968"
+        ],
+        [
+          "58.897426",
+          "17.942968"
+        ],
+        [
+          "58.897465",
+          "17.942967"
+        ],
+        [
+          "58.897505",
+          "17.942967"
+        ],
+        [
+          "58.897532",
+          "17.942967"
+        ],
+        [
+          "58.897533",
+          "17.942967"
+        ],
+        [
+          "58.897573",
+          "17.942964"
+        ],
+        [
+          "58.897800",
+          "17.942939"
+        ],
+        [
+          "58.897885",
+          "17.942932"
+        ],
+        [
+          "58.897956",
+          "17.942925"
+        ],
+        [
+          "58.897970",
+          "17.942924"
+        ],
+        [
+          "58.898032",
+          "17.942919"
+        ],
+        [
+          "58.898084",
+          "17.942914"
+        ],
+        [
+          "58.898111",
+          "17.942913"
+        ],
+        [
+          "58.898152",
+          "17.942910"
+        ],
+        [
+          "58.898212",
+          "17.942906"
+        ],
+        [
+          "58.898234",
+          "17.942905"
+        ],
+        [
+          "58.898254",
+          "17.942906"
+        ],
+        [
+          "58.898292",
+          "17.942907"
+        ],
+        [
+          "58.898331",
+          "17.942909"
+        ],
+        [
+          "58.898358",
+          "17.942910"
+        ],
+        [
+          "58.898376",
+          "17.942910"
+        ],
+        [
+          "58.898393",
+          "17.942915"
+        ],
+        [
+          "58.898421",
+          "17.942922"
+        ],
+        [
+          "58.898465",
+          "17.942933"
+        ],
+        [
+          "58.898494",
+          "17.942940"
+        ],
+        [
+          "58.898498",
+          "17.942941"
+        ],
+        [
+          "58.898538",
+          "17.942956"
+        ],
+        [
+          "58.898579",
+          "17.942971"
+        ],
+        [
+          "58.898599",
+          "17.942978"
+        ],
+        [
+          "58.898636",
+          "17.942991"
+        ],
+        [
+          "58.898653",
+          "17.942998"
+        ],
+        [
+          "58.898666",
+          "17.943003"
+        ],
+        [
+          "58.898764",
+          "17.943046"
+        ],
+        [
+          "58.898802",
+          "17.943078"
+        ],
+        [
+          "58.898811",
+          "17.943086"
+        ],
+        [
+          "58.898862",
+          "17.943128"
+        ],
+        [
+          "58.898873",
+          "17.943137"
+        ],
+        [
+          "58.898886",
+          "17.943149"
+        ],
+        [
+          "58.898903",
+          "17.943162"
+        ],
+        [
+          "58.898927",
+          "17.943186"
+        ],
+        [
+          "58.898946",
+          "17.943203"
+        ],
+        [
+          "58.898980",
+          "17.943235"
+        ],
+        [
+          "58.899027",
+          "17.943281"
+        ],
+        [
+          "58.899031",
+          "17.943284"
+        ],
+        [
+          "58.899078",
+          "17.943330"
+        ],
+        [
+          "58.899126",
+          "17.943377"
+        ],
+        [
+          "58.899145",
+          "17.943395"
+        ],
+        [
+          "58.899156",
+          "17.943411"
+        ],
+        [
+          "58.899194",
+          "17.943465"
+        ],
+        [
+          "58.899238",
+          "17.943528"
+        ],
+        [
+          "58.899261",
+          "17.943560"
+        ],
+        [
+          "58.899280",
+          "17.943592"
+        ],
+        [
+          "58.899306",
+          "17.943633"
+        ],
+        [
+          "58.899336",
+          "17.943682"
+        ],
+        [
+          "58.899351",
+          "17.943706"
+        ],
+        [
+          "58.899380",
+          "17.943763"
+        ],
+        [
+          "58.899411",
+          "17.943822"
+        ],
+        [
+          "58.899454",
+          "17.943905"
+        ],
+        [
+          "58.899461",
+          "17.943917"
+        ],
+        [
+          "58.899501",
+          "17.943999"
+        ],
+        [
+          "58.899546",
+          "17.944092"
+        ],
+        [
+          "58.899584",
+          "17.944168"
+        ],
+        [
+          "58.899622",
+          "17.944245"
+        ],
+        [
+          "58.899657",
+          "17.944316"
+        ],
+        [
+          "58.899681",
+          "17.944366"
+        ],
+        [
+          "58.899731",
+          "17.944468"
+        ],
+        [
+          "58.899782",
+          "17.944574"
+        ],
+        [
+          "58.899818",
+          "17.944648"
+        ],
+        [
+          "58.899845",
+          "17.944703"
+        ],
+        [
+          "58.899863",
+          "17.944740"
+        ],
+        [
+          "58.899895",
+          "17.944808"
+        ],
+        [
+          "58.899902",
+          "17.944822"
+        ],
+        [
+          "58.899905",
+          "17.944829"
+        ],
+        [
+          "58.899950",
+          "17.944932"
+        ],
+        [
+          "58.899976",
+          "17.944994"
+        ],
+        [
+          "58.900095",
+          "17.945243"
+        ],
+        [
+          "58.900141",
+          "17.945341"
+        ],
+        [
+          "58.900176",
+          "17.945414"
+        ],
+        [
+          "58.900181",
+          "17.945425"
+        ],
+        [
+          "58.900194",
+          "17.945451"
+        ],
+        [
+          "58.900233",
+          "17.945533"
+        ],
+        [
+          "58.900285",
+          "17.945641"
+        ],
+        [
+          "58.900399",
+          "17.945880"
+        ],
+        [
+          "58.900476",
+          "17.946040"
+        ],
+        [
+          "58.900558",
+          "17.946211"
+        ],
+        [
+          "58.900590",
+          "17.946281"
+        ],
+        [
+          "58.900681",
+          "17.946478"
+        ],
+        [
+          "58.900690",
+          "17.946499"
+        ],
+        [
+          "58.900760",
+          "17.946646"
+        ],
+        [
+          "58.900859",
+          "17.946853"
+        ],
+        [
+          "58.900910",
+          "17.946961"
+        ],
+        [
+          "58.900987",
+          "17.947122"
+        ],
+        [
+          "58.901017",
+          "17.947184"
+        ],
+        [
+          "58.901092",
+          "17.947338"
+        ],
+        [
+          "58.901099",
+          "17.947353"
+        ],
+        [
+          "58.901140",
+          "17.947438"
+        ],
+        [
+          "58.901195",
+          "17.947551"
+        ],
+        [
+          "58.901203",
+          "17.947572"
+        ],
+        [
+          "58.901250",
+          "17.947691"
+        ],
+        [
+          "58.901286",
+          "17.947784"
+        ],
+        [
+          "58.901296",
+          "17.947809"
+        ],
+        [
+          "58.901298",
+          "17.947817"
+        ],
+        [
+          "58.901311",
+          "17.947857"
+        ],
+        [
+          "58.901324",
+          "17.947895"
+        ],
+        [
+          "58.901337",
+          "17.947936"
+        ],
+        [
+          "58.901343",
+          "17.947956"
+        ],
+        [
+          "58.901358",
+          "17.948018"
+        ],
+        [
+          "58.901385",
+          "17.948129"
+        ],
+        [
+          "58.901395",
+          "17.948172"
+        ],
+        [
+          "58.901410",
+          "17.948246"
+        ],
+        [
+          "58.901416",
+          "17.948275"
+        ],
+        [
+          "58.901443",
+          "17.948410"
+        ],
+        [
+          "58.901448",
+          "17.948434"
+        ],
+        [
+          "58.901458",
+          "17.948488"
+        ],
+        [
+          "58.901462",
+          "17.948510"
+        ],
+        [
+          "58.901466",
+          "17.948528"
+        ],
+        [
+          "58.901470",
+          "17.948550"
+        ],
+        [
+          "58.901472",
+          "17.948559"
+        ],
+        [
+          "58.901473",
+          "17.948565"
+        ],
+        [
+          "58.901478",
+          "17.948592"
+        ],
+        [
+          "58.901481",
+          "17.948610"
+        ],
+        [
+          "58.901510",
+          "17.948764"
+        ],
+        [
+          "58.901442",
+          "17.948816"
+        ],
+        [
+          "58.901388",
+          "17.948859"
+        ],
+        [
+          "58.901365",
+          "17.948878"
+        ],
+        [
+          "58.901330",
+          "17.948933"
+        ],
+        [
+          "58.901302",
+          "17.948979"
+        ],
+        [
+          "58.901250",
+          "17.949073"
+        ],
+        [
+          "58.901116",
+          "17.949315"
+        ],
+        [
+          "58.900922",
+          "17.949775"
+        ],
+        [
+          "58.900841",
+          "17.949971"
+        ],
+        [
+          "58.900830",
+          "17.949999"
+        ],
+        [
+          "58.900798",
+          "17.950084"
+        ],
+        [
+          "58.900791",
+          "17.950117"
+        ],
+        [
+          "58.900789",
+          "17.950151"
+        ],
+        [
+          "58.900791",
+          "17.950180"
+        ],
+        [
+          "58.900813",
+          "17.950238"
+        ],
+        [
+          "58.900866",
+          "17.950347"
+        ],
+        [
+          "58.901019",
+          "17.950610"
+        ],
+        [
+          "58.901107",
+          "17.950763"
+        ],
+        [
+          "58.901206",
+          "17.950935"
+        ],
+        [
+          "58.901334",
+          "17.951158"
+        ],
+        [
+          "58.901333",
+          "17.951269"
+        ],
+        [
+          "58.901335",
+          "17.951153"
+        ],
+        [
+          "58.901384",
+          "17.951232"
+        ],
+        [
+          "58.901535",
+          "17.951498"
+        ],
+        [
+          "58.901555",
+          "17.951446"
+        ],
+        [
+          "58.901627",
+          "17.951258"
+        ],
+        [
+          "58.901726",
+          "17.951124"
+        ],
+        [
+          "58.901811",
+          "17.951054"
+        ],
+        [
+          "58.901955",
+          "17.950917"
+        ],
+        [
+          "58.901961",
+          "17.950958"
+        ],
+        [
+          "58.901975",
+          "17.951005"
+        ],
+        [
+          "58.901993",
+          "17.951066"
+        ],
+        [
+          "58.902014",
+          "17.951145"
+        ],
+        [
+          "58.902037",
+          "17.951240"
+        ],
+        [
+          "58.902061",
+          "17.951349"
+        ],
+        [
+          "58.902104",
+          "17.951452"
+        ],
+        [
+          "58.902140",
+          "17.951572"
+        ],
+        [
+          "58.902181",
+          "17.951700"
+        ],
+        [
+          "58.902224",
+          "17.951836"
+        ],
+        [
+          "58.902268",
+          "17.951977"
+        ],
+        [
+          "58.902315",
+          "17.952120"
+        ],
+        [
+          "58.902365",
+          "17.952264"
+        ],
+        [
+          "58.902419",
+          "17.952405"
+        ],
+        [
+          "58.902475",
+          "17.952542"
+        ],
+        [
+          "58.902534",
+          "17.952671"
+        ],
+        [
+          "58.902596",
+          "17.952795"
+        ],
+        [
+          "58.902661",
+          "17.952912"
+        ],
+        [
+          "58.902730",
+          "17.953020"
+        ],
+        [
+          "58.902802",
+          "17.953118"
+        ],
+        [
+          "58.902993",
+          "17.953332"
+        ],
+        [
+          "58.903102",
+          "17.953476"
+        ],
+        [
+          "58.903181",
+          "17.953561"
+        ],
+        [
+          "58.903261",
+          "17.953642"
+        ],
+        [
+          "58.903343",
+          "17.953723"
+        ],
+        [
+          "58.903426",
+          "17.953801"
+        ],
+        [
+          "58.903509",
+          "17.953879"
+        ],
+        [
+          "58.903592",
+          "17.953958"
+        ],
+        [
+          "58.903676",
+          "17.954035"
+        ],
+        [
+          "58.903757",
+          "17.954111"
+        ],
+        [
+          "58.903841",
+          "17.954187"
+        ],
+        [
+          "58.903926",
+          "17.954262"
+        ],
+        [
+          "58.904010",
+          "17.954337"
+        ],
+        [
+          "58.904093",
+          "17.954413"
+        ],
+        [
+          "58.904176",
+          "17.954490"
+        ],
+        [
+          "58.904258",
+          "17.954568"
+        ],
+        [
+          "58.904338",
+          "17.954647"
+        ],
+        [
+          "58.904418",
+          "17.954721"
+        ],
+        [
+          "58.904497",
+          "17.954789"
+        ],
+        [
+          "58.904576",
+          "17.954854"
+        ],
+        [
+          "58.904656",
+          "17.954922"
+        ],
+        [
+          "58.904740",
+          "17.954992"
+        ],
+        [
+          "58.904829",
+          "17.955060"
+        ],
+        [
+          "58.904919",
+          "17.955127"
+        ],
+        [
+          "58.905011",
+          "17.955186"
+        ],
+        [
+          "58.905105",
+          "17.955236"
+        ],
+        [
+          "58.905198",
+          "17.955279"
+        ],
+        [
+          "58.905295",
+          "17.955308"
+        ],
+        [
+          "58.905393",
+          "17.955327"
+        ],
+        [
+          "58.905491",
+          "17.955339"
+        ],
+        [
+          "58.905590",
+          "17.955343"
+        ],
+        [
+          "58.905691",
+          "17.955339"
+        ],
+        [
+          "58.905795",
+          "17.955327"
+        ],
+        [
+          "58.905902",
+          "17.955309"
+        ],
+        [
+          "58.906010",
+          "17.955284"
+        ],
+        [
+          "58.906118",
+          "17.955249"
+        ],
+        [
+          "58.906224",
+          "17.955205"
+        ],
+        [
+          "58.906328",
+          "17.955151"
+        ],
+        [
+          "58.906432",
+          "17.955087"
+        ],
+        [
+          "58.906532",
+          "17.955010"
+        ],
+        [
+          "58.906630",
+          "17.954926"
+        ],
+        [
+          "58.906727",
+          "17.954841"
+        ],
+        [
+          "58.906825",
+          "17.954763"
+        ],
+        [
+          "58.906925",
+          "17.954691"
+        ],
+        [
+          "58.907025",
+          "17.954627"
+        ],
+        [
+          "58.907127",
+          "17.954573"
+        ],
+        [
+          "58.907232",
+          "17.954528"
+        ],
+        [
+          "58.907339",
+          "17.954493"
+        ],
+        [
+          "58.907446",
+          "17.954467"
+        ],
+        [
+          "58.907556",
+          "17.954449"
+        ],
+        [
+          "58.907667",
+          "17.954434"
+        ],
+        [
+          "58.907755",
+          "17.954433"
+        ],
+        [
+          "58.907842",
+          "17.954439"
+        ],
+        [
+          "58.907939",
+          "17.954452"
+        ],
+        [
+          "58.908002",
+          "17.954469"
+        ],
+        [
+          "58.908050",
+          "17.954480"
+        ],
+        [
+          "58.908132",
+          "17.954503"
+        ],
+        [
+          "58.908210",
+          "17.954533"
+        ],
+        [
+          "58.908288",
+          "17.954567"
+        ],
+        [
+          "58.908365",
+          "17.954606"
+        ],
+        [
+          "58.908428",
+          "17.954647"
+        ],
+        [
+          "58.908526",
+          "17.954705"
+        ],
+        [
+          "58.908644",
+          "17.954793"
+        ],
+        [
+          "58.908683",
+          "17.954827"
+        ],
+        [
+          "58.908687",
+          "17.954830"
+        ],
+        [
+          "58.908721",
+          "17.954852"
+        ],
+        [
+          "58.908734",
+          "17.954799"
+        ],
+        [
+          "58.908777",
+          "17.954660"
+        ],
+        [
+          "58.908822",
+          "17.954524"
+        ],
+        [
+          "58.908853",
+          "17.954435"
+        ],
+        [
+          "58.908879",
+          "17.954368"
+        ],
+        [
+          "58.908903",
+          "17.954311"
+        ],
+        [
+          "58.908932",
+          "17.954263"
+        ],
+        [
+          "58.908970",
+          "17.954211"
+        ],
+        [
+          "58.909059",
+          "17.954124"
+        ],
+        [
+          "58.909121",
+          "17.954080"
+        ],
+        [
+          "58.909181",
+          "17.954044"
+        ],
+        [
+          "58.909164",
+          "17.954055"
+        ],
+        [
+          "58.909272",
+          "17.953996"
+        ],
+        [
+          "58.909283",
+          "17.954032"
+        ],
+        [
+          "58.909307",
+          "17.954085"
+        ],
+        [
+          "58.909334",
+          "17.954117"
+        ],
+        [
+          "58.909372",
+          "17.954135"
+        ],
+        [
+          "58.909416",
+          "17.954124"
+        ],
+        [
+          "58.909444",
+          "17.954096"
+        ],
+        [
+          "58.909473",
+          "17.954038"
+        ],
+        [
+          "58.909488",
+          "17.953972"
+        ],
+        [
+          "58.909494",
+          "17.953860"
+        ],
+        [
+          "58.909630",
+          "17.953762"
+        ],
+        [
+          "58.909760",
+          "17.953665"
+        ],
+        [
+          "58.909897",
+          "17.953541"
+        ],
+        [
+          "58.910158",
+          "17.953337"
+        ],
+        [
+          "58.910433",
+          "17.953135"
+        ],
+        [
+          "58.910546",
+          "17.953032"
+        ],
+        [
+          "58.910657",
+          "17.952904"
+        ],
+        [
+          "58.910802",
+          "17.952706"
+        ],
+        [
+          "58.910892",
+          "17.952582"
+        ],
+        [
+          "58.911004",
+          "17.952395"
+        ],
+        [
+          "58.911021",
+          "17.952359"
+        ],
+        [
+          "58.911098",
+          "17.952193"
+        ],
+        [
+          "58.911189",
+          "17.951923"
+        ],
+        [
+          "58.911318",
+          "17.951501"
+        ],
+        [
+          "58.911395",
+          "17.951261"
+        ],
+        [
+          "58.911476",
+          "17.951030"
+        ],
+        [
+          "58.911510",
+          "17.950949"
+        ],
+        [
+          "58.911543",
+          "17.950870"
+        ],
+        [
+          "58.911620",
+          "17.950688"
+        ],
+        [
+          "58.911807",
+          "17.950317"
+        ],
+        [
+          "58.912007",
+          "17.949904"
+        ],
+        [
+          "58.912084",
+          "17.949745"
+        ],
+        [
+          "58.912117",
+          "17.949676"
+        ],
+        [
+          "58.912309",
+          "17.949288"
+        ],
+        [
+          "58.912438",
+          "17.949032"
+        ],
+        [
+          "58.912501",
+          "17.948925"
+        ],
+        [
+          "58.912565",
+          "17.948817"
+        ],
+        [
+          "58.912639",
+          "17.948703"
+        ],
+        [
+          "58.912846",
+          "17.948388"
+        ],
+        [
+          "58.913081",
+          "17.948030"
+        ],
+        [
+          "58.913409",
+          "17.947521"
+        ],
+        [
+          "58.913969",
+          "17.946741"
+        ],
+        [
+          "58.914068",
+          "17.946604"
+        ],
+        [
+          "58.914211",
+          "17.946407"
+        ],
+        [
+          "58.914346",
+          "17.946201"
+        ],
+        [
+          "58.914498",
+          "17.945915"
+        ],
+        [
+          "58.914553",
+          "17.945775"
+        ],
+        [
+          "58.914835",
+          "17.945061"
+        ],
+        [
+          "58.915052",
+          "17.944450"
+        ],
+        [
+          "58.915175",
+          "17.943979"
+        ],
+        [
+          "58.915315",
+          "17.943335"
+        ],
+        [
+          "58.915548",
+          "17.941890"
+        ],
+        [
+          "58.915653",
+          "17.941491"
+        ],
+        [
+          "58.915840",
+          "17.941173"
+        ],
+        [
+          "58.916147",
+          "17.940893"
+        ],
+        [
+          "58.916319",
+          "17.940761"
+        ],
+        [
+          "58.916597",
+          "17.940531"
+        ],
+        [
+          "58.916786",
+          "17.940280"
+        ],
+        [
+          "58.917073",
+          "17.939776"
+        ],
+        [
+          "58.917324",
+          "17.939288"
+        ],
+        [
+          "58.917805",
+          "17.938553"
+        ],
+        [
+          "58.917977",
+          "17.938344"
+        ],
+        [
+          "58.918352",
+          "17.938000"
+        ],
+        [
+          "58.918541",
+          "17.937778"
+        ],
+        [
+          "58.918799",
+          "17.937373"
+        ],
+        [
+          "58.918977",
+          "17.936828"
+        ],
+        [
+          "58.919104",
+          "17.936238"
+        ],
+        [
+          "58.919145",
+          "17.935645"
+        ],
+        [
+          "58.919128",
+          "17.935103"
+        ],
+        [
+          "58.919058",
+          "17.934087"
+        ],
+        [
+          "58.918954",
+          "17.932801"
+        ],
+        [
+          "58.918937",
+          "17.931908"
+        ],
+        [
+          "58.918961",
+          "17.930895"
+        ],
+        [
+          "58.919065",
+          "17.929643"
+        ],
+        [
+          "58.919252",
+          "17.928294"
+        ],
+        [
+          "58.919414",
+          "17.927204"
+        ],
+        [
+          "58.919557",
+          "17.926368"
+        ],
+        [
+          "58.919776",
+          "17.925453"
+        ],
+        [
+          "58.919973",
+          "17.924840"
+        ],
+        [
+          "58.920275",
+          "17.924193"
+        ],
+        [
+          "58.920605",
+          "17.923666"
+        ],
+        [
+          "58.920998",
+          "17.923227"
+        ],
+        [
+          "58.921482",
+          "17.922822"
+        ],
+        [
+          "58.922091",
+          "17.922334"
+        ],
+        [
+          "58.922664",
+          "17.921883"
+        ],
+        [
+          "58.923063",
+          "17.921590"
+        ],
+        [
+          "58.923517",
+          "17.921245"
+        ],
+        [
+          "58.923851",
+          "17.921030"
+        ],
+        [
+          "58.924474",
+          "17.920774"
+        ],
+        [
+          "58.924942",
+          "17.920662"
+        ],
+        [
+          "58.925384",
+          "17.920626"
+        ],
+        [
+          "58.925836",
+          "17.920656"
+        ],
+        [
+          "58.926237",
+          "17.920712"
+        ],
+        [
+          "58.927140",
+          "17.920843"
+        ],
+        [
+          "58.927945",
+          "17.920954"
+        ],
+        [
+          "58.928500",
+          "17.921037"
+        ],
+        [
+          "58.929166",
+          "17.921135"
+        ],
+        [
+          "58.929794",
+          "17.921182"
+        ],
+        [
+          "58.930291",
+          "17.921119"
+        ],
+        [
+          "58.930888",
+          "17.920925"
+        ],
+        [
+          "58.931526",
+          "17.920564"
+        ],
+        [
+          "58.932369",
+          "17.919930"
+        ],
+        [
+          "58.934977",
+          "17.917952"
+        ],
+        [
+          "58.936375",
+          "17.916901"
+        ],
+        [
+          "58.937431",
+          "17.916078"
+        ],
+        [
+          "58.938870",
+          "17.914732"
+        ],
+        [
+          "58.939271",
+          "17.914294"
+        ],
+        [
+          "58.940529",
+          "17.912845"
+        ],
+        [
+          "58.940971",
+          "17.912365"
+        ],
+        [
+          "58.941241",
+          "17.912062"
+        ],
+        [
+          "58.941434",
+          "17.911945"
+        ],
+        [
+          "58.941603",
+          "17.911972"
+        ],
+        [
+          "58.941778",
+          "17.912169"
+        ],
+        [
+          "58.941893",
+          "17.912346"
+        ],
+        [
+          "58.942159",
+          "17.912734"
+        ],
+        [
+          "58.942287",
+          "17.912863"
+        ],
+        [
+          "58.942544",
+          "17.912932"
+        ],
+        [
+          "58.942754",
+          "17.912821"
+        ],
+        [
+          "58.943005",
+          "17.912496"
+        ],
+        [
+          "58.943239",
+          "17.912128"
+        ],
+        [
+          "58.943469",
+          "17.912202"
+        ],
+        [
+          "58.943642",
+          "17.912368"
+        ],
+        [
+          "58.943833",
+          "17.912682"
+        ],
+        [
+          "58.944205",
+          "17.911937"
+        ],
+        [
+          "58.944738",
+          "17.910758"
+        ],
+        [
+          "58.945180",
+          "17.909704"
+        ],
+        [
+          "58.945602",
+          "17.908662"
+        ],
+        [
+          "58.946032",
+          "17.907659"
+        ],
+        [
+          "58.947079",
+          "17.905431"
+        ],
+        [
+          "58.947708",
+          "17.904217"
+        ],
+        [
+          "58.948048",
+          "17.903718"
+        ],
+        [
+          "58.948413",
+          "17.903305"
+        ],
+        [
+          "58.948867",
+          "17.902893"
+        ],
+        [
+          "58.949231",
+          "17.902597"
+        ],
+        [
+          "58.949735",
+          "17.902247"
+        ],
+        [
+          "58.950268",
+          "17.901933"
+        ],
+        [
+          "58.950906",
+          "17.901611"
+        ],
+        [
+          "58.951596",
+          "17.901371"
+        ],
+        [
+          "58.952040",
+          "17.901336"
+        ],
+        [
+          "58.952441",
+          "17.901358"
+        ],
+        [
+          "58.953121",
+          "17.901508"
+        ],
+        [
+          "58.953663",
+          "17.901775"
+        ],
+        [
+          "58.954052",
+          "17.902071"
+        ],
+        [
+          "58.954520",
+          "17.902569"
+        ],
+        [
+          "58.954765",
+          "17.902874"
+        ],
+        [
+          "58.955205",
+          "17.903444"
+        ],
+        [
+          "58.955799",
+          "17.904188"
+        ],
+        [
+          "58.956327",
+          "17.904668"
+        ],
+        [
+          "58.956897",
+          "17.905004"
+        ],
+        [
+          "58.957284",
+          "17.905154"
+        ],
+        [
+          "58.958043",
+          "17.905375"
+        ],
+        [
+          "58.958790",
+          "17.905479"
+        ],
+        [
+          "58.959440",
+          "17.905492"
+        ],
+        [
+          "58.960255",
+          "17.905488"
+        ],
+        [
+          "58.960903",
+          "17.905496"
+        ],
+        [
+          "58.961274",
+          "17.905529"
+        ],
+        [
+          "58.961786",
+          "17.905620"
+        ],
+        [
+          "58.962379",
+          "17.905804"
+        ],
+        [
+          "58.963039",
+          "17.906093"
+        ],
+        [
+          "58.963629",
+          "17.906400"
+        ],
+        [
+          "58.964395",
+          "17.906892"
+        ],
+        [
+          "58.964952",
+          "17.907288"
+        ],
+        [
+          "58.965646",
+          "17.907756"
+        ],
+        [
+          "58.966015",
+          "17.907936"
+        ],
+        [
+          "58.966825",
+          "17.908136"
+        ],
+        [
+          "58.967371",
+          "17.908151"
+        ],
+        [
+          "58.967884",
+          "17.908118"
+        ],
+        [
+          "58.968421",
+          "17.908083"
+        ],
+        [
+          "58.969246",
+          "17.908138"
+        ],
+        [
+          "58.969810",
+          "17.908272"
+        ],
+        [
+          "58.970135",
+          "17.908414"
+        ],
+        [
+          "58.970524",
+          "17.908623"
+        ],
+        [
+          "58.971245",
+          "17.909059"
+        ],
+        [
+          "58.971740",
+          "17.909375"
+        ],
+        [
+          "58.972485",
+          "17.909850"
+        ],
+        [
+          "58.973211",
+          "17.910294"
+        ],
+        [
+          "58.973789",
+          "17.910636"
+        ],
+        [
+          "58.974469",
+          "17.911023"
+        ],
+        [
+          "58.975163",
+          "17.911408"
+        ],
+        [
+          "58.975703",
+          "17.911710"
+        ],
+        [
+          "58.976264",
+          "17.912020"
+        ],
+        [
+          "58.976772",
+          "17.912307"
+        ],
+        [
+          "58.976936",
+          "17.912433"
+        ],
+        [
+          "58.977162",
+          "17.912614"
+        ],
+        [
+          "58.977274",
+          "17.912764"
+        ],
+        [
+          "58.977339",
+          "17.912887"
+        ],
+        [
+          "58.977410",
+          "17.912945"
+        ],
+        [
+          "58.977521",
+          "17.912932"
+        ],
+        [
+          "58.977608",
+          "17.912942"
+        ],
+        [
+          "58.977568",
+          "17.914426"
+        ],
+        [
+          "58.977578",
+          "17.914426"
+        ],
+        [
+          "58.977765",
+          "17.913519"
+        ],
+        [
+          "58.986258",
+          "17.922664"
+        ],
+        [
+          "58.998970",
+          "17.937536"
+        ],
+        [
+          "59.008354",
+          "17.942169"
+        ],
+        [
+          "59.015371",
+          "17.946602"
+        ],
+        [
+          "59.029834",
+          "17.953976"
+        ],
+        [
+          "59.037122",
+          "17.963809"
+        ],
+        [
+          "59.045400",
+          "17.982172"
+        ],
+        [
+          "59.052150",
+          "17.998109"
+        ],
+        [
+          "59.058521",
+          "18.013251"
+        ],
+        [
+          "59.060513",
+          "18.029548"
+        ],
+        [
+          "59.064046",
+          "18.047520"
+        ],
+        [
+          "59.066538",
+          "18.059259"
+        ],
+        [
+          "59.070284",
+          "18.068041"
+        ],
+        [
+          "59.075700",
+          "18.073133"
+        ],
+        [
+          "59.080381",
+          "18.075856"
+        ],
+        [
+          "59.084290",
+          "18.077743"
+        ],
+        [
+          "59.090009",
+          "18.086709"
+        ],
+        [
+          "59.095525",
+          "18.104113"
+        ],
+        [
+          "59.100360",
+          "18.116849"
+        ],
+        [
+          "59.111563",
+          "18.127863"
+        ],
+        [
+          "59.124361",
+          "18.138262"
+        ],
+        [
+          "59.130187",
+          "18.142641"
+        ],
+        [
+          "59.140523",
+          "18.156673"
+        ],
+        [
+          "59.153224",
+          "18.154764"
+        ],
+        [
+          "59.161454",
+          "18.157833"
+        ],
+        [
+          "59.173291",
+          "18.158925"
+        ],
+        [
+          "59.184563",
+          "18.150718"
+        ],
+        [
+          "59.197561",
+          "18.136499"
+        ],
+        [
+          "59.204473",
+          "18.128652"
+        ],
+        [
+          "59.215127",
+          "18.129628"
+        ],
+        [
+          "59.222586",
+          "18.131855"
+        ],
+        [
+          "59.231452",
+          "18.124951"
+        ],
+        [
+          "59.240262",
+          "18.120355"
+        ],
+        [
+          "59.244522",
+          "18.107622"
+        ],
+        [
+          "59.251395",
+          "18.101300"
+        ],
+        [
+          "59.256561",
+          "18.100225"
+        ],
+        [
+          "59.262498",
+          "18.099992"
+        ],
+        [
+          "59.284907",
+          "18.088893"
+        ],
+        [
+          "59.291743",
+          "18.084102"
+        ],
+        [
+          "59.296927",
+          "18.082253"
+        ],
+        [
+          "59.294724",
+          "18.075096"
+        ],
+        [
+          "59.293701",
+          "18.075618"
+        ]
+      ]
+    }
+  ]
+}

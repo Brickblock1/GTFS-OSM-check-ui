@@ -1,0 +1,4701 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011001085000000",
+  "agency_id": "14010000000001001",
+  "route_short_name": "850",
+  "route_long_name": "",
+  "route_type": "700",
+  "route_desc": "",
+  "shapes": [
+    {
+      "shape_id": "1014010000003643107",
+      "trips": [
+        {
+          "trip_id": "14010000552318139",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323001",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040940",
+              "stop_lon": "17.893301",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325001",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041305",
+              "stop_lon": "17.885691",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327001",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043466",
+              "stop_lon": "17.879147",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329001",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050098",
+              "stop_lon": "17.869264",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081199001",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053569",
+              "stop_lon": "17.868984",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000552322522",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323001",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040940",
+              "stop_lon": "17.893301",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325001",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041305",
+              "stop_lon": "17.885691",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327001",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043466",
+              "stop_lon": "17.879147",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329001",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050098",
+              "stop_lon": "17.869264",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081199001",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053569",
+              "stop_lon": "17.868984",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000552361087",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323001",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040940",
+              "stop_lon": "17.893301",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325001",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041305",
+              "stop_lon": "17.885691",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327001",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043466",
+              "stop_lon": "17.879147",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329001",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050098",
+              "stop_lon": "17.869264",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081199001",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053569",
+              "stop_lon": "17.868984",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000552362801",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323001",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040940",
+              "stop_lon": "17.893301",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325001",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041305",
+              "stop_lon": "17.885691",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327001",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043466",
+              "stop_lon": "17.879147",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329001",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050098",
+              "stop_lon": "17.869264",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081199001",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053569",
+              "stop_lon": "17.868984",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000552364820",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323001",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040940",
+              "stop_lon": "17.893301",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325001",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041305",
+              "stop_lon": "17.885691",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327001",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043466",
+              "stop_lon": "17.879147",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329001",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050098",
+              "stop_lon": "17.869264",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081199001",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053569",
+              "stop_lon": "17.868984",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000552366041",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323001",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040940",
+              "stop_lon": "17.893301",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325001",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041305",
+              "stop_lon": "17.885691",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327001",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043466",
+              "stop_lon": "17.879147",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329001",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050098",
+              "stop_lon": "17.869264",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081199001",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053569",
+              "stop_lon": "17.868984",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000552320093",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323001",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040940",
+              "stop_lon": "17.893301",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325001",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041305",
+              "stop_lon": "17.885691",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327001",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043466",
+              "stop_lon": "17.879147",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329001",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050098",
+              "stop_lon": "17.869264",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081199001",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053569",
+              "stop_lon": "17.868984",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000552358521",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323001",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040940",
+              "stop_lon": "17.893301",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325001",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041305",
+              "stop_lon": "17.885691",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327001",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043466",
+              "stop_lon": "17.879147",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329001",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050098",
+              "stop_lon": "17.869264",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081199001",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053569",
+              "stop_lon": "17.868984",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000671773752",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323001",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040940",
+              "stop_lon": "17.893301",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325001",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041305",
+              "stop_lon": "17.885691",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327001",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043466",
+              "stop_lon": "17.879147",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329001",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050098",
+              "stop_lon": "17.869264",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081199001",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053569",
+              "stop_lon": "17.868984",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671774653",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323001",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040940",
+              "stop_lon": "17.893301",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325001",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041305",
+              "stop_lon": "17.885691",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327001",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043466",
+              "stop_lon": "17.879147",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329001",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050098",
+              "stop_lon": "17.869264",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081199001",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053569",
+              "stop_lon": "17.868984",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671764773",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323001",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040940",
+              "stop_lon": "17.893301",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325001",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041305",
+              "stop_lon": "17.885691",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327001",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043466",
+              "stop_lon": "17.879147",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329001",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050098",
+              "stop_lon": "17.869264",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081199001",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053569",
+              "stop_lon": "17.868984",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671765259",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323001",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040940",
+              "stop_lon": "17.893301",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325001",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041305",
+              "stop_lon": "17.885691",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327001",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043466",
+              "stop_lon": "17.879147",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329001",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050098",
+              "stop_lon": "17.869264",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081199001",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053569",
+              "stop_lon": "17.868984",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671765913",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323001",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040940",
+              "stop_lon": "17.893301",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325001",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041305",
+              "stop_lon": "17.885691",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327001",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043466",
+              "stop_lon": "17.879147",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329001",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050098",
+              "stop_lon": "17.869264",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081199001",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053569",
+              "stop_lon": "17.868984",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671774200",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323001",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040940",
+              "stop_lon": "17.893301",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325001",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041305",
+              "stop_lon": "17.885691",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327001",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043466",
+              "stop_lon": "17.879147",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329001",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050098",
+              "stop_lon": "17.869264",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081199001",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053569",
+              "stop_lon": "17.868984",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671775334",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323001",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040940",
+              "stop_lon": "17.893301",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325001",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041305",
+              "stop_lon": "17.885691",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327001",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043466",
+              "stop_lon": "17.879147",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329001",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050098",
+              "stop_lon": "17.869264",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081199001",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053569",
+              "stop_lon": "17.868984",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671775764",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323001",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040940",
+              "stop_lon": "17.893301",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325001",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041305",
+              "stop_lon": "17.885691",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327001",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043466",
+              "stop_lon": "17.879147",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329001",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050098",
+              "stop_lon": "17.869264",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081199001",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053569",
+              "stop_lon": "17.868984",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.028057",
+          "17.926359"
+        ],
+        [
+          "59.028049",
+          "17.926415"
+        ],
+        [
+          "59.028082",
+          "17.926441"
+        ],
+        [
+          "59.028214",
+          "17.926535"
+        ],
+        [
+          "59.028217",
+          "17.926537"
+        ],
+        [
+          "59.028325",
+          "17.926635"
+        ],
+        [
+          "59.028443",
+          "17.926740"
+        ],
+        [
+          "59.028500",
+          "17.926828"
+        ],
+        [
+          "59.028555",
+          "17.926967"
+        ],
+        [
+          "59.028615",
+          "17.927164"
+        ],
+        [
+          "59.028692",
+          "17.927427"
+        ],
+        [
+          "59.028782",
+          "17.927521"
+        ],
+        [
+          "59.028892",
+          "17.927594"
+        ],
+        [
+          "59.029229",
+          "17.927734"
+        ],
+        [
+          "59.029450",
+          "17.927785"
+        ],
+        [
+          "59.029603",
+          "17.927818"
+        ],
+        [
+          "59.029803",
+          "17.927913"
+        ],
+        [
+          "59.030075",
+          "17.928144"
+        ],
+        [
+          "59.030311",
+          "17.928367"
+        ],
+        [
+          "59.030611",
+          "17.928620"
+        ],
+        [
+          "59.031246",
+          "17.929173"
+        ],
+        [
+          "59.031578",
+          "17.929471"
+        ],
+        [
+          "59.031751",
+          "17.929622"
+        ],
+        [
+          "59.031957",
+          "17.929796"
+        ],
+        [
+          "59.032094",
+          "17.929890"
+        ],
+        [
+          "59.032145",
+          "17.929908"
+        ],
+        [
+          "59.032251",
+          "17.929910"
+        ],
+        [
+          "59.032314",
+          "17.929859"
+        ],
+        [
+          "59.032386",
+          "17.929778"
+        ],
+        [
+          "59.032457",
+          "17.929656"
+        ],
+        [
+          "59.032540",
+          "17.929496"
+        ],
+        [
+          "59.032591",
+          "17.929413"
+        ],
+        [
+          "59.032630",
+          "17.929322"
+        ],
+        [
+          "59.032682",
+          "17.929346"
+        ],
+        [
+          "59.032724",
+          "17.929367"
+        ],
+        [
+          "59.032781",
+          "17.929395"
+        ],
+        [
+          "59.033015",
+          "17.929563"
+        ],
+        [
+          "59.033280",
+          "17.929766"
+        ],
+        [
+          "59.033498",
+          "17.929941"
+        ],
+        [
+          "59.033706",
+          "17.930088"
+        ],
+        [
+          "59.033907",
+          "17.930219"
+        ],
+        [
+          "59.034006",
+          "17.930279"
+        ],
+        [
+          "59.034123",
+          "17.930340"
+        ],
+        [
+          "59.034281",
+          "17.930401"
+        ],
+        [
+          "59.034429",
+          "17.930426"
+        ],
+        [
+          "59.034627",
+          "17.930421"
+        ],
+        [
+          "59.034856",
+          "17.930402"
+        ],
+        [
+          "59.034871",
+          "17.930400"
+        ],
+        [
+          "59.035400",
+          "17.930341"
+        ],
+        [
+          "59.036062",
+          "17.930288"
+        ],
+        [
+          "59.036511",
+          "17.930256"
+        ],
+        [
+          "59.036534",
+          "17.930255"
+        ],
+        [
+          "59.036668",
+          "17.930240"
+        ],
+        [
+          "59.036770",
+          "17.930209"
+        ],
+        [
+          "59.036942",
+          "17.930110"
+        ],
+        [
+          "59.037123",
+          "17.929970"
+        ],
+        [
+          "59.037291",
+          "17.929798"
+        ],
+        [
+          "59.037500",
+          "17.929535"
+        ],
+        [
+          "59.037735",
+          "17.929141"
+        ],
+        [
+          "59.037923",
+          "17.928812"
+        ],
+        [
+          "59.038074",
+          "17.928555"
+        ],
+        [
+          "59.038227",
+          "17.928253"
+        ],
+        [
+          "59.038384",
+          "17.927874"
+        ],
+        [
+          "59.038584",
+          "17.927365"
+        ],
+        [
+          "59.038765",
+          "17.926822"
+        ],
+        [
+          "59.038859",
+          "17.926524"
+        ],
+        [
+          "59.038931",
+          "17.926208"
+        ],
+        [
+          "59.038966",
+          "17.926001"
+        ],
+        [
+          "59.039001",
+          "17.925750"
+        ],
+        [
+          "59.039015",
+          "17.925544"
+        ],
+        [
+          "59.039013",
+          "17.925268"
+        ],
+        [
+          "59.039006",
+          "17.925109"
+        ],
+        [
+          "59.038994",
+          "17.924843"
+        ],
+        [
+          "59.038934",
+          "17.924064"
+        ],
+        [
+          "59.038907",
+          "17.923767"
+        ],
+        [
+          "59.038886",
+          "17.923492"
+        ],
+        [
+          "59.038806",
+          "17.922450"
+        ],
+        [
+          "59.038701",
+          "17.921140"
+        ],
+        [
+          "59.038655",
+          "17.920501"
+        ],
+        [
+          "59.038639",
+          "17.920293"
+        ],
+        [
+          "59.038637",
+          "17.920144"
+        ],
+        [
+          "59.038654",
+          "17.920010"
+        ],
+        [
+          "59.038678",
+          "17.919877"
+        ],
+        [
+          "59.038728",
+          "17.919743"
+        ],
+        [
+          "59.038827",
+          "17.919548"
+        ],
+        [
+          "59.039071",
+          "17.919131"
+        ],
+        [
+          "59.039364",
+          "17.918622"
+        ],
+        [
+          "59.039543",
+          "17.918304"
+        ],
+        [
+          "59.039661",
+          "17.918110"
+        ],
+        [
+          "59.039738",
+          "17.917984"
+        ],
+        [
+          "59.039770",
+          "17.917920"
+        ],
+        [
+          "59.039795",
+          "17.917860"
+        ],
+        [
+          "59.039910",
+          "17.917551"
+        ],
+        [
+          "59.040218",
+          "17.916711"
+        ],
+        [
+          "59.040711",
+          "17.915422"
+        ],
+        [
+          "59.041071",
+          "17.914459"
+        ],
+        [
+          "59.041273",
+          "17.913924"
+        ],
+        [
+          "59.041372",
+          "17.913633"
+        ],
+        [
+          "59.041416",
+          "17.913498"
+        ],
+        [
+          "59.041439",
+          "17.913377"
+        ],
+        [
+          "59.041449",
+          "17.913265"
+        ],
+        [
+          "59.041453",
+          "17.913063"
+        ],
+        [
+          "59.041434",
+          "17.912627"
+        ],
+        [
+          "59.041386",
+          "17.911904"
+        ],
+        [
+          "59.041353",
+          "17.911508"
+        ],
+        [
+          "59.041306",
+          "17.911109"
+        ],
+        [
+          "59.041244",
+          "17.910736"
+        ],
+        [
+          "59.041139",
+          "17.910144"
+        ],
+        [
+          "59.041075",
+          "17.909855"
+        ],
+        [
+          "59.040866",
+          "17.909034"
+        ],
+        [
+          "59.040699",
+          "17.908356"
+        ],
+        [
+          "59.040686",
+          "17.908299"
+        ],
+        [
+          "59.040637",
+          "17.908146"
+        ],
+        [
+          "59.040456",
+          "17.907586"
+        ],
+        [
+          "59.040231",
+          "17.906928"
+        ],
+        [
+          "59.040151",
+          "17.906689"
+        ],
+        [
+          "59.040063",
+          "17.906466"
+        ],
+        [
+          "59.040017",
+          "17.906310"
+        ],
+        [
+          "59.040001",
+          "17.906172"
+        ],
+        [
+          "59.039993",
+          "17.905895"
+        ],
+        [
+          "59.040012",
+          "17.905605"
+        ],
+        [
+          "59.040117",
+          "17.904791"
+        ],
+        [
+          "59.040304",
+          "17.903495"
+        ],
+        [
+          "59.040495",
+          "17.902126"
+        ],
+        [
+          "59.040661",
+          "17.900942"
+        ],
+        [
+          "59.040753",
+          "17.900286"
+        ],
+        [
+          "59.040783",
+          "17.900078"
+        ],
+        [
+          "59.040806",
+          "17.899849"
+        ],
+        [
+          "59.040825",
+          "17.899643"
+        ],
+        [
+          "59.040843",
+          "17.899401"
+        ],
+        [
+          "59.040857",
+          "17.899080"
+        ],
+        [
+          "59.040863",
+          "17.898744"
+        ],
+        [
+          "59.040869",
+          "17.898138"
+        ],
+        [
+          "59.040871",
+          "17.897381"
+        ],
+        [
+          "59.040882",
+          "17.896478"
+        ],
+        [
+          "59.040885",
+          "17.896248"
+        ],
+        [
+          "59.040888",
+          "17.895938"
+        ],
+        [
+          "59.040890",
+          "17.895703"
+        ],
+        [
+          "59.040892",
+          "17.895310"
+        ],
+        [
+          "59.040901",
+          "17.894602"
+        ],
+        [
+          "59.040911",
+          "17.893783"
+        ],
+        [
+          "59.040917",
+          "17.893289"
+        ],
+        [
+          "59.040918",
+          "17.893183"
+        ],
+        [
+          "59.040928",
+          "17.892149"
+        ],
+        [
+          "59.040943",
+          "17.891038"
+        ],
+        [
+          "59.040952",
+          "17.890035"
+        ],
+        [
+          "59.040966",
+          "17.888587"
+        ],
+        [
+          "59.040972",
+          "17.887939"
+        ],
+        [
+          "59.040980",
+          "17.887668"
+        ],
+        [
+          "59.040999",
+          "17.887455"
+        ],
+        [
+          "59.041041",
+          "17.887171"
+        ],
+        [
+          "59.041165",
+          "17.886332"
+        ],
+        [
+          "59.041253",
+          "17.885764"
+        ],
+        [
+          "59.041269",
+          "17.885664"
+        ],
+        [
+          "59.041305",
+          "17.885691"
+        ],
+        [
+          "59.041269",
+          "17.885672"
+        ],
+        [
+          "59.041318",
+          "17.885364"
+        ],
+        [
+          "59.041351",
+          "17.885146"
+        ],
+        [
+          "59.041392",
+          "17.884979"
+        ],
+        [
+          "59.041467",
+          "17.884697"
+        ],
+        [
+          "59.041597",
+          "17.884219"
+        ],
+        [
+          "59.041737",
+          "17.883746"
+        ],
+        [
+          "59.041884",
+          "17.883238"
+        ],
+        [
+          "59.042027",
+          "17.882747"
+        ],
+        [
+          "59.042185",
+          "17.882191"
+        ],
+        [
+          "59.042430",
+          "17.881340"
+        ],
+        [
+          "59.042563",
+          "17.880876"
+        ],
+        [
+          "59.042638",
+          "17.880615"
+        ],
+        [
+          "59.042790",
+          "17.880128"
+        ],
+        [
+          "59.042901",
+          "17.879804"
+        ],
+        [
+          "59.042963",
+          "17.879662"
+        ],
+        [
+          "59.043041",
+          "17.879528"
+        ],
+        [
+          "59.043132",
+          "17.879387"
+        ],
+        [
+          "59.043232",
+          "17.879249"
+        ],
+        [
+          "59.043289",
+          "17.879183"
+        ],
+        [
+          "59.043367",
+          "17.879126"
+        ],
+        [
+          "59.043449",
+          "17.879060"
+        ],
+        [
+          "59.043528",
+          "17.879009"
+        ],
+        [
+          "59.043795",
+          "17.878819"
+        ],
+        [
+          "59.043956",
+          "17.878718"
+        ],
+        [
+          "59.044114",
+          "17.878647"
+        ],
+        [
+          "59.044177",
+          "17.878612"
+        ],
+        [
+          "59.044278",
+          "17.878499"
+        ],
+        [
+          "59.044417",
+          "17.878331"
+        ],
+        [
+          "59.044597",
+          "17.878079"
+        ],
+        [
+          "59.044695",
+          "17.877949"
+        ],
+        [
+          "59.044794",
+          "17.877832"
+        ],
+        [
+          "59.045015",
+          "17.877578"
+        ],
+        [
+          "59.045173",
+          "17.877348"
+        ],
+        [
+          "59.045347",
+          "17.877066"
+        ],
+        [
+          "59.045485",
+          "17.876764"
+        ],
+        [
+          "59.045566",
+          "17.876577"
+        ],
+        [
+          "59.045670",
+          "17.876309"
+        ],
+        [
+          "59.045762",
+          "17.876104"
+        ],
+        [
+          "59.045840",
+          "17.875948"
+        ],
+        [
+          "59.045935",
+          "17.875807"
+        ],
+        [
+          "59.046134",
+          "17.875593"
+        ],
+        [
+          "59.046298",
+          "17.875438"
+        ],
+        [
+          "59.046387",
+          "17.875343"
+        ],
+        [
+          "59.046484",
+          "17.875230"
+        ],
+        [
+          "59.046611",
+          "17.875038"
+        ],
+        [
+          "59.046710",
+          "17.874877"
+        ],
+        [
+          "59.046856",
+          "17.874580"
+        ],
+        [
+          "59.047065",
+          "17.874152"
+        ],
+        [
+          "59.047292",
+          "17.873656"
+        ],
+        [
+          "59.047477",
+          "17.873237"
+        ],
+        [
+          "59.047539",
+          "17.873102"
+        ],
+        [
+          "59.047728",
+          "17.872690"
+        ],
+        [
+          "59.047984",
+          "17.872101"
+        ],
+        [
+          "59.048155",
+          "17.871706"
+        ],
+        [
+          "59.048249",
+          "17.871499"
+        ],
+        [
+          "59.048325",
+          "17.871380"
+        ],
+        [
+          "59.048410",
+          "17.871267"
+        ],
+        [
+          "59.048458",
+          "17.871229"
+        ],
+        [
+          "59.048539",
+          "17.871164"
+        ],
+        [
+          "59.048738",
+          "17.871029"
+        ],
+        [
+          "59.048871",
+          "17.870933"
+        ],
+        [
+          "59.049093",
+          "17.870776"
+        ],
+        [
+          "59.049121",
+          "17.870748"
+        ],
+        [
+          "59.049170",
+          "17.870699"
+        ],
+        [
+          "59.049264",
+          "17.870573"
+        ],
+        [
+          "59.049369",
+          "17.870413"
+        ],
+        [
+          "59.049504",
+          "17.870141"
+        ],
+        [
+          "59.049618",
+          "17.869889"
+        ],
+        [
+          "59.049758",
+          "17.869623"
+        ],
+        [
+          "59.049827",
+          "17.869471"
+        ],
+        [
+          "59.049894",
+          "17.869357"
+        ],
+        [
+          "59.049986",
+          "17.869262"
+        ],
+        [
+          "59.050085",
+          "17.869198"
+        ],
+        [
+          "59.050090",
+          "17.869194"
+        ],
+        [
+          "59.050198",
+          "17.869138"
+        ],
+        [
+          "59.050297",
+          "17.869120"
+        ],
+        [
+          "59.050426",
+          "17.869114"
+        ],
+        [
+          "59.050582",
+          "17.869135"
+        ],
+        [
+          "59.050803",
+          "17.869180"
+        ],
+        [
+          "59.050922",
+          "17.869209"
+        ],
+        [
+          "59.051088",
+          "17.869271"
+        ],
+        [
+          "59.051222",
+          "17.869337"
+        ],
+        [
+          "59.051394",
+          "17.869441"
+        ],
+        [
+          "59.051441",
+          "17.869484"
+        ],
+        [
+          "59.051549",
+          "17.869556"
+        ],
+        [
+          "59.051675",
+          "17.869665"
+        ],
+        [
+          "59.051857",
+          "17.869823"
+        ],
+        [
+          "59.052004",
+          "17.869966"
+        ],
+        [
+          "59.052128",
+          "17.870067"
+        ],
+        [
+          "59.052253",
+          "17.870124"
+        ],
+        [
+          "59.052387",
+          "17.870167"
+        ],
+        [
+          "59.052519",
+          "17.870172"
+        ],
+        [
+          "59.052650",
+          "17.870161"
+        ],
+        [
+          "59.052834",
+          "17.870137"
+        ],
+        [
+          "59.052855",
+          "17.870132"
+        ],
+        [
+          "59.053371",
+          "17.870004"
+        ],
+        [
+          "59.053591",
+          "17.869965"
+        ],
+        [
+          "59.053559",
+          "17.869518"
+        ],
+        [
+          "59.053523",
+          "17.869051"
+        ],
+        [
+          "59.053523",
+          "17.868999"
+        ],
+        [
+          "59.053569",
+          "17.868984"
+        ]
+      ]
+    },
+    {
+      "shape_id": "1014010000003643129",
+      "trips": [
+        {
+          "trip_id": "14010000552316295",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081199002",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053475",
+              "stop_lon": "17.869240",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329002",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050027",
+              "stop_lon": "17.869207",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327002",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043340",
+              "stop_lon": "17.879157",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325002",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041232",
+              "stop_lon": "17.885756",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323002",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040885",
+              "stop_lon": "17.893350",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000552321339",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081199002",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053475",
+              "stop_lon": "17.869240",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329002",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050027",
+              "stop_lon": "17.869207",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327002",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043340",
+              "stop_lon": "17.879157",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325002",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041232",
+              "stop_lon": "17.885756",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323002",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040885",
+              "stop_lon": "17.893350",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000552323854",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081199002",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053475",
+              "stop_lon": "17.869240",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329002",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050027",
+              "stop_lon": "17.869207",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327002",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043340",
+              "stop_lon": "17.879157",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325002",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041232",
+              "stop_lon": "17.885756",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323002",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040885",
+              "stop_lon": "17.893350",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000552359837",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081199002",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053475",
+              "stop_lon": "17.869240",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329002",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050027",
+              "stop_lon": "17.869207",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327002",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043340",
+              "stop_lon": "17.879157",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325002",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041232",
+              "stop_lon": "17.885756",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323002",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040885",
+              "stop_lon": "17.893350",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000552317435",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081199002",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053475",
+              "stop_lon": "17.869240",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329002",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050027",
+              "stop_lon": "17.869207",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327002",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043340",
+              "stop_lon": "17.879157",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325002",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041232",
+              "stop_lon": "17.885756",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323002",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040885",
+              "stop_lon": "17.893350",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000552319199",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081199002",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053475",
+              "stop_lon": "17.869240",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329002",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050027",
+              "stop_lon": "17.869207",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327002",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043340",
+              "stop_lon": "17.879157",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325002",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041232",
+              "stop_lon": "17.885756",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323002",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040885",
+              "stop_lon": "17.893350",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000552362059",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081199002",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053475",
+              "stop_lon": "17.869240",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329002",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050027",
+              "stop_lon": "17.869207",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327002",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043340",
+              "stop_lon": "17.879157",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325002",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041232",
+              "stop_lon": "17.885756",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323002",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040885",
+              "stop_lon": "17.893350",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000671764217",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081199002",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053475",
+              "stop_lon": "17.869240",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329002",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050027",
+              "stop_lon": "17.869207",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327002",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043340",
+              "stop_lon": "17.879157",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325002",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041232",
+              "stop_lon": "17.885756",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323002",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040885",
+              "stop_lon": "17.893350",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671774005",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081199002",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053475",
+              "stop_lon": "17.869240",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329002",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050027",
+              "stop_lon": "17.869207",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327002",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043340",
+              "stop_lon": "17.879157",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325002",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041232",
+              "stop_lon": "17.885756",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323002",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040885",
+              "stop_lon": "17.893350",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671764925",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081199002",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053475",
+              "stop_lon": "17.869240",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329002",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050027",
+              "stop_lon": "17.869207",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327002",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043340",
+              "stop_lon": "17.879157",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325002",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041232",
+              "stop_lon": "17.885756",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323002",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040885",
+              "stop_lon": "17.893350",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671774556",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081199002",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053475",
+              "stop_lon": "17.869240",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329002",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050027",
+              "stop_lon": "17.869207",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327002",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043340",
+              "stop_lon": "17.879157",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325002",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041232",
+              "stop_lon": "17.885756",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323002",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040885",
+              "stop_lon": "17.893350",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671764527",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081199002",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053475",
+              "stop_lon": "17.869240",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329002",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050027",
+              "stop_lon": "17.869207",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327002",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043340",
+              "stop_lon": "17.879157",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325002",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041232",
+              "stop_lon": "17.885756",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323002",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040885",
+              "stop_lon": "17.893350",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671765693",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081199002",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053475",
+              "stop_lon": "17.869240",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329002",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050027",
+              "stop_lon": "17.869207",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327002",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043340",
+              "stop_lon": "17.879157",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325002",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041232",
+              "stop_lon": "17.885756",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323002",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040885",
+              "stop_lon": "17.893350",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000671766171",
+          "service_id": "14",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001081199002",
+              "stop_name": "Trollsta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.053475",
+              "stop_lon": "17.869240",
+              "location_type": "0",
+              "parent_station": "9021001081199000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081332001",
+              "stop_name": "Gr\u00f6dby",
+              "stop_lat": "59.051461",
+              "stop_lon": "17.869380",
+              "location_type": "0",
+              "parent_station": "9021001081332000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081329002",
+              "stop_name": "Bj\u00f6rkhagav\u00e4gen",
+              "stop_lat": "59.050027",
+              "stop_lon": "17.869207",
+              "location_type": "0",
+              "parent_station": "9021001081329000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081327002",
+              "stop_name": "Norra Rangsta",
+              "stop_lat": "59.043340",
+              "stop_lon": "17.879157",
+              "location_type": "0",
+              "parent_station": "9021001081327000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081325002",
+              "stop_name": "Hasselbacken",
+              "stop_lat": "59.041232",
+              "stop_lon": "17.885756",
+              "location_type": "0",
+              "parent_station": "9021001081325000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001081323002",
+              "stop_name": "\u00c5by g\u00e5rd",
+              "stop_lat": "59.040885",
+              "stop_lon": "17.893350",
+              "location_type": "0",
+              "parent_station": "9021001081323000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001081321001",
+              "stop_name": "Segers\u00e4ngs station",
+              "stop_lat": "59.028057",
+              "stop_lon": "17.926359",
+              "location_type": "0",
+              "parent_station": "9021001081321000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "14",
+            "start_date": "20241216",
+            "end_date": "20250619"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.053475",
+          "17.869240"
+        ],
+        [
+          "59.053538",
+          "17.869226"
+        ],
+        [
+          "59.053559",
+          "17.869518"
+        ],
+        [
+          "59.053591",
+          "17.869965"
+        ],
+        [
+          "59.053371",
+          "17.870004"
+        ],
+        [
+          "59.052855",
+          "17.870132"
+        ],
+        [
+          "59.052834",
+          "17.870137"
+        ],
+        [
+          "59.052650",
+          "17.870161"
+        ],
+        [
+          "59.052519",
+          "17.870172"
+        ],
+        [
+          "59.052387",
+          "17.870167"
+        ],
+        [
+          "59.052253",
+          "17.870124"
+        ],
+        [
+          "59.052128",
+          "17.870067"
+        ],
+        [
+          "59.052004",
+          "17.869966"
+        ],
+        [
+          "59.051857",
+          "17.869823"
+        ],
+        [
+          "59.051675",
+          "17.869665"
+        ],
+        [
+          "59.051549",
+          "17.869556"
+        ],
+        [
+          "59.051441",
+          "17.869484"
+        ],
+        [
+          "59.051394",
+          "17.869441"
+        ],
+        [
+          "59.051222",
+          "17.869337"
+        ],
+        [
+          "59.051088",
+          "17.869271"
+        ],
+        [
+          "59.050922",
+          "17.869209"
+        ],
+        [
+          "59.050803",
+          "17.869180"
+        ],
+        [
+          "59.050582",
+          "17.869135"
+        ],
+        [
+          "59.050426",
+          "17.869114"
+        ],
+        [
+          "59.050297",
+          "17.869120"
+        ],
+        [
+          "59.050198",
+          "17.869138"
+        ],
+        [
+          "59.050085",
+          "17.869198"
+        ],
+        [
+          "59.050036",
+          "17.869225"
+        ],
+        [
+          "59.049986",
+          "17.869262"
+        ],
+        [
+          "59.049894",
+          "17.869357"
+        ],
+        [
+          "59.049827",
+          "17.869471"
+        ],
+        [
+          "59.049758",
+          "17.869623"
+        ],
+        [
+          "59.049618",
+          "17.869889"
+        ],
+        [
+          "59.049504",
+          "17.870141"
+        ],
+        [
+          "59.049369",
+          "17.870413"
+        ],
+        [
+          "59.049264",
+          "17.870573"
+        ],
+        [
+          "59.049170",
+          "17.870699"
+        ],
+        [
+          "59.049121",
+          "17.870748"
+        ],
+        [
+          "59.049093",
+          "17.870776"
+        ],
+        [
+          "59.048871",
+          "17.870933"
+        ],
+        [
+          "59.048738",
+          "17.871029"
+        ],
+        [
+          "59.048539",
+          "17.871164"
+        ],
+        [
+          "59.048458",
+          "17.871229"
+        ],
+        [
+          "59.048410",
+          "17.871267"
+        ],
+        [
+          "59.048325",
+          "17.871380"
+        ],
+        [
+          "59.048249",
+          "17.871499"
+        ],
+        [
+          "59.048155",
+          "17.871706"
+        ],
+        [
+          "59.047984",
+          "17.872101"
+        ],
+        [
+          "59.047728",
+          "17.872690"
+        ],
+        [
+          "59.047539",
+          "17.873102"
+        ],
+        [
+          "59.047477",
+          "17.873237"
+        ],
+        [
+          "59.047292",
+          "17.873656"
+        ],
+        [
+          "59.047065",
+          "17.874152"
+        ],
+        [
+          "59.046856",
+          "17.874580"
+        ],
+        [
+          "59.046710",
+          "17.874877"
+        ],
+        [
+          "59.046611",
+          "17.875038"
+        ],
+        [
+          "59.046484",
+          "17.875230"
+        ],
+        [
+          "59.046387",
+          "17.875343"
+        ],
+        [
+          "59.046298",
+          "17.875438"
+        ],
+        [
+          "59.046134",
+          "17.875593"
+        ],
+        [
+          "59.045935",
+          "17.875807"
+        ],
+        [
+          "59.045840",
+          "17.875948"
+        ],
+        [
+          "59.045762",
+          "17.876104"
+        ],
+        [
+          "59.045670",
+          "17.876309"
+        ],
+        [
+          "59.045566",
+          "17.876577"
+        ],
+        [
+          "59.045485",
+          "17.876764"
+        ],
+        [
+          "59.045347",
+          "17.877066"
+        ],
+        [
+          "59.045173",
+          "17.877348"
+        ],
+        [
+          "59.045015",
+          "17.877578"
+        ],
+        [
+          "59.044794",
+          "17.877832"
+        ],
+        [
+          "59.044695",
+          "17.877949"
+        ],
+        [
+          "59.044597",
+          "17.878079"
+        ],
+        [
+          "59.044417",
+          "17.878331"
+        ],
+        [
+          "59.044278",
+          "17.878499"
+        ],
+        [
+          "59.044177",
+          "17.878612"
+        ],
+        [
+          "59.044114",
+          "17.878647"
+        ],
+        [
+          "59.043956",
+          "17.878718"
+        ],
+        [
+          "59.043795",
+          "17.878819"
+        ],
+        [
+          "59.043528",
+          "17.879009"
+        ],
+        [
+          "59.043367",
+          "17.879126"
+        ],
+        [
+          "59.043340",
+          "17.879140"
+        ],
+        [
+          "59.043289",
+          "17.879183"
+        ],
+        [
+          "59.043232",
+          "17.879249"
+        ],
+        [
+          "59.043132",
+          "17.879387"
+        ],
+        [
+          "59.043041",
+          "17.879528"
+        ],
+        [
+          "59.042963",
+          "17.879662"
+        ],
+        [
+          "59.042901",
+          "17.879804"
+        ],
+        [
+          "59.042790",
+          "17.880128"
+        ],
+        [
+          "59.042638",
+          "17.880615"
+        ],
+        [
+          "59.042563",
+          "17.880876"
+        ],
+        [
+          "59.042430",
+          "17.881340"
+        ],
+        [
+          "59.042185",
+          "17.882191"
+        ],
+        [
+          "59.042027",
+          "17.882747"
+        ],
+        [
+          "59.041884",
+          "17.883238"
+        ],
+        [
+          "59.041737",
+          "17.883746"
+        ],
+        [
+          "59.041597",
+          "17.884219"
+        ],
+        [
+          "59.041467",
+          "17.884697"
+        ],
+        [
+          "59.041392",
+          "17.884979"
+        ],
+        [
+          "59.041351",
+          "17.885146"
+        ],
+        [
+          "59.041318",
+          "17.885364"
+        ],
+        [
+          "59.041253",
+          "17.885764"
+        ],
+        [
+          "59.041249",
+          "17.885775"
+        ],
+        [
+          "59.041165",
+          "17.886332"
+        ],
+        [
+          "59.041041",
+          "17.887171"
+        ],
+        [
+          "59.040999",
+          "17.887455"
+        ],
+        [
+          "59.040980",
+          "17.887668"
+        ],
+        [
+          "59.040972",
+          "17.887939"
+        ],
+        [
+          "59.040966",
+          "17.888587"
+        ],
+        [
+          "59.040952",
+          "17.890035"
+        ],
+        [
+          "59.040943",
+          "17.891038"
+        ],
+        [
+          "59.040928",
+          "17.892149"
+        ],
+        [
+          "59.040918",
+          "17.893183"
+        ],
+        [
+          "59.040912",
+          "17.893352"
+        ],
+        [
+          "59.040885",
+          "17.893350"
+        ],
+        [
+          "59.040916",
+          "17.893342"
+        ],
+        [
+          "59.040911",
+          "17.893783"
+        ],
+        [
+          "59.040901",
+          "17.894602"
+        ],
+        [
+          "59.040892",
+          "17.895310"
+        ],
+        [
+          "59.040890",
+          "17.895703"
+        ],
+        [
+          "59.040888",
+          "17.895938"
+        ],
+        [
+          "59.040885",
+          "17.896248"
+        ],
+        [
+          "59.040882",
+          "17.896478"
+        ],
+        [
+          "59.040871",
+          "17.897381"
+        ],
+        [
+          "59.040869",
+          "17.898138"
+        ],
+        [
+          "59.040863",
+          "17.898744"
+        ],
+        [
+          "59.040857",
+          "17.899080"
+        ],
+        [
+          "59.040843",
+          "17.899401"
+        ],
+        [
+          "59.040825",
+          "17.899643"
+        ],
+        [
+          "59.040806",
+          "17.899849"
+        ],
+        [
+          "59.040783",
+          "17.900078"
+        ],
+        [
+          "59.040753",
+          "17.900286"
+        ],
+        [
+          "59.040661",
+          "17.900942"
+        ],
+        [
+          "59.040495",
+          "17.902126"
+        ],
+        [
+          "59.040304",
+          "17.903495"
+        ],
+        [
+          "59.040117",
+          "17.904791"
+        ],
+        [
+          "59.040012",
+          "17.905605"
+        ],
+        [
+          "59.039993",
+          "17.905895"
+        ],
+        [
+          "59.040001",
+          "17.906172"
+        ],
+        [
+          "59.040017",
+          "17.906310"
+        ],
+        [
+          "59.040063",
+          "17.906466"
+        ],
+        [
+          "59.040151",
+          "17.906689"
+        ],
+        [
+          "59.040231",
+          "17.906928"
+        ],
+        [
+          "59.040456",
+          "17.907586"
+        ],
+        [
+          "59.040637",
+          "17.908146"
+        ],
+        [
+          "59.040686",
+          "17.908299"
+        ],
+        [
+          "59.040866",
+          "17.909034"
+        ],
+        [
+          "59.041075",
+          "17.909855"
+        ],
+        [
+          "59.041139",
+          "17.910144"
+        ],
+        [
+          "59.041244",
+          "17.910736"
+        ],
+        [
+          "59.041306",
+          "17.911109"
+        ],
+        [
+          "59.041353",
+          "17.911508"
+        ],
+        [
+          "59.041386",
+          "17.911904"
+        ],
+        [
+          "59.041434",
+          "17.912627"
+        ],
+        [
+          "59.041453",
+          "17.913063"
+        ],
+        [
+          "59.041449",
+          "17.913265"
+        ],
+        [
+          "59.041439",
+          "17.913377"
+        ],
+        [
+          "59.041416",
+          "17.913498"
+        ],
+        [
+          "59.041372",
+          "17.913633"
+        ],
+        [
+          "59.041273",
+          "17.913924"
+        ],
+        [
+          "59.041071",
+          "17.914459"
+        ],
+        [
+          "59.040711",
+          "17.915422"
+        ],
+        [
+          "59.040218",
+          "17.916711"
+        ],
+        [
+          "59.039910",
+          "17.917551"
+        ],
+        [
+          "59.039795",
+          "17.917860"
+        ],
+        [
+          "59.039770",
+          "17.917920"
+        ],
+        [
+          "59.039738",
+          "17.917984"
+        ],
+        [
+          "59.039661",
+          "17.918110"
+        ],
+        [
+          "59.039543",
+          "17.918304"
+        ],
+        [
+          "59.039364",
+          "17.918622"
+        ],
+        [
+          "59.039071",
+          "17.919131"
+        ],
+        [
+          "59.038827",
+          "17.919548"
+        ],
+        [
+          "59.038728",
+          "17.919743"
+        ],
+        [
+          "59.038678",
+          "17.919877"
+        ],
+        [
+          "59.038654",
+          "17.920010"
+        ],
+        [
+          "59.038637",
+          "17.920144"
+        ],
+        [
+          "59.038639",
+          "17.920293"
+        ],
+        [
+          "59.038655",
+          "17.920501"
+        ],
+        [
+          "59.038701",
+          "17.921140"
+        ],
+        [
+          "59.038806",
+          "17.922450"
+        ],
+        [
+          "59.038886",
+          "17.923492"
+        ],
+        [
+          "59.038907",
+          "17.923767"
+        ],
+        [
+          "59.038934",
+          "17.924064"
+        ],
+        [
+          "59.038994",
+          "17.924843"
+        ],
+        [
+          "59.039006",
+          "17.925109"
+        ],
+        [
+          "59.039013",
+          "17.925268"
+        ],
+        [
+          "59.039015",
+          "17.925544"
+        ],
+        [
+          "59.039001",
+          "17.925750"
+        ],
+        [
+          "59.038966",
+          "17.926001"
+        ],
+        [
+          "59.038931",
+          "17.926208"
+        ],
+        [
+          "59.038859",
+          "17.926524"
+        ],
+        [
+          "59.038765",
+          "17.926822"
+        ],
+        [
+          "59.038584",
+          "17.927365"
+        ],
+        [
+          "59.038384",
+          "17.927874"
+        ],
+        [
+          "59.038227",
+          "17.928253"
+        ],
+        [
+          "59.038074",
+          "17.928555"
+        ],
+        [
+          "59.037923",
+          "17.928812"
+        ],
+        [
+          "59.037735",
+          "17.929141"
+        ],
+        [
+          "59.037500",
+          "17.929535"
+        ],
+        [
+          "59.037291",
+          "17.929798"
+        ],
+        [
+          "59.037123",
+          "17.929970"
+        ],
+        [
+          "59.036942",
+          "17.930110"
+        ],
+        [
+          "59.036770",
+          "17.930209"
+        ],
+        [
+          "59.036668",
+          "17.930240"
+        ],
+        [
+          "59.036534",
+          "17.930255"
+        ],
+        [
+          "59.036511",
+          "17.930256"
+        ],
+        [
+          "59.036062",
+          "17.930288"
+        ],
+        [
+          "59.035400",
+          "17.930341"
+        ],
+        [
+          "59.034871",
+          "17.930400"
+        ],
+        [
+          "59.034856",
+          "17.930402"
+        ],
+        [
+          "59.034627",
+          "17.930421"
+        ],
+        [
+          "59.034429",
+          "17.930426"
+        ],
+        [
+          "59.034281",
+          "17.930401"
+        ],
+        [
+          "59.034123",
+          "17.930340"
+        ],
+        [
+          "59.034006",
+          "17.930279"
+        ],
+        [
+          "59.033907",
+          "17.930219"
+        ],
+        [
+          "59.033706",
+          "17.930088"
+        ],
+        [
+          "59.033498",
+          "17.929941"
+        ],
+        [
+          "59.033280",
+          "17.929766"
+        ],
+        [
+          "59.033015",
+          "17.929563"
+        ],
+        [
+          "59.032781",
+          "17.929395"
+        ],
+        [
+          "59.032724",
+          "17.929367"
+        ],
+        [
+          "59.032682",
+          "17.929346"
+        ],
+        [
+          "59.032630",
+          "17.929322"
+        ],
+        [
+          "59.032591",
+          "17.929413"
+        ],
+        [
+          "59.032540",
+          "17.929496"
+        ],
+        [
+          "59.032457",
+          "17.929656"
+        ],
+        [
+          "59.032386",
+          "17.929778"
+        ],
+        [
+          "59.032314",
+          "17.929859"
+        ],
+        [
+          "59.032251",
+          "17.929910"
+        ],
+        [
+          "59.032145",
+          "17.929908"
+        ],
+        [
+          "59.032094",
+          "17.929890"
+        ],
+        [
+          "59.031957",
+          "17.929796"
+        ],
+        [
+          "59.031751",
+          "17.929622"
+        ],
+        [
+          "59.031578",
+          "17.929471"
+        ],
+        [
+          "59.031246",
+          "17.929173"
+        ],
+        [
+          "59.030611",
+          "17.928620"
+        ],
+        [
+          "59.030311",
+          "17.928367"
+        ],
+        [
+          "59.030075",
+          "17.928144"
+        ],
+        [
+          "59.029803",
+          "17.927913"
+        ],
+        [
+          "59.029603",
+          "17.927818"
+        ],
+        [
+          "59.029450",
+          "17.927785"
+        ],
+        [
+          "59.029229",
+          "17.927734"
+        ],
+        [
+          "59.028892",
+          "17.927594"
+        ],
+        [
+          "59.028782",
+          "17.927521"
+        ],
+        [
+          "59.028692",
+          "17.927427"
+        ],
+        [
+          "59.028615",
+          "17.927164"
+        ],
+        [
+          "59.028549",
+          "17.926897"
+        ],
+        [
+          "59.028521",
+          "17.926805"
+        ],
+        [
+          "59.028468",
+          "17.926720"
+        ],
+        [
+          "59.028373",
+          "17.926607"
+        ],
+        [
+          "59.028243",
+          "17.926495"
+        ],
+        [
+          "59.028057",
+          "17.926359"
+        ]
+      ]
+    }
+  ]
+}

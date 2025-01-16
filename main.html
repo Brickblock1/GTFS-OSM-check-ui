@@ -19,6 +19,7 @@
 
       <span id="network"></span>
       <span id="ref"></span>
+      <span id="gtfs_desc"></span>
       <input type="button" id="copy_route" value="Copy gtfs route tags" onclick="copy_route()">
     </h1>
     <div class="flexcontainer" style="flex-direction: row;">
@@ -363,6 +364,8 @@
         route_desc: gtfs_data.route_desc,
       }
 
+      document.getElementById("gtfs_desc").innerHTML = gtfs_data.route_desc
+
       for (shape of gtfs_data.shapes) {
         layers[shape.shape_id] = L.layerGroup();
         var map_shape = L.polyline(shape.points, {
@@ -379,6 +382,24 @@
               var gtfs_stop = L.circle([stop.stop_lat, stop.stop_lon], {
                 color: color,
                 fillColor: "grey",
+                fillOpacity: 1,
+                weight: 4,
+                radius: 1,
+              }).addTo(layers[shape.shape_id]);
+              gtfs_stop.bindTooltip(stop.stop_name + " (" + stop.platform_code + ", " + gtfs_stop_order + ")")
+              entries = Object.entries(stop)
+              popup_text = `<button onclick="copy_stop('${stop.stop_id}')">Copy recommended</button><div id=${stop.stop_id}>`
+              for (entry of entries) {
+                if (!(entry[0] == "stop_lon" || entry[0] == "stop_lat")) {
+                  popup_text = popup_text + "gtfs:" + entry[0] + ":" + code + "=" + entry[1] + "<br>"
+                }
+              }
+              popup_text = popup_text + "</div>"
+              gtfs_stop.bindPopup(popup_text)
+            } else {
+              var gtfs_stop = L.circle([stop.stop_lat, stop.stop_lon], {
+                color: "yellow",
+                fillColor: color,
                 fillOpacity: 1,
                 weight: 4,
                 radius: 1,

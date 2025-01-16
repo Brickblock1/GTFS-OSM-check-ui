@@ -17,19 +17,26 @@
         }
 
         async function open_from_network() {
-            if (document.getElementById("network_id").value != "") {
-                window.open(`/GTFS-OSM-check-ui/network.html?network_rel=${document.getElementById("network_id").value}&gtfs_route=${document.getElementById("network_gtfs").value}` + await get_options_string(), "_blank");
+            if (document.getElementById("network_gtfs").value != "") {
+                network_gtfs = document.getElementById("network_gtfs").value
             } else {
-                window.open(`/GTFS-OSM-check-ui/network.html?network=${document.getElementById("network_name").value}&gtfs_route=${document.getElementById("network_gtfs").value}` + await get_options_string(), "_blank");
+                network_gtfs = null
+            }
+            if (document.getElementById("network_rel_id").value != "") {
+                window.open(`network.html?network_rel_id=${document.getElementById("network_rel_id").value}&gtfs_agency=${network_gtfs}` + await get_options_string(), "_blank");
+            } else if (document.getElementById("network_rel").value != "") {
+                window.open(`network.html?network_rel=${document.getElementById("network_rel").value}&gtfs_agency=${network_gtfs}` + await get_options_string(), "_blank");
+            } else {
+                window.open(`network.html?network_tag=${document.getElementById("network_tag").value}&gtfs_agency=${network_gtfs}` + await get_options_string(), "_blank");
             }
         }
 
         async function open_from_route_master() {
             if (document.getElementById("route_master_id").value != "") {
                 if (document.getElementById("route_master_gtfs").value != "") {
-                    window.open(`/GTFS-OSM-check-ui/main.html?relation=${document.getElementById("route_master_id").value}&gtfs_route=${document.getElementById("route_master_gtfs").value}` + await get_options_string(), "_blank");
+                    window.open(`main.html?relation=${document.getElementById("route_master_id").value}&gtfs_route=${document.getElementById("route_master_gtfs").value}` + await get_options_string(), "_blank");
                 } else {
-                    window.open(`/GTFS-OSM-check-ui/main.html?relation=${document.getElementById("route_master_id").value}` + await get_options_string(), "_blank");
+                    window.open(`main.html?relation=${document.getElementById("route_master_id").value}` + await get_options_string(), "_blank");
                 }
             } else {
                 var query = `
@@ -46,9 +53,9 @@
                 const osm_data = await result.json();
                 try {
                     if (document.getElementById("route_master_gtfs").value != "") {
-                        window.open(`/GTFS-OSM-check-ui/main.html?relation=${osm_data.elements[0].id}&gtfs_route=${document.getElementById("route_master_gtfs").value}`, "_blank");
+                        window.open(`main.html?relation=${osm_data.elements[0].id}&gtfs_route=${document.getElementById("route_master_gtfs").value}` + await get_options_string(), "_blank");
                     } else {
-                        window.open(`/GTFS-OSM-check-ui/main.html?relation=${osm_data.elements[0].id}`, "_blank");
+                        window.open(`main.html?relation=${osm_data.elements[0].id}` + await get_options_string(), "_blank");
                     }
                 } catch {
                     alert("A relation does not exist")
@@ -62,19 +69,19 @@
         </h1>
         <div class="gridcontainer" style="overflow-y: scroll;">
             <div id="config" style="grid-column: 1 / 4;">
-                <h2 style="text-align: center;">Config & Usage</h2>
+                <h2 style="text-align: center;">Config</h2>
                 <p>
-                    <input type="text" placeholder="data_url" id="data_url">
-                    <input type="text" placeholder="code" id="code">
+                    <input type="text" value="data/SE-003-UL" placeholder="data_url" id="data_url">
+                    <input type="text" value="SE-003-UL" placeholder="code" id="code">
                     <label type="button" for="ignore_code"><input type="checkbox" id="ignore_code"> ignore_code</label>
                 </p>
             </div>
             <div>
                 <h3>Network</h3>
-                <p><input type="number" placeholder="Network relation id" id="network_id">or
-                    <input type="text" placeholder="name" id="network_name">
-                    <input type="text" placeholder="Just for looks, use for notes or something">optionally
-                    <input type="text" placeholder="GTFS route_id" id="network_gtfs">
+                <p><input type="number" placeholder="Network relation id" id="network_rel_id">
+                    <input type="text" placeholder="Relation name" id="network_rel">or
+                    <input type="text" placeholder="Tag name" id="network_tag">optionally
+                    <input type="text" placeholder="GTFS agency_id" id="network_gtfs">
                     <input type="button" value="Load" onclick="open_from_network()">
                 </p>
             </div>
@@ -89,7 +96,7 @@
             </div>
             <div>
                 <h3>Map (slow)</h3>
-                <p>Click <a href="/GTFS-OSM-check-ui/from_map.html" target="_blank">here</a> to open the map selector.
+                <p>Click <a href="from_map.html" target="_blank">here</a> to open the map selector.
                     It's honestly really
                     bad so don't use it. Feel free to improve it if you can, it's on <a
                         href="https://github.com/Brickblock1/GTFS-OSM-check-ui" target="_blank">Github</a></p>
@@ -105,7 +112,8 @@
                     contact me at <a
                         href="https://www.openstreetmap.org/message/new/Brickblock1">OpenStreetMap.org</a><br>© 2024
                     Brickblock1 Licence: <a href="https://www.gnu.org/licenses/old-licenses/lgpl-2.0.html#SEC1"
-                        target="_blank">GPLv2</a><br>© Mapdata <a href="https://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> Licence: ODbL
+                        target="_blank">GPLv2</a><br>© Mapdata <a href="https://www.openstreetmap.org/copyright"
+                        target="_blank">OpenStreetMap</a> Licence: ODbL
                 </p>
             </div>
         </div>

@@ -1,0 +1,5188 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011001046100000",
+  "agency_id": "14010000000001001",
+  "route_short_name": "461",
+  "route_long_name": "",
+  "route_type": "700",
+  "route_desc": "",
+  "shapes": [
+    {
+      "shape_id": "1014010000002261295",
+      "trips": [
+        {
+          "trip_id": "14010000635158334",
+          "service_id": "750",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041529001",
+              "stop_name": "Kolvik",
+              "stop_lat": "59.321841",
+              "stop_lon": "18.483044",
+              "location_type": "0",
+              "parent_station": "9021001041529000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041531001",
+              "stop_name": "Hemmesta centrum",
+              "stop_lat": "59.323073",
+              "stop_lon": "18.489790",
+              "location_type": "0",
+              "parent_station": "9021001041531000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041533001",
+              "stop_name": "N\u00e4set",
+              "stop_lat": "59.325358",
+              "stop_lon": "18.497603",
+              "location_type": "0",
+              "parent_station": "9021001041533000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535001",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326184",
+              "stop_lon": "18.502311",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551001",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325501",
+              "stop_lon": "18.530905",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553001",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326172",
+              "stop_lon": "18.541749",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555001",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.325351",
+              "stop_lon": "18.547707",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729002",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.330930",
+              "stop_lon": "18.552959",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733001",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.339051",
+              "stop_lon": "18.559501",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735001",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343192",
+              "stop_lon": "18.562873",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "750",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635220556",
+          "service_id": "22",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041529001",
+              "stop_name": "Kolvik",
+              "stop_lat": "59.321841",
+              "stop_lon": "18.483044",
+              "location_type": "0",
+              "parent_station": "9021001041529000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041531001",
+              "stop_name": "Hemmesta centrum",
+              "stop_lat": "59.323073",
+              "stop_lon": "18.489790",
+              "location_type": "0",
+              "parent_station": "9021001041531000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041533001",
+              "stop_name": "N\u00e4set",
+              "stop_lat": "59.325358",
+              "stop_lon": "18.497603",
+              "location_type": "0",
+              "parent_station": "9021001041533000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535001",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326184",
+              "stop_lon": "18.502311",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551001",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325501",
+              "stop_lon": "18.530905",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553001",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326172",
+              "stop_lon": "18.541749",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555001",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.325351",
+              "stop_lon": "18.547707",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729002",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.330930",
+              "stop_lon": "18.552959",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733001",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.339051",
+              "stop_lon": "18.559501",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735001",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343192",
+              "stop_lon": "18.562873",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "22",
+            "start_date": "20241117",
+            "end_date": "20250202"
+          }
+        },
+        {
+          "trip_id": "14010000635150964",
+          "service_id": "751",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041529001",
+              "stop_name": "Kolvik",
+              "stop_lat": "59.321841",
+              "stop_lon": "18.483044",
+              "location_type": "0",
+              "parent_station": "9021001041529000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041531001",
+              "stop_name": "Hemmesta centrum",
+              "stop_lat": "59.323073",
+              "stop_lon": "18.489790",
+              "location_type": "0",
+              "parent_station": "9021001041531000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041533001",
+              "stop_name": "N\u00e4set",
+              "stop_lat": "59.325358",
+              "stop_lon": "18.497603",
+              "location_type": "0",
+              "parent_station": "9021001041533000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535001",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326184",
+              "stop_lon": "18.502311",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551001",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325501",
+              "stop_lon": "18.530905",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553001",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326172",
+              "stop_lon": "18.541749",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555001",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.325351",
+              "stop_lon": "18.547707",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729002",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.330930",
+              "stop_lon": "18.552959",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733001",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.339051",
+              "stop_lon": "18.559501",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735001",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343192",
+              "stop_lon": "18.562873",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "751",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635167863",
+          "service_id": "751",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041529001",
+              "stop_name": "Kolvik",
+              "stop_lat": "59.321841",
+              "stop_lon": "18.483044",
+              "location_type": "0",
+              "parent_station": "9021001041529000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041531001",
+              "stop_name": "Hemmesta centrum",
+              "stop_lat": "59.323073",
+              "stop_lon": "18.489790",
+              "location_type": "0",
+              "parent_station": "9021001041531000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041533001",
+              "stop_name": "N\u00e4set",
+              "stop_lat": "59.325358",
+              "stop_lon": "18.497603",
+              "location_type": "0",
+              "parent_station": "9021001041533000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535001",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326184",
+              "stop_lon": "18.502311",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551001",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325501",
+              "stop_lon": "18.530905",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553001",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326172",
+              "stop_lon": "18.541749",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555001",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.325351",
+              "stop_lon": "18.547707",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729002",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.330930",
+              "stop_lon": "18.552959",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733001",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.339051",
+              "stop_lon": "18.559501",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735001",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343192",
+              "stop_lon": "18.562873",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "751",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635223143",
+          "service_id": "22",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041529001",
+              "stop_name": "Kolvik",
+              "stop_lat": "59.321841",
+              "stop_lon": "18.483044",
+              "location_type": "0",
+              "parent_station": "9021001041529000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041531001",
+              "stop_name": "Hemmesta centrum",
+              "stop_lat": "59.323073",
+              "stop_lon": "18.489790",
+              "location_type": "0",
+              "parent_station": "9021001041531000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041533001",
+              "stop_name": "N\u00e4set",
+              "stop_lat": "59.325358",
+              "stop_lon": "18.497603",
+              "location_type": "0",
+              "parent_station": "9021001041533000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535001",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326184",
+              "stop_lon": "18.502311",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551001",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325501",
+              "stop_lon": "18.530905",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553001",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326172",
+              "stop_lon": "18.541749",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555001",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.325351",
+              "stop_lon": "18.547707",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729002",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.330930",
+              "stop_lon": "18.552959",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733001",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.339051",
+              "stop_lon": "18.559501",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735001",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343192",
+              "stop_lon": "18.562873",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "22",
+            "start_date": "20241117",
+            "end_date": "20250202"
+          }
+        },
+        {
+          "trip_id": "14010000635197820",
+          "service_id": "34",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041529001",
+              "stop_name": "Kolvik",
+              "stop_lat": "59.321841",
+              "stop_lon": "18.483044",
+              "location_type": "0",
+              "parent_station": "9021001041529000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041531001",
+              "stop_name": "Hemmesta centrum",
+              "stop_lat": "59.323073",
+              "stop_lon": "18.489790",
+              "location_type": "0",
+              "parent_station": "9021001041531000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041533001",
+              "stop_name": "N\u00e4set",
+              "stop_lat": "59.325358",
+              "stop_lon": "18.497603",
+              "location_type": "0",
+              "parent_station": "9021001041533000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535001",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326184",
+              "stop_lon": "18.502311",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551001",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325501",
+              "stop_lon": "18.530905",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553001",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326172",
+              "stop_lon": "18.541749",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555001",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.325351",
+              "stop_lon": "18.547707",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729002",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.330930",
+              "stop_lon": "18.552959",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733001",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.339051",
+              "stop_lon": "18.559501",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735001",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343192",
+              "stop_lon": "18.562873",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "34",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635222532",
+          "service_id": "22",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041529001",
+              "stop_name": "Kolvik",
+              "stop_lat": "59.321841",
+              "stop_lon": "18.483044",
+              "location_type": "0",
+              "parent_station": "9021001041529000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041531001",
+              "stop_name": "Hemmesta centrum",
+              "stop_lat": "59.323073",
+              "stop_lon": "18.489790",
+              "location_type": "0",
+              "parent_station": "9021001041531000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041533001",
+              "stop_name": "N\u00e4set",
+              "stop_lat": "59.325358",
+              "stop_lon": "18.497603",
+              "location_type": "0",
+              "parent_station": "9021001041533000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535001",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326184",
+              "stop_lon": "18.502311",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551001",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325501",
+              "stop_lon": "18.530905",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553001",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326172",
+              "stop_lon": "18.541749",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555001",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.325351",
+              "stop_lon": "18.547707",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729002",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.330930",
+              "stop_lon": "18.552959",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733001",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.339051",
+              "stop_lon": "18.559501",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735001",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343192",
+              "stop_lon": "18.562873",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "22",
+            "start_date": "20241117",
+            "end_date": "20250202"
+          }
+        },
+        {
+          "trip_id": "14010000635188934",
+          "service_id": "34",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041529001",
+              "stop_name": "Kolvik",
+              "stop_lat": "59.321841",
+              "stop_lon": "18.483044",
+              "location_type": "0",
+              "parent_station": "9021001041529000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041531001",
+              "stop_name": "Hemmesta centrum",
+              "stop_lat": "59.323073",
+              "stop_lon": "18.489790",
+              "location_type": "0",
+              "parent_station": "9021001041531000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041533001",
+              "stop_name": "N\u00e4set",
+              "stop_lat": "59.325358",
+              "stop_lon": "18.497603",
+              "location_type": "0",
+              "parent_station": "9021001041533000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535001",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326184",
+              "stop_lon": "18.502311",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551001",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325501",
+              "stop_lon": "18.530905",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553001",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326172",
+              "stop_lon": "18.541749",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555001",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.325351",
+              "stop_lon": "18.547707",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729002",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.330930",
+              "stop_lon": "18.552959",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733001",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.339051",
+              "stop_lon": "18.559501",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735001",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343192",
+              "stop_lon": "18.562873",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "34",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000646253312",
+          "service_id": "137",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041529001",
+              "stop_name": "Kolvik",
+              "stop_lat": "59.321841",
+              "stop_lon": "18.483044",
+              "location_type": "0",
+              "parent_station": "9021001041529000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041531001",
+              "stop_name": "Hemmesta centrum",
+              "stop_lat": "59.323073",
+              "stop_lon": "18.489790",
+              "location_type": "0",
+              "parent_station": "9021001041531000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041533001",
+              "stop_name": "N\u00e4set",
+              "stop_lat": "59.325358",
+              "stop_lon": "18.497603",
+              "location_type": "0",
+              "parent_station": "9021001041533000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535001",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326184",
+              "stop_lon": "18.502311",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551001",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325501",
+              "stop_lon": "18.530905",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553001",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326172",
+              "stop_lon": "18.541749",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555001",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.325351",
+              "stop_lon": "18.547707",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729002",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.330930",
+              "stop_lon": "18.552959",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733001",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.339051",
+              "stop_lon": "18.559501",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735001",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343192",
+              "stop_lon": "18.562873",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "137",
+            "start_date": "20241227",
+            "end_date": "20250103"
+          }
+        },
+        {
+          "trip_id": "14010000672269507",
+          "service_id": "106",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041529001",
+              "stop_name": "Kolvik",
+              "stop_lat": "59.321841",
+              "stop_lon": "18.483044",
+              "location_type": "0",
+              "parent_station": "9021001041529000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041531001",
+              "stop_name": "Hemmesta centrum",
+              "stop_lat": "59.323073",
+              "stop_lon": "18.489790",
+              "location_type": "0",
+              "parent_station": "9021001041531000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041533001",
+              "stop_name": "N\u00e4set",
+              "stop_lat": "59.325358",
+              "stop_lon": "18.497603",
+              "location_type": "0",
+              "parent_station": "9021001041533000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535001",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326184",
+              "stop_lon": "18.502311",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551001",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325501",
+              "stop_lon": "18.530905",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553001",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326172",
+              "stop_lon": "18.541749",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555001",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.325351",
+              "stop_lon": "18.547707",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729002",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.330930",
+              "stop_lon": "18.552959",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733001",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.339051",
+              "stop_lon": "18.559501",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735001",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343192",
+              "stop_lon": "18.562873",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "106",
+            "start_date": "20241223",
+            "end_date": "20250102"
+          }
+        },
+        {
+          "trip_id": "14010000672267385",
+          "service_id": "106",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041529001",
+              "stop_name": "Kolvik",
+              "stop_lat": "59.321841",
+              "stop_lon": "18.483044",
+              "location_type": "0",
+              "parent_station": "9021001041529000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041531001",
+              "stop_name": "Hemmesta centrum",
+              "stop_lat": "59.323073",
+              "stop_lon": "18.489790",
+              "location_type": "0",
+              "parent_station": "9021001041531000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041533001",
+              "stop_name": "N\u00e4set",
+              "stop_lat": "59.325358",
+              "stop_lon": "18.497603",
+              "location_type": "0",
+              "parent_station": "9021001041533000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535001",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326184",
+              "stop_lon": "18.502311",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551001",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325501",
+              "stop_lon": "18.530905",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553001",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326172",
+              "stop_lon": "18.541749",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555001",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.325351",
+              "stop_lon": "18.547707",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729002",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.330930",
+              "stop_lon": "18.552959",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733001",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.339051",
+              "stop_lon": "18.559501",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735001",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343192",
+              "stop_lon": "18.562873",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "106",
+            "start_date": "20241223",
+            "end_date": "20250102"
+          }
+        },
+        {
+          "trip_id": "14010000672265460",
+          "service_id": "106",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041529001",
+              "stop_name": "Kolvik",
+              "stop_lat": "59.321841",
+              "stop_lon": "18.483044",
+              "location_type": "0",
+              "parent_station": "9021001041529000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041531001",
+              "stop_name": "Hemmesta centrum",
+              "stop_lat": "59.323073",
+              "stop_lon": "18.489790",
+              "location_type": "0",
+              "parent_station": "9021001041531000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041533001",
+              "stop_name": "N\u00e4set",
+              "stop_lat": "59.325358",
+              "stop_lon": "18.497603",
+              "location_type": "0",
+              "parent_station": "9021001041533000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535001",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326184",
+              "stop_lon": "18.502311",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551001",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325501",
+              "stop_lon": "18.530905",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553001",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326172",
+              "stop_lon": "18.541749",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555001",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.325351",
+              "stop_lon": "18.547707",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729002",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.330930",
+              "stop_lon": "18.552959",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733001",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.339051",
+              "stop_lon": "18.559501",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735001",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343192",
+              "stop_lon": "18.562873",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "106",
+            "start_date": "20241223",
+            "end_date": "20250102"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.321841",
+          "18.483044"
+        ],
+        [
+          "59.321841",
+          "18.482933"
+        ],
+        [
+          "59.321907",
+          "18.483101"
+        ],
+        [
+          "59.321985",
+          "18.483300"
+        ],
+        [
+          "59.322006",
+          "18.483354"
+        ],
+        [
+          "59.322124",
+          "18.483721"
+        ],
+        [
+          "59.322282",
+          "18.484260"
+        ],
+        [
+          "59.322462",
+          "18.484961"
+        ],
+        [
+          "59.322602",
+          "18.485572"
+        ],
+        [
+          "59.322696",
+          "18.486078"
+        ],
+        [
+          "59.322806",
+          "18.486725"
+        ],
+        [
+          "59.322888",
+          "18.487314"
+        ],
+        [
+          "59.322966",
+          "18.488048"
+        ],
+        [
+          "59.323013",
+          "18.488606"
+        ],
+        [
+          "59.323019",
+          "18.488678"
+        ],
+        [
+          "59.323097",
+          "18.489671"
+        ],
+        [
+          "59.323098",
+          "18.489689"
+        ],
+        [
+          "59.323073",
+          "18.489790"
+        ],
+        [
+          "59.323106",
+          "18.489776"
+        ],
+        [
+          "59.323133",
+          "18.490071"
+        ],
+        [
+          "59.323153",
+          "18.490259"
+        ],
+        [
+          "59.323199",
+          "18.490675"
+        ],
+        [
+          "59.323265",
+          "18.491169"
+        ],
+        [
+          "59.323349",
+          "18.491662"
+        ],
+        [
+          "59.323397",
+          "18.491925"
+        ],
+        [
+          "59.323487",
+          "18.492324"
+        ],
+        [
+          "59.323573",
+          "18.492686"
+        ],
+        [
+          "59.323648",
+          "18.492955"
+        ],
+        [
+          "59.323723",
+          "18.493192"
+        ],
+        [
+          "59.323922",
+          "18.493756"
+        ],
+        [
+          "59.324148",
+          "18.494326"
+        ],
+        [
+          "59.324373",
+          "18.494859"
+        ],
+        [
+          "59.324797",
+          "18.495863"
+        ],
+        [
+          "59.324932",
+          "18.496175"
+        ],
+        [
+          "59.325008",
+          "18.496363"
+        ],
+        [
+          "59.325068",
+          "18.496530"
+        ],
+        [
+          "59.325207",
+          "18.496918"
+        ],
+        [
+          "59.325287",
+          "18.497160"
+        ],
+        [
+          "59.325396",
+          "18.497568"
+        ],
+        [
+          "59.325358",
+          "18.497603"
+        ],
+        [
+          "59.325400",
+          "18.497583"
+        ],
+        [
+          "59.325437",
+          "18.497724"
+        ],
+        [
+          "59.325475",
+          "18.497898"
+        ],
+        [
+          "59.325687",
+          "18.499008"
+        ],
+        [
+          "59.325913",
+          "18.500324"
+        ],
+        [
+          "59.326108",
+          "18.501480"
+        ],
+        [
+          "59.326242",
+          "18.502293"
+        ],
+        [
+          "59.326250",
+          "18.502343"
+        ],
+        [
+          "59.326318",
+          "18.502716"
+        ],
+        [
+          "59.326393",
+          "18.503045"
+        ],
+        [
+          "59.326475",
+          "18.503319"
+        ],
+        [
+          "59.326529",
+          "18.503497"
+        ],
+        [
+          "59.326584",
+          "18.503634"
+        ],
+        [
+          "59.326626",
+          "18.503720"
+        ],
+        [
+          "59.326739",
+          "18.503897"
+        ],
+        [
+          "59.326779",
+          "18.503960"
+        ],
+        [
+          "59.326804",
+          "18.503998"
+        ],
+        [
+          "59.326965",
+          "18.504165"
+        ],
+        [
+          "59.326991",
+          "18.504191"
+        ],
+        [
+          "59.327319",
+          "18.504470"
+        ],
+        [
+          "59.327414",
+          "18.504536"
+        ],
+        [
+          "59.327472",
+          "18.504554"
+        ],
+        [
+          "59.327520",
+          "18.504544"
+        ],
+        [
+          "59.327555",
+          "18.504857"
+        ],
+        [
+          "59.327559",
+          "18.505017"
+        ],
+        [
+          "59.327561",
+          "18.505089"
+        ],
+        [
+          "59.327538",
+          "18.505536"
+        ],
+        [
+          "59.327455",
+          "18.506599"
+        ],
+        [
+          "59.327292",
+          "18.508511"
+        ],
+        [
+          "59.327256",
+          "18.509036"
+        ],
+        [
+          "59.327220",
+          "18.509446"
+        ],
+        [
+          "59.327186",
+          "18.509714"
+        ],
+        [
+          "59.327147",
+          "18.509973"
+        ],
+        [
+          "59.327102",
+          "18.510198"
+        ],
+        [
+          "59.327038",
+          "18.510440"
+        ],
+        [
+          "59.326905",
+          "18.510815"
+        ],
+        [
+          "59.326719",
+          "18.511420"
+        ],
+        [
+          "59.326564",
+          "18.511980"
+        ],
+        [
+          "59.326482",
+          "18.512349"
+        ],
+        [
+          "59.326415",
+          "18.512669"
+        ],
+        [
+          "59.326353",
+          "18.513116"
+        ],
+        [
+          "59.326301",
+          "18.513700"
+        ],
+        [
+          "59.326229",
+          "18.514380"
+        ],
+        [
+          "59.326193",
+          "18.514682"
+        ],
+        [
+          "59.326121",
+          "18.515093"
+        ],
+        [
+          "59.326001",
+          "18.515688"
+        ],
+        [
+          "59.325817",
+          "18.516571"
+        ],
+        [
+          "59.325650",
+          "18.517432"
+        ],
+        [
+          "59.325577",
+          "18.517818"
+        ],
+        [
+          "59.325503",
+          "18.518285"
+        ],
+        [
+          "59.325424",
+          "18.518861"
+        ],
+        [
+          "59.325326",
+          "18.519657"
+        ],
+        [
+          "59.325254",
+          "18.520316"
+        ],
+        [
+          "59.325225",
+          "18.520608"
+        ],
+        [
+          "59.325211",
+          "18.521027"
+        ],
+        [
+          "59.325214",
+          "18.521508"
+        ],
+        [
+          "59.325236",
+          "18.521988"
+        ],
+        [
+          "59.325258",
+          "18.522586"
+        ],
+        [
+          "59.325251",
+          "18.523053"
+        ],
+        [
+          "59.325202",
+          "18.523710"
+        ],
+        [
+          "59.325137",
+          "18.524685"
+        ],
+        [
+          "59.325120",
+          "18.524936"
+        ],
+        [
+          "59.325124",
+          "18.525312"
+        ],
+        [
+          "59.325147",
+          "18.526375"
+        ],
+        [
+          "59.325171",
+          "18.527454"
+        ],
+        [
+          "59.325191",
+          "18.528156"
+        ],
+        [
+          "59.325252",
+          "18.529149"
+        ],
+        [
+          "59.325308",
+          "18.529559"
+        ],
+        [
+          "59.325487",
+          "18.530727"
+        ],
+        [
+          "59.325516",
+          "18.530911"
+        ],
+        [
+          "59.325501",
+          "18.530905"
+        ],
+        [
+          "59.325510",
+          "18.530906"
+        ],
+        [
+          "59.325691",
+          "18.532020"
+        ],
+        [
+          "59.325786",
+          "18.532692"
+        ],
+        [
+          "59.325813",
+          "18.532975"
+        ],
+        [
+          "59.325830",
+          "18.533372"
+        ],
+        [
+          "59.325838",
+          "18.533883"
+        ],
+        [
+          "59.325839",
+          "18.535146"
+        ],
+        [
+          "59.325857",
+          "18.536569"
+        ],
+        [
+          "59.325876",
+          "18.537057"
+        ],
+        [
+          "59.325909",
+          "18.537559"
+        ],
+        [
+          "59.325970",
+          "18.538128"
+        ],
+        [
+          "59.326001",
+          "18.538456"
+        ],
+        [
+          "59.326005",
+          "18.538491"
+        ],
+        [
+          "59.326064",
+          "18.539195"
+        ],
+        [
+          "59.326161",
+          "18.540806"
+        ],
+        [
+          "59.326198",
+          "18.541485"
+        ],
+        [
+          "59.326208",
+          "18.541753"
+        ],
+        [
+          "59.326172",
+          "18.541749"
+        ],
+        [
+          "59.326208",
+          "18.541746"
+        ],
+        [
+          "59.326210",
+          "18.541781"
+        ],
+        [
+          "59.326214",
+          "18.541958"
+        ],
+        [
+          "59.326207",
+          "18.542170"
+        ],
+        [
+          "59.326189",
+          "18.542279"
+        ],
+        [
+          "59.326146",
+          "18.542543"
+        ],
+        [
+          "59.326080",
+          "18.542809"
+        ],
+        [
+          "59.325944",
+          "18.543228"
+        ],
+        [
+          "59.325577",
+          "18.544337"
+        ],
+        [
+          "59.325299",
+          "18.545169"
+        ],
+        [
+          "59.324979",
+          "18.546107"
+        ],
+        [
+          "59.324710",
+          "18.546953"
+        ],
+        [
+          "59.324945",
+          "18.547219"
+        ],
+        [
+          "59.325361",
+          "18.547623"
+        ],
+        [
+          "59.325351",
+          "18.547707"
+        ],
+        [
+          "59.325292",
+          "18.547613"
+        ],
+        [
+          "59.327785",
+          "18.549588"
+        ],
+        [
+          "59.328717",
+          "18.550247"
+        ],
+        [
+          "59.329264",
+          "18.550913"
+        ],
+        [
+          "59.329818",
+          "18.551916"
+        ],
+        [
+          "59.330034",
+          "18.552692"
+        ],
+        [
+          "59.330572",
+          "18.552492"
+        ],
+        [
+          "59.330750",
+          "18.552574"
+        ],
+        [
+          "59.330928",
+          "18.552930"
+        ],
+        [
+          "59.330930",
+          "18.552959"
+        ],
+        [
+          "59.330950",
+          "18.552978"
+        ],
+        [
+          "59.330963",
+          "18.553002"
+        ],
+        [
+          "59.331416",
+          "18.553815"
+        ],
+        [
+          "59.331764",
+          "18.554447"
+        ],
+        [
+          "59.331981",
+          "18.554789"
+        ],
+        [
+          "59.332235",
+          "18.555132"
+        ],
+        [
+          "59.332603",
+          "18.555614"
+        ],
+        [
+          "59.332958",
+          "18.556086"
+        ],
+        [
+          "59.333312",
+          "18.556544"
+        ],
+        [
+          "59.333524",
+          "18.556830"
+        ],
+        [
+          "59.333725",
+          "18.557139"
+        ],
+        [
+          "59.333884",
+          "18.557426"
+        ],
+        [
+          "59.334020",
+          "18.557738"
+        ],
+        [
+          "59.334201",
+          "18.558183"
+        ],
+        [
+          "59.334398",
+          "18.558571"
+        ],
+        [
+          "59.334520",
+          "18.558747"
+        ],
+        [
+          "59.334652",
+          "18.558910"
+        ],
+        [
+          "59.334924",
+          "18.559152"
+        ],
+        [
+          "59.335069",
+          "18.559261"
+        ],
+        [
+          "59.335260",
+          "18.559355"
+        ],
+        [
+          "59.335639",
+          "18.559498"
+        ],
+        [
+          "59.335831",
+          "18.559591"
+        ],
+        [
+          "59.336005",
+          "18.559683"
+        ],
+        [
+          "59.336136",
+          "18.559724"
+        ],
+        [
+          "59.336485",
+          "18.559778"
+        ],
+        [
+          "59.336693",
+          "18.559785"
+        ],
+        [
+          "59.336965",
+          "18.559758"
+        ],
+        [
+          "59.337267",
+          "18.559743"
+        ],
+        [
+          "59.337382",
+          "18.559755"
+        ],
+        [
+          "59.337551",
+          "18.559804"
+        ],
+        [
+          "59.337765",
+          "18.559886"
+        ],
+        [
+          "59.337906",
+          "18.559923"
+        ],
+        [
+          "59.338007",
+          "18.559919"
+        ],
+        [
+          "59.338095",
+          "18.559896"
+        ],
+        [
+          "59.338201",
+          "18.559830"
+        ],
+        [
+          "59.338388",
+          "18.559662"
+        ],
+        [
+          "59.338598",
+          "18.559449"
+        ],
+        [
+          "59.338682",
+          "18.559395"
+        ],
+        [
+          "59.338759",
+          "18.559368"
+        ],
+        [
+          "59.338851",
+          "18.559365"
+        ],
+        [
+          "59.338956",
+          "18.559423"
+        ],
+        [
+          "59.339044",
+          "18.559454"
+        ],
+        [
+          "59.339149",
+          "18.559493"
+        ],
+        [
+          "59.339295",
+          "18.559571"
+        ],
+        [
+          "59.339392",
+          "18.559653"
+        ],
+        [
+          "59.339471",
+          "18.559756"
+        ],
+        [
+          "59.339552",
+          "18.559946"
+        ],
+        [
+          "59.339653",
+          "18.560210"
+        ],
+        [
+          "59.339755",
+          "18.560505"
+        ],
+        [
+          "59.339843",
+          "18.560787"
+        ],
+        [
+          "59.339930",
+          "18.560993"
+        ],
+        [
+          "59.340028",
+          "18.561160"
+        ],
+        [
+          "59.340149",
+          "18.561287"
+        ],
+        [
+          "59.340253",
+          "18.561372"
+        ],
+        [
+          "59.340351",
+          "18.561397"
+        ],
+        [
+          "59.340472",
+          "18.561412"
+        ],
+        [
+          "59.340630",
+          "18.561406"
+        ],
+        [
+          "59.340688",
+          "18.561412"
+        ],
+        [
+          "59.340855",
+          "18.561498"
+        ],
+        [
+          "59.340939",
+          "18.561581"
+        ],
+        [
+          "59.341027",
+          "18.561723"
+        ],
+        [
+          "59.341136",
+          "18.561934"
+        ],
+        [
+          "59.341249",
+          "18.562210"
+        ],
+        [
+          "59.341417",
+          "18.562723"
+        ],
+        [
+          "59.341494",
+          "18.562896"
+        ],
+        [
+          "59.341550",
+          "18.562992"
+        ],
+        [
+          "59.341645",
+          "18.563066"
+        ],
+        [
+          "59.341803",
+          "18.563148"
+        ],
+        [
+          "59.342332",
+          "18.563340"
+        ],
+        [
+          "59.342508",
+          "18.563384"
+        ],
+        [
+          "59.342625",
+          "18.563363"
+        ],
+        [
+          "59.342708",
+          "18.563313"
+        ],
+        [
+          "59.342838",
+          "18.563192"
+        ],
+        [
+          "59.343066",
+          "18.562952"
+        ],
+        [
+          "59.343192",
+          "18.562873"
+        ],
+        [
+          "59.343068",
+          "18.562943"
+        ],
+        [
+          "59.343097",
+          "18.562919"
+        ],
+        [
+          "59.343313",
+          "18.562713"
+        ],
+        [
+          "59.343603",
+          "18.562469"
+        ],
+        [
+          "59.343895",
+          "18.562255"
+        ],
+        [
+          "59.344116",
+          "18.562090"
+        ],
+        [
+          "59.344200",
+          "18.561992"
+        ],
+        [
+          "59.344266",
+          "18.561857"
+        ],
+        [
+          "59.344318",
+          "18.561715"
+        ],
+        [
+          "59.344361",
+          "18.561516"
+        ],
+        [
+          "59.344441",
+          "18.561121"
+        ],
+        [
+          "59.344494",
+          "18.560940"
+        ],
+        [
+          "59.344570",
+          "18.560779"
+        ],
+        [
+          "59.344698",
+          "18.560541"
+        ],
+        [
+          "59.344918",
+          "18.560069"
+        ],
+        [
+          "59.345070",
+          "18.559809"
+        ],
+        [
+          "59.345202",
+          "18.559635"
+        ],
+        [
+          "59.345422",
+          "18.559387"
+        ],
+        [
+          "59.345636",
+          "18.559102"
+        ],
+        [
+          "59.345752",
+          "18.559204"
+        ],
+        [
+          "59.345722",
+          "18.559342"
+        ]
+      ]
+    },
+    {
+      "shape_id": "1014010000002261345",
+      "trips": [
+        {
+          "trip_id": "14010000635151927",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735002",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343135",
+              "stop_lon": "18.562790",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733002",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.338919",
+              "stop_lon": "18.559381",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729003",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.329942",
+              "stop_lon": "18.552124",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555002",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.324987",
+              "stop_lon": "18.546209",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553002",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326218",
+              "stop_lon": "18.541700",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551002",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325716",
+              "stop_lon": "18.531801",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041572001",
+              "stop_name": "Nolsund",
+              "stop_lat": "59.327097",
+              "stop_lon": "18.510347",
+              "location_type": "0",
+              "parent_station": "9021001041572000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535002",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326411",
+              "stop_lon": "18.502897",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041533002",
+              "stop_name": "N\u00e4set",
+              "stop_lat": "59.325178",
+              "stop_lon": "18.496750",
+              "location_type": "0",
+              "parent_station": "9021001041533000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041531002",
+              "stop_name": "Hemmesta centrum",
+              "stop_lat": "59.323027",
+              "stop_lon": "18.488251",
+              "location_type": "0",
+              "parent_station": "9021001041531000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041529002",
+              "stop_name": "Kolvik",
+              "stop_lat": "59.322066",
+              "stop_lon": "18.483448",
+              "location_type": "0",
+              "parent_station": "9021001041529000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        },
+        {
+          "trip_id": "14010000635222688",
+          "service_id": "22",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735002",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343135",
+              "stop_lon": "18.562790",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733002",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.338919",
+              "stop_lon": "18.559381",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729003",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.329942",
+              "stop_lon": "18.552124",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555002",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.324987",
+              "stop_lon": "18.546209",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553002",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326218",
+              "stop_lon": "18.541700",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551002",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325716",
+              "stop_lon": "18.531801",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041572001",
+              "stop_name": "Nolsund",
+              "stop_lat": "59.327097",
+              "stop_lon": "18.510347",
+              "location_type": "0",
+              "parent_station": "9021001041572000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535002",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326411",
+              "stop_lon": "18.502897",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041533002",
+              "stop_name": "N\u00e4set",
+              "stop_lat": "59.325178",
+              "stop_lon": "18.496750",
+              "location_type": "0",
+              "parent_station": "9021001041533000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041531002",
+              "stop_name": "Hemmesta centrum",
+              "stop_lat": "59.323027",
+              "stop_lon": "18.488251",
+              "location_type": "0",
+              "parent_station": "9021001041531000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041529002",
+              "stop_name": "Kolvik",
+              "stop_lat": "59.322066",
+              "stop_lon": "18.483448",
+              "location_type": "0",
+              "parent_station": "9021001041529000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "22",
+            "start_date": "20241117",
+            "end_date": "20250202"
+          }
+        },
+        {
+          "trip_id": "14010000635223198",
+          "service_id": "22",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735002",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343135",
+              "stop_lon": "18.562790",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733002",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.338919",
+              "stop_lon": "18.559381",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729003",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.329942",
+              "stop_lon": "18.552124",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555002",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.324987",
+              "stop_lon": "18.546209",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553002",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326218",
+              "stop_lon": "18.541700",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551002",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325716",
+              "stop_lon": "18.531801",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041572001",
+              "stop_name": "Nolsund",
+              "stop_lat": "59.327097",
+              "stop_lon": "18.510347",
+              "location_type": "0",
+              "parent_station": "9021001041572000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535002",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326411",
+              "stop_lon": "18.502897",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041533002",
+              "stop_name": "N\u00e4set",
+              "stop_lat": "59.325178",
+              "stop_lon": "18.496750",
+              "location_type": "0",
+              "parent_station": "9021001041533000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041531002",
+              "stop_name": "Hemmesta centrum",
+              "stop_lat": "59.323027",
+              "stop_lon": "18.488251",
+              "location_type": "0",
+              "parent_station": "9021001041531000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041529002",
+              "stop_name": "Kolvik",
+              "stop_lat": "59.322066",
+              "stop_lon": "18.483448",
+              "location_type": "0",
+              "parent_station": "9021001041529000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "22",
+            "start_date": "20241117",
+            "end_date": "20250202"
+          }
+        },
+        {
+          "trip_id": "14010000635198665",
+          "service_id": "34",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735002",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343135",
+              "stop_lon": "18.562790",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733002",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.338919",
+              "stop_lon": "18.559381",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729003",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.329942",
+              "stop_lon": "18.552124",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555002",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.324987",
+              "stop_lon": "18.546209",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553002",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326218",
+              "stop_lon": "18.541700",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551002",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325716",
+              "stop_lon": "18.531801",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041572001",
+              "stop_name": "Nolsund",
+              "stop_lat": "59.327097",
+              "stop_lon": "18.510347",
+              "location_type": "0",
+              "parent_station": "9021001041572000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535002",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326411",
+              "stop_lon": "18.502897",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041533002",
+              "stop_name": "N\u00e4set",
+              "stop_lat": "59.325178",
+              "stop_lon": "18.496750",
+              "location_type": "0",
+              "parent_station": "9021001041533000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041531002",
+              "stop_name": "Hemmesta centrum",
+              "stop_lat": "59.323027",
+              "stop_lon": "18.488251",
+              "location_type": "0",
+              "parent_station": "9021001041531000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041529002",
+              "stop_name": "Kolvik",
+              "stop_lat": "59.322066",
+              "stop_lon": "18.483448",
+              "location_type": "0",
+              "parent_station": "9021001041529000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "34",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        },
+        {
+          "trip_id": "14010000635222079",
+          "service_id": "22",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735002",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343135",
+              "stop_lon": "18.562790",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733002",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.338919",
+              "stop_lon": "18.559381",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729003",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.329942",
+              "stop_lon": "18.552124",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555002",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.324987",
+              "stop_lon": "18.546209",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553002",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326218",
+              "stop_lon": "18.541700",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551002",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325716",
+              "stop_lon": "18.531801",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041572001",
+              "stop_name": "Nolsund",
+              "stop_lat": "59.327097",
+              "stop_lon": "18.510347",
+              "location_type": "0",
+              "parent_station": "9021001041572000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535002",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326411",
+              "stop_lon": "18.502897",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041533002",
+              "stop_name": "N\u00e4set",
+              "stop_lat": "59.325178",
+              "stop_lon": "18.496750",
+              "location_type": "0",
+              "parent_station": "9021001041533000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041531002",
+              "stop_name": "Hemmesta centrum",
+              "stop_lat": "59.323027",
+              "stop_lon": "18.488251",
+              "location_type": "0",
+              "parent_station": "9021001041531000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041529002",
+              "stop_name": "Kolvik",
+              "stop_lat": "59.322066",
+              "stop_lon": "18.483448",
+              "location_type": "0",
+              "parent_station": "9021001041529000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "22",
+            "start_date": "20241117",
+            "end_date": "20250202"
+          }
+        },
+        {
+          "trip_id": "14010000635189407",
+          "service_id": "35",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735002",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343135",
+              "stop_lon": "18.562790",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733002",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.338919",
+              "stop_lon": "18.559381",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729003",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.329942",
+              "stop_lon": "18.552124",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555002",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.324987",
+              "stop_lon": "18.546209",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553002",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326218",
+              "stop_lon": "18.541700",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551002",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325716",
+              "stop_lon": "18.531801",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041572001",
+              "stop_name": "Nolsund",
+              "stop_lat": "59.327097",
+              "stop_lon": "18.510347",
+              "location_type": "0",
+              "parent_station": "9021001041572000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535002",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326411",
+              "stop_lon": "18.502897",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041533002",
+              "stop_name": "N\u00e4set",
+              "stop_lat": "59.325178",
+              "stop_lon": "18.496750",
+              "location_type": "0",
+              "parent_station": "9021001041533000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041531002",
+              "stop_name": "Hemmesta centrum",
+              "stop_lat": "59.323027",
+              "stop_lon": "18.488251",
+              "location_type": "0",
+              "parent_station": "9021001041531000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041529002",
+              "stop_name": "Kolvik",
+              "stop_lat": "59.322066",
+              "stop_lon": "18.483448",
+              "location_type": "0",
+              "parent_station": "9021001041529000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "35",
+            "start_date": "20241116",
+            "end_date": "20250208"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.345722",
+          "18.559342"
+        ],
+        [
+          "59.345750",
+          "18.559206"
+        ],
+        [
+          "59.345636",
+          "18.559102"
+        ],
+        [
+          "59.345422",
+          "18.559387"
+        ],
+        [
+          "59.345202",
+          "18.559635"
+        ],
+        [
+          "59.345070",
+          "18.559809"
+        ],
+        [
+          "59.344918",
+          "18.560069"
+        ],
+        [
+          "59.344698",
+          "18.560541"
+        ],
+        [
+          "59.344570",
+          "18.560779"
+        ],
+        [
+          "59.344494",
+          "18.560940"
+        ],
+        [
+          "59.344441",
+          "18.561121"
+        ],
+        [
+          "59.344361",
+          "18.561516"
+        ],
+        [
+          "59.344318",
+          "18.561715"
+        ],
+        [
+          "59.344266",
+          "18.561857"
+        ],
+        [
+          "59.344200",
+          "18.561992"
+        ],
+        [
+          "59.344116",
+          "18.562090"
+        ],
+        [
+          "59.343895",
+          "18.562255"
+        ],
+        [
+          "59.343603",
+          "18.562469"
+        ],
+        [
+          "59.343313",
+          "18.562714"
+        ],
+        [
+          "59.343153",
+          "18.562866"
+        ],
+        [
+          "59.343097",
+          "18.562919"
+        ],
+        [
+          "59.342838",
+          "18.563192"
+        ],
+        [
+          "59.342708",
+          "18.563313"
+        ],
+        [
+          "59.342625",
+          "18.563363"
+        ],
+        [
+          "59.342508",
+          "18.563384"
+        ],
+        [
+          "59.342332",
+          "18.563340"
+        ],
+        [
+          "59.341803",
+          "18.563148"
+        ],
+        [
+          "59.341645",
+          "18.563066"
+        ],
+        [
+          "59.341550",
+          "18.562992"
+        ],
+        [
+          "59.341494",
+          "18.562896"
+        ],
+        [
+          "59.341417",
+          "18.562723"
+        ],
+        [
+          "59.341249",
+          "18.562210"
+        ],
+        [
+          "59.341136",
+          "18.561934"
+        ],
+        [
+          "59.341027",
+          "18.561723"
+        ],
+        [
+          "59.340939",
+          "18.561581"
+        ],
+        [
+          "59.340855",
+          "18.561498"
+        ],
+        [
+          "59.340688",
+          "18.561412"
+        ],
+        [
+          "59.340630",
+          "18.561406"
+        ],
+        [
+          "59.340472",
+          "18.561412"
+        ],
+        [
+          "59.340351",
+          "18.561397"
+        ],
+        [
+          "59.340253",
+          "18.561372"
+        ],
+        [
+          "59.340149",
+          "18.561287"
+        ],
+        [
+          "59.340028",
+          "18.561160"
+        ],
+        [
+          "59.339930",
+          "18.560993"
+        ],
+        [
+          "59.339843",
+          "18.560787"
+        ],
+        [
+          "59.339755",
+          "18.560505"
+        ],
+        [
+          "59.339653",
+          "18.560210"
+        ],
+        [
+          "59.339552",
+          "18.559946"
+        ],
+        [
+          "59.339471",
+          "18.559756"
+        ],
+        [
+          "59.339392",
+          "18.559653"
+        ],
+        [
+          "59.339295",
+          "18.559571"
+        ],
+        [
+          "59.339149",
+          "18.559493"
+        ],
+        [
+          "59.338956",
+          "18.559423"
+        ],
+        [
+          "59.338921",
+          "18.559403"
+        ],
+        [
+          "59.338919",
+          "18.559381"
+        ],
+        [
+          "59.338885",
+          "18.559417"
+        ],
+        [
+          "59.338620",
+          "18.559441"
+        ],
+        [
+          "59.338145",
+          "18.559909"
+        ],
+        [
+          "59.337775",
+          "18.559896"
+        ],
+        [
+          "59.337223",
+          "18.559761"
+        ],
+        [
+          "59.336563",
+          "18.559743"
+        ],
+        [
+          "59.335641",
+          "18.559595"
+        ],
+        [
+          "59.334871",
+          "18.559255"
+        ],
+        [
+          "59.334373",
+          "18.558608"
+        ],
+        [
+          "59.333786",
+          "18.557357"
+        ],
+        [
+          "59.333472",
+          "18.556754"
+        ],
+        [
+          "59.332629",
+          "18.555683"
+        ],
+        [
+          "59.331179",
+          "18.553591"
+        ],
+        [
+          "59.330680",
+          "18.552504"
+        ],
+        [
+          "59.330390",
+          "18.552448"
+        ],
+        [
+          "59.329961",
+          "18.552662"
+        ],
+        [
+          "59.329844",
+          "18.552106"
+        ],
+        [
+          "59.329942",
+          "18.552124"
+        ],
+        [
+          "59.329877",
+          "18.552207"
+        ],
+        [
+          "59.329867",
+          "18.552159"
+        ],
+        [
+          "59.329761",
+          "18.551861"
+        ],
+        [
+          "59.329634",
+          "18.551551"
+        ],
+        [
+          "59.329451",
+          "18.551185"
+        ],
+        [
+          "59.329260",
+          "18.550879"
+        ],
+        [
+          "59.328999",
+          "18.550554"
+        ],
+        [
+          "59.328639",
+          "18.550227"
+        ],
+        [
+          "59.327646",
+          "18.549520"
+        ],
+        [
+          "59.326736",
+          "18.548793"
+        ],
+        [
+          "59.326433",
+          "18.548551"
+        ],
+        [
+          "59.325413",
+          "18.547671"
+        ],
+        [
+          "59.324945",
+          "18.547219"
+        ],
+        [
+          "59.324710",
+          "18.546953"
+        ],
+        [
+          "59.324956",
+          "18.546186"
+        ],
+        [
+          "59.324979",
+          "18.546107"
+        ],
+        [
+          "59.325299",
+          "18.545169"
+        ],
+        [
+          "59.325577",
+          "18.544337"
+        ],
+        [
+          "59.325944",
+          "18.543228"
+        ],
+        [
+          "59.326080",
+          "18.542809"
+        ],
+        [
+          "59.326146",
+          "18.542543"
+        ],
+        [
+          "59.326189",
+          "18.542279"
+        ],
+        [
+          "59.326207",
+          "18.542170"
+        ],
+        [
+          "59.326214",
+          "18.541958"
+        ],
+        [
+          "59.326210",
+          "18.541781"
+        ],
+        [
+          "59.326209",
+          "18.541700"
+        ],
+        [
+          "59.326198",
+          "18.541485"
+        ],
+        [
+          "59.326161",
+          "18.540806"
+        ],
+        [
+          "59.326064",
+          "18.539195"
+        ],
+        [
+          "59.326005",
+          "18.538491"
+        ],
+        [
+          "59.326001",
+          "18.538456"
+        ],
+        [
+          "59.325970",
+          "18.538128"
+        ],
+        [
+          "59.325909",
+          "18.537559"
+        ],
+        [
+          "59.325876",
+          "18.537057"
+        ],
+        [
+          "59.325857",
+          "18.536569"
+        ],
+        [
+          "59.325839",
+          "18.535146"
+        ],
+        [
+          "59.325838",
+          "18.533883"
+        ],
+        [
+          "59.325830",
+          "18.533372"
+        ],
+        [
+          "59.325813",
+          "18.532975"
+        ],
+        [
+          "59.325786",
+          "18.532692"
+        ],
+        [
+          "59.325691",
+          "18.532020"
+        ],
+        [
+          "59.325661",
+          "18.531832"
+        ],
+        [
+          "59.325487",
+          "18.530727"
+        ],
+        [
+          "59.325309",
+          "18.529559"
+        ],
+        [
+          "59.325252",
+          "18.529149"
+        ],
+        [
+          "59.325191",
+          "18.528156"
+        ],
+        [
+          "59.325171",
+          "18.527454"
+        ],
+        [
+          "59.325147",
+          "18.526375"
+        ],
+        [
+          "59.325124",
+          "18.525312"
+        ],
+        [
+          "59.325120",
+          "18.524936"
+        ],
+        [
+          "59.325137",
+          "18.524685"
+        ],
+        [
+          "59.325202",
+          "18.523711"
+        ],
+        [
+          "59.325251",
+          "18.523053"
+        ],
+        [
+          "59.325258",
+          "18.522586"
+        ],
+        [
+          "59.325236",
+          "18.521988"
+        ],
+        [
+          "59.325214",
+          "18.521508"
+        ],
+        [
+          "59.325211",
+          "18.521027"
+        ],
+        [
+          "59.325225",
+          "18.520608"
+        ],
+        [
+          "59.325254",
+          "18.520316"
+        ],
+        [
+          "59.325326",
+          "18.519657"
+        ],
+        [
+          "59.325424",
+          "18.518861"
+        ],
+        [
+          "59.325503",
+          "18.518285"
+        ],
+        [
+          "59.325577",
+          "18.517818"
+        ],
+        [
+          "59.325650",
+          "18.517432"
+        ],
+        [
+          "59.325817",
+          "18.516571"
+        ],
+        [
+          "59.326001",
+          "18.515688"
+        ],
+        [
+          "59.326121",
+          "18.515093"
+        ],
+        [
+          "59.326193",
+          "18.514682"
+        ],
+        [
+          "59.326229",
+          "18.514380"
+        ],
+        [
+          "59.326301",
+          "18.513700"
+        ],
+        [
+          "59.326353",
+          "18.513116"
+        ],
+        [
+          "59.326415",
+          "18.512669"
+        ],
+        [
+          "59.326482",
+          "18.512349"
+        ],
+        [
+          "59.326564",
+          "18.511980"
+        ],
+        [
+          "59.326719",
+          "18.511420"
+        ],
+        [
+          "59.326905",
+          "18.510815"
+        ],
+        [
+          "59.327038",
+          "18.510440"
+        ],
+        [
+          "59.327071",
+          "18.510327"
+        ],
+        [
+          "59.327097",
+          "18.510347"
+        ],
+        [
+          "59.327078",
+          "18.510289"
+        ],
+        [
+          "59.327102",
+          "18.510198"
+        ],
+        [
+          "59.327147",
+          "18.509973"
+        ],
+        [
+          "59.327186",
+          "18.509714"
+        ],
+        [
+          "59.327220",
+          "18.509446"
+        ],
+        [
+          "59.327256",
+          "18.509036"
+        ],
+        [
+          "59.327292",
+          "18.508511"
+        ],
+        [
+          "59.327455",
+          "18.506599"
+        ],
+        [
+          "59.327538",
+          "18.505536"
+        ],
+        [
+          "59.327561",
+          "18.505089"
+        ],
+        [
+          "59.327559",
+          "18.505017"
+        ],
+        [
+          "59.327555",
+          "18.504857"
+        ],
+        [
+          "59.327520",
+          "18.504544"
+        ],
+        [
+          "59.327472",
+          "18.504554"
+        ],
+        [
+          "59.327414",
+          "18.504536"
+        ],
+        [
+          "59.327319",
+          "18.504470"
+        ],
+        [
+          "59.326991",
+          "18.504191"
+        ],
+        [
+          "59.326965",
+          "18.504165"
+        ],
+        [
+          "59.326804",
+          "18.503998"
+        ],
+        [
+          "59.326779",
+          "18.503960"
+        ],
+        [
+          "59.326739",
+          "18.503897"
+        ],
+        [
+          "59.326626",
+          "18.503720"
+        ],
+        [
+          "59.326584",
+          "18.503634"
+        ],
+        [
+          "59.326529",
+          "18.503497"
+        ],
+        [
+          "59.326475",
+          "18.503319"
+        ],
+        [
+          "59.326393",
+          "18.503045"
+        ],
+        [
+          "59.326351",
+          "18.502857"
+        ],
+        [
+          "59.326318",
+          "18.502716"
+        ],
+        [
+          "59.326250",
+          "18.502343"
+        ],
+        [
+          "59.326108",
+          "18.501480"
+        ],
+        [
+          "59.325913",
+          "18.500324"
+        ],
+        [
+          "59.325687",
+          "18.499008"
+        ],
+        [
+          "59.325475",
+          "18.497898"
+        ],
+        [
+          "59.325437",
+          "18.497724"
+        ],
+        [
+          "59.325287",
+          "18.497160"
+        ],
+        [
+          "59.325207",
+          "18.496918"
+        ],
+        [
+          "59.325161",
+          "18.496789"
+        ],
+        [
+          "59.325068",
+          "18.496530"
+        ],
+        [
+          "59.325008",
+          "18.496363"
+        ],
+        [
+          "59.324932",
+          "18.496175"
+        ],
+        [
+          "59.324797",
+          "18.495863"
+        ],
+        [
+          "59.324373",
+          "18.494859"
+        ],
+        [
+          "59.324148",
+          "18.494326"
+        ],
+        [
+          "59.323922",
+          "18.493756"
+        ],
+        [
+          "59.323723",
+          "18.493192"
+        ],
+        [
+          "59.323648",
+          "18.492955"
+        ],
+        [
+          "59.323573",
+          "18.492686"
+        ],
+        [
+          "59.323487",
+          "18.492324"
+        ],
+        [
+          "59.323397",
+          "18.491925"
+        ],
+        [
+          "59.323349",
+          "18.491662"
+        ],
+        [
+          "59.323265",
+          "18.491169"
+        ],
+        [
+          "59.323199",
+          "18.490675"
+        ],
+        [
+          "59.323153",
+          "18.490259"
+        ],
+        [
+          "59.323133",
+          "18.490071"
+        ],
+        [
+          "59.323097",
+          "18.489671"
+        ],
+        [
+          "59.323043",
+          "18.488993"
+        ],
+        [
+          "59.323019",
+          "18.488678"
+        ],
+        [
+          "59.323013",
+          "18.488606"
+        ],
+        [
+          "59.322983",
+          "18.488258"
+        ],
+        [
+          "59.322966",
+          "18.488048"
+        ],
+        [
+          "59.322888",
+          "18.487314"
+        ],
+        [
+          "59.322806",
+          "18.486725"
+        ],
+        [
+          "59.322696",
+          "18.486078"
+        ],
+        [
+          "59.322602",
+          "18.485572"
+        ],
+        [
+          "59.322462",
+          "18.484961"
+        ],
+        [
+          "59.322282",
+          "18.484260"
+        ],
+        [
+          "59.322124",
+          "18.483721"
+        ],
+        [
+          "59.322053",
+          "18.483501"
+        ],
+        [
+          "59.322066",
+          "18.483448"
+        ]
+      ]
+    },
+    {
+      "shape_id": "1014010000002261321",
+      "trips": [
+        {
+          "trip_id": "14010000635123511",
+          "service_id": "17",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001041738001",
+              "stop_name": "Evlinge",
+              "stop_lat": "59.345722",
+              "stop_lon": "18.559342",
+              "location_type": "0",
+              "parent_station": "9021001041738000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041735002",
+              "stop_name": "Betesv\u00e4gen",
+              "stop_lat": "59.343135",
+              "stop_lon": "18.562790",
+              "location_type": "0",
+              "parent_station": "9021001041735000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041733002",
+              "stop_name": "Hinsav\u00e4gen",
+              "stop_lat": "59.338919",
+              "stop_lon": "18.559381",
+              "location_type": "0",
+              "parent_station": "9021001041733000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041729003",
+              "stop_name": "Evlingev\u00e4gen",
+              "stop_lat": "59.329942",
+              "stop_lon": "18.552124",
+              "location_type": "0",
+              "parent_station": "9021001041729000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041555002",
+              "stop_name": "Saltar\u00f6v\u00e4gen",
+              "stop_lat": "59.324987",
+              "stop_lon": "18.546209",
+              "location_type": "0",
+              "parent_station": "9021001041555000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041553002",
+              "stop_name": "Elvsby",
+              "stop_lat": "59.326218",
+              "stop_lon": "18.541700",
+              "location_type": "0",
+              "parent_station": "9021001041553000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041551002",
+              "stop_name": "Ploglandet",
+              "stop_lat": "59.325716",
+              "stop_lon": "18.531801",
+              "location_type": "0",
+              "parent_station": "9021001041551000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001041572001",
+              "stop_name": "Nolsund",
+              "stop_lat": "59.327097",
+              "stop_lon": "18.510347",
+              "location_type": "0",
+              "parent_station": "9021001041572000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001041535002",
+              "stop_name": "Hemmesta v\u00e4gsk\u00e4l",
+              "stop_lat": "59.326411",
+              "stop_lon": "18.502897",
+              "location_type": "0",
+              "parent_station": "9021001041535000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "17",
+            "start_date": "20241115",
+            "end_date": "20250207"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.345722",
+          "18.559342"
+        ],
+        [
+          "59.345750",
+          "18.559206"
+        ],
+        [
+          "59.345636",
+          "18.559102"
+        ],
+        [
+          "59.345422",
+          "18.559387"
+        ],
+        [
+          "59.345202",
+          "18.559635"
+        ],
+        [
+          "59.345070",
+          "18.559809"
+        ],
+        [
+          "59.344918",
+          "18.560069"
+        ],
+        [
+          "59.344698",
+          "18.560541"
+        ],
+        [
+          "59.344570",
+          "18.560779"
+        ],
+        [
+          "59.344494",
+          "18.560940"
+        ],
+        [
+          "59.344441",
+          "18.561121"
+        ],
+        [
+          "59.344361",
+          "18.561516"
+        ],
+        [
+          "59.344318",
+          "18.561715"
+        ],
+        [
+          "59.344266",
+          "18.561857"
+        ],
+        [
+          "59.344200",
+          "18.561992"
+        ],
+        [
+          "59.344116",
+          "18.562090"
+        ],
+        [
+          "59.343895",
+          "18.562255"
+        ],
+        [
+          "59.343603",
+          "18.562469"
+        ],
+        [
+          "59.343313",
+          "18.562714"
+        ],
+        [
+          "59.343153",
+          "18.562866"
+        ],
+        [
+          "59.343097",
+          "18.562919"
+        ],
+        [
+          "59.342838",
+          "18.563192"
+        ],
+        [
+          "59.342708",
+          "18.563313"
+        ],
+        [
+          "59.342625",
+          "18.563363"
+        ],
+        [
+          "59.342508",
+          "18.563384"
+        ],
+        [
+          "59.342332",
+          "18.563340"
+        ],
+        [
+          "59.341803",
+          "18.563148"
+        ],
+        [
+          "59.341645",
+          "18.563066"
+        ],
+        [
+          "59.341550",
+          "18.562992"
+        ],
+        [
+          "59.341494",
+          "18.562896"
+        ],
+        [
+          "59.341417",
+          "18.562723"
+        ],
+        [
+          "59.341249",
+          "18.562210"
+        ],
+        [
+          "59.341136",
+          "18.561934"
+        ],
+        [
+          "59.341027",
+          "18.561723"
+        ],
+        [
+          "59.340939",
+          "18.561581"
+        ],
+        [
+          "59.340855",
+          "18.561498"
+        ],
+        [
+          "59.340688",
+          "18.561412"
+        ],
+        [
+          "59.340630",
+          "18.561406"
+        ],
+        [
+          "59.340472",
+          "18.561412"
+        ],
+        [
+          "59.340351",
+          "18.561397"
+        ],
+        [
+          "59.340253",
+          "18.561372"
+        ],
+        [
+          "59.340149",
+          "18.561287"
+        ],
+        [
+          "59.340028",
+          "18.561160"
+        ],
+        [
+          "59.339930",
+          "18.560993"
+        ],
+        [
+          "59.339843",
+          "18.560787"
+        ],
+        [
+          "59.339755",
+          "18.560505"
+        ],
+        [
+          "59.339653",
+          "18.560210"
+        ],
+        [
+          "59.339552",
+          "18.559946"
+        ],
+        [
+          "59.339471",
+          "18.559756"
+        ],
+        [
+          "59.339392",
+          "18.559653"
+        ],
+        [
+          "59.339295",
+          "18.559571"
+        ],
+        [
+          "59.339149",
+          "18.559493"
+        ],
+        [
+          "59.338956",
+          "18.559423"
+        ],
+        [
+          "59.338921",
+          "18.559403"
+        ],
+        [
+          "59.338919",
+          "18.559381"
+        ],
+        [
+          "59.338885",
+          "18.559417"
+        ],
+        [
+          "59.338620",
+          "18.559441"
+        ],
+        [
+          "59.338145",
+          "18.559909"
+        ],
+        [
+          "59.337775",
+          "18.559896"
+        ],
+        [
+          "59.337223",
+          "18.559761"
+        ],
+        [
+          "59.336563",
+          "18.559743"
+        ],
+        [
+          "59.335641",
+          "18.559595"
+        ],
+        [
+          "59.334871",
+          "18.559255"
+        ],
+        [
+          "59.334373",
+          "18.558608"
+        ],
+        [
+          "59.333786",
+          "18.557357"
+        ],
+        [
+          "59.333472",
+          "18.556754"
+        ],
+        [
+          "59.332629",
+          "18.555683"
+        ],
+        [
+          "59.331179",
+          "18.553591"
+        ],
+        [
+          "59.330680",
+          "18.552504"
+        ],
+        [
+          "59.330390",
+          "18.552448"
+        ],
+        [
+          "59.329961",
+          "18.552662"
+        ],
+        [
+          "59.329844",
+          "18.552106"
+        ],
+        [
+          "59.329942",
+          "18.552124"
+        ],
+        [
+          "59.329877",
+          "18.552207"
+        ],
+        [
+          "59.329867",
+          "18.552159"
+        ],
+        [
+          "59.329761",
+          "18.551861"
+        ],
+        [
+          "59.329634",
+          "18.551551"
+        ],
+        [
+          "59.329451",
+          "18.551185"
+        ],
+        [
+          "59.329260",
+          "18.550879"
+        ],
+        [
+          "59.328999",
+          "18.550554"
+        ],
+        [
+          "59.328639",
+          "18.550227"
+        ],
+        [
+          "59.327646",
+          "18.549520"
+        ],
+        [
+          "59.326736",
+          "18.548793"
+        ],
+        [
+          "59.326433",
+          "18.548551"
+        ],
+        [
+          "59.325413",
+          "18.547671"
+        ],
+        [
+          "59.324945",
+          "18.547219"
+        ],
+        [
+          "59.324710",
+          "18.546953"
+        ],
+        [
+          "59.324956",
+          "18.546186"
+        ],
+        [
+          "59.324979",
+          "18.546107"
+        ],
+        [
+          "59.325299",
+          "18.545169"
+        ],
+        [
+          "59.325577",
+          "18.544337"
+        ],
+        [
+          "59.325944",
+          "18.543228"
+        ],
+        [
+          "59.326080",
+          "18.542809"
+        ],
+        [
+          "59.326146",
+          "18.542543"
+        ],
+        [
+          "59.326189",
+          "18.542279"
+        ],
+        [
+          "59.326207",
+          "18.542170"
+        ],
+        [
+          "59.326214",
+          "18.541958"
+        ],
+        [
+          "59.326210",
+          "18.541781"
+        ],
+        [
+          "59.326209",
+          "18.541700"
+        ],
+        [
+          "59.326198",
+          "18.541485"
+        ],
+        [
+          "59.326161",
+          "18.540806"
+        ],
+        [
+          "59.326064",
+          "18.539195"
+        ],
+        [
+          "59.326005",
+          "18.538491"
+        ],
+        [
+          "59.326001",
+          "18.538456"
+        ],
+        [
+          "59.325970",
+          "18.538128"
+        ],
+        [
+          "59.325909",
+          "18.537559"
+        ],
+        [
+          "59.325876",
+          "18.537057"
+        ],
+        [
+          "59.325857",
+          "18.536569"
+        ],
+        [
+          "59.325839",
+          "18.535146"
+        ],
+        [
+          "59.325838",
+          "18.533883"
+        ],
+        [
+          "59.325830",
+          "18.533372"
+        ],
+        [
+          "59.325813",
+          "18.532975"
+        ],
+        [
+          "59.325786",
+          "18.532692"
+        ],
+        [
+          "59.325691",
+          "18.532020"
+        ],
+        [
+          "59.325661",
+          "18.531832"
+        ],
+        [
+          "59.325487",
+          "18.530727"
+        ],
+        [
+          "59.325309",
+          "18.529559"
+        ],
+        [
+          "59.325252",
+          "18.529149"
+        ],
+        [
+          "59.325191",
+          "18.528156"
+        ],
+        [
+          "59.325171",
+          "18.527454"
+        ],
+        [
+          "59.325147",
+          "18.526375"
+        ],
+        [
+          "59.325124",
+          "18.525312"
+        ],
+        [
+          "59.325120",
+          "18.524936"
+        ],
+        [
+          "59.325137",
+          "18.524685"
+        ],
+        [
+          "59.325202",
+          "18.523711"
+        ],
+        [
+          "59.325251",
+          "18.523053"
+        ],
+        [
+          "59.325258",
+          "18.522586"
+        ],
+        [
+          "59.325236",
+          "18.521988"
+        ],
+        [
+          "59.325214",
+          "18.521508"
+        ],
+        [
+          "59.325211",
+          "18.521027"
+        ],
+        [
+          "59.325225",
+          "18.520608"
+        ],
+        [
+          "59.325254",
+          "18.520316"
+        ],
+        [
+          "59.325326",
+          "18.519657"
+        ],
+        [
+          "59.325424",
+          "18.518861"
+        ],
+        [
+          "59.325503",
+          "18.518285"
+        ],
+        [
+          "59.325577",
+          "18.517818"
+        ],
+        [
+          "59.325650",
+          "18.517432"
+        ],
+        [
+          "59.325817",
+          "18.516571"
+        ],
+        [
+          "59.326001",
+          "18.515688"
+        ],
+        [
+          "59.326121",
+          "18.515093"
+        ],
+        [
+          "59.326193",
+          "18.514682"
+        ],
+        [
+          "59.326229",
+          "18.514380"
+        ],
+        [
+          "59.326301",
+          "18.513700"
+        ],
+        [
+          "59.326353",
+          "18.513116"
+        ],
+        [
+          "59.326415",
+          "18.512669"
+        ],
+        [
+          "59.326482",
+          "18.512349"
+        ],
+        [
+          "59.326564",
+          "18.511980"
+        ],
+        [
+          "59.326719",
+          "18.511420"
+        ],
+        [
+          "59.326905",
+          "18.510815"
+        ],
+        [
+          "59.327038",
+          "18.510440"
+        ],
+        [
+          "59.327071",
+          "18.510327"
+        ],
+        [
+          "59.327097",
+          "18.510347"
+        ],
+        [
+          "59.327078",
+          "18.510289"
+        ],
+        [
+          "59.327102",
+          "18.510198"
+        ],
+        [
+          "59.327147",
+          "18.509973"
+        ],
+        [
+          "59.327186",
+          "18.509714"
+        ],
+        [
+          "59.327220",
+          "18.509446"
+        ],
+        [
+          "59.327256",
+          "18.509036"
+        ],
+        [
+          "59.327292",
+          "18.508511"
+        ],
+        [
+          "59.327455",
+          "18.506599"
+        ],
+        [
+          "59.327538",
+          "18.505536"
+        ],
+        [
+          "59.327561",
+          "18.505089"
+        ],
+        [
+          "59.327559",
+          "18.505017"
+        ],
+        [
+          "59.327555",
+          "18.504857"
+        ],
+        [
+          "59.327520",
+          "18.504544"
+        ],
+        [
+          "59.327472",
+          "18.504554"
+        ],
+        [
+          "59.327414",
+          "18.504536"
+        ],
+        [
+          "59.327319",
+          "18.504470"
+        ],
+        [
+          "59.326991",
+          "18.504191"
+        ],
+        [
+          "59.326965",
+          "18.504165"
+        ],
+        [
+          "59.326804",
+          "18.503998"
+        ],
+        [
+          "59.326779",
+          "18.503960"
+        ],
+        [
+          "59.326739",
+          "18.503897"
+        ],
+        [
+          "59.326626",
+          "18.503720"
+        ],
+        [
+          "59.326584",
+          "18.503634"
+        ],
+        [
+          "59.326529",
+          "18.503497"
+        ],
+        [
+          "59.326475",
+          "18.503319"
+        ],
+        [
+          "59.326393",
+          "18.503045"
+        ],
+        [
+          "59.326351",
+          "18.502857"
+        ],
+        [
+          "59.326411",
+          "18.502897"
+        ]
+      ]
+    }
+  ]
+}

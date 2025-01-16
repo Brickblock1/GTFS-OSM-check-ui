@@ -1,0 +1,7586 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011002099500000",
+  "agency_id": "14010000000001917",
+  "route_short_name": "UL805",
+  "route_long_name": "",
+  "route_type": "700",
+  "route_desc": "",
+  "shapes": [
+    {
+      "shape_id": "1014010000052503723",
+      "trips": [
+        {
+          "trip_id": "14010000472113098",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001068508001",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021529",
+              "stop_lon": "18.402661",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502001",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038667",
+              "stop_lon": "18.492777",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500001",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036460",
+              "stop_lon": "18.509400",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121001",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.041632",
+              "stop_lon": "18.557140",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123001",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048763",
+              "stop_lon": "18.578138",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125001",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049801",
+              "stop_lon": "18.589769",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001060090004",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050848",
+              "stop_lon": "18.594046",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000472113199",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001068508001",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021529",
+              "stop_lon": "18.402661",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502001",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038667",
+              "stop_lon": "18.492777",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500001",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036460",
+              "stop_lon": "18.509400",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121001",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.041632",
+              "stop_lon": "18.557140",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123001",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048763",
+              "stop_lon": "18.578138",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125001",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049801",
+              "stop_lon": "18.589769",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001060090004",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050848",
+              "stop_lon": "18.594046",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000472113112",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001068508001",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021529",
+              "stop_lon": "18.402661",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502001",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038667",
+              "stop_lon": "18.492777",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500001",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036460",
+              "stop_lon": "18.509400",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121001",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.041632",
+              "stop_lon": "18.557140",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123001",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048763",
+              "stop_lon": "18.578138",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125001",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049801",
+              "stop_lon": "18.589769",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001060090004",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050848",
+              "stop_lon": "18.594046",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000472113170",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001068508001",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021529",
+              "stop_lon": "18.402661",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502001",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038667",
+              "stop_lon": "18.492777",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500001",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036460",
+              "stop_lon": "18.509400",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121001",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.041632",
+              "stop_lon": "18.557140",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123001",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048763",
+              "stop_lon": "18.578138",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125001",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049801",
+              "stop_lon": "18.589769",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001060090004",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050848",
+              "stop_lon": "18.594046",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000472113185",
+          "service_id": "27",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001068508001",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021529",
+              "stop_lon": "18.402661",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502001",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038667",
+              "stop_lon": "18.492777",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500001",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036460",
+              "stop_lon": "18.509400",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121001",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.041632",
+              "stop_lon": "18.557140",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123001",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048763",
+              "stop_lon": "18.578138",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125001",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049801",
+              "stop_lon": "18.589769",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001060090004",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050848",
+              "stop_lon": "18.594046",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "27",
+            "start_date": "20241116",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "14010000472113126",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001068508001",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021529",
+              "stop_lon": "18.402661",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502001",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038667",
+              "stop_lon": "18.492777",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500001",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036460",
+              "stop_lon": "18.509400",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121001",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.041632",
+              "stop_lon": "18.557140",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123001",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048763",
+              "stop_lon": "18.578138",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125001",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049801",
+              "stop_lon": "18.589769",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001060090004",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050848",
+              "stop_lon": "18.594046",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000472113214",
+          "service_id": "27",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001068508001",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021529",
+              "stop_lon": "18.402661",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502001",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038667",
+              "stop_lon": "18.492777",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500001",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036460",
+              "stop_lon": "18.509400",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121001",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.041632",
+              "stop_lon": "18.557140",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123001",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048763",
+              "stop_lon": "18.578138",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125001",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049801",
+              "stop_lon": "18.589769",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001060090004",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050848",
+              "stop_lon": "18.594046",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "27",
+            "start_date": "20241116",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "14010000532074922",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001068508001",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021529",
+              "stop_lon": "18.402661",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502001",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038667",
+              "stop_lon": "18.492777",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500001",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036460",
+              "stop_lon": "18.509400",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121001",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.041632",
+              "stop_lon": "18.557140",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123001",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048763",
+              "stop_lon": "18.578138",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125001",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049801",
+              "stop_lon": "18.589769",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001060090004",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050848",
+              "stop_lon": "18.594046",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000532074941",
+          "service_id": "27",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001068508001",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021529",
+              "stop_lon": "18.402661",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502001",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038667",
+              "stop_lon": "18.492777",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500001",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036460",
+              "stop_lon": "18.509400",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121001",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.041632",
+              "stop_lon": "18.557140",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123001",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048763",
+              "stop_lon": "18.578138",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125001",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049801",
+              "stop_lon": "18.589769",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001060090004",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050848",
+              "stop_lon": "18.594046",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "27",
+            "start_date": "20241116",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "14010000532074958",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001068508001",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021529",
+              "stop_lon": "18.402661",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502001",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038667",
+              "stop_lon": "18.492777",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500001",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036460",
+              "stop_lon": "18.509400",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121001",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.041632",
+              "stop_lon": "18.557140",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123001",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048763",
+              "stop_lon": "18.578138",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125001",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049801",
+              "stop_lon": "18.589769",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001060090004",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050848",
+              "stop_lon": "18.594046",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000582101940",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001068508001",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021529",
+              "stop_lon": "18.402661",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502001",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038667",
+              "stop_lon": "18.492777",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500001",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036460",
+              "stop_lon": "18.509400",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121001",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.041632",
+              "stop_lon": "18.557140",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123001",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048763",
+              "stop_lon": "18.578138",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125001",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049801",
+              "stop_lon": "18.589769",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001060090004",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050848",
+              "stop_lon": "18.594046",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        }
+      ],
+      "points": [
+        [
+          "60.021529",
+          "18.402661"
+        ],
+        [
+          "60.021527",
+          "18.402650"
+        ],
+        [
+          "60.021649",
+          "18.403091"
+        ],
+        [
+          "60.021665",
+          "18.403140"
+        ],
+        [
+          "60.021852",
+          "18.403695"
+        ],
+        [
+          "60.022076",
+          "18.404328"
+        ],
+        [
+          "60.022324",
+          "18.404954"
+        ],
+        [
+          "60.022740",
+          "18.405914"
+        ],
+        [
+          "60.023344",
+          "18.407272"
+        ],
+        [
+          "60.023873",
+          "18.408460"
+        ],
+        [
+          "60.023884",
+          "18.408485"
+        ],
+        [
+          "60.023910",
+          "18.408543"
+        ],
+        [
+          "60.025167",
+          "18.411392"
+        ],
+        [
+          "60.025806",
+          "18.412806"
+        ],
+        [
+          "60.025920",
+          "18.413062"
+        ],
+        [
+          "60.026676",
+          "18.414769"
+        ],
+        [
+          "60.026890",
+          "18.415248"
+        ],
+        [
+          "60.026947",
+          "18.415376"
+        ],
+        [
+          "60.027116",
+          "18.415752"
+        ],
+        [
+          "60.027262",
+          "18.416079"
+        ],
+        [
+          "60.027335",
+          "18.416243"
+        ],
+        [
+          "60.028255",
+          "18.418321"
+        ],
+        [
+          "60.028552",
+          "18.419004"
+        ],
+        [
+          "60.028731",
+          "18.419432"
+        ],
+        [
+          "60.028853",
+          "18.419750"
+        ],
+        [
+          "60.028954",
+          "18.420056"
+        ],
+        [
+          "60.029123",
+          "18.420604"
+        ],
+        [
+          "60.029261",
+          "18.421141"
+        ],
+        [
+          "60.029342",
+          "18.421489"
+        ],
+        [
+          "60.029405",
+          "18.421815"
+        ],
+        [
+          "60.029439",
+          "18.421989"
+        ],
+        [
+          "60.029510",
+          "18.422430"
+        ],
+        [
+          "60.029560",
+          "18.422784"
+        ],
+        [
+          "60.029590",
+          "18.423067"
+        ],
+        [
+          "60.029641",
+          "18.423533"
+        ],
+        [
+          "60.029669",
+          "18.423874"
+        ],
+        [
+          "60.029692",
+          "18.424341"
+        ],
+        [
+          "60.029699",
+          "18.424660"
+        ],
+        [
+          "60.029705",
+          "18.425221"
+        ],
+        [
+          "60.029661",
+          "18.427831"
+        ],
+        [
+          "60.029621",
+          "18.430436"
+        ],
+        [
+          "60.029619",
+          "18.431006"
+        ],
+        [
+          "60.029626",
+          "18.431456"
+        ],
+        [
+          "60.029637",
+          "18.431869"
+        ],
+        [
+          "60.029673",
+          "18.432584"
+        ],
+        [
+          "60.029712",
+          "18.433016"
+        ],
+        [
+          "60.029735",
+          "18.433208"
+        ],
+        [
+          "60.029805",
+          "18.433824"
+        ],
+        [
+          "60.029862",
+          "18.434208"
+        ],
+        [
+          "60.029942",
+          "18.434706"
+        ],
+        [
+          "60.030007",
+          "18.435068"
+        ],
+        [
+          "60.030084",
+          "18.435443"
+        ],
+        [
+          "60.030194",
+          "18.435874"
+        ],
+        [
+          "60.030272",
+          "18.436156"
+        ],
+        [
+          "60.030383",
+          "18.436533"
+        ],
+        [
+          "60.030516",
+          "18.436959"
+        ],
+        [
+          "60.030968",
+          "18.438272"
+        ],
+        [
+          "60.031015",
+          "18.438404"
+        ],
+        [
+          "60.031084",
+          "18.438598"
+        ],
+        [
+          "60.031378",
+          "18.439459"
+        ],
+        [
+          "60.031623",
+          "18.440178"
+        ],
+        [
+          "60.032044",
+          "18.441395"
+        ],
+        [
+          "60.032560",
+          "18.442869"
+        ],
+        [
+          "60.032693",
+          "18.443283"
+        ],
+        [
+          "60.032793",
+          "18.443579"
+        ],
+        [
+          "60.033040",
+          "18.444393"
+        ],
+        [
+          "60.033229",
+          "18.445156"
+        ],
+        [
+          "60.033475",
+          "18.446287"
+        ],
+        [
+          "60.033671",
+          "18.447322"
+        ],
+        [
+          "60.033764",
+          "18.447898"
+        ],
+        [
+          "60.033865",
+          "18.448506"
+        ],
+        [
+          "60.034006",
+          "18.449716"
+        ],
+        [
+          "60.034088",
+          "18.450796"
+        ],
+        [
+          "60.034126",
+          "18.451507"
+        ],
+        [
+          "60.034150",
+          "18.452280"
+        ],
+        [
+          "60.034161",
+          "18.452984"
+        ],
+        [
+          "60.034160",
+          "18.453702"
+        ],
+        [
+          "60.034138",
+          "18.454392"
+        ],
+        [
+          "60.034115",
+          "18.455064"
+        ],
+        [
+          "60.034102",
+          "18.455250"
+        ],
+        [
+          "60.034008",
+          "18.456251"
+        ],
+        [
+          "60.033900",
+          "18.457547"
+        ],
+        [
+          "60.033845",
+          "18.458370"
+        ],
+        [
+          "60.033840",
+          "18.458430"
+        ],
+        [
+          "60.033805",
+          "18.458981"
+        ],
+        [
+          "60.033793",
+          "18.459476"
+        ],
+        [
+          "60.033770",
+          "18.460733"
+        ],
+        [
+          "60.033778",
+          "18.461995"
+        ],
+        [
+          "60.033779",
+          "18.462106"
+        ],
+        [
+          "60.033796",
+          "18.463200"
+        ],
+        [
+          "60.033793",
+          "18.464457"
+        ],
+        [
+          "60.033801",
+          "18.465435"
+        ],
+        [
+          "60.033797",
+          "18.466346"
+        ],
+        [
+          "60.033798",
+          "18.467158"
+        ],
+        [
+          "60.033808",
+          "18.468049"
+        ],
+        [
+          "60.033804",
+          "18.468694"
+        ],
+        [
+          "60.033806",
+          "18.469394"
+        ],
+        [
+          "60.033809",
+          "18.470021"
+        ],
+        [
+          "60.033823",
+          "18.470392"
+        ],
+        [
+          "60.033845",
+          "18.470810"
+        ],
+        [
+          "60.033867",
+          "18.471192"
+        ],
+        [
+          "60.033947",
+          "18.471950"
+        ],
+        [
+          "60.034043",
+          "18.472553"
+        ],
+        [
+          "60.034258",
+          "18.473605"
+        ],
+        [
+          "60.034733",
+          "18.475479"
+        ],
+        [
+          "60.035132",
+          "18.477102"
+        ],
+        [
+          "60.035738",
+          "18.479632"
+        ],
+        [
+          "60.036070",
+          "18.481016"
+        ],
+        [
+          "60.036090",
+          "18.481101"
+        ],
+        [
+          "60.036255",
+          "18.481815"
+        ],
+        [
+          "60.036449",
+          "18.482613"
+        ],
+        [
+          "60.036550",
+          "18.483038"
+        ],
+        [
+          "60.036762",
+          "18.483911"
+        ],
+        [
+          "60.036987",
+          "18.484835"
+        ],
+        [
+          "60.037015",
+          "18.484948"
+        ],
+        [
+          "60.037109",
+          "18.485335"
+        ],
+        [
+          "60.037359",
+          "18.486371"
+        ],
+        [
+          "60.037648",
+          "18.487577"
+        ],
+        [
+          "60.037899",
+          "18.488623"
+        ],
+        [
+          "60.038096",
+          "18.489422"
+        ],
+        [
+          "60.038351",
+          "18.490472"
+        ],
+        [
+          "60.038528",
+          "18.491206"
+        ],
+        [
+          "60.038677",
+          "18.491852"
+        ],
+        [
+          "60.038779",
+          "18.492349"
+        ],
+        [
+          "60.038831",
+          "18.492673"
+        ],
+        [
+          "60.038929",
+          "18.493287"
+        ],
+        [
+          "60.038946",
+          "18.493440"
+        ],
+        [
+          "60.038970",
+          "18.493861"
+        ],
+        [
+          "60.038979",
+          "18.494391"
+        ],
+        [
+          "60.038960",
+          "18.495061"
+        ],
+        [
+          "60.038901",
+          "18.495702"
+        ],
+        [
+          "60.038823",
+          "18.496198"
+        ],
+        [
+          "60.038671",
+          "18.496925"
+        ],
+        [
+          "60.038561",
+          "18.497443"
+        ],
+        [
+          "60.038188",
+          "18.499108"
+        ],
+        [
+          "60.037897",
+          "18.500411"
+        ],
+        [
+          "60.037742",
+          "18.501108"
+        ],
+        [
+          "60.037515",
+          "18.502142"
+        ],
+        [
+          "60.037463",
+          "18.502369"
+        ],
+        [
+          "60.037410",
+          "18.502515"
+        ],
+        [
+          "60.037360",
+          "18.502743"
+        ],
+        [
+          "60.037309",
+          "18.502995"
+        ],
+        [
+          "60.037263",
+          "18.503215"
+        ],
+        [
+          "60.037213",
+          "18.503434"
+        ],
+        [
+          "60.037154",
+          "18.503703"
+        ],
+        [
+          "60.037099",
+          "18.503939"
+        ],
+        [
+          "60.037049",
+          "18.504174"
+        ],
+        [
+          "60.036994",
+          "18.504418"
+        ],
+        [
+          "60.036948",
+          "18.504638"
+        ],
+        [
+          "60.036900",
+          "18.504885"
+        ],
+        [
+          "60.036851",
+          "18.505124"
+        ],
+        [
+          "60.036807",
+          "18.505366"
+        ],
+        [
+          "60.036768",
+          "18.505612"
+        ],
+        [
+          "60.036733",
+          "18.505863"
+        ],
+        [
+          "60.036701",
+          "18.506120"
+        ],
+        [
+          "60.036672",
+          "18.506378"
+        ],
+        [
+          "60.036645",
+          "18.506633"
+        ],
+        [
+          "60.036620",
+          "18.506887"
+        ],
+        [
+          "60.036600",
+          "18.507139"
+        ],
+        [
+          "60.036583",
+          "18.507392"
+        ],
+        [
+          "60.036570",
+          "18.507647"
+        ],
+        [
+          "60.036559",
+          "18.507903"
+        ],
+        [
+          "60.036550",
+          "18.508161"
+        ],
+        [
+          "60.036544",
+          "18.508421"
+        ],
+        [
+          "60.036541",
+          "18.508681"
+        ],
+        [
+          "60.036541",
+          "18.508941"
+        ],
+        [
+          "60.036545",
+          "18.509200"
+        ],
+        [
+          "60.036551",
+          "18.509403"
+        ],
+        [
+          "60.036552",
+          "18.509459"
+        ],
+        [
+          "60.036554",
+          "18.509532"
+        ],
+        [
+          "60.036570",
+          "18.509908"
+        ],
+        [
+          "60.036599",
+          "18.510294"
+        ],
+        [
+          "60.036626",
+          "18.510617"
+        ],
+        [
+          "60.036667",
+          "18.511016"
+        ],
+        [
+          "60.036704",
+          "18.511328"
+        ],
+        [
+          "60.036779",
+          "18.511868"
+        ],
+        [
+          "60.036946",
+          "18.512915"
+        ],
+        [
+          "60.037244",
+          "18.514715"
+        ],
+        [
+          "60.037506",
+          "18.516347"
+        ],
+        [
+          "60.037842",
+          "18.518419"
+        ],
+        [
+          "60.038064",
+          "18.519779"
+        ],
+        [
+          "60.038281",
+          "18.521113"
+        ],
+        [
+          "60.038596",
+          "18.523027"
+        ],
+        [
+          "60.038754",
+          "18.524032"
+        ],
+        [
+          "60.038898",
+          "18.524996"
+        ],
+        [
+          "60.039104",
+          "18.526238"
+        ],
+        [
+          "60.039299",
+          "18.527455"
+        ],
+        [
+          "60.039585",
+          "18.529274"
+        ],
+        [
+          "60.039832",
+          "18.530805"
+        ],
+        [
+          "60.040092",
+          "18.532468"
+        ],
+        [
+          "60.040301",
+          "18.533803"
+        ],
+        [
+          "60.040655",
+          "18.536001"
+        ],
+        [
+          "60.041124",
+          "18.539027"
+        ],
+        [
+          "60.041385",
+          "18.540634"
+        ],
+        [
+          "60.041677",
+          "18.542509"
+        ],
+        [
+          "60.041731",
+          "18.542851"
+        ],
+        [
+          "60.041792",
+          "18.543096"
+        ],
+        [
+          "60.041853",
+          "18.543244"
+        ],
+        [
+          "60.041936",
+          "18.543387"
+        ],
+        [
+          "60.042042",
+          "18.543533"
+        ],
+        [
+          "60.042106",
+          "18.543608"
+        ],
+        [
+          "60.042017",
+          "18.544081"
+        ],
+        [
+          "60.041944",
+          "18.544633"
+        ],
+        [
+          "60.041942",
+          "18.544647"
+        ],
+        [
+          "60.041902",
+          "18.545005"
+        ],
+        [
+          "60.041864",
+          "18.545352"
+        ],
+        [
+          "60.041862",
+          "18.545373"
+        ],
+        [
+          "60.041758",
+          "18.546419"
+        ],
+        [
+          "60.041631",
+          "18.547725"
+        ],
+        [
+          "60.041466",
+          "18.549384"
+        ],
+        [
+          "60.041376",
+          "18.550276"
+        ],
+        [
+          "60.041281",
+          "18.551209"
+        ],
+        [
+          "60.041163",
+          "18.552350"
+        ],
+        [
+          "60.041045",
+          "18.553304"
+        ],
+        [
+          "60.040973",
+          "18.553943"
+        ],
+        [
+          "60.040909",
+          "18.554312"
+        ],
+        [
+          "60.040820",
+          "18.554777"
+        ],
+        [
+          "60.040754",
+          "18.555068"
+        ],
+        [
+          "60.040679",
+          "18.555324"
+        ],
+        [
+          "60.040854",
+          "18.555588"
+        ],
+        [
+          "60.040992",
+          "18.555831"
+        ],
+        [
+          "60.041670",
+          "18.557046"
+        ],
+        [
+          "60.041632",
+          "18.557140"
+        ],
+        [
+          "60.041664",
+          "18.557044"
+        ],
+        [
+          "60.041670",
+          "18.557046"
+        ],
+        [
+          "60.041885",
+          "18.557427"
+        ],
+        [
+          "60.042457",
+          "18.558445"
+        ],
+        [
+          "60.043000",
+          "18.559407"
+        ],
+        [
+          "60.043407",
+          "18.560122"
+        ],
+        [
+          "60.043920",
+          "18.561012"
+        ],
+        [
+          "60.044413",
+          "18.561890"
+        ],
+        [
+          "60.045034",
+          "18.562998"
+        ],
+        [
+          "60.045425",
+          "18.563689"
+        ],
+        [
+          "60.045604",
+          "18.564011"
+        ],
+        [
+          "60.045799",
+          "18.564398"
+        ],
+        [
+          "60.045890",
+          "18.564576"
+        ],
+        [
+          "60.046086",
+          "18.564974"
+        ],
+        [
+          "60.046276",
+          "18.565389"
+        ],
+        [
+          "60.046465",
+          "18.565821"
+        ],
+        [
+          "60.046633",
+          "18.566245"
+        ],
+        [
+          "60.046844",
+          "18.566813"
+        ],
+        [
+          "60.047037",
+          "18.567370"
+        ],
+        [
+          "60.047234",
+          "18.567981"
+        ],
+        [
+          "60.047469",
+          "18.568807"
+        ],
+        [
+          "60.047649",
+          "18.569479"
+        ],
+        [
+          "60.047913",
+          "18.570651"
+        ],
+        [
+          "60.048008",
+          "18.571120"
+        ],
+        [
+          "60.048116",
+          "18.571693"
+        ],
+        [
+          "60.048199",
+          "18.572211"
+        ],
+        [
+          "60.048322",
+          "18.573003"
+        ],
+        [
+          "60.048355",
+          "18.573283"
+        ],
+        [
+          "60.048366",
+          "18.573375"
+        ],
+        [
+          "60.048391",
+          "18.573581"
+        ],
+        [
+          "60.048477",
+          "18.574370"
+        ],
+        [
+          "60.048560",
+          "18.575281"
+        ],
+        [
+          "60.048592",
+          "18.575568"
+        ],
+        [
+          "60.048611",
+          "18.575783"
+        ],
+        [
+          "60.048631",
+          "18.575991"
+        ],
+        [
+          "60.048649",
+          "18.576196"
+        ],
+        [
+          "60.048650",
+          "18.576321"
+        ],
+        [
+          "60.048651",
+          "18.576333"
+        ],
+        [
+          "60.048686",
+          "18.576725"
+        ],
+        [
+          "60.048738",
+          "18.577304"
+        ],
+        [
+          "60.048812",
+          "18.578129"
+        ],
+        [
+          "60.048886",
+          "18.578908"
+        ],
+        [
+          "60.049087",
+          "18.581162"
+        ],
+        [
+          "60.049328",
+          "18.583869"
+        ],
+        [
+          "60.049551",
+          "18.586399"
+        ],
+        [
+          "60.049633",
+          "18.587397"
+        ],
+        [
+          "60.049653",
+          "18.587610"
+        ],
+        [
+          "60.049771",
+          "18.588810"
+        ],
+        [
+          "60.049852",
+          "18.589746"
+        ],
+        [
+          "60.049801",
+          "18.589769"
+        ],
+        [
+          "60.049851",
+          "18.589752"
+        ],
+        [
+          "60.049906",
+          "18.590392"
+        ],
+        [
+          "60.050111",
+          "18.592619"
+        ],
+        [
+          "60.050256",
+          "18.594219"
+        ],
+        [
+          "60.050273",
+          "18.594402"
+        ],
+        [
+          "60.050329",
+          "18.595015"
+        ],
+        [
+          "60.050373",
+          "18.594995"
+        ],
+        [
+          "60.050470",
+          "18.594950"
+        ],
+        [
+          "60.050580",
+          "18.594900"
+        ],
+        [
+          "60.050728",
+          "18.594819"
+        ],
+        [
+          "60.051101",
+          "18.594619"
+        ],
+        [
+          "60.051249",
+          "18.594533"
+        ],
+        [
+          "60.051227",
+          "18.594334"
+        ],
+        [
+          "60.051225",
+          "18.594317"
+        ],
+        [
+          "60.051208",
+          "18.594197"
+        ],
+        [
+          "60.051172",
+          "18.594119"
+        ],
+        [
+          "60.051135",
+          "18.594078"
+        ],
+        [
+          "60.051064",
+          "18.594055"
+        ],
+        [
+          "60.050975",
+          "18.594065"
+        ],
+        [
+          "60.050850",
+          "18.594089"
+        ],
+        [
+          "60.050848",
+          "18.594046"
+        ]
+      ]
+    },
+    {
+      "shape_id": "1014010000472113022",
+      "trips": [
+        {
+          "trip_id": "14010000556234673",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001068508001",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021529",
+              "stop_lon": "18.402661",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502001",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038667",
+              "stop_lon": "18.492777",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500001",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036460",
+              "stop_lon": "18.509400",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121001",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.041632",
+              "stop_lon": "18.557140",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123001",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048763",
+              "stop_lon": "18.578138",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125001",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049801",
+              "stop_lon": "18.589769",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064205001",
+              "stop_name": "Hallsta pappersbruk",
+              "stop_lat": "60.059847",
+              "stop_lon": "18.596765",
+              "location_type": "0",
+              "parent_station": "9021001064205000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001060090004",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050848",
+              "stop_lon": "18.594046",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        }
+      ],
+      "points": [
+        [
+          "60.021529",
+          "18.402661"
+        ],
+        [
+          "60.021527",
+          "18.402650"
+        ],
+        [
+          "60.021649",
+          "18.403091"
+        ],
+        [
+          "60.021665",
+          "18.403140"
+        ],
+        [
+          "60.021852",
+          "18.403695"
+        ],
+        [
+          "60.022076",
+          "18.404328"
+        ],
+        [
+          "60.022324",
+          "18.404954"
+        ],
+        [
+          "60.022740",
+          "18.405914"
+        ],
+        [
+          "60.023344",
+          "18.407272"
+        ],
+        [
+          "60.023873",
+          "18.408460"
+        ],
+        [
+          "60.023884",
+          "18.408485"
+        ],
+        [
+          "60.023910",
+          "18.408543"
+        ],
+        [
+          "60.025167",
+          "18.411392"
+        ],
+        [
+          "60.025806",
+          "18.412806"
+        ],
+        [
+          "60.025920",
+          "18.413062"
+        ],
+        [
+          "60.026676",
+          "18.414769"
+        ],
+        [
+          "60.026890",
+          "18.415248"
+        ],
+        [
+          "60.026947",
+          "18.415376"
+        ],
+        [
+          "60.027116",
+          "18.415752"
+        ],
+        [
+          "60.027262",
+          "18.416079"
+        ],
+        [
+          "60.027335",
+          "18.416243"
+        ],
+        [
+          "60.028255",
+          "18.418321"
+        ],
+        [
+          "60.028552",
+          "18.419004"
+        ],
+        [
+          "60.028731",
+          "18.419432"
+        ],
+        [
+          "60.028853",
+          "18.419750"
+        ],
+        [
+          "60.028954",
+          "18.420056"
+        ],
+        [
+          "60.029123",
+          "18.420604"
+        ],
+        [
+          "60.029261",
+          "18.421141"
+        ],
+        [
+          "60.029342",
+          "18.421489"
+        ],
+        [
+          "60.029405",
+          "18.421815"
+        ],
+        [
+          "60.029439",
+          "18.421989"
+        ],
+        [
+          "60.029510",
+          "18.422430"
+        ],
+        [
+          "60.029560",
+          "18.422784"
+        ],
+        [
+          "60.029590",
+          "18.423067"
+        ],
+        [
+          "60.029641",
+          "18.423533"
+        ],
+        [
+          "60.029669",
+          "18.423874"
+        ],
+        [
+          "60.029692",
+          "18.424341"
+        ],
+        [
+          "60.029699",
+          "18.424660"
+        ],
+        [
+          "60.029705",
+          "18.425221"
+        ],
+        [
+          "60.029661",
+          "18.427831"
+        ],
+        [
+          "60.029621",
+          "18.430436"
+        ],
+        [
+          "60.029619",
+          "18.431006"
+        ],
+        [
+          "60.029626",
+          "18.431456"
+        ],
+        [
+          "60.029637",
+          "18.431869"
+        ],
+        [
+          "60.029673",
+          "18.432584"
+        ],
+        [
+          "60.029712",
+          "18.433016"
+        ],
+        [
+          "60.029735",
+          "18.433208"
+        ],
+        [
+          "60.029805",
+          "18.433824"
+        ],
+        [
+          "60.029862",
+          "18.434208"
+        ],
+        [
+          "60.029942",
+          "18.434706"
+        ],
+        [
+          "60.030007",
+          "18.435068"
+        ],
+        [
+          "60.030084",
+          "18.435443"
+        ],
+        [
+          "60.030194",
+          "18.435874"
+        ],
+        [
+          "60.030272",
+          "18.436156"
+        ],
+        [
+          "60.030383",
+          "18.436533"
+        ],
+        [
+          "60.030516",
+          "18.436959"
+        ],
+        [
+          "60.030968",
+          "18.438272"
+        ],
+        [
+          "60.031015",
+          "18.438404"
+        ],
+        [
+          "60.031084",
+          "18.438598"
+        ],
+        [
+          "60.031378",
+          "18.439459"
+        ],
+        [
+          "60.031623",
+          "18.440178"
+        ],
+        [
+          "60.032044",
+          "18.441395"
+        ],
+        [
+          "60.032560",
+          "18.442869"
+        ],
+        [
+          "60.032693",
+          "18.443283"
+        ],
+        [
+          "60.032793",
+          "18.443579"
+        ],
+        [
+          "60.033040",
+          "18.444393"
+        ],
+        [
+          "60.033229",
+          "18.445156"
+        ],
+        [
+          "60.033475",
+          "18.446287"
+        ],
+        [
+          "60.033671",
+          "18.447322"
+        ],
+        [
+          "60.033764",
+          "18.447898"
+        ],
+        [
+          "60.033865",
+          "18.448506"
+        ],
+        [
+          "60.034006",
+          "18.449716"
+        ],
+        [
+          "60.034088",
+          "18.450796"
+        ],
+        [
+          "60.034126",
+          "18.451507"
+        ],
+        [
+          "60.034150",
+          "18.452280"
+        ],
+        [
+          "60.034161",
+          "18.452984"
+        ],
+        [
+          "60.034160",
+          "18.453702"
+        ],
+        [
+          "60.034138",
+          "18.454392"
+        ],
+        [
+          "60.034115",
+          "18.455064"
+        ],
+        [
+          "60.034102",
+          "18.455250"
+        ],
+        [
+          "60.034008",
+          "18.456251"
+        ],
+        [
+          "60.033900",
+          "18.457547"
+        ],
+        [
+          "60.033845",
+          "18.458370"
+        ],
+        [
+          "60.033840",
+          "18.458430"
+        ],
+        [
+          "60.033805",
+          "18.458981"
+        ],
+        [
+          "60.033793",
+          "18.459476"
+        ],
+        [
+          "60.033770",
+          "18.460733"
+        ],
+        [
+          "60.033778",
+          "18.461995"
+        ],
+        [
+          "60.033779",
+          "18.462106"
+        ],
+        [
+          "60.033796",
+          "18.463200"
+        ],
+        [
+          "60.033793",
+          "18.464457"
+        ],
+        [
+          "60.033801",
+          "18.465435"
+        ],
+        [
+          "60.033797",
+          "18.466346"
+        ],
+        [
+          "60.033798",
+          "18.467158"
+        ],
+        [
+          "60.033808",
+          "18.468049"
+        ],
+        [
+          "60.033804",
+          "18.468694"
+        ],
+        [
+          "60.033806",
+          "18.469394"
+        ],
+        [
+          "60.033809",
+          "18.470021"
+        ],
+        [
+          "60.033823",
+          "18.470392"
+        ],
+        [
+          "60.033845",
+          "18.470810"
+        ],
+        [
+          "60.033867",
+          "18.471192"
+        ],
+        [
+          "60.033947",
+          "18.471950"
+        ],
+        [
+          "60.034043",
+          "18.472553"
+        ],
+        [
+          "60.034258",
+          "18.473605"
+        ],
+        [
+          "60.034733",
+          "18.475479"
+        ],
+        [
+          "60.035132",
+          "18.477102"
+        ],
+        [
+          "60.035738",
+          "18.479632"
+        ],
+        [
+          "60.036070",
+          "18.481016"
+        ],
+        [
+          "60.036090",
+          "18.481101"
+        ],
+        [
+          "60.036255",
+          "18.481815"
+        ],
+        [
+          "60.036449",
+          "18.482613"
+        ],
+        [
+          "60.036550",
+          "18.483038"
+        ],
+        [
+          "60.036762",
+          "18.483911"
+        ],
+        [
+          "60.036987",
+          "18.484835"
+        ],
+        [
+          "60.037015",
+          "18.484948"
+        ],
+        [
+          "60.037109",
+          "18.485335"
+        ],
+        [
+          "60.037359",
+          "18.486371"
+        ],
+        [
+          "60.037648",
+          "18.487577"
+        ],
+        [
+          "60.037899",
+          "18.488623"
+        ],
+        [
+          "60.038096",
+          "18.489422"
+        ],
+        [
+          "60.038351",
+          "18.490472"
+        ],
+        [
+          "60.038528",
+          "18.491206"
+        ],
+        [
+          "60.038677",
+          "18.491852"
+        ],
+        [
+          "60.038779",
+          "18.492349"
+        ],
+        [
+          "60.038831",
+          "18.492673"
+        ],
+        [
+          "60.038929",
+          "18.493287"
+        ],
+        [
+          "60.038946",
+          "18.493440"
+        ],
+        [
+          "60.038970",
+          "18.493861"
+        ],
+        [
+          "60.038979",
+          "18.494391"
+        ],
+        [
+          "60.038960",
+          "18.495061"
+        ],
+        [
+          "60.038901",
+          "18.495702"
+        ],
+        [
+          "60.038823",
+          "18.496198"
+        ],
+        [
+          "60.038671",
+          "18.496925"
+        ],
+        [
+          "60.038561",
+          "18.497443"
+        ],
+        [
+          "60.038188",
+          "18.499108"
+        ],
+        [
+          "60.037897",
+          "18.500411"
+        ],
+        [
+          "60.037742",
+          "18.501108"
+        ],
+        [
+          "60.037515",
+          "18.502142"
+        ],
+        [
+          "60.037463",
+          "18.502369"
+        ],
+        [
+          "60.037410",
+          "18.502515"
+        ],
+        [
+          "60.037360",
+          "18.502743"
+        ],
+        [
+          "60.037309",
+          "18.502995"
+        ],
+        [
+          "60.037263",
+          "18.503215"
+        ],
+        [
+          "60.037213",
+          "18.503434"
+        ],
+        [
+          "60.037154",
+          "18.503703"
+        ],
+        [
+          "60.037099",
+          "18.503939"
+        ],
+        [
+          "60.037049",
+          "18.504174"
+        ],
+        [
+          "60.036994",
+          "18.504418"
+        ],
+        [
+          "60.036948",
+          "18.504638"
+        ],
+        [
+          "60.036900",
+          "18.504885"
+        ],
+        [
+          "60.036851",
+          "18.505124"
+        ],
+        [
+          "60.036807",
+          "18.505366"
+        ],
+        [
+          "60.036768",
+          "18.505612"
+        ],
+        [
+          "60.036733",
+          "18.505863"
+        ],
+        [
+          "60.036701",
+          "18.506120"
+        ],
+        [
+          "60.036672",
+          "18.506378"
+        ],
+        [
+          "60.036645",
+          "18.506633"
+        ],
+        [
+          "60.036620",
+          "18.506887"
+        ],
+        [
+          "60.036600",
+          "18.507139"
+        ],
+        [
+          "60.036583",
+          "18.507392"
+        ],
+        [
+          "60.036570",
+          "18.507647"
+        ],
+        [
+          "60.036559",
+          "18.507903"
+        ],
+        [
+          "60.036550",
+          "18.508161"
+        ],
+        [
+          "60.036544",
+          "18.508421"
+        ],
+        [
+          "60.036541",
+          "18.508681"
+        ],
+        [
+          "60.036541",
+          "18.508941"
+        ],
+        [
+          "60.036545",
+          "18.509200"
+        ],
+        [
+          "60.036551",
+          "18.509403"
+        ],
+        [
+          "60.036552",
+          "18.509459"
+        ],
+        [
+          "60.036554",
+          "18.509532"
+        ],
+        [
+          "60.036570",
+          "18.509908"
+        ],
+        [
+          "60.036599",
+          "18.510294"
+        ],
+        [
+          "60.036626",
+          "18.510617"
+        ],
+        [
+          "60.036667",
+          "18.511016"
+        ],
+        [
+          "60.036704",
+          "18.511328"
+        ],
+        [
+          "60.036779",
+          "18.511868"
+        ],
+        [
+          "60.036946",
+          "18.512915"
+        ],
+        [
+          "60.037244",
+          "18.514715"
+        ],
+        [
+          "60.037506",
+          "18.516347"
+        ],
+        [
+          "60.037842",
+          "18.518419"
+        ],
+        [
+          "60.038064",
+          "18.519779"
+        ],
+        [
+          "60.038281",
+          "18.521113"
+        ],
+        [
+          "60.038596",
+          "18.523027"
+        ],
+        [
+          "60.038754",
+          "18.524032"
+        ],
+        [
+          "60.038898",
+          "18.524996"
+        ],
+        [
+          "60.039104",
+          "18.526238"
+        ],
+        [
+          "60.039299",
+          "18.527455"
+        ],
+        [
+          "60.039585",
+          "18.529274"
+        ],
+        [
+          "60.039832",
+          "18.530805"
+        ],
+        [
+          "60.040092",
+          "18.532468"
+        ],
+        [
+          "60.040301",
+          "18.533803"
+        ],
+        [
+          "60.040655",
+          "18.536001"
+        ],
+        [
+          "60.041124",
+          "18.539027"
+        ],
+        [
+          "60.041385",
+          "18.540634"
+        ],
+        [
+          "60.041677",
+          "18.542509"
+        ],
+        [
+          "60.041731",
+          "18.542851"
+        ],
+        [
+          "60.041792",
+          "18.543096"
+        ],
+        [
+          "60.041853",
+          "18.543244"
+        ],
+        [
+          "60.041936",
+          "18.543387"
+        ],
+        [
+          "60.042042",
+          "18.543533"
+        ],
+        [
+          "60.042106",
+          "18.543608"
+        ],
+        [
+          "60.042017",
+          "18.544081"
+        ],
+        [
+          "60.041944",
+          "18.544633"
+        ],
+        [
+          "60.041942",
+          "18.544647"
+        ],
+        [
+          "60.041902",
+          "18.545005"
+        ],
+        [
+          "60.041864",
+          "18.545352"
+        ],
+        [
+          "60.041862",
+          "18.545373"
+        ],
+        [
+          "60.041758",
+          "18.546419"
+        ],
+        [
+          "60.041631",
+          "18.547725"
+        ],
+        [
+          "60.041466",
+          "18.549384"
+        ],
+        [
+          "60.041376",
+          "18.550276"
+        ],
+        [
+          "60.041281",
+          "18.551209"
+        ],
+        [
+          "60.041163",
+          "18.552350"
+        ],
+        [
+          "60.041045",
+          "18.553304"
+        ],
+        [
+          "60.040973",
+          "18.553943"
+        ],
+        [
+          "60.040909",
+          "18.554312"
+        ],
+        [
+          "60.040820",
+          "18.554777"
+        ],
+        [
+          "60.040754",
+          "18.555068"
+        ],
+        [
+          "60.040679",
+          "18.555324"
+        ],
+        [
+          "60.040854",
+          "18.555588"
+        ],
+        [
+          "60.040992",
+          "18.555831"
+        ],
+        [
+          "60.041670",
+          "18.557046"
+        ],
+        [
+          "60.041632",
+          "18.557140"
+        ],
+        [
+          "60.041664",
+          "18.557044"
+        ],
+        [
+          "60.041670",
+          "18.557046"
+        ],
+        [
+          "60.041885",
+          "18.557427"
+        ],
+        [
+          "60.042457",
+          "18.558445"
+        ],
+        [
+          "60.043000",
+          "18.559407"
+        ],
+        [
+          "60.043407",
+          "18.560122"
+        ],
+        [
+          "60.043920",
+          "18.561012"
+        ],
+        [
+          "60.044413",
+          "18.561890"
+        ],
+        [
+          "60.045034",
+          "18.562998"
+        ],
+        [
+          "60.045425",
+          "18.563689"
+        ],
+        [
+          "60.045604",
+          "18.564011"
+        ],
+        [
+          "60.045799",
+          "18.564398"
+        ],
+        [
+          "60.045890",
+          "18.564576"
+        ],
+        [
+          "60.046086",
+          "18.564974"
+        ],
+        [
+          "60.046276",
+          "18.565389"
+        ],
+        [
+          "60.046465",
+          "18.565821"
+        ],
+        [
+          "60.046633",
+          "18.566245"
+        ],
+        [
+          "60.046844",
+          "18.566813"
+        ],
+        [
+          "60.047037",
+          "18.567370"
+        ],
+        [
+          "60.047234",
+          "18.567981"
+        ],
+        [
+          "60.047469",
+          "18.568807"
+        ],
+        [
+          "60.047649",
+          "18.569479"
+        ],
+        [
+          "60.047913",
+          "18.570651"
+        ],
+        [
+          "60.048008",
+          "18.571120"
+        ],
+        [
+          "60.048116",
+          "18.571693"
+        ],
+        [
+          "60.048199",
+          "18.572211"
+        ],
+        [
+          "60.048322",
+          "18.573003"
+        ],
+        [
+          "60.048355",
+          "18.573283"
+        ],
+        [
+          "60.048366",
+          "18.573375"
+        ],
+        [
+          "60.048391",
+          "18.573581"
+        ],
+        [
+          "60.048477",
+          "18.574370"
+        ],
+        [
+          "60.048560",
+          "18.575281"
+        ],
+        [
+          "60.048592",
+          "18.575568"
+        ],
+        [
+          "60.048611",
+          "18.575783"
+        ],
+        [
+          "60.048631",
+          "18.575991"
+        ],
+        [
+          "60.048649",
+          "18.576196"
+        ],
+        [
+          "60.048650",
+          "18.576321"
+        ],
+        [
+          "60.048651",
+          "18.576333"
+        ],
+        [
+          "60.048686",
+          "18.576725"
+        ],
+        [
+          "60.048738",
+          "18.577304"
+        ],
+        [
+          "60.048812",
+          "18.578129"
+        ],
+        [
+          "60.048886",
+          "18.578908"
+        ],
+        [
+          "60.049087",
+          "18.581162"
+        ],
+        [
+          "60.049328",
+          "18.583869"
+        ],
+        [
+          "60.049551",
+          "18.586399"
+        ],
+        [
+          "60.049633",
+          "18.587397"
+        ],
+        [
+          "60.049653",
+          "18.587610"
+        ],
+        [
+          "60.049771",
+          "18.588810"
+        ],
+        [
+          "60.049852",
+          "18.589746"
+        ],
+        [
+          "60.049801",
+          "18.589769"
+        ],
+        [
+          "60.049851",
+          "18.589752"
+        ],
+        [
+          "60.049906",
+          "18.590392"
+        ],
+        [
+          "60.050111",
+          "18.592619"
+        ],
+        [
+          "60.050329",
+          "18.595015"
+        ],
+        [
+          "60.050580",
+          "18.594900"
+        ],
+        [
+          "60.050728",
+          "18.594819"
+        ],
+        [
+          "60.051101",
+          "18.594619"
+        ],
+        [
+          "60.051249",
+          "18.594533"
+        ],
+        [
+          "60.051387",
+          "18.594475"
+        ],
+        [
+          "60.051563",
+          "18.594423"
+        ],
+        [
+          "60.051713",
+          "18.594406"
+        ],
+        [
+          "60.051846",
+          "18.594411"
+        ],
+        [
+          "60.052021",
+          "18.594460"
+        ],
+        [
+          "60.052201",
+          "18.594553"
+        ],
+        [
+          "60.052421",
+          "18.594641"
+        ],
+        [
+          "60.052712",
+          "18.594785"
+        ],
+        [
+          "60.052972",
+          "18.594914"
+        ],
+        [
+          "60.053078",
+          "18.594946"
+        ],
+        [
+          "60.053209",
+          "18.594978"
+        ],
+        [
+          "60.053391",
+          "18.594943"
+        ],
+        [
+          "60.053973",
+          "18.594786"
+        ],
+        [
+          "60.054182",
+          "18.594728"
+        ],
+        [
+          "60.054627",
+          "18.594600"
+        ],
+        [
+          "60.054919",
+          "18.594520"
+        ],
+        [
+          "60.055107",
+          "18.594484"
+        ],
+        [
+          "60.055311",
+          "18.594470"
+        ],
+        [
+          "60.055613",
+          "18.594487"
+        ],
+        [
+          "60.056587",
+          "18.594532"
+        ],
+        [
+          "60.056761",
+          "18.594538"
+        ],
+        [
+          "60.056905",
+          "18.594546"
+        ],
+        [
+          "60.057054",
+          "18.594564"
+        ],
+        [
+          "60.057177",
+          "18.594599"
+        ],
+        [
+          "60.057301",
+          "18.594643"
+        ],
+        [
+          "60.057439",
+          "18.594715"
+        ],
+        [
+          "60.057558",
+          "18.594789"
+        ],
+        [
+          "60.057694",
+          "18.594875"
+        ],
+        [
+          "60.057824",
+          "18.594990"
+        ],
+        [
+          "60.057934",
+          "18.595103"
+        ],
+        [
+          "60.058035",
+          "18.595240"
+        ],
+        [
+          "60.058151",
+          "18.595365"
+        ],
+        [
+          "60.058327",
+          "18.595644"
+        ],
+        [
+          "60.058349",
+          "18.595685"
+        ],
+        [
+          "60.058644",
+          "18.596066"
+        ],
+        [
+          "60.058794",
+          "18.596217"
+        ],
+        [
+          "60.058937",
+          "18.596335"
+        ],
+        [
+          "60.059084",
+          "18.596442"
+        ],
+        [
+          "60.059210",
+          "18.596508"
+        ],
+        [
+          "60.059432",
+          "18.596602"
+        ],
+        [
+          "60.059528",
+          "18.596625"
+        ],
+        [
+          "60.059660",
+          "18.596646"
+        ],
+        [
+          "60.059811",
+          "18.596653"
+        ],
+        [
+          "60.059838",
+          "18.596650"
+        ],
+        [
+          "60.059811",
+          "18.596653"
+        ],
+        [
+          "60.059660",
+          "18.596646"
+        ],
+        [
+          "60.059528",
+          "18.596625"
+        ],
+        [
+          "60.059432",
+          "18.596602"
+        ],
+        [
+          "60.059210",
+          "18.596508"
+        ],
+        [
+          "60.059084",
+          "18.596442"
+        ],
+        [
+          "60.058937",
+          "18.596335"
+        ],
+        [
+          "60.058794",
+          "18.596217"
+        ],
+        [
+          "60.058644",
+          "18.596066"
+        ],
+        [
+          "60.058349",
+          "18.595685"
+        ],
+        [
+          "60.058327",
+          "18.595644"
+        ],
+        [
+          "60.058151",
+          "18.595365"
+        ],
+        [
+          "60.058035",
+          "18.595240"
+        ],
+        [
+          "60.057934",
+          "18.595103"
+        ],
+        [
+          "60.057824",
+          "18.594990"
+        ],
+        [
+          "60.057694",
+          "18.594875"
+        ],
+        [
+          "60.057558",
+          "18.594789"
+        ],
+        [
+          "60.057439",
+          "18.594715"
+        ],
+        [
+          "60.057301",
+          "18.594643"
+        ],
+        [
+          "60.057177",
+          "18.594599"
+        ],
+        [
+          "60.057054",
+          "18.594564"
+        ],
+        [
+          "60.056905",
+          "18.594546"
+        ],
+        [
+          "60.056761",
+          "18.594538"
+        ],
+        [
+          "60.056587",
+          "18.594532"
+        ],
+        [
+          "60.055613",
+          "18.594487"
+        ],
+        [
+          "60.055311",
+          "18.594470"
+        ],
+        [
+          "60.055107",
+          "18.594484"
+        ],
+        [
+          "60.054919",
+          "18.594520"
+        ],
+        [
+          "60.054627",
+          "18.594600"
+        ],
+        [
+          "60.054182",
+          "18.594728"
+        ],
+        [
+          "60.053973",
+          "18.594786"
+        ],
+        [
+          "60.053391",
+          "18.594943"
+        ],
+        [
+          "60.053209",
+          "18.594978"
+        ],
+        [
+          "60.053078",
+          "18.594946"
+        ],
+        [
+          "60.052972",
+          "18.594914"
+        ],
+        [
+          "60.052712",
+          "18.594785"
+        ],
+        [
+          "60.052421",
+          "18.594641"
+        ],
+        [
+          "60.052201",
+          "18.594553"
+        ],
+        [
+          "60.052021",
+          "18.594460"
+        ],
+        [
+          "60.051846",
+          "18.594411"
+        ],
+        [
+          "60.051713",
+          "18.594406"
+        ],
+        [
+          "60.051563",
+          "18.594423"
+        ],
+        [
+          "60.051387",
+          "18.594475"
+        ],
+        [
+          "60.051249",
+          "18.594533"
+        ],
+        [
+          "60.051227",
+          "18.594334"
+        ],
+        [
+          "60.051208",
+          "18.594197"
+        ],
+        [
+          "60.051172",
+          "18.594119"
+        ],
+        [
+          "60.051135",
+          "18.594078"
+        ],
+        [
+          "60.051064",
+          "18.594055"
+        ],
+        [
+          "60.050975",
+          "18.594065"
+        ],
+        [
+          "60.050850",
+          "18.594089"
+        ],
+        [
+          "60.050848",
+          "18.594046"
+        ]
+      ]
+    },
+    {
+      "shape_id": "1014010000093708788",
+      "trips": [
+        {
+          "trip_id": "14010000503640892",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001060090001",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050462",
+              "stop_lon": "18.594016",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001063500001",
+              "stop_name": "Folkets hus",
+              "stop_lat": "60.050370",
+              "stop_lon": "18.596167",
+              "location_type": "0",
+              "parent_station": "9021001063500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125002",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049769",
+              "stop_lon": "18.588216",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123002",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048999",
+              "stop_lon": "18.579572",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121002",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.042178",
+              "stop_lon": "18.557785",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500002",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036501",
+              "stop_lon": "18.507393",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502002",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038968",
+              "stop_lon": "18.492963",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001068508002",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021505",
+              "stop_lon": "18.402516",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000532074977",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001060090001",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050462",
+              "stop_lon": "18.594016",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001063500001",
+              "stop_name": "Folkets hus",
+              "stop_lat": "60.050370",
+              "stop_lon": "18.596167",
+              "location_type": "0",
+              "parent_station": "9021001063500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125002",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049769",
+              "stop_lon": "18.588216",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123002",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048999",
+              "stop_lon": "18.579572",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121002",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.042178",
+              "stop_lon": "18.557785",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500002",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036501",
+              "stop_lon": "18.507393",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502002",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038968",
+              "stop_lon": "18.492963",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001068508002",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021505",
+              "stop_lon": "18.402516",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000532075012",
+          "service_id": "27",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001060090001",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050462",
+              "stop_lon": "18.594016",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001063500001",
+              "stop_name": "Folkets hus",
+              "stop_lat": "60.050370",
+              "stop_lon": "18.596167",
+              "location_type": "0",
+              "parent_station": "9021001063500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125002",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049769",
+              "stop_lon": "18.588216",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123002",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048999",
+              "stop_lon": "18.579572",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121002",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.042178",
+              "stop_lon": "18.557785",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500002",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036501",
+              "stop_lon": "18.507393",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502002",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038968",
+              "stop_lon": "18.492963",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001068508002",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021505",
+              "stop_lon": "18.402516",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "27",
+            "start_date": "20241116",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "14010000472113302",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001060090001",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050462",
+              "stop_lon": "18.594016",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001063500001",
+              "stop_name": "Folkets hus",
+              "stop_lat": "60.050370",
+              "stop_lon": "18.596167",
+              "location_type": "0",
+              "parent_station": "9021001063500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125002",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049769",
+              "stop_lon": "18.588216",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123002",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048999",
+              "stop_lon": "18.579572",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121002",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.042178",
+              "stop_lon": "18.557785",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500002",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036501",
+              "stop_lon": "18.507393",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502002",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038968",
+              "stop_lon": "18.492963",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001068508002",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021505",
+              "stop_lon": "18.402516",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000472113333",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001060090001",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050462",
+              "stop_lon": "18.594016",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001063500001",
+              "stop_name": "Folkets hus",
+              "stop_lat": "60.050370",
+              "stop_lon": "18.596167",
+              "location_type": "0",
+              "parent_station": "9021001063500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125002",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049769",
+              "stop_lon": "18.588216",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123002",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048999",
+              "stop_lon": "18.579572",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121002",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.042178",
+              "stop_lon": "18.557785",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500002",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036501",
+              "stop_lon": "18.507393",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502002",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038968",
+              "stop_lon": "18.492963",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001068508002",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021505",
+              "stop_lon": "18.402516",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000472113348",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001060090001",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050462",
+              "stop_lon": "18.594016",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001063500001",
+              "stop_name": "Folkets hus",
+              "stop_lat": "60.050370",
+              "stop_lon": "18.596167",
+              "location_type": "0",
+              "parent_station": "9021001063500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125002",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049769",
+              "stop_lon": "18.588216",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123002",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048999",
+              "stop_lon": "18.579572",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121002",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.042178",
+              "stop_lon": "18.557785",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500002",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036501",
+              "stop_lon": "18.507393",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502002",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038968",
+              "stop_lon": "18.492963",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001068508002",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021505",
+              "stop_lon": "18.402516",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000472113379",
+          "service_id": "27",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001060090001",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050462",
+              "stop_lon": "18.594016",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001063500001",
+              "stop_name": "Folkets hus",
+              "stop_lat": "60.050370",
+              "stop_lon": "18.596167",
+              "location_type": "0",
+              "parent_station": "9021001063500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125002",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049769",
+              "stop_lon": "18.588216",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123002",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048999",
+              "stop_lon": "18.579572",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121002",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.042178",
+              "stop_lon": "18.557785",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500002",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036501",
+              "stop_lon": "18.507393",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502002",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038968",
+              "stop_lon": "18.492963",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001068508002",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021505",
+              "stop_lon": "18.402516",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "27",
+            "start_date": "20241116",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "14010000503640841",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001060090001",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050462",
+              "stop_lon": "18.594016",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001063500001",
+              "stop_name": "Folkets hus",
+              "stop_lat": "60.050370",
+              "stop_lon": "18.596167",
+              "location_type": "0",
+              "parent_station": "9021001063500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125002",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049769",
+              "stop_lon": "18.588216",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123002",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048999",
+              "stop_lon": "18.579572",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121002",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.042178",
+              "stop_lon": "18.557785",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500002",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036501",
+              "stop_lon": "18.507393",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502002",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038968",
+              "stop_lon": "18.492963",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001068508002",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021505",
+              "stop_lon": "18.402516",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000503640857",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001060090001",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050462",
+              "stop_lon": "18.594016",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001063500001",
+              "stop_name": "Folkets hus",
+              "stop_lat": "60.050370",
+              "stop_lon": "18.596167",
+              "location_type": "0",
+              "parent_station": "9021001063500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125002",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049769",
+              "stop_lon": "18.588216",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123002",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048999",
+              "stop_lon": "18.579572",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121002",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.042178",
+              "stop_lon": "18.557785",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500002",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036501",
+              "stop_lon": "18.507393",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502002",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038968",
+              "stop_lon": "18.492963",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001068508002",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021505",
+              "stop_lon": "18.402516",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000532074996",
+          "service_id": "27",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001060090001",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050462",
+              "stop_lon": "18.594016",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001063500001",
+              "stop_name": "Folkets hus",
+              "stop_lat": "60.050370",
+              "stop_lon": "18.596167",
+              "location_type": "0",
+              "parent_station": "9021001063500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125002",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049769",
+              "stop_lon": "18.588216",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123002",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048999",
+              "stop_lon": "18.579572",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121002",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.042178",
+              "stop_lon": "18.557785",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500002",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036501",
+              "stop_lon": "18.507393",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502002",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038968",
+              "stop_lon": "18.492963",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001068508002",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021505",
+              "stop_lon": "18.402516",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "27",
+            "start_date": "20241116",
+            "end_date": "20250615"
+          }
+        }
+      ],
+      "points": [
+        [
+          "60.050462",
+          "18.594016"
+        ],
+        [
+          "60.051019",
+          "18.594060"
+        ],
+        [
+          "60.051064",
+          "18.594055"
+        ],
+        [
+          "60.051135",
+          "18.594078"
+        ],
+        [
+          "60.051172",
+          "18.594119"
+        ],
+        [
+          "60.051208",
+          "18.594197"
+        ],
+        [
+          "60.051227",
+          "18.594334"
+        ],
+        [
+          "60.051249",
+          "18.594533"
+        ],
+        [
+          "60.051101",
+          "18.594619"
+        ],
+        [
+          "60.050728",
+          "18.594819"
+        ],
+        [
+          "60.050580",
+          "18.594900"
+        ],
+        [
+          "60.050329",
+          "18.595015"
+        ],
+        [
+          "60.050427",
+          "18.596166"
+        ],
+        [
+          "60.050329",
+          "18.595015"
+        ],
+        [
+          "60.050273",
+          "18.594402"
+        ],
+        [
+          "60.050256",
+          "18.594219"
+        ],
+        [
+          "60.050111",
+          "18.592619"
+        ],
+        [
+          "60.049906",
+          "18.590392"
+        ],
+        [
+          "60.049771",
+          "18.588810"
+        ],
+        [
+          "60.049719",
+          "18.588281"
+        ],
+        [
+          "60.049769",
+          "18.588216"
+        ],
+        [
+          "60.049713",
+          "18.588262"
+        ],
+        [
+          "60.049653",
+          "18.587610"
+        ],
+        [
+          "60.049633",
+          "18.587397"
+        ],
+        [
+          "60.049551",
+          "18.586399"
+        ],
+        [
+          "60.049328",
+          "18.583869"
+        ],
+        [
+          "60.049087",
+          "18.581162"
+        ],
+        [
+          "60.048951",
+          "18.579649"
+        ],
+        [
+          "60.048886",
+          "18.578908"
+        ],
+        [
+          "60.048738",
+          "18.577304"
+        ],
+        [
+          "60.048686",
+          "18.576725"
+        ],
+        [
+          "60.048651",
+          "18.576333"
+        ],
+        [
+          "60.048650",
+          "18.576321"
+        ],
+        [
+          "60.048649",
+          "18.576196"
+        ],
+        [
+          "60.048631",
+          "18.575991"
+        ],
+        [
+          "60.048611",
+          "18.575783"
+        ],
+        [
+          "60.048592",
+          "18.575568"
+        ],
+        [
+          "60.048560",
+          "18.575281"
+        ],
+        [
+          "60.048477",
+          "18.574370"
+        ],
+        [
+          "60.048391",
+          "18.573581"
+        ],
+        [
+          "60.048366",
+          "18.573375"
+        ],
+        [
+          "60.048355",
+          "18.573283"
+        ],
+        [
+          "60.048322",
+          "18.573003"
+        ],
+        [
+          "60.048199",
+          "18.572211"
+        ],
+        [
+          "60.048116",
+          "18.571693"
+        ],
+        [
+          "60.048008",
+          "18.571120"
+        ],
+        [
+          "60.047913",
+          "18.570651"
+        ],
+        [
+          "60.047649",
+          "18.569479"
+        ],
+        [
+          "60.047469",
+          "18.568807"
+        ],
+        [
+          "60.047234",
+          "18.567981"
+        ],
+        [
+          "60.047037",
+          "18.567370"
+        ],
+        [
+          "60.046844",
+          "18.566813"
+        ],
+        [
+          "60.046633",
+          "18.566245"
+        ],
+        [
+          "60.046465",
+          "18.565821"
+        ],
+        [
+          "60.046276",
+          "18.565389"
+        ],
+        [
+          "60.046086",
+          "18.564974"
+        ],
+        [
+          "60.045890",
+          "18.564576"
+        ],
+        [
+          "60.045799",
+          "18.564398"
+        ],
+        [
+          "60.045604",
+          "18.564011"
+        ],
+        [
+          "60.045425",
+          "18.563689"
+        ],
+        [
+          "60.045034",
+          "18.562998"
+        ],
+        [
+          "60.044413",
+          "18.561890"
+        ],
+        [
+          "60.043920",
+          "18.561012"
+        ],
+        [
+          "60.043407",
+          "18.560122"
+        ],
+        [
+          "60.043000",
+          "18.559407"
+        ],
+        [
+          "60.042457",
+          "18.558445"
+        ],
+        [
+          "60.042166",
+          "18.557930"
+        ],
+        [
+          "60.042178",
+          "18.557785"
+        ],
+        [
+          "60.042161",
+          "18.557919"
+        ],
+        [
+          "60.041670",
+          "18.557046"
+        ],
+        [
+          "60.040992",
+          "18.555831"
+        ],
+        [
+          "60.040854",
+          "18.555588"
+        ],
+        [
+          "60.040679",
+          "18.555324"
+        ],
+        [
+          "60.040754",
+          "18.555068"
+        ],
+        [
+          "60.040820",
+          "18.554777"
+        ],
+        [
+          "60.040909",
+          "18.554312"
+        ],
+        [
+          "60.040973",
+          "18.553943"
+        ],
+        [
+          "60.041045",
+          "18.553304"
+        ],
+        [
+          "60.041163",
+          "18.552350"
+        ],
+        [
+          "60.041272",
+          "18.551296"
+        ],
+        [
+          "60.041281",
+          "18.551209"
+        ],
+        [
+          "60.041376",
+          "18.550276"
+        ],
+        [
+          "60.041466",
+          "18.549384"
+        ],
+        [
+          "60.041631",
+          "18.547725"
+        ],
+        [
+          "60.041758",
+          "18.546419"
+        ],
+        [
+          "60.041862",
+          "18.545373"
+        ],
+        [
+          "60.041864",
+          "18.545352"
+        ],
+        [
+          "60.041902",
+          "18.545005"
+        ],
+        [
+          "60.041942",
+          "18.544647"
+        ],
+        [
+          "60.041944",
+          "18.544633"
+        ],
+        [
+          "60.042017",
+          "18.544081"
+        ],
+        [
+          "60.042106",
+          "18.543608"
+        ],
+        [
+          "60.042042",
+          "18.543533"
+        ],
+        [
+          "60.041936",
+          "18.543387"
+        ],
+        [
+          "60.041853",
+          "18.543244"
+        ],
+        [
+          "60.041792",
+          "18.543096"
+        ],
+        [
+          "60.041731",
+          "18.542851"
+        ],
+        [
+          "60.041677",
+          "18.542509"
+        ],
+        [
+          "60.041385",
+          "18.540634"
+        ],
+        [
+          "60.041124",
+          "18.539027"
+        ],
+        [
+          "60.040655",
+          "18.536001"
+        ],
+        [
+          "60.040301",
+          "18.533803"
+        ],
+        [
+          "60.040092",
+          "18.532468"
+        ],
+        [
+          "60.039832",
+          "18.530805"
+        ],
+        [
+          "60.039585",
+          "18.529274"
+        ],
+        [
+          "60.039299",
+          "18.527455"
+        ],
+        [
+          "60.039104",
+          "18.526238"
+        ],
+        [
+          "60.038898",
+          "18.524996"
+        ],
+        [
+          "60.038754",
+          "18.524032"
+        ],
+        [
+          "60.038596",
+          "18.523027"
+        ],
+        [
+          "60.038281",
+          "18.521113"
+        ],
+        [
+          "60.038064",
+          "18.519779"
+        ],
+        [
+          "60.037842",
+          "18.518419"
+        ],
+        [
+          "60.037506",
+          "18.516347"
+        ],
+        [
+          "60.037244",
+          "18.514715"
+        ],
+        [
+          "60.036946",
+          "18.512915"
+        ],
+        [
+          "60.036779",
+          "18.511868"
+        ],
+        [
+          "60.036704",
+          "18.511328"
+        ],
+        [
+          "60.036667",
+          "18.511016"
+        ],
+        [
+          "60.036626",
+          "18.510617"
+        ],
+        [
+          "60.036599",
+          "18.510294"
+        ],
+        [
+          "60.036570",
+          "18.509908"
+        ],
+        [
+          "60.036554",
+          "18.509532"
+        ],
+        [
+          "60.036552",
+          "18.509459"
+        ],
+        [
+          "60.036545",
+          "18.509200"
+        ],
+        [
+          "60.036541",
+          "18.508941"
+        ],
+        [
+          "60.036541",
+          "18.508681"
+        ],
+        [
+          "60.036544",
+          "18.508421"
+        ],
+        [
+          "60.036550",
+          "18.508161"
+        ],
+        [
+          "60.036559",
+          "18.507903"
+        ],
+        [
+          "60.036570",
+          "18.507647"
+        ],
+        [
+          "60.036583",
+          "18.507392"
+        ],
+        [
+          "60.036593",
+          "18.507248"
+        ],
+        [
+          "60.036501",
+          "18.507393"
+        ],
+        [
+          "60.036583",
+          "18.507392"
+        ],
+        [
+          "60.036600",
+          "18.507139"
+        ],
+        [
+          "60.036620",
+          "18.506887"
+        ],
+        [
+          "60.036645",
+          "18.506633"
+        ],
+        [
+          "60.036672",
+          "18.506378"
+        ],
+        [
+          "60.036701",
+          "18.506120"
+        ],
+        [
+          "60.036733",
+          "18.505863"
+        ],
+        [
+          "60.036768",
+          "18.505612"
+        ],
+        [
+          "60.036807",
+          "18.505366"
+        ],
+        [
+          "60.036851",
+          "18.505124"
+        ],
+        [
+          "60.036900",
+          "18.504885"
+        ],
+        [
+          "60.036948",
+          "18.504638"
+        ],
+        [
+          "60.036994",
+          "18.504418"
+        ],
+        [
+          "60.037049",
+          "18.504174"
+        ],
+        [
+          "60.037099",
+          "18.503939"
+        ],
+        [
+          "60.037154",
+          "18.503703"
+        ],
+        [
+          "60.037213",
+          "18.503434"
+        ],
+        [
+          "60.037263",
+          "18.503215"
+        ],
+        [
+          "60.037309",
+          "18.502995"
+        ],
+        [
+          "60.037360",
+          "18.502743"
+        ],
+        [
+          "60.037410",
+          "18.502515"
+        ],
+        [
+          "60.037463",
+          "18.502369"
+        ],
+        [
+          "60.037515",
+          "18.502142"
+        ],
+        [
+          "60.037742",
+          "18.501108"
+        ],
+        [
+          "60.037897",
+          "18.500411"
+        ],
+        [
+          "60.038188",
+          "18.499108"
+        ],
+        [
+          "60.038561",
+          "18.497443"
+        ],
+        [
+          "60.038671",
+          "18.496925"
+        ],
+        [
+          "60.038823",
+          "18.496198"
+        ],
+        [
+          "60.038901",
+          "18.495702"
+        ],
+        [
+          "60.038960",
+          "18.495061"
+        ],
+        [
+          "60.038979",
+          "18.494391"
+        ],
+        [
+          "60.038970",
+          "18.493861"
+        ],
+        [
+          "60.038946",
+          "18.493440"
+        ],
+        [
+          "60.038929",
+          "18.493287"
+        ],
+        [
+          "60.038894",
+          "18.493065"
+        ],
+        [
+          "60.038779",
+          "18.492349"
+        ],
+        [
+          "60.038677",
+          "18.491852"
+        ],
+        [
+          "60.038528",
+          "18.491206"
+        ],
+        [
+          "60.038351",
+          "18.490472"
+        ],
+        [
+          "60.038096",
+          "18.489422"
+        ],
+        [
+          "60.037899",
+          "18.488623"
+        ],
+        [
+          "60.037648",
+          "18.487577"
+        ],
+        [
+          "60.037359",
+          "18.486371"
+        ],
+        [
+          "60.037109",
+          "18.485335"
+        ],
+        [
+          "60.037015",
+          "18.484948"
+        ],
+        [
+          "60.036987",
+          "18.484835"
+        ],
+        [
+          "60.036762",
+          "18.483911"
+        ],
+        [
+          "60.036550",
+          "18.483038"
+        ],
+        [
+          "60.036449",
+          "18.482613"
+        ],
+        [
+          "60.036255",
+          "18.481815"
+        ],
+        [
+          "60.036090",
+          "18.481101"
+        ],
+        [
+          "60.036070",
+          "18.481016"
+        ],
+        [
+          "60.035738",
+          "18.479632"
+        ],
+        [
+          "60.035230",
+          "18.477511"
+        ],
+        [
+          "60.035132",
+          "18.477102"
+        ],
+        [
+          "60.034733",
+          "18.475479"
+        ],
+        [
+          "60.034258",
+          "18.473605"
+        ],
+        [
+          "60.034043",
+          "18.472553"
+        ],
+        [
+          "60.033947",
+          "18.471950"
+        ],
+        [
+          "60.033867",
+          "18.471192"
+        ],
+        [
+          "60.033845",
+          "18.470810"
+        ],
+        [
+          "60.033823",
+          "18.470392"
+        ],
+        [
+          "60.033809",
+          "18.470021"
+        ],
+        [
+          "60.033806",
+          "18.469394"
+        ],
+        [
+          "60.033804",
+          "18.468694"
+        ],
+        [
+          "60.033808",
+          "18.468049"
+        ],
+        [
+          "60.033798",
+          "18.467158"
+        ],
+        [
+          "60.033797",
+          "18.466346"
+        ],
+        [
+          "60.033801",
+          "18.465435"
+        ],
+        [
+          "60.033793",
+          "18.464457"
+        ],
+        [
+          "60.033796",
+          "18.463200"
+        ],
+        [
+          "60.033779",
+          "18.462106"
+        ],
+        [
+          "60.033778",
+          "18.461995"
+        ],
+        [
+          "60.033770",
+          "18.460733"
+        ],
+        [
+          "60.033793",
+          "18.459476"
+        ],
+        [
+          "60.033805",
+          "18.458981"
+        ],
+        [
+          "60.033840",
+          "18.458430"
+        ],
+        [
+          "60.033845",
+          "18.458370"
+        ],
+        [
+          "60.033900",
+          "18.457547"
+        ],
+        [
+          "60.034008",
+          "18.456251"
+        ],
+        [
+          "60.034102",
+          "18.455250"
+        ],
+        [
+          "60.034115",
+          "18.455064"
+        ],
+        [
+          "60.034138",
+          "18.454392"
+        ],
+        [
+          "60.034160",
+          "18.453702"
+        ],
+        [
+          "60.034161",
+          "18.452984"
+        ],
+        [
+          "60.034150",
+          "18.452280"
+        ],
+        [
+          "60.034126",
+          "18.451507"
+        ],
+        [
+          "60.034088",
+          "18.450796"
+        ],
+        [
+          "60.034006",
+          "18.449716"
+        ],
+        [
+          "60.033865",
+          "18.448506"
+        ],
+        [
+          "60.033764",
+          "18.447898"
+        ],
+        [
+          "60.033671",
+          "18.447322"
+        ],
+        [
+          "60.033475",
+          "18.446287"
+        ],
+        [
+          "60.033229",
+          "18.445156"
+        ],
+        [
+          "60.033040",
+          "18.444393"
+        ],
+        [
+          "60.032793",
+          "18.443579"
+        ],
+        [
+          "60.032693",
+          "18.443283"
+        ],
+        [
+          "60.032560",
+          "18.442869"
+        ],
+        [
+          "60.032044",
+          "18.441395"
+        ],
+        [
+          "60.031623",
+          "18.440178"
+        ],
+        [
+          "60.031378",
+          "18.439459"
+        ],
+        [
+          "60.031084",
+          "18.438598"
+        ],
+        [
+          "60.031015",
+          "18.438404"
+        ],
+        [
+          "60.030968",
+          "18.438272"
+        ],
+        [
+          "60.030516",
+          "18.436959"
+        ],
+        [
+          "60.030383",
+          "18.436533"
+        ],
+        [
+          "60.030272",
+          "18.436156"
+        ],
+        [
+          "60.030194",
+          "18.435874"
+        ],
+        [
+          "60.030084",
+          "18.435443"
+        ],
+        [
+          "60.030007",
+          "18.435068"
+        ],
+        [
+          "60.029942",
+          "18.434706"
+        ],
+        [
+          "60.029862",
+          "18.434208"
+        ],
+        [
+          "60.029805",
+          "18.433824"
+        ],
+        [
+          "60.029735",
+          "18.433208"
+        ],
+        [
+          "60.029712",
+          "18.433016"
+        ],
+        [
+          "60.029673",
+          "18.432584"
+        ],
+        [
+          "60.029637",
+          "18.431869"
+        ],
+        [
+          "60.029626",
+          "18.431456"
+        ],
+        [
+          "60.029619",
+          "18.431006"
+        ],
+        [
+          "60.029621",
+          "18.430436"
+        ],
+        [
+          "60.029661",
+          "18.427831"
+        ],
+        [
+          "60.029705",
+          "18.425221"
+        ],
+        [
+          "60.029699",
+          "18.424660"
+        ],
+        [
+          "60.029692",
+          "18.424341"
+        ],
+        [
+          "60.029669",
+          "18.423874"
+        ],
+        [
+          "60.029641",
+          "18.423533"
+        ],
+        [
+          "60.029590",
+          "18.423067"
+        ],
+        [
+          "60.029560",
+          "18.422784"
+        ],
+        [
+          "60.029510",
+          "18.422430"
+        ],
+        [
+          "60.029439",
+          "18.421989"
+        ],
+        [
+          "60.029405",
+          "18.421815"
+        ],
+        [
+          "60.029342",
+          "18.421489"
+        ],
+        [
+          "60.029261",
+          "18.421141"
+        ],
+        [
+          "60.029123",
+          "18.420604"
+        ],
+        [
+          "60.028954",
+          "18.420056"
+        ],
+        [
+          "60.028853",
+          "18.419750"
+        ],
+        [
+          "60.028731",
+          "18.419432"
+        ],
+        [
+          "60.028552",
+          "18.419004"
+        ],
+        [
+          "60.028255",
+          "18.418321"
+        ],
+        [
+          "60.027335",
+          "18.416243"
+        ],
+        [
+          "60.027262",
+          "18.416079"
+        ],
+        [
+          "60.027116",
+          "18.415752"
+        ],
+        [
+          "60.026947",
+          "18.415376"
+        ],
+        [
+          "60.026890",
+          "18.415248"
+        ],
+        [
+          "60.026676",
+          "18.414769"
+        ],
+        [
+          "60.025920",
+          "18.413062"
+        ],
+        [
+          "60.025806",
+          "18.412806"
+        ],
+        [
+          "60.025167",
+          "18.411392"
+        ],
+        [
+          "60.023910",
+          "18.408543"
+        ],
+        [
+          "60.023884",
+          "18.408485"
+        ],
+        [
+          "60.023873",
+          "18.408460"
+        ],
+        [
+          "60.022740",
+          "18.405914"
+        ],
+        [
+          "60.022324",
+          "18.404954"
+        ],
+        [
+          "60.022076",
+          "18.404328"
+        ],
+        [
+          "60.021852",
+          "18.403695"
+        ],
+        [
+          "60.021665",
+          "18.403140"
+        ],
+        [
+          "60.021649",
+          "18.403091"
+        ],
+        [
+          "60.021492",
+          "18.402524"
+        ],
+        [
+          "60.021505",
+          "18.402516"
+        ]
+      ]
+    },
+    {
+      "shape_id": "1014010000472113060",
+      "trips": [
+        {
+          "trip_id": "14010000472113413",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001064205001",
+              "stop_name": "Hallsta pappersbruk",
+              "stop_lat": "60.059847",
+              "stop_lon": "18.596765",
+              "location_type": "0",
+              "parent_station": "9021001064205000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001060090001",
+              "stop_name": "Hallstaviks station",
+              "stop_lat": "60.050462",
+              "stop_lon": "18.594016",
+              "location_type": "0",
+              "parent_station": "9021001060090000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001063500001",
+              "stop_name": "Folkets hus",
+              "stop_lat": "60.050370",
+              "stop_lon": "18.596167",
+              "location_type": "0",
+              "parent_station": "9021001063500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064125002",
+              "stop_name": "Kustv\u00e4gen",
+              "stop_lat": "60.049769",
+              "stop_lon": "18.588216",
+              "location_type": "0",
+              "parent_station": "9021001064125000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064123002",
+              "stop_name": "R\u00f6rv\u00e4gen",
+              "stop_lat": "60.048999",
+              "stop_lon": "18.579572",
+              "location_type": "0",
+              "parent_station": "9021001064123000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001064121002",
+              "stop_name": "S\u00e4ttra v\u00e4gsk\u00e4l",
+              "stop_lat": "60.042178",
+              "stop_lon": "18.557785",
+              "location_type": "0",
+              "parent_station": "9021001064121000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068500002",
+              "stop_name": "Forsbol",
+              "stop_lat": "60.036501",
+              "stop_lon": "18.507393",
+              "location_type": "0",
+              "parent_station": "9021001068500000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001068502002",
+              "stop_name": "V\u00e4sterbacken",
+              "stop_lat": "60.038968",
+              "stop_lon": "18.492963",
+              "location_type": "0",
+              "parent_station": "9021001068502000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001068508002",
+              "stop_name": "L\u00e5gbol",
+              "stop_lat": "60.021505",
+              "stop_lon": "18.402516",
+              "location_type": "0",
+              "parent_station": "9021001068508000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        }
+      ],
+      "points": [
+        [
+          "60.059847",
+          "18.596765"
+        ],
+        [
+          "60.059846",
+          "18.596642"
+        ],
+        [
+          "60.059979",
+          "18.596632"
+        ],
+        [
+          "60.060129",
+          "18.596594"
+        ],
+        [
+          "60.060297",
+          "18.596533"
+        ],
+        [
+          "60.060433",
+          "18.596470"
+        ],
+        [
+          "60.060573",
+          "18.596406"
+        ],
+        [
+          "60.060880",
+          "18.596273"
+        ],
+        [
+          "60.061165",
+          "18.596207"
+        ],
+        [
+          "60.061381",
+          "18.596201"
+        ],
+        [
+          "60.061738",
+          "18.596210"
+        ],
+        [
+          "60.061875",
+          "18.596214"
+        ],
+        [
+          "60.062165",
+          "18.596226"
+        ],
+        [
+          "60.062384",
+          "18.596262"
+        ],
+        [
+          "60.062324",
+          "18.596527"
+        ],
+        [
+          "60.062259",
+          "18.596723"
+        ],
+        [
+          "60.062179",
+          "18.596922"
+        ],
+        [
+          "60.062106",
+          "18.597078"
+        ],
+        [
+          "60.062012",
+          "18.597275"
+        ],
+        [
+          "60.061933",
+          "18.597414"
+        ],
+        [
+          "60.061837",
+          "18.597566"
+        ],
+        [
+          "60.061690",
+          "18.597608"
+        ],
+        [
+          "60.061538",
+          "18.597397"
+        ],
+        [
+          "60.061377",
+          "18.597153"
+        ],
+        [
+          "60.061241",
+          "18.596894"
+        ],
+        [
+          "60.061158",
+          "18.596666"
+        ],
+        [
+          "60.061070",
+          "18.596357"
+        ],
+        [
+          "60.060910",
+          "18.596265"
+        ],
+        [
+          "60.060707",
+          "18.596341"
+        ],
+        [
+          "60.060570",
+          "18.596407"
+        ],
+        [
+          "60.060532",
+          "18.596425"
+        ],
+        [
+          "60.060356",
+          "18.596506"
+        ],
+        [
+          "60.060180",
+          "18.596577"
+        ],
+        [
+          "60.060019",
+          "18.596626"
+        ],
+        [
+          "60.059942",
+          "18.596637"
+        ],
+        [
+          "60.059811",
+          "18.596653"
+        ],
+        [
+          "60.059660",
+          "18.596646"
+        ],
+        [
+          "60.059694",
+          "18.596648"
+        ],
+        [
+          "60.059528",
+          "18.596625"
+        ],
+        [
+          "60.059432",
+          "18.596602"
+        ],
+        [
+          "60.059210",
+          "18.596508"
+        ],
+        [
+          "60.059084",
+          "18.596442"
+        ],
+        [
+          "60.058937",
+          "18.596335"
+        ],
+        [
+          "60.058794",
+          "18.596217"
+        ],
+        [
+          "60.058644",
+          "18.596066"
+        ],
+        [
+          "60.058349",
+          "18.595685"
+        ],
+        [
+          "60.058327",
+          "18.595644"
+        ],
+        [
+          "60.058152",
+          "18.595365"
+        ],
+        [
+          "60.058035",
+          "18.595240"
+        ],
+        [
+          "60.057934",
+          "18.595103"
+        ],
+        [
+          "60.057824",
+          "18.594990"
+        ],
+        [
+          "60.057694",
+          "18.594875"
+        ],
+        [
+          "60.057558",
+          "18.594789"
+        ],
+        [
+          "60.057439",
+          "18.594715"
+        ],
+        [
+          "60.057301",
+          "18.594643"
+        ],
+        [
+          "60.057177",
+          "18.594599"
+        ],
+        [
+          "60.057053",
+          "18.594564"
+        ],
+        [
+          "60.056905",
+          "18.594546"
+        ],
+        [
+          "60.056761",
+          "18.594538"
+        ],
+        [
+          "60.056587",
+          "18.594532"
+        ],
+        [
+          "60.055613",
+          "18.594487"
+        ],
+        [
+          "60.055311",
+          "18.594470"
+        ],
+        [
+          "60.055107",
+          "18.594484"
+        ],
+        [
+          "60.054919",
+          "18.594520"
+        ],
+        [
+          "60.054627",
+          "18.594600"
+        ],
+        [
+          "60.054182",
+          "18.594728"
+        ],
+        [
+          "60.053973",
+          "18.594786"
+        ],
+        [
+          "60.053391",
+          "18.594943"
+        ],
+        [
+          "60.053209",
+          "18.594978"
+        ],
+        [
+          "60.053078",
+          "18.594946"
+        ],
+        [
+          "60.052972",
+          "18.594914"
+        ],
+        [
+          "60.052712",
+          "18.594785"
+        ],
+        [
+          "60.052421",
+          "18.594641"
+        ],
+        [
+          "60.052201",
+          "18.594552"
+        ],
+        [
+          "60.052021",
+          "18.594460"
+        ],
+        [
+          "60.051846",
+          "18.594411"
+        ],
+        [
+          "60.051713",
+          "18.594406"
+        ],
+        [
+          "60.051563",
+          "18.594423"
+        ],
+        [
+          "60.051387",
+          "18.594475"
+        ],
+        [
+          "60.051249",
+          "18.594533"
+        ],
+        [
+          "60.051227",
+          "18.594334"
+        ],
+        [
+          "60.051208",
+          "18.594197"
+        ],
+        [
+          "60.051172",
+          "18.594119"
+        ],
+        [
+          "60.051135",
+          "18.594078"
+        ],
+        [
+          "60.051064",
+          "18.594055"
+        ],
+        [
+          "60.051018",
+          "18.594065"
+        ],
+        [
+          "60.050462",
+          "18.594016"
+        ],
+        [
+          "60.051019",
+          "18.594060"
+        ],
+        [
+          "60.051064",
+          "18.594055"
+        ],
+        [
+          "60.051135",
+          "18.594078"
+        ],
+        [
+          "60.051172",
+          "18.594119"
+        ],
+        [
+          "60.051208",
+          "18.594197"
+        ],
+        [
+          "60.051227",
+          "18.594334"
+        ],
+        [
+          "60.051249",
+          "18.594533"
+        ],
+        [
+          "60.051101",
+          "18.594619"
+        ],
+        [
+          "60.050728",
+          "18.594819"
+        ],
+        [
+          "60.050580",
+          "18.594900"
+        ],
+        [
+          "60.050329",
+          "18.595015"
+        ],
+        [
+          "60.050427",
+          "18.596166"
+        ],
+        [
+          "60.050329",
+          "18.595015"
+        ],
+        [
+          "60.050273",
+          "18.594402"
+        ],
+        [
+          "60.050256",
+          "18.594219"
+        ],
+        [
+          "60.050111",
+          "18.592619"
+        ],
+        [
+          "60.049906",
+          "18.590392"
+        ],
+        [
+          "60.049771",
+          "18.588810"
+        ],
+        [
+          "60.049719",
+          "18.588281"
+        ],
+        [
+          "60.049769",
+          "18.588216"
+        ],
+        [
+          "60.049713",
+          "18.588262"
+        ],
+        [
+          "60.049653",
+          "18.587610"
+        ],
+        [
+          "60.049633",
+          "18.587397"
+        ],
+        [
+          "60.049551",
+          "18.586399"
+        ],
+        [
+          "60.049328",
+          "18.583869"
+        ],
+        [
+          "60.049087",
+          "18.581162"
+        ],
+        [
+          "60.048951",
+          "18.579649"
+        ],
+        [
+          "60.048886",
+          "18.578908"
+        ],
+        [
+          "60.048738",
+          "18.577304"
+        ],
+        [
+          "60.048686",
+          "18.576725"
+        ],
+        [
+          "60.048651",
+          "18.576333"
+        ],
+        [
+          "60.048650",
+          "18.576321"
+        ],
+        [
+          "60.048649",
+          "18.576196"
+        ],
+        [
+          "60.048631",
+          "18.575991"
+        ],
+        [
+          "60.048611",
+          "18.575783"
+        ],
+        [
+          "60.048592",
+          "18.575568"
+        ],
+        [
+          "60.048560",
+          "18.575281"
+        ],
+        [
+          "60.048477",
+          "18.574370"
+        ],
+        [
+          "60.048391",
+          "18.573581"
+        ],
+        [
+          "60.048366",
+          "18.573375"
+        ],
+        [
+          "60.048355",
+          "18.573283"
+        ],
+        [
+          "60.048322",
+          "18.573003"
+        ],
+        [
+          "60.048199",
+          "18.572211"
+        ],
+        [
+          "60.048116",
+          "18.571693"
+        ],
+        [
+          "60.048008",
+          "18.571120"
+        ],
+        [
+          "60.047913",
+          "18.570651"
+        ],
+        [
+          "60.047649",
+          "18.569479"
+        ],
+        [
+          "60.047469",
+          "18.568807"
+        ],
+        [
+          "60.047234",
+          "18.567981"
+        ],
+        [
+          "60.047037",
+          "18.567370"
+        ],
+        [
+          "60.046844",
+          "18.566813"
+        ],
+        [
+          "60.046633",
+          "18.566245"
+        ],
+        [
+          "60.046465",
+          "18.565821"
+        ],
+        [
+          "60.046276",
+          "18.565389"
+        ],
+        [
+          "60.046086",
+          "18.564974"
+        ],
+        [
+          "60.045890",
+          "18.564576"
+        ],
+        [
+          "60.045799",
+          "18.564398"
+        ],
+        [
+          "60.045604",
+          "18.564011"
+        ],
+        [
+          "60.045425",
+          "18.563689"
+        ],
+        [
+          "60.045034",
+          "18.562998"
+        ],
+        [
+          "60.044413",
+          "18.561890"
+        ],
+        [
+          "60.043920",
+          "18.561012"
+        ],
+        [
+          "60.043407",
+          "18.560122"
+        ],
+        [
+          "60.043000",
+          "18.559407"
+        ],
+        [
+          "60.042457",
+          "18.558445"
+        ],
+        [
+          "60.042166",
+          "18.557930"
+        ],
+        [
+          "60.042178",
+          "18.557785"
+        ],
+        [
+          "60.042161",
+          "18.557919"
+        ],
+        [
+          "60.041670",
+          "18.557046"
+        ],
+        [
+          "60.040992",
+          "18.555831"
+        ],
+        [
+          "60.040854",
+          "18.555588"
+        ],
+        [
+          "60.040679",
+          "18.555324"
+        ],
+        [
+          "60.040754",
+          "18.555068"
+        ],
+        [
+          "60.040820",
+          "18.554777"
+        ],
+        [
+          "60.040909",
+          "18.554312"
+        ],
+        [
+          "60.040973",
+          "18.553943"
+        ],
+        [
+          "60.041045",
+          "18.553304"
+        ],
+        [
+          "60.041163",
+          "18.552350"
+        ],
+        [
+          "60.041272",
+          "18.551296"
+        ],
+        [
+          "60.041281",
+          "18.551209"
+        ],
+        [
+          "60.041376",
+          "18.550276"
+        ],
+        [
+          "60.041466",
+          "18.549384"
+        ],
+        [
+          "60.041631",
+          "18.547725"
+        ],
+        [
+          "60.041758",
+          "18.546419"
+        ],
+        [
+          "60.041862",
+          "18.545373"
+        ],
+        [
+          "60.041864",
+          "18.545352"
+        ],
+        [
+          "60.041902",
+          "18.545005"
+        ],
+        [
+          "60.041942",
+          "18.544647"
+        ],
+        [
+          "60.041944",
+          "18.544633"
+        ],
+        [
+          "60.042017",
+          "18.544081"
+        ],
+        [
+          "60.042106",
+          "18.543608"
+        ],
+        [
+          "60.042042",
+          "18.543533"
+        ],
+        [
+          "60.041936",
+          "18.543387"
+        ],
+        [
+          "60.041853",
+          "18.543244"
+        ],
+        [
+          "60.041792",
+          "18.543096"
+        ],
+        [
+          "60.041731",
+          "18.542851"
+        ],
+        [
+          "60.041677",
+          "18.542509"
+        ],
+        [
+          "60.041385",
+          "18.540634"
+        ],
+        [
+          "60.041124",
+          "18.539027"
+        ],
+        [
+          "60.040655",
+          "18.536001"
+        ],
+        [
+          "60.040301",
+          "18.533803"
+        ],
+        [
+          "60.040092",
+          "18.532468"
+        ],
+        [
+          "60.039832",
+          "18.530805"
+        ],
+        [
+          "60.039585",
+          "18.529274"
+        ],
+        [
+          "60.039299",
+          "18.527455"
+        ],
+        [
+          "60.039104",
+          "18.526238"
+        ],
+        [
+          "60.038898",
+          "18.524996"
+        ],
+        [
+          "60.038754",
+          "18.524032"
+        ],
+        [
+          "60.038596",
+          "18.523027"
+        ],
+        [
+          "60.038281",
+          "18.521113"
+        ],
+        [
+          "60.038064",
+          "18.519779"
+        ],
+        [
+          "60.037842",
+          "18.518419"
+        ],
+        [
+          "60.037506",
+          "18.516347"
+        ],
+        [
+          "60.037244",
+          "18.514715"
+        ],
+        [
+          "60.036946",
+          "18.512915"
+        ],
+        [
+          "60.036779",
+          "18.511868"
+        ],
+        [
+          "60.036704",
+          "18.511328"
+        ],
+        [
+          "60.036667",
+          "18.511016"
+        ],
+        [
+          "60.036626",
+          "18.510617"
+        ],
+        [
+          "60.036599",
+          "18.510294"
+        ],
+        [
+          "60.036570",
+          "18.509908"
+        ],
+        [
+          "60.036554",
+          "18.509532"
+        ],
+        [
+          "60.036552",
+          "18.509459"
+        ],
+        [
+          "60.036545",
+          "18.509200"
+        ],
+        [
+          "60.036541",
+          "18.508941"
+        ],
+        [
+          "60.036541",
+          "18.508681"
+        ],
+        [
+          "60.036544",
+          "18.508421"
+        ],
+        [
+          "60.036550",
+          "18.508161"
+        ],
+        [
+          "60.036559",
+          "18.507903"
+        ],
+        [
+          "60.036570",
+          "18.507647"
+        ],
+        [
+          "60.036583",
+          "18.507392"
+        ],
+        [
+          "60.036593",
+          "18.507248"
+        ],
+        [
+          "60.036501",
+          "18.507393"
+        ],
+        [
+          "60.036583",
+          "18.507392"
+        ],
+        [
+          "60.036600",
+          "18.507139"
+        ],
+        [
+          "60.036620",
+          "18.506887"
+        ],
+        [
+          "60.036645",
+          "18.506633"
+        ],
+        [
+          "60.036672",
+          "18.506378"
+        ],
+        [
+          "60.036701",
+          "18.506120"
+        ],
+        [
+          "60.036733",
+          "18.505863"
+        ],
+        [
+          "60.036768",
+          "18.505612"
+        ],
+        [
+          "60.036807",
+          "18.505366"
+        ],
+        [
+          "60.036851",
+          "18.505124"
+        ],
+        [
+          "60.036900",
+          "18.504885"
+        ],
+        [
+          "60.036948",
+          "18.504638"
+        ],
+        [
+          "60.036994",
+          "18.504418"
+        ],
+        [
+          "60.037049",
+          "18.504174"
+        ],
+        [
+          "60.037099",
+          "18.503939"
+        ],
+        [
+          "60.037154",
+          "18.503703"
+        ],
+        [
+          "60.037213",
+          "18.503434"
+        ],
+        [
+          "60.037263",
+          "18.503215"
+        ],
+        [
+          "60.037309",
+          "18.502995"
+        ],
+        [
+          "60.037360",
+          "18.502743"
+        ],
+        [
+          "60.037410",
+          "18.502515"
+        ],
+        [
+          "60.037463",
+          "18.502369"
+        ],
+        [
+          "60.037515",
+          "18.502142"
+        ],
+        [
+          "60.037742",
+          "18.501108"
+        ],
+        [
+          "60.037897",
+          "18.500411"
+        ],
+        [
+          "60.038188",
+          "18.499108"
+        ],
+        [
+          "60.038561",
+          "18.497443"
+        ],
+        [
+          "60.038671",
+          "18.496925"
+        ],
+        [
+          "60.038823",
+          "18.496198"
+        ],
+        [
+          "60.038901",
+          "18.495702"
+        ],
+        [
+          "60.038960",
+          "18.495061"
+        ],
+        [
+          "60.038979",
+          "18.494391"
+        ],
+        [
+          "60.038970",
+          "18.493861"
+        ],
+        [
+          "60.038946",
+          "18.493440"
+        ],
+        [
+          "60.038929",
+          "18.493287"
+        ],
+        [
+          "60.038894",
+          "18.493065"
+        ],
+        [
+          "60.038779",
+          "18.492349"
+        ],
+        [
+          "60.038677",
+          "18.491852"
+        ],
+        [
+          "60.038528",
+          "18.491206"
+        ],
+        [
+          "60.038351",
+          "18.490472"
+        ],
+        [
+          "60.038096",
+          "18.489422"
+        ],
+        [
+          "60.037899",
+          "18.488623"
+        ],
+        [
+          "60.037648",
+          "18.487577"
+        ],
+        [
+          "60.037359",
+          "18.486371"
+        ],
+        [
+          "60.037109",
+          "18.485335"
+        ],
+        [
+          "60.037015",
+          "18.484948"
+        ],
+        [
+          "60.036987",
+          "18.484835"
+        ],
+        [
+          "60.036762",
+          "18.483911"
+        ],
+        [
+          "60.036550",
+          "18.483038"
+        ],
+        [
+          "60.036449",
+          "18.482613"
+        ],
+        [
+          "60.036255",
+          "18.481815"
+        ],
+        [
+          "60.036090",
+          "18.481101"
+        ],
+        [
+          "60.036070",
+          "18.481016"
+        ],
+        [
+          "60.035738",
+          "18.479632"
+        ],
+        [
+          "60.035230",
+          "18.477511"
+        ],
+        [
+          "60.035132",
+          "18.477102"
+        ],
+        [
+          "60.034733",
+          "18.475479"
+        ],
+        [
+          "60.034258",
+          "18.473605"
+        ],
+        [
+          "60.034043",
+          "18.472553"
+        ],
+        [
+          "60.033947",
+          "18.471950"
+        ],
+        [
+          "60.033867",
+          "18.471192"
+        ],
+        [
+          "60.033845",
+          "18.470810"
+        ],
+        [
+          "60.033823",
+          "18.470392"
+        ],
+        [
+          "60.033809",
+          "18.470021"
+        ],
+        [
+          "60.033806",
+          "18.469394"
+        ],
+        [
+          "60.033804",
+          "18.468694"
+        ],
+        [
+          "60.033808",
+          "18.468049"
+        ],
+        [
+          "60.033798",
+          "18.467158"
+        ],
+        [
+          "60.033797",
+          "18.466346"
+        ],
+        [
+          "60.033801",
+          "18.465435"
+        ],
+        [
+          "60.033793",
+          "18.464457"
+        ],
+        [
+          "60.033796",
+          "18.463200"
+        ],
+        [
+          "60.033779",
+          "18.462106"
+        ],
+        [
+          "60.033778",
+          "18.461995"
+        ],
+        [
+          "60.033770",
+          "18.460733"
+        ],
+        [
+          "60.033793",
+          "18.459476"
+        ],
+        [
+          "60.033805",
+          "18.458981"
+        ],
+        [
+          "60.033840",
+          "18.458430"
+        ],
+        [
+          "60.033845",
+          "18.458370"
+        ],
+        [
+          "60.033900",
+          "18.457547"
+        ],
+        [
+          "60.034008",
+          "18.456251"
+        ],
+        [
+          "60.034102",
+          "18.455250"
+        ],
+        [
+          "60.034115",
+          "18.455064"
+        ],
+        [
+          "60.034138",
+          "18.454392"
+        ],
+        [
+          "60.034160",
+          "18.453702"
+        ],
+        [
+          "60.034161",
+          "18.452984"
+        ],
+        [
+          "60.034150",
+          "18.452280"
+        ],
+        [
+          "60.034126",
+          "18.451507"
+        ],
+        [
+          "60.034088",
+          "18.450796"
+        ],
+        [
+          "60.034006",
+          "18.449716"
+        ],
+        [
+          "60.033865",
+          "18.448506"
+        ],
+        [
+          "60.033764",
+          "18.447898"
+        ],
+        [
+          "60.033671",
+          "18.447322"
+        ],
+        [
+          "60.033475",
+          "18.446287"
+        ],
+        [
+          "60.033229",
+          "18.445156"
+        ],
+        [
+          "60.033040",
+          "18.444393"
+        ],
+        [
+          "60.032793",
+          "18.443579"
+        ],
+        [
+          "60.032693",
+          "18.443283"
+        ],
+        [
+          "60.032560",
+          "18.442869"
+        ],
+        [
+          "60.032044",
+          "18.441395"
+        ],
+        [
+          "60.031623",
+          "18.440178"
+        ],
+        [
+          "60.031378",
+          "18.439459"
+        ],
+        [
+          "60.031084",
+          "18.438598"
+        ],
+        [
+          "60.031015",
+          "18.438404"
+        ],
+        [
+          "60.030968",
+          "18.438272"
+        ],
+        [
+          "60.030516",
+          "18.436959"
+        ],
+        [
+          "60.030383",
+          "18.436533"
+        ],
+        [
+          "60.030272",
+          "18.436156"
+        ],
+        [
+          "60.030194",
+          "18.435874"
+        ],
+        [
+          "60.030084",
+          "18.435443"
+        ],
+        [
+          "60.030007",
+          "18.435068"
+        ],
+        [
+          "60.029942",
+          "18.434706"
+        ],
+        [
+          "60.029862",
+          "18.434208"
+        ],
+        [
+          "60.029805",
+          "18.433824"
+        ],
+        [
+          "60.029735",
+          "18.433208"
+        ],
+        [
+          "60.029712",
+          "18.433016"
+        ],
+        [
+          "60.029673",
+          "18.432584"
+        ],
+        [
+          "60.029637",
+          "18.431869"
+        ],
+        [
+          "60.029626",
+          "18.431456"
+        ],
+        [
+          "60.029619",
+          "18.431006"
+        ],
+        [
+          "60.029621",
+          "18.430436"
+        ],
+        [
+          "60.029661",
+          "18.427831"
+        ],
+        [
+          "60.029705",
+          "18.425221"
+        ],
+        [
+          "60.029699",
+          "18.424660"
+        ],
+        [
+          "60.029692",
+          "18.424341"
+        ],
+        [
+          "60.029669",
+          "18.423874"
+        ],
+        [
+          "60.029641",
+          "18.423533"
+        ],
+        [
+          "60.029590",
+          "18.423067"
+        ],
+        [
+          "60.029560",
+          "18.422784"
+        ],
+        [
+          "60.029510",
+          "18.422430"
+        ],
+        [
+          "60.029439",
+          "18.421989"
+        ],
+        [
+          "60.029405",
+          "18.421815"
+        ],
+        [
+          "60.029342",
+          "18.421489"
+        ],
+        [
+          "60.029261",
+          "18.421141"
+        ],
+        [
+          "60.029123",
+          "18.420604"
+        ],
+        [
+          "60.028954",
+          "18.420056"
+        ],
+        [
+          "60.028853",
+          "18.419750"
+        ],
+        [
+          "60.028731",
+          "18.419432"
+        ],
+        [
+          "60.028552",
+          "18.419004"
+        ],
+        [
+          "60.028255",
+          "18.418321"
+        ],
+        [
+          "60.027335",
+          "18.416243"
+        ],
+        [
+          "60.027262",
+          "18.416079"
+        ],
+        [
+          "60.027116",
+          "18.415752"
+        ],
+        [
+          "60.026947",
+          "18.415376"
+        ],
+        [
+          "60.026890",
+          "18.415248"
+        ],
+        [
+          "60.026676",
+          "18.414769"
+        ],
+        [
+          "60.025920",
+          "18.413062"
+        ],
+        [
+          "60.025806",
+          "18.412806"
+        ],
+        [
+          "60.025167",
+          "18.411392"
+        ],
+        [
+          "60.023910",
+          "18.408543"
+        ],
+        [
+          "60.023884",
+          "18.408485"
+        ],
+        [
+          "60.023873",
+          "18.408460"
+        ],
+        [
+          "60.022740",
+          "18.405914"
+        ],
+        [
+          "60.022324",
+          "18.404954"
+        ],
+        [
+          "60.022076",
+          "18.404328"
+        ],
+        [
+          "60.021852",
+          "18.403695"
+        ],
+        [
+          "60.021665",
+          "18.403140"
+        ],
+        [
+          "60.021649",
+          "18.403091"
+        ],
+        [
+          "60.021492",
+          "18.402524"
+        ],
+        [
+          "60.021505",
+          "18.402516"
+        ]
+      ]
+    }
+  ]
+}

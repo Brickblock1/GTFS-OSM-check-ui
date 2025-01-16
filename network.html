@@ -19,10 +19,12 @@
     </div>
     <script>
         const params = new URLSearchParams(window.location.search);
-        network = params.get("network")
+        network_tag = params.get("network_tag")
         network_rel = params.get("network_rel")
+        network_rel_id = params.get("network_rel:id")
         code = params.get("code")
         data_url = params.get("data_url")
+        gtfs_agency = params.get("gtfs_agency")
         if (params.get("ignore_code") == "true") {
             ignore_code = true
         } else {
@@ -31,22 +33,28 @@
 
         function open_route(relation, gtfs_route) {
             console.log(gtfs_route)
-            window.open(`/GTFS-OSM-check-ui/main.html?relation=${relation}&gtfs_route=${gtfs_route}&data_url=${data_url}&ignore_code${ignore_code}&code=${code}`, "_blank")
+            window.open(`main.html?relation=${relation}&gtfs_route=${gtfs_route}&data_url=${data_url}&ignore_code=${ignore_code}&code=${code}`, "_blank")
         }
 
         async function on_load() {
-            if (network_rel != null) {
+            if (network_rel_id != null) {
                 var query = `
                   [out:json];
-                  relation["type"="network"](${network_rel});
+                  relation["type"="network"](${network_rel_id});
+                  rel(r)["type"="route_master"];
+                  out tags;
+                  `;
+            } else if (network_rel != null) {
+                var query = `
+                  [out:json];
+                  relation["type"="network"]["name"="${network_rel}"];
                   rel(r)["type"="route_master"];
                   out tags;
                   `;
             } else {
                 var query = `
                   [out:json];
-                  relation["type"="network"]["name"="${network}"];
-                  rel(r)["type"="route_master"];
+                  relation["type"="route_master"]["network"="${network_tag}"];
                   out tags;
                   `;
             }
@@ -55,8 +63,12 @@
                 body: query,
             });
             var osm_data = await result.json();
-            var result = await fetch(`${data_url}/routes.json`)
-            var gtfs_routes = await result.json()
+            try {
+                var result = await fetch(`${data_url}/routes.json`)
+                var gtfs_routes = await result.json()
+            } catch {
+                gtfs_routes = []
+            }
             osm_data = osm_data.elements.sort((a, b) => a.tags.ref - b.tags.ref)
             var routes_in_osm = []
 
@@ -86,7 +98,34 @@
                 html = html + "<div class='route_overview_tile'><span class='route_ref' style='background-color:" + route_master.tags.colour + "'>" + route_master.tags.ref + "</span> " + match + `<input type='button' value='Open' onclick='open_route(${route_master.id}, "${combined_route_id}")'></div>`
                 document.getElementById("container").innerHTML = html
             }
-            for (gtfs_route of Object.values(gtfs_routes)) {
+            gtfs_routes = Object.values(gtfs_routes)
+
+            function sortcool(a, b) {
+                if (isNaN(a.route_short_name) == false) {
+                    a.route_short_name = parseInt(a.route_short_name)
+                }
+                if (isNaN(b.route_short_name) == false) {
+                    b.route_short_name = parseInt(b.route_short_name)
+                }
+                if (typeof a.route_short_name === 'number' && typeof b.route_short_name === 'number') {
+                    return a.route_short_name - b.route_short_name; // Numeric sort
+                } else if (typeof a.route_short_name === 'string' && typeof b.route_short_name === 'string') {
+                    return a.route_short_name.localeCompare(b.route_short_name); // Alphabetical sort
+                } else if (typeof a.route_short_name === 'number') {
+                    return -1; // Numbers come before strings
+                } else {
+                    return 1; // Strings come after numbers
+                }
+            }
+
+            gtfs_routes.sort(sortcool);
+            for (gtfs_route of gtfs_routes) {
+                console.log(gtfs_route.agency_id, gtfs_agency)
+                if (!(gtfs_agency == null || gtfs_agency == "null")) {
+                    if (gtfs_route.agency_id != gtfs_agency) {
+                        continue
+                    }
+                }
                 if (!routes_in_osm.includes(gtfs_route.route_id)) {
                     html = document.getElementById("container").innerHTML
                     html = html + "<div class='route_overview_tile' style='background-color: lightcoral;'><span class='route_ref' style='background-color:" + route_master.tags.colour + "'>" + gtfs_route.route_short_name + `</span> <input type='button' value='Open' onclick='open_route(1, "${gtfs_route.route_id}")'></div>`

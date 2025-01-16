@@ -1,0 +1,4420 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011008002100000",
+  "agency_id": "14010000000002071",
+  "route_short_name": "21",
+  "route_long_name": "",
+  "route_type": "1000",
+  "route_desc": "Waxholmsbolaget",
+  "shapes": [
+    {
+      "shape_id": "6014010000469848605",
+      "trips": [
+        {
+          "trip_id": "14010000647149950",
+          "service_id": "1019",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1019",
+            "start_date": "20241216",
+            "end_date": "20250410"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.957605",
+          "18.294406"
+        ],
+        [
+          "58.957692",
+          "18.294330"
+        ],
+        [
+          "58.957980",
+          "18.293497"
+        ],
+        [
+          "58.958548",
+          "18.292992"
+        ],
+        [
+          "58.959140",
+          "18.292446"
+        ],
+        [
+          "58.959694",
+          "18.292542"
+        ],
+        [
+          "58.960389",
+          "18.293168"
+        ],
+        [
+          "58.961266",
+          "18.294499"
+        ],
+        [
+          "58.962228",
+          "18.295108"
+        ],
+        [
+          "58.963353",
+          "18.295473"
+        ],
+        [
+          "58.964324",
+          "18.295738"
+        ],
+        [
+          "58.964923",
+          "18.295795"
+        ],
+        [
+          "58.965660",
+          "18.296511"
+        ],
+        [
+          "58.966669",
+          "18.297899"
+        ],
+        [
+          "58.968402",
+          "18.302282"
+        ],
+        [
+          "58.970154",
+          "18.305893"
+        ],
+        [
+          "58.971885",
+          "18.309502"
+        ],
+        [
+          "58.973704",
+          "18.313981"
+        ],
+        [
+          "58.974442",
+          "18.316376"
+        ],
+        [
+          "58.974859",
+          "18.319214"
+        ],
+        [
+          "58.975281",
+          "18.321794"
+        ],
+        [
+          "58.975250",
+          "18.323858"
+        ],
+        [
+          "58.975059",
+          "18.325260"
+        ],
+        [
+          "58.974520",
+          "18.326327"
+        ],
+        [
+          "58.973674",
+          "18.327235"
+        ],
+        [
+          "58.973116",
+          "18.327354"
+        ],
+        [
+          "58.972384",
+          "18.327283"
+        ],
+        [
+          "58.971639",
+          "18.326867"
+        ],
+        [
+          "58.971146",
+          "18.326174"
+        ],
+        [
+          "58.970482",
+          "18.325206"
+        ],
+        [
+          "58.970418",
+          "18.325113"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000208561179",
+      "trips": [
+        {
+          "trip_id": "14010000651311873",
+          "service_id": "1065",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1065",
+            "start_date": "20241216",
+            "end_date": "20250410"
+          }
+        },
+        {
+          "trip_id": "14010000651311885",
+          "service_id": "1021",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1021",
+            "start_date": "20241217",
+            "end_date": "20250408"
+          }
+        },
+        {
+          "trip_id": "14010000670504202",
+          "service_id": "1002",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1002",
+            "start_date": "20241219",
+            "end_date": "20250410"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.082054",
+          "18.173464"
+        ],
+        [
+          "59.073589",
+          "18.177676"
+        ],
+        [
+          "59.068065",
+          "18.180040"
+        ],
+        [
+          "59.053008",
+          "18.201597"
+        ],
+        [
+          "59.043723",
+          "18.206477"
+        ],
+        [
+          "59.035253",
+          "18.222277"
+        ],
+        [
+          "59.005955",
+          "18.267336"
+        ],
+        [
+          "58.966089",
+          "18.294923"
+        ],
+        [
+          "58.961801",
+          "18.294840"
+        ],
+        [
+          "58.961706",
+          "18.293267"
+        ],
+        [
+          "58.961572",
+          "18.293399"
+        ],
+        [
+          "58.961179",
+          "18.293419"
+        ],
+        [
+          "58.959829",
+          "18.292506"
+        ],
+        [
+          "58.958673",
+          "18.293892"
+        ],
+        [
+          "58.957710",
+          "18.294356"
+        ],
+        [
+          "58.957605",
+          "18.294406"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000664918317",
+      "trips": [
+        {
+          "trip_id": "14010000667155741",
+          "service_id": "213",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "213",
+            "start_date": "20241119",
+            "end_date": "20241212"
+          }
+        },
+        {
+          "trip_id": "14010000667155752",
+          "service_id": "113",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "113",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.970418",
+          "18.325113"
+        ],
+        [
+          "58.971146",
+          "18.326774"
+        ],
+        [
+          "58.972296",
+          "18.327954"
+        ],
+        [
+          "58.973556",
+          "18.326944"
+        ],
+        [
+          "58.974298",
+          "18.326311"
+        ],
+        [
+          "58.976046",
+          "18.324283"
+        ],
+        [
+          "58.979182",
+          "18.318729"
+        ],
+        [
+          "58.997360",
+          "18.291819"
+        ],
+        [
+          "59.043723",
+          "18.206477"
+        ],
+        [
+          "59.053008",
+          "18.201597"
+        ],
+        [
+          "59.068065",
+          "18.180040"
+        ],
+        [
+          "59.075656",
+          "18.177128"
+        ],
+        [
+          "59.081114",
+          "18.174870"
+        ],
+        [
+          "59.082054",
+          "18.173464"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000121155403",
+      "trips": [
+        {
+          "trip_id": "14010000667155863",
+          "service_id": "113",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "113",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000668571288",
+          "service_id": "10",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "10",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000668571330",
+          "service_id": "16",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "16",
+            "start_date": "20241117",
+            "end_date": "20241208"
+          }
+        },
+        {
+          "trip_id": "14010000668571102",
+          "service_id": "16",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "16",
+            "start_date": "20241117",
+            "end_date": "20241208"
+          }
+        },
+        {
+          "trip_id": "14010000668571260",
+          "service_id": "113",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "113",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000668571216",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000668571230",
+          "service_id": "117",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "117",
+            "start_date": "20241118",
+            "end_date": "20241212"
+          }
+        },
+        {
+          "trip_id": "14010000668571302",
+          "service_id": "10",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "10",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000668571316",
+          "service_id": "16",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "16",
+            "start_date": "20241117",
+            "end_date": "20241208"
+          }
+        },
+        {
+          "trip_id": "14010000668571344",
+          "service_id": "16",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "16",
+            "start_date": "20241117",
+            "end_date": "20241208"
+          }
+        },
+        {
+          "trip_id": "14010000668571244",
+          "service_id": "529",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "529",
+            "start_date": "20241121",
+            "end_date": "20241212"
+          }
+        },
+        {
+          "trip_id": "14010000668571274",
+          "service_id": "10",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "10",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000668571471",
+          "service_id": "10",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "10",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000670504264",
+          "service_id": "1021",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1021",
+            "start_date": "20241217",
+            "end_date": "20250408"
+          }
+        },
+        {
+          "trip_id": "14010000670504279",
+          "service_id": "1066",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1066",
+            "start_date": "20241216",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000670504309",
+          "service_id": "809",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "809",
+            "start_date": "20241221",
+            "end_date": "20250412"
+          }
+        },
+        {
+          "trip_id": "14010000670504295",
+          "service_id": "1015",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1015",
+            "start_date": "20241220",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000670504324",
+          "service_id": "1067",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1067",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000670504340",
+          "service_id": "59",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "59",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000670504188",
+          "service_id": "1015",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1015",
+            "start_date": "20241220",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000670504248",
+          "service_id": "1065",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1065",
+            "start_date": "20241216",
+            "end_date": "20250410"
+          }
+        },
+        {
+          "trip_id": "14010000670504172",
+          "service_id": "805",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "805",
+            "start_date": "20241221",
+            "end_date": "20250412"
+          }
+        },
+        {
+          "trip_id": "14010000670504357",
+          "service_id": "105",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "105",
+            "start_date": "20241225",
+            "end_date": "20241225"
+          }
+        },
+        {
+          "trip_id": "14010000670504391",
+          "service_id": "1021",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1021",
+            "start_date": "20241217",
+            "end_date": "20250408"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.082054",
+          "18.173464"
+        ],
+        [
+          "59.073629",
+          "18.177520"
+        ],
+        [
+          "59.068065",
+          "18.180040"
+        ],
+        [
+          "59.053008",
+          "18.201597"
+        ],
+        [
+          "59.043723",
+          "18.206477"
+        ],
+        [
+          "58.997360",
+          "18.291819"
+        ],
+        [
+          "58.979023",
+          "18.318865"
+        ],
+        [
+          "58.975487",
+          "18.325288"
+        ],
+        [
+          "58.974298",
+          "18.326311"
+        ],
+        [
+          "58.973556",
+          "18.326944"
+        ],
+        [
+          "58.972296",
+          "18.327954"
+        ],
+        [
+          "58.971121",
+          "18.326774"
+        ],
+        [
+          "58.970418",
+          "18.325113"
+        ],
+        [
+          "58.971121",
+          "18.326762"
+        ],
+        [
+          "58.972296",
+          "18.327954"
+        ],
+        [
+          "58.973556",
+          "18.326944"
+        ],
+        [
+          "58.974298",
+          "18.326311"
+        ],
+        [
+          "58.976059",
+          "18.324064"
+        ],
+        [
+          "58.969625",
+          "18.294288"
+        ],
+        [
+          "58.966090",
+          "18.294924"
+        ],
+        [
+          "58.961764",
+          "18.294842"
+        ],
+        [
+          "58.961706",
+          "18.293267"
+        ],
+        [
+          "58.961572",
+          "18.293399"
+        ],
+        [
+          "58.961179",
+          "18.293419"
+        ],
+        [
+          "58.959829",
+          "18.292506"
+        ],
+        [
+          "58.958673",
+          "18.293892"
+        ],
+        [
+          "58.957710",
+          "18.294356"
+        ],
+        [
+          "58.957605",
+          "18.294406"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000132173190",
+      "trips": [
+        {
+          "trip_id": "14010000667155728",
+          "service_id": "213",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "213",
+            "start_date": "20241119",
+            "end_date": "20241212"
+          }
+        },
+        {
+          "trip_id": "14010000667155848",
+          "service_id": "113",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "113",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000668571197",
+          "service_id": "532",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "532",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000668571403",
+          "service_id": "117",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "117",
+            "start_date": "20241118",
+            "end_date": "20241212"
+          }
+        },
+        {
+          "trip_id": "14010000670504405",
+          "service_id": "515",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "515",
+            "start_date": "20241216",
+            "end_date": "20250411"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.082054",
+          "18.173464"
+        ],
+        [
+          "59.073589",
+          "18.177676"
+        ],
+        [
+          "59.068065",
+          "18.180040"
+        ],
+        [
+          "59.053008",
+          "18.201597"
+        ],
+        [
+          "59.043723",
+          "18.206477"
+        ],
+        [
+          "59.035253",
+          "18.222277"
+        ],
+        [
+          "59.005955",
+          "18.267336"
+        ],
+        [
+          "58.966089",
+          "18.294923"
+        ],
+        [
+          "58.961761",
+          "18.294538"
+        ],
+        [
+          "58.959479",
+          "18.292493"
+        ],
+        [
+          "58.958348",
+          "18.294587"
+        ],
+        [
+          "58.957605",
+          "18.294406"
+        ],
+        [
+          "58.958674",
+          "18.293893"
+        ],
+        [
+          "58.959828",
+          "18.292505"
+        ],
+        [
+          "58.961179",
+          "18.293418"
+        ],
+        [
+          "58.961706",
+          "18.293267"
+        ],
+        [
+          "58.961808",
+          "18.294583"
+        ],
+        [
+          "58.965958",
+          "18.294753"
+        ],
+        [
+          "58.969625",
+          "18.294288"
+        ],
+        [
+          "58.976185",
+          "18.324568"
+        ],
+        [
+          "58.974298",
+          "18.326311"
+        ],
+        [
+          "58.973556",
+          "18.326944"
+        ],
+        [
+          "58.972296",
+          "18.327954"
+        ],
+        [
+          "58.971109",
+          "18.326798"
+        ],
+        [
+          "58.970418",
+          "18.325113"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000664918280",
+      "trips": [
+        {
+          "trip_id": "14010000668571430",
+          "service_id": "16",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "16",
+            "start_date": "20241117",
+            "end_date": "20241208"
+          }
+        },
+        {
+          "trip_id": "14010000668571417",
+          "service_id": "113",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "113",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000670504107",
+          "service_id": "23",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "23",
+            "start_date": "20241224",
+            "end_date": "20241224"
+          }
+        },
+        {
+          "trip_id": "14010000670504219",
+          "service_id": "1065",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1065",
+            "start_date": "20241216",
+            "end_date": "20250410"
+          }
+        },
+        {
+          "trip_id": "14010000670504233",
+          "service_id": "1021",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1021",
+            "start_date": "20241217",
+            "end_date": "20250408"
+          }
+        },
+        {
+          "trip_id": "14010000670504421",
+          "service_id": "1015",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1015",
+            "start_date": "20241220",
+            "end_date": "20250411"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.957605",
+          "18.294406"
+        ],
+        [
+          "58.958636",
+          "18.293917"
+        ],
+        [
+          "58.959878",
+          "18.292627"
+        ],
+        [
+          "58.961635",
+          "18.294647"
+        ],
+        [
+          "58.966090",
+          "18.294924"
+        ],
+        [
+          "59.006241",
+          "18.266894"
+        ],
+        [
+          "59.026820",
+          "18.235595"
+        ],
+        [
+          "59.043723",
+          "18.206478"
+        ],
+        [
+          "59.053008",
+          "18.201596"
+        ],
+        [
+          "59.068064",
+          "18.180040"
+        ],
+        [
+          "59.073738",
+          "18.177799"
+        ],
+        [
+          "59.081114",
+          "18.174870"
+        ],
+        [
+          "59.082054",
+          "18.173464"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000670504003",
+      "trips": [
+        {
+          "trip_id": "14010000670504141",
+          "service_id": "1013",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1013",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.957605",
+          "18.294406"
+        ],
+        [
+          "58.958674",
+          "18.293893"
+        ],
+        [
+          "58.959828",
+          "18.292505"
+        ],
+        [
+          "58.961179",
+          "18.293418"
+        ],
+        [
+          "58.961706",
+          "18.293267"
+        ],
+        [
+          "58.961808",
+          "18.294583"
+        ],
+        [
+          "58.965958",
+          "18.294753"
+        ],
+        [
+          "58.969625",
+          "18.294288"
+        ],
+        [
+          "58.976185",
+          "18.324568"
+        ],
+        [
+          "58.974298",
+          "18.326311"
+        ],
+        [
+          "58.973556",
+          "18.326944"
+        ],
+        [
+          "58.972296",
+          "18.327954"
+        ],
+        [
+          "58.971109",
+          "18.326798"
+        ],
+        [
+          "58.970418",
+          "18.325113"
+        ],
+        [
+          "58.971146",
+          "18.326774"
+        ],
+        [
+          "58.972296",
+          "18.327954"
+        ],
+        [
+          "58.973556",
+          "18.326944"
+        ],
+        [
+          "58.974298",
+          "18.326311"
+        ],
+        [
+          "58.976046",
+          "18.324283"
+        ],
+        [
+          "58.979182",
+          "18.318729"
+        ],
+        [
+          "58.997360",
+          "18.291819"
+        ],
+        [
+          "59.043723",
+          "18.206477"
+        ],
+        [
+          "59.053008",
+          "18.201597"
+        ],
+        [
+          "59.068065",
+          "18.180040"
+        ],
+        [
+          "59.075656",
+          "18.177128"
+        ],
+        [
+          "59.081114",
+          "18.174870"
+        ],
+        [
+          "59.082054",
+          "18.173464"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000178786416",
+      "trips": [
+        {
+          "trip_id": "14010000670504156",
+          "service_id": "1013",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1013",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.082054",
+          "18.173464"
+        ],
+        [
+          "59.073589",
+          "18.177676"
+        ],
+        [
+          "59.068065",
+          "18.180040"
+        ],
+        [
+          "59.053008",
+          "18.201597"
+        ],
+        [
+          "59.043723",
+          "18.206477"
+        ],
+        [
+          "59.035253",
+          "18.222277"
+        ],
+        [
+          "59.005955",
+          "18.267336"
+        ],
+        [
+          "58.966089",
+          "18.294923"
+        ],
+        [
+          "58.961761",
+          "18.294538"
+        ],
+        [
+          "58.959479",
+          "18.292493"
+        ],
+        [
+          "58.958348",
+          "18.294587"
+        ],
+        [
+          "58.957605",
+          "18.294406"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000121155422",
+      "trips": [
+        {
+          "trip_id": "14010000646216927",
+          "service_id": "1031",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1031",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000646216944",
+          "service_id": "60",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "60",
+            "start_date": "20241215",
+            "end_date": "20250413"
+          }
+        },
+        {
+          "trip_id": "14010000646216961",
+          "service_id": "809",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "809",
+            "start_date": "20241221",
+            "end_date": "20250412"
+          }
+        },
+        {
+          "trip_id": "14010000647150173",
+          "service_id": "1066",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1066",
+            "start_date": "20241216",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000647150190",
+          "service_id": "1021",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1021",
+            "start_date": "20241217",
+            "end_date": "20250408"
+          }
+        },
+        {
+          "trip_id": "14010000654845538",
+          "service_id": "213",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "213",
+            "start_date": "20241119",
+            "end_date": "20241212"
+          }
+        },
+        {
+          "trip_id": "14010000654845555",
+          "service_id": "532",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "532",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000654845589",
+          "service_id": "529",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "529",
+            "start_date": "20241121",
+            "end_date": "20241212"
+          }
+        },
+        {
+          "trip_id": "14010000654845610",
+          "service_id": "10",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "10",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000654845627",
+          "service_id": "10",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "10",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000654845502",
+          "service_id": "532",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "532",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000654845572",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20241115",
+            "end_date": "20241213"
+          }
+        },
+        {
+          "trip_id": "14010000654845661",
+          "service_id": "10",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "10",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000654845644",
+          "service_id": "16",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "16",
+            "start_date": "20241117",
+            "end_date": "20241208"
+          }
+        },
+        {
+          "trip_id": "14010000658009663",
+          "service_id": "10",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "10",
+            "start_date": "20241116",
+            "end_date": "20241214"
+          }
+        },
+        {
+          "trip_id": "14010000664918902",
+          "service_id": "16",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "16",
+            "start_date": "20241117",
+            "end_date": "20241208"
+          }
+        },
+        {
+          "trip_id": "14010000664918919",
+          "service_id": "16",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "16",
+            "start_date": "20241117",
+            "end_date": "20241208"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.957605",
+          "18.294406"
+        ],
+        [
+          "58.958674",
+          "18.293893"
+        ],
+        [
+          "58.959828",
+          "18.292505"
+        ],
+        [
+          "58.961179",
+          "18.293418"
+        ],
+        [
+          "58.961706",
+          "18.293267"
+        ],
+        [
+          "58.961808",
+          "18.294583"
+        ],
+        [
+          "58.965958",
+          "18.294753"
+        ],
+        [
+          "58.969625",
+          "18.294288"
+        ],
+        [
+          "58.976185",
+          "18.324568"
+        ],
+        [
+          "58.974298",
+          "18.326311"
+        ],
+        [
+          "58.973556",
+          "18.326944"
+        ],
+        [
+          "58.972296",
+          "18.327954"
+        ],
+        [
+          "58.971109",
+          "18.326798"
+        ],
+        [
+          "58.970418",
+          "18.325113"
+        ],
+        [
+          "58.971146",
+          "18.326774"
+        ],
+        [
+          "58.972296",
+          "18.327954"
+        ],
+        [
+          "58.973556",
+          "18.326944"
+        ],
+        [
+          "58.974298",
+          "18.326311"
+        ],
+        [
+          "58.976046",
+          "18.324283"
+        ],
+        [
+          "58.979182",
+          "18.318729"
+        ],
+        [
+          "58.997360",
+          "18.291819"
+        ],
+        [
+          "59.043723",
+          "18.206477"
+        ],
+        [
+          "59.053008",
+          "18.201597"
+        ],
+        [
+          "59.068065",
+          "18.180040"
+        ],
+        [
+          "59.075656",
+          "18.177128"
+        ],
+        [
+          "59.081114",
+          "18.174870"
+        ],
+        [
+          "59.082054",
+          "18.173464"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000208561161",
+      "trips": [
+        {
+          "trip_id": "14010000646217116",
+          "service_id": "515",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "515",
+            "start_date": "20241216",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000670504456",
+          "service_id": "1002",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1002",
+            "start_date": "20241219",
+            "end_date": "20250410"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.957605",
+          "18.294406"
+        ],
+        [
+          "58.958674",
+          "18.293893"
+        ],
+        [
+          "58.959828",
+          "18.292505"
+        ],
+        [
+          "58.961179",
+          "18.293418"
+        ],
+        [
+          "58.961706",
+          "18.293267"
+        ],
+        [
+          "58.961765",
+          "18.294997"
+        ],
+        [
+          "58.966090",
+          "18.294924"
+        ],
+        [
+          "59.006241",
+          "18.266894"
+        ],
+        [
+          "59.026820",
+          "18.235595"
+        ],
+        [
+          "59.043723",
+          "18.206478"
+        ],
+        [
+          "59.053008",
+          "18.201596"
+        ],
+        [
+          "59.068064",
+          "18.180040"
+        ],
+        [
+          "59.073738",
+          "18.177799"
+        ],
+        [
+          "59.081114",
+          "18.174870"
+        ],
+        [
+          "59.082054",
+          "18.173464"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000121155460",
+      "trips": [
+        {
+          "trip_id": "14010000647150225",
+          "service_id": "1021",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1021",
+            "start_date": "20241217",
+            "end_date": "20250408"
+          }
+        },
+        {
+          "trip_id": "14010000646217066",
+          "service_id": "1066",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "1066",
+            "start_date": "20241216",
+            "end_date": "20250411"
+          }
+        },
+        {
+          "trip_id": "14010000654845519",
+          "service_id": "117",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000203001",
+              "stop_name": "N\u00e4sudden",
+              "stop_lat": "58.961706",
+              "stop_lon": "18.293267",
+              "location_type": "0",
+              "parent_station": "9021001000203000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000201001",
+              "stop_name": "\u00c5rsta brygga",
+              "stop_lat": "59.082054",
+              "stop_lon": "18.173464",
+              "location_type": "0",
+              "parent_station": "9021001000201000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "117",
+            "start_date": "20241118",
+            "end_date": "20241212"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.970418",
+          "18.325113"
+        ],
+        [
+          "58.971121",
+          "18.326762"
+        ],
+        [
+          "58.972296",
+          "18.327954"
+        ],
+        [
+          "58.973556",
+          "18.326944"
+        ],
+        [
+          "58.974298",
+          "18.326311"
+        ],
+        [
+          "58.976059",
+          "18.324064"
+        ],
+        [
+          "58.969625",
+          "18.294288"
+        ],
+        [
+          "58.966090",
+          "18.294924"
+        ],
+        [
+          "58.961764",
+          "18.294842"
+        ],
+        [
+          "58.961706",
+          "18.293267"
+        ],
+        [
+          "58.961572",
+          "18.293399"
+        ],
+        [
+          "58.961179",
+          "18.293419"
+        ],
+        [
+          "58.959829",
+          "18.292506"
+        ],
+        [
+          "58.958673",
+          "18.293892"
+        ],
+        [
+          "58.957710",
+          "18.294356"
+        ],
+        [
+          "58.957605",
+          "18.294406"
+        ],
+        [
+          "58.958636",
+          "18.293917"
+        ],
+        [
+          "58.959878",
+          "18.292627"
+        ],
+        [
+          "58.961635",
+          "18.294647"
+        ],
+        [
+          "58.966090",
+          "18.294924"
+        ],
+        [
+          "59.006241",
+          "18.266894"
+        ],
+        [
+          "59.026820",
+          "18.235595"
+        ],
+        [
+          "59.043723",
+          "18.206478"
+        ],
+        [
+          "59.053008",
+          "18.201596"
+        ],
+        [
+          "59.068064",
+          "18.180040"
+        ],
+        [
+          "59.073738",
+          "18.177799"
+        ],
+        [
+          "59.081114",
+          "18.174870"
+        ],
+        [
+          "59.082054",
+          "18.173464"
+        ]
+      ]
+    },
+    {
+      "shape_id": "6014010000469848637",
+      "trips": [
+        {
+          "trip_id": "14010000651311951",
+          "service_id": "515",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001000202001",
+              "stop_name": "Gruvbryggan",
+              "stop_lat": "58.970418",
+              "stop_lon": "18.325113",
+              "location_type": "0",
+              "parent_station": "9021001000202000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001000204001",
+              "stop_name": "Spr\u00e4nga",
+              "stop_lat": "58.957605",
+              "stop_lon": "18.294406",
+              "location_type": "0",
+              "parent_station": "9021001000204000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "515",
+            "start_date": "20241216",
+            "end_date": "20250411"
+          }
+        }
+      ],
+      "points": [
+        [
+          "58.970418",
+          "18.325113"
+        ],
+        [
+          "58.971134",
+          "18.326786"
+        ],
+        [
+          "58.972296",
+          "18.327954"
+        ],
+        [
+          "58.973556",
+          "18.326944"
+        ],
+        [
+          "58.974298",
+          "18.326311"
+        ],
+        [
+          "58.976059",
+          "18.324064"
+        ],
+        [
+          "58.969625",
+          "18.294288"
+        ],
+        [
+          "58.966090",
+          "18.294924"
+        ],
+        [
+          "58.961635",
+          "18.294647"
+        ],
+        [
+          "58.959878",
+          "18.292627"
+        ],
+        [
+          "58.958636",
+          "18.293917"
+        ],
+        [
+          "58.957605",
+          "18.294406"
+        ]
+      ]
+    }
+  ]
+}

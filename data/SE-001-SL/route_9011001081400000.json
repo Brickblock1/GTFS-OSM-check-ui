@@ -1,0 +1,2913 @@
+{
+  "feed_version": "2024-11-18",
+  "route_id": "9011001081400000",
+  "agency_id": "14010000000001001",
+  "route_short_name": "814",
+  "route_long_name": "",
+  "route_type": "700",
+  "route_desc": "",
+  "shapes": [
+    {
+      "shape_id": "1014010000577667337",
+      "trips": [
+        {
+          "trip_id": "14010000597098249",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011725013",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.297537",
+              "stop_lon": "18.082114",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "U"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602004",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.260966",
+              "stop_lon": "18.115783",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004003",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251624",
+              "stop_lon": "18.174009",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179001",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.247603",
+              "stop_lon": "18.178261",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193001",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246694",
+              "stop_lon": "18.187678",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000597098797",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011725013",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.297537",
+              "stop_lon": "18.082114",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "U"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602004",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.260966",
+              "stop_lon": "18.115783",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004003",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251624",
+              "stop_lon": "18.174009",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179001",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.247603",
+              "stop_lon": "18.178261",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193001",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246694",
+              "stop_lon": "18.187678",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000597095530",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011725013",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.297537",
+              "stop_lon": "18.082114",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "U"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602004",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.260966",
+              "stop_lon": "18.115783",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004003",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251624",
+              "stop_lon": "18.174009",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179001",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.247603",
+              "stop_lon": "18.178261",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193001",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246694",
+              "stop_lon": "18.187678",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000597097043",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011725013",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.297537",
+              "stop_lon": "18.082114",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "U"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602004",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.260966",
+              "stop_lon": "18.115783",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004003",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251624",
+              "stop_lon": "18.174009",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179001",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.247603",
+              "stop_lon": "18.178261",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193001",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246694",
+              "stop_lon": "18.187678",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000597099317",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011725013",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.297537",
+              "stop_lon": "18.082114",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "U"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602004",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.260966",
+              "stop_lon": "18.115783",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004003",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251624",
+              "stop_lon": "18.174009",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179001",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.247603",
+              "stop_lon": "18.178261",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193001",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246694",
+              "stop_lon": "18.187678",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000597099874",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011725013",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.297537",
+              "stop_lon": "18.082114",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "U"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602004",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.260966",
+              "stop_lon": "18.115783",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004003",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251624",
+              "stop_lon": "18.174009",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179001",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.247603",
+              "stop_lon": "18.178261",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193001",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246694",
+              "stop_lon": "18.187678",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000597100465",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011725013",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.297537",
+              "stop_lon": "18.082114",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "U"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602004",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.260966",
+              "stop_lon": "18.115783",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004003",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251624",
+              "stop_lon": "18.174009",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179001",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.247603",
+              "stop_lon": "18.178261",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193001",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246694",
+              "stop_lon": "18.187678",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000597094765",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011725013",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.297537",
+              "stop_lon": "18.082114",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "U"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602004",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.260966",
+              "stop_lon": "18.115783",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004003",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251624",
+              "stop_lon": "18.174009",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179001",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.247603",
+              "stop_lon": "18.178261",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193001",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246694",
+              "stop_lon": "18.187678",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000597096443",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011725013",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.297537",
+              "stop_lon": "18.082114",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "U"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602004",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.260966",
+              "stop_lon": "18.115783",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004003",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251624",
+              "stop_lon": "18.174009",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179001",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.247603",
+              "stop_lon": "18.178261",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193001",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246694",
+              "stop_lon": "18.187678",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000597097618",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001011725013",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.297537",
+              "stop_lon": "18.082114",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "U"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602004",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.260966",
+              "stop_lon": "18.115783",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004003",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251624",
+              "stop_lon": "18.174009",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179001",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.247603",
+              "stop_lon": "18.178261",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193001",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246694",
+              "stop_lon": "18.187678",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.297537",
+          "18.082114"
+        ],
+        [
+          "59.297569",
+          "18.082239"
+        ],
+        [
+          "59.297721",
+          "18.082252"
+        ],
+        [
+          "59.297832",
+          "18.082678"
+        ],
+        [
+          "59.296907",
+          "18.083306"
+        ],
+        [
+          "59.295212",
+          "18.084399"
+        ],
+        [
+          "59.294133",
+          "18.085072"
+        ],
+        [
+          "59.292843",
+          "18.085727"
+        ],
+        [
+          "59.291155",
+          "18.086523"
+        ],
+        [
+          "59.289987",
+          "18.087129"
+        ],
+        [
+          "59.288820",
+          "18.087735"
+        ],
+        [
+          "59.288551",
+          "18.087533"
+        ],
+        [
+          "59.288243",
+          "18.087742"
+        ],
+        [
+          "59.287406",
+          "18.088497"
+        ],
+        [
+          "59.285505",
+          "18.089273"
+        ],
+        [
+          "59.283450",
+          "18.090214"
+        ],
+        [
+          "59.282099",
+          "18.090863"
+        ],
+        [
+          "59.279743",
+          "18.091657"
+        ],
+        [
+          "59.277540",
+          "18.092406"
+        ],
+        [
+          "59.275429",
+          "18.093104"
+        ],
+        [
+          "59.273930",
+          "18.093620"
+        ],
+        [
+          "59.271697",
+          "18.094366"
+        ],
+        [
+          "59.269640",
+          "18.095365"
+        ],
+        [
+          "59.267702",
+          "18.096434"
+        ],
+        [
+          "59.265550",
+          "18.097602"
+        ],
+        [
+          "59.263650",
+          "18.098378"
+        ],
+        [
+          "59.262434",
+          "18.098446"
+        ],
+        [
+          "59.261923",
+          "18.098221"
+        ],
+        [
+          "59.261743",
+          "18.098146"
+        ],
+        [
+          "59.261499",
+          "18.098183"
+        ],
+        [
+          "59.261312",
+          "18.098403"
+        ],
+        [
+          "59.261030",
+          "18.098792"
+        ],
+        [
+          "59.260629",
+          "18.099052"
+        ],
+        [
+          "59.260108",
+          "18.099242"
+        ],
+        [
+          "59.259931",
+          "18.099048"
+        ],
+        [
+          "59.259818",
+          "18.098682"
+        ],
+        [
+          "59.259832",
+          "18.098090"
+        ],
+        [
+          "59.259841",
+          "18.097736"
+        ],
+        [
+          "59.260027",
+          "18.097575"
+        ],
+        [
+          "59.260357",
+          "18.097723"
+        ],
+        [
+          "59.260466",
+          "18.098267"
+        ],
+        [
+          "59.261040",
+          "18.102172"
+        ],
+        [
+          "59.261127",
+          "18.103602"
+        ],
+        [
+          "59.261164",
+          "18.104613"
+        ],
+        [
+          "59.261073",
+          "18.110947"
+        ],
+        [
+          "59.261059",
+          "18.114087"
+        ],
+        [
+          "59.260991",
+          "18.114378"
+        ],
+        [
+          "59.260927",
+          "18.115794"
+        ],
+        [
+          "59.260966",
+          "18.115783"
+        ],
+        [
+          "59.260898",
+          "18.115736"
+        ],
+        [
+          "59.261148",
+          "18.116576"
+        ],
+        [
+          "59.261289",
+          "18.117885"
+        ],
+        [
+          "59.261462",
+          "18.118862"
+        ],
+        [
+          "59.261683",
+          "18.119891"
+        ],
+        [
+          "59.262086",
+          "18.121561"
+        ],
+        [
+          "59.262510",
+          "18.123377"
+        ],
+        [
+          "59.262795",
+          "18.124796"
+        ],
+        [
+          "59.262844",
+          "18.125857"
+        ],
+        [
+          "59.262804",
+          "18.127487"
+        ],
+        [
+          "59.262556",
+          "18.128617"
+        ],
+        [
+          "59.262199",
+          "18.130169"
+        ],
+        [
+          "59.262032",
+          "18.130970"
+        ],
+        [
+          "59.261894",
+          "18.131582"
+        ],
+        [
+          "59.261794",
+          "18.132678"
+        ],
+        [
+          "59.261700",
+          "18.133534"
+        ],
+        [
+          "59.261678",
+          "18.134444"
+        ],
+        [
+          "59.261749",
+          "18.135556"
+        ],
+        [
+          "59.262041",
+          "18.136735"
+        ],
+        [
+          "59.262240",
+          "18.137666"
+        ],
+        [
+          "59.262587",
+          "18.138563"
+        ],
+        [
+          "59.263104",
+          "18.139571"
+        ],
+        [
+          "59.263942",
+          "18.141522"
+        ],
+        [
+          "59.264213",
+          "18.142507"
+        ],
+        [
+          "59.264506",
+          "18.143639"
+        ],
+        [
+          "59.264547",
+          "18.144988"
+        ],
+        [
+          "59.264490",
+          "18.146328"
+        ],
+        [
+          "59.264157",
+          "18.147882"
+        ],
+        [
+          "59.263830",
+          "18.149197"
+        ],
+        [
+          "59.263487",
+          "18.150174"
+        ],
+        [
+          "59.263043",
+          "18.151238"
+        ],
+        [
+          "59.262445",
+          "18.152576"
+        ],
+        [
+          "59.262074",
+          "18.153646"
+        ],
+        [
+          "59.261649",
+          "18.154952"
+        ],
+        [
+          "59.261323",
+          "18.156219"
+        ],
+        [
+          "59.260692",
+          "18.158946"
+        ],
+        [
+          "59.259530",
+          "18.162201"
+        ],
+        [
+          "59.258565",
+          "18.164464"
+        ],
+        [
+          "59.257732",
+          "18.166356"
+        ],
+        [
+          "59.256858",
+          "18.167908"
+        ],
+        [
+          "59.256171",
+          "18.168853"
+        ],
+        [
+          "59.255019",
+          "18.169706"
+        ],
+        [
+          "59.253959",
+          "18.169800"
+        ],
+        [
+          "59.253273",
+          "18.169688"
+        ],
+        [
+          "59.252689",
+          "18.169442"
+        ],
+        [
+          "59.251852",
+          "18.168452"
+        ],
+        [
+          "59.251422",
+          "18.167931"
+        ],
+        [
+          "59.251324",
+          "18.167922"
+        ],
+        [
+          "59.251087",
+          "18.168573"
+        ],
+        [
+          "59.250984",
+          "18.169763"
+        ],
+        [
+          "59.251172",
+          "18.171126"
+        ],
+        [
+          "59.251460",
+          "18.172449"
+        ],
+        [
+          "59.251517",
+          "18.173126"
+        ],
+        [
+          "59.251598",
+          "18.173854"
+        ],
+        [
+          "59.251624",
+          "18.174009"
+        ],
+        [
+          "59.251635",
+          "18.174003"
+        ],
+        [
+          "59.251645",
+          "18.174070"
+        ],
+        [
+          "59.251717",
+          "18.174546"
+        ],
+        [
+          "59.251723",
+          "18.174589"
+        ],
+        [
+          "59.251763",
+          "18.174833"
+        ],
+        [
+          "59.251792",
+          "18.175020"
+        ],
+        [
+          "59.251630",
+          "18.175109"
+        ],
+        [
+          "59.251417",
+          "18.175227"
+        ],
+        [
+          "59.251390",
+          "18.175241"
+        ],
+        [
+          "59.251157",
+          "18.175336"
+        ],
+        [
+          "59.250945",
+          "18.175332"
+        ],
+        [
+          "59.250590",
+          "18.175262"
+        ],
+        [
+          "59.250535",
+          "18.175252"
+        ],
+        [
+          "59.250470",
+          "18.175239"
+        ],
+        [
+          "59.250319",
+          "18.175208"
+        ],
+        [
+          "59.250156",
+          "18.175201"
+        ],
+        [
+          "59.249980",
+          "18.175222"
+        ],
+        [
+          "59.249860",
+          "18.175265"
+        ],
+        [
+          "59.249716",
+          "18.175332"
+        ],
+        [
+          "59.249578",
+          "18.175429"
+        ],
+        [
+          "59.249442",
+          "18.175541"
+        ],
+        [
+          "59.249304",
+          "18.175688"
+        ],
+        [
+          "59.249142",
+          "18.175886"
+        ],
+        [
+          "59.248919",
+          "18.176222"
+        ],
+        [
+          "59.248673",
+          "18.176648"
+        ],
+        [
+          "59.248528",
+          "18.176868"
+        ],
+        [
+          "59.248261",
+          "18.177306"
+        ],
+        [
+          "59.247986",
+          "18.177742"
+        ],
+        [
+          "59.247726",
+          "18.178132"
+        ],
+        [
+          "59.247606",
+          "18.178295"
+        ],
+        [
+          "59.247515",
+          "18.178417"
+        ],
+        [
+          "59.247401",
+          "18.178557"
+        ],
+        [
+          "59.247315",
+          "18.178662"
+        ],
+        [
+          "59.247067",
+          "18.178921"
+        ],
+        [
+          "59.246839",
+          "18.179161"
+        ],
+        [
+          "59.246731",
+          "18.179303"
+        ],
+        [
+          "59.246654",
+          "18.179366"
+        ],
+        [
+          "59.246472",
+          "18.179751"
+        ],
+        [
+          "59.246309",
+          "18.180189"
+        ],
+        [
+          "59.246202",
+          "18.180749"
+        ],
+        [
+          "59.246090",
+          "18.181856"
+        ],
+        [
+          "59.245990",
+          "18.182826"
+        ],
+        [
+          "59.245990",
+          "18.183304"
+        ],
+        [
+          "59.246036",
+          "18.183893"
+        ],
+        [
+          "59.246223",
+          "18.184688"
+        ],
+        [
+          "59.246375",
+          "18.185389"
+        ],
+        [
+          "59.246428",
+          "18.185849"
+        ],
+        [
+          "59.246472",
+          "18.186229"
+        ],
+        [
+          "59.246562",
+          "18.187022"
+        ],
+        [
+          "59.246648",
+          "18.187438"
+        ],
+        [
+          "59.246709",
+          "18.187632"
+        ],
+        [
+          "59.246694",
+          "18.187678"
+        ],
+        [
+          "59.246694",
+          "18.187629"
+        ],
+        [
+          "59.247060",
+          "18.188648"
+        ],
+        [
+          "59.247545",
+          "18.190003"
+        ],
+        [
+          "59.247755",
+          "18.190474"
+        ],
+        [
+          "59.247983",
+          "18.190868"
+        ],
+        [
+          "59.248222",
+          "18.191263"
+        ],
+        [
+          "59.248288",
+          "18.191375"
+        ],
+        [
+          "59.248235",
+          "18.191570"
+        ],
+        [
+          "59.248265",
+          "18.191739"
+        ],
+        [
+          "59.248314",
+          "18.191823"
+        ],
+        [
+          "59.248414",
+          "18.191892"
+        ],
+        [
+          "59.248494",
+          "18.191847"
+        ],
+        [
+          "59.248538",
+          "18.191731"
+        ],
+        [
+          "59.248564",
+          "18.191627"
+        ],
+        [
+          "59.248566",
+          "18.191534"
+        ],
+        [
+          "59.248494",
+          "18.191282"
+        ],
+        [
+          "59.248844",
+          "18.190330"
+        ],
+        [
+          "59.249015",
+          "18.190313"
+        ],
+        [
+          "59.249024",
+          "18.190334"
+        ]
+      ]
+    },
+    {
+      "shape_id": "1014010000577667012",
+      "trips": [
+        {
+          "trip_id": "14010000597083369",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193002",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246566",
+              "stop_lon": "18.186613",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179002",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.248181",
+              "stop_lon": "18.177575",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004002",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251698",
+              "stop_lon": "18.173713",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602003",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.261571",
+              "stop_lon": "18.117933",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011725009",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.298370",
+              "stop_lon": "18.081838",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000597086394",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193002",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246566",
+              "stop_lon": "18.186613",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179002",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.248181",
+              "stop_lon": "18.177575",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004002",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251698",
+              "stop_lon": "18.173713",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602003",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.261571",
+              "stop_lon": "18.117933",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011725009",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.298370",
+              "stop_lon": "18.081838",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000597087931",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193002",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246566",
+              "stop_lon": "18.186613",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179002",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.248181",
+              "stop_lon": "18.177575",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004002",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251698",
+              "stop_lon": "18.173713",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602003",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.261571",
+              "stop_lon": "18.117933",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011725009",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.298370",
+              "stop_lon": "18.081838",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000597082878",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193002",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246566",
+              "stop_lon": "18.186613",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179002",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.248181",
+              "stop_lon": "18.177575",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004002",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251698",
+              "stop_lon": "18.173713",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602003",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.261571",
+              "stop_lon": "18.117933",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011725009",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.298370",
+              "stop_lon": "18.081838",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000597084023",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193002",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246566",
+              "stop_lon": "18.186613",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179002",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.248181",
+              "stop_lon": "18.177575",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004002",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251698",
+              "stop_lon": "18.173713",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602003",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.261571",
+              "stop_lon": "18.117933",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011725009",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.298370",
+              "stop_lon": "18.081838",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000597087472",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193002",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246566",
+              "stop_lon": "18.186613",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179002",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.248181",
+              "stop_lon": "18.177575",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004002",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251698",
+              "stop_lon": "18.173713",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602003",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.261571",
+              "stop_lon": "18.117933",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011725009",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.298370",
+              "stop_lon": "18.081838",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000597086966",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193002",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246566",
+              "stop_lon": "18.186613",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179002",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.248181",
+              "stop_lon": "18.177575",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004002",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251698",
+              "stop_lon": "18.173713",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602003",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.261571",
+              "stop_lon": "18.117933",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011725009",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.298370",
+              "stop_lon": "18.081838",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000605544269",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193002",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246566",
+              "stop_lon": "18.186613",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179002",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.248181",
+              "stop_lon": "18.177575",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004002",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251698",
+              "stop_lon": "18.173713",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602003",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.261571",
+              "stop_lon": "18.117933",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011725009",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.298370",
+              "stop_lon": "18.081838",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000605543681",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193002",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246566",
+              "stop_lon": "18.186613",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179002",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.248181",
+              "stop_lon": "18.177575",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004002",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251698",
+              "stop_lon": "18.173713",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602003",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.261571",
+              "stop_lon": "18.117933",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011725009",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.298370",
+              "stop_lon": "18.081838",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        },
+        {
+          "trip_id": "14010000605544922",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022001080195001",
+              "stop_name": "Hedvigslunds torg",
+              "stop_lat": "59.249024",
+              "stop_lon": "18.190334",
+              "location_type": "0",
+              "parent_station": "9021001080195000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080193002",
+              "stop_name": "Buxbomsv\u00e4gen",
+              "stop_lat": "59.246566",
+              "stop_lon": "18.186613",
+              "location_type": "0",
+              "parent_station": "9021001080193000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001080179002",
+              "stop_name": "Tibastv\u00e4gen",
+              "stop_lat": "59.248181",
+              "stop_lon": "18.177575",
+              "location_type": "0",
+              "parent_station": "9021001080179000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001040004002",
+              "stop_name": "Ekstubben",
+              "stop_lat": "59.251698",
+              "stop_lon": "18.173713",
+              "location_type": "0",
+              "parent_station": "9021001040004000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022001013602003",
+              "stop_name": "Norra Sk\u00f6ndal",
+              "stop_lat": "59.261571",
+              "stop_lon": "18.117933",
+              "location_type": "0",
+              "parent_station": "9021001013602000",
+              "platform_code": ""
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022001011725009",
+              "stop_name": "Gullmarsplan",
+              "stop_lat": "59.298370",
+              "stop_lon": "18.081838",
+              "location_type": "0",
+              "parent_station": "9021001011725000",
+              "platform_code": "Z"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20241115",
+            "end_date": "20250619"
+          }
+        }
+      ],
+      "points": [
+        [
+          "59.249024",
+          "18.190334"
+        ],
+        [
+          "59.248901",
+          "18.190157"
+        ],
+        [
+          "59.249000",
+          "18.189890"
+        ],
+        [
+          "59.249005",
+          "18.189876"
+        ],
+        [
+          "59.248870",
+          "18.190241"
+        ],
+        [
+          "59.248799",
+          "18.190445"
+        ],
+        [
+          "59.248760",
+          "18.190556"
+        ],
+        [
+          "59.248666",
+          "18.190820"
+        ],
+        [
+          "59.248554",
+          "18.191130"
+        ],
+        [
+          "59.248503",
+          "18.191300"
+        ],
+        [
+          "59.248476",
+          "18.191268"
+        ],
+        [
+          "59.248446",
+          "18.191247"
+        ],
+        [
+          "59.248414",
+          "18.191238"
+        ],
+        [
+          "59.248382",
+          "18.191241"
+        ],
+        [
+          "59.248351",
+          "18.191256"
+        ],
+        [
+          "59.248322",
+          "18.191283"
+        ],
+        [
+          "59.248296",
+          "18.191321"
+        ],
+        [
+          "59.248274",
+          "18.191367"
+        ],
+        [
+          "59.248233",
+          "18.191289"
+        ],
+        [
+          "59.248161",
+          "18.191154"
+        ],
+        [
+          "59.248035",
+          "18.190941"
+        ],
+        [
+          "59.247915",
+          "18.190732"
+        ],
+        [
+          "59.247876",
+          "18.190654"
+        ],
+        [
+          "59.247758",
+          "18.190460"
+        ],
+        [
+          "59.247646",
+          "18.190211"
+        ],
+        [
+          "59.247545",
+          "18.189968"
+        ],
+        [
+          "59.247359",
+          "18.189477"
+        ],
+        [
+          "59.247046",
+          "18.188618"
+        ],
+        [
+          "59.246808",
+          "18.187947"
+        ],
+        [
+          "59.246648",
+          "18.187438"
+        ],
+        [
+          "59.246562",
+          "18.187022"
+        ],
+        [
+          "59.246519",
+          "18.186643"
+        ],
+        [
+          "59.246472",
+          "18.186229"
+        ],
+        [
+          "59.246428",
+          "18.185849"
+        ],
+        [
+          "59.246375",
+          "18.185389"
+        ],
+        [
+          "59.246223",
+          "18.184688"
+        ],
+        [
+          "59.246036",
+          "18.183893"
+        ],
+        [
+          "59.245990",
+          "18.183304"
+        ],
+        [
+          "59.245990",
+          "18.182826"
+        ],
+        [
+          "59.246090",
+          "18.181856"
+        ],
+        [
+          "59.246202",
+          "18.180749"
+        ],
+        [
+          "59.246309",
+          "18.180189"
+        ],
+        [
+          "59.246472",
+          "18.179751"
+        ],
+        [
+          "59.246654",
+          "18.179366"
+        ],
+        [
+          "59.246731",
+          "18.179303"
+        ],
+        [
+          "59.246839",
+          "18.179161"
+        ],
+        [
+          "59.247067",
+          "18.178921"
+        ],
+        [
+          "59.247315",
+          "18.178662"
+        ],
+        [
+          "59.247401",
+          "18.178557"
+        ],
+        [
+          "59.247515",
+          "18.178417"
+        ],
+        [
+          "59.247726",
+          "18.178132"
+        ],
+        [
+          "59.247986",
+          "18.177742"
+        ],
+        [
+          "59.248141",
+          "18.177496"
+        ],
+        [
+          "59.248261",
+          "18.177306"
+        ],
+        [
+          "59.248528",
+          "18.176868"
+        ],
+        [
+          "59.248673",
+          "18.176648"
+        ],
+        [
+          "59.248919",
+          "18.176222"
+        ],
+        [
+          "59.249142",
+          "18.175886"
+        ],
+        [
+          "59.249304",
+          "18.175688"
+        ],
+        [
+          "59.249442",
+          "18.175541"
+        ],
+        [
+          "59.249578",
+          "18.175429"
+        ],
+        [
+          "59.249716",
+          "18.175332"
+        ],
+        [
+          "59.249860",
+          "18.175265"
+        ],
+        [
+          "59.249980",
+          "18.175222"
+        ],
+        [
+          "59.250156",
+          "18.175201"
+        ],
+        [
+          "59.250319",
+          "18.175208"
+        ],
+        [
+          "59.250470",
+          "18.175239"
+        ],
+        [
+          "59.250519",
+          "18.175249"
+        ],
+        [
+          "59.250535",
+          "18.175252"
+        ],
+        [
+          "59.250554",
+          "18.175255"
+        ],
+        [
+          "59.250584",
+          "18.175261"
+        ],
+        [
+          "59.250590",
+          "18.175262"
+        ],
+        [
+          "59.250945",
+          "18.175332"
+        ],
+        [
+          "59.251157",
+          "18.175336"
+        ],
+        [
+          "59.251390",
+          "18.175241"
+        ],
+        [
+          "59.251417",
+          "18.175227"
+        ],
+        [
+          "59.251630",
+          "18.175109"
+        ],
+        [
+          "59.251792",
+          "18.175020"
+        ],
+        [
+          "59.251877",
+          "18.174974"
+        ],
+        [
+          "59.251818",
+          "18.174678"
+        ],
+        [
+          "59.251739",
+          "18.174167"
+        ],
+        [
+          "59.251669",
+          "18.173688"
+        ],
+        [
+          "59.251698",
+          "18.173713"
+        ],
+        [
+          "59.251632",
+          "18.173861"
+        ],
+        [
+          "59.251493",
+          "18.172788"
+        ],
+        [
+          "59.251134",
+          "18.172985"
+        ],
+        [
+          "59.250923",
+          "18.172920"
+        ],
+        [
+          "59.250765",
+          "18.172629"
+        ],
+        [
+          "59.250682",
+          "18.172160"
+        ],
+        [
+          "59.250818",
+          "18.171435"
+        ],
+        [
+          "59.251138",
+          "18.170866"
+        ],
+        [
+          "59.252571",
+          "18.170170"
+        ],
+        [
+          "59.254108",
+          "18.170037"
+        ],
+        [
+          "59.255512",
+          "18.169568"
+        ],
+        [
+          "59.256550",
+          "18.168605"
+        ],
+        [
+          "59.257431",
+          "18.167304"
+        ],
+        [
+          "59.258497",
+          "18.165191"
+        ],
+        [
+          "59.259980",
+          "18.161458"
+        ],
+        [
+          "59.260719",
+          "18.159222"
+        ],
+        [
+          "59.261317",
+          "18.156927"
+        ],
+        [
+          "59.262407",
+          "18.153848"
+        ],
+        [
+          "59.263231",
+          "18.151989"
+        ],
+        [
+          "59.263760",
+          "18.150609"
+        ],
+        [
+          "59.264482",
+          "18.148049"
+        ],
+        [
+          "59.264815",
+          "18.146005"
+        ],
+        [
+          "59.264660",
+          "18.143640"
+        ],
+        [
+          "59.264097",
+          "18.141515"
+        ],
+        [
+          "59.263675",
+          "18.140462"
+        ],
+        [
+          "59.263135",
+          "18.139352"
+        ],
+        [
+          "59.262580",
+          "18.137918"
+        ],
+        [
+          "59.262204",
+          "18.136870"
+        ],
+        [
+          "59.261910",
+          "18.135368"
+        ],
+        [
+          "59.261898",
+          "18.133892"
+        ],
+        [
+          "59.261964",
+          "18.132147"
+        ],
+        [
+          "59.262259",
+          "18.130653"
+        ],
+        [
+          "59.262607",
+          "18.128934"
+        ],
+        [
+          "59.262902",
+          "18.127486"
+        ],
+        [
+          "59.262983",
+          "18.126065"
+        ],
+        [
+          "59.262881",
+          "18.124442"
+        ],
+        [
+          "59.262700",
+          "18.123135"
+        ],
+        [
+          "59.262274",
+          "18.121207"
+        ],
+        [
+          "59.261966",
+          "18.120257"
+        ],
+        [
+          "59.261623",
+          "18.118843"
+        ],
+        [
+          "59.261527",
+          "18.117913"
+        ],
+        [
+          "59.261571",
+          "18.117933"
+        ],
+        [
+          "59.261531",
+          "18.117880"
+        ],
+        [
+          "59.261255",
+          "18.116665"
+        ],
+        [
+          "59.261225",
+          "18.115353"
+        ],
+        [
+          "59.261214",
+          "18.113270"
+        ],
+        [
+          "59.261200",
+          "18.110055"
+        ],
+        [
+          "59.261301",
+          "18.105839"
+        ],
+        [
+          "59.261285",
+          "18.103934"
+        ],
+        [
+          "59.261229",
+          "18.102441"
+        ],
+        [
+          "59.261157",
+          "18.101661"
+        ],
+        [
+          "59.261776",
+          "18.101241"
+        ],
+        [
+          "59.262392",
+          "18.099691"
+        ],
+        [
+          "59.262711",
+          "18.099065"
+        ],
+        [
+          "59.263936",
+          "18.098819"
+        ],
+        [
+          "59.265114",
+          "18.097974"
+        ],
+        [
+          "59.267890",
+          "18.096560"
+        ],
+        [
+          "59.271257",
+          "18.094604"
+        ],
+        [
+          "59.273535",
+          "18.093620"
+        ],
+        [
+          "59.275559",
+          "18.093090"
+        ],
+        [
+          "59.278537",
+          "18.092110"
+        ],
+        [
+          "59.280717",
+          "18.091415"
+        ],
+        [
+          "59.283148",
+          "18.090385"
+        ],
+        [
+          "59.285121",
+          "18.089432"
+        ],
+        [
+          "59.287214",
+          "18.088550"
+        ],
+        [
+          "59.288447",
+          "18.087947"
+        ],
+        [
+          "59.288655",
+          "18.088145"
+        ],
+        [
+          "59.288843",
+          "18.087924"
+        ],
+        [
+          "59.289185",
+          "18.087657"
+        ],
+        [
+          "59.291221",
+          "18.086591"
+        ],
+        [
+          "59.292335",
+          "18.085858"
+        ],
+        [
+          "59.293442",
+          "18.085423"
+        ],
+        [
+          "59.294490",
+          "18.084922"
+        ],
+        [
+          "59.295790",
+          "18.084086"
+        ],
+        [
+          "59.296872",
+          "18.083410"
+        ],
+        [
+          "59.297711",
+          "18.082712"
+        ],
+        [
+          "59.298116",
+          "18.082331"
+        ],
+        [
+          "59.298344",
+          "18.081697"
+        ],
+        [
+          "59.298370",
+          "18.081838"
+        ]
+      ]
+    }
+  ]
+}
