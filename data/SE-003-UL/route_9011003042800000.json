@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-12-15",
+  "feed_version": "2025-01-19",
   "route_id": "9011003042800000",
   "agency_id": "33010000000001407",
   "route_short_name": "428",
@@ -12,7 +12,7 @@
       "trips": [
         {
           "trip_id": "33010000198830798",
-          "service_id": "273",
+          "service_id": "139",
           "stops": [
             {
               "pickup_type": "3",
@@ -280,8 +280,8 @@
             }
           ],
           "service": {
-            "service_id": "273",
-            "start_date": "20241212",
+            "service_id": "139",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         }
@@ -3454,7 +3454,7 @@
       "trips": [
         {
           "trip_id": "33010000201261725",
-          "service_id": "276",
+          "service_id": "140",
           "stops": [
             {
               "pickup_type": "3",
@@ -3722,14 +3722,14 @@
             }
           ],
           "service": {
-            "service_id": "276",
-            "start_date": "20241212",
+            "service_id": "140",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000201261690",
-          "service_id": "273",
+          "service_id": "139",
           "stops": [
             {
               "pickup_type": "3",
@@ -3997,284 +3997,9 @@
             }
           ],
           "service": {
-            "service_id": "273",
-            "start_date": "20241212",
+            "service_id": "139",
+            "start_date": "20250116",
             "end_date": "20250612"
-          }
-        },
-        {
-          "trip_id": "33010000215721260",
-          "service_id": "160",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782017006",
-              "stop_name": "\u00d6sterbybruk bussterminal",
-              "stop_lat": "60.197311",
-              "stop_lon": "17.898200",
-              "location_type": "0",
-              "parent_station": "9021003782017000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782483003",
-              "stop_name": "\u00d6sterbybruk \u00d6sterbyskolan",
-              "stop_lat": "60.195601",
-              "stop_lon": "17.892158",
-              "location_type": "0",
-              "parent_station": "9021003782483000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782262001",
-              "stop_name": "\u00d6sterbybruk Klockstapeln",
-              "stop_lat": "60.194740",
-              "stop_lon": "17.901787",
-              "location_type": "0",
-              "parent_station": "9021003782262000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782258001",
-              "stop_name": "\u00d6sterbybruk K\u00e4bboda",
-              "stop_lat": "60.188676",
-              "stop_lon": "17.908847",
-              "location_type": "0",
-              "parent_station": "9021003782258000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782234001",
-              "stop_name": "Ulsarby v\u00e4gsk\u00e4l",
-              "stop_lat": "60.174723",
-              "stop_lon": "17.921309",
-              "location_type": "0",
-              "parent_station": "9021003782234000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782212001",
-              "stop_name": "Granboda j\u00e4rnv\u00e4gs\u00f6verg\u00e5ng",
-              "stop_lat": "60.165532",
-              "stop_lon": "17.931204",
-              "location_type": "0",
-              "parent_station": "9021003782212000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782007001",
-              "stop_name": "Granboda",
-              "stop_lat": "60.163931",
-              "stop_lon": "17.935875",
-              "location_type": "0",
-              "parent_station": "9021003782007000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782204001",
-              "stop_name": "\u00c5by (Morkarla)",
-              "stop_lat": "60.158434",
-              "stop_lon": "17.939897",
-              "location_type": "0",
-              "parent_station": "9021003782204000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782006001",
-              "stop_name": "Halvbygda v\u00e4gsk\u00e4l",
-              "stop_lat": "60.150022",
-              "stop_lon": "17.936506",
-              "location_type": "0",
-              "parent_station": "9021003782006000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782194001",
-              "stop_name": "S\u00f6derkulla v\u00e4gsk\u00e4l",
-              "stop_lat": "60.146607",
-              "stop_lon": "17.936105",
-              "location_type": "0",
-              "parent_station": "9021003782194000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782191001",
-              "stop_name": "Morkarla kyrka",
-              "stop_lat": "60.140369",
-              "stop_lon": "17.952643",
-              "location_type": "0",
-              "parent_station": "9021003782191000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782190001",
-              "stop_name": "Morkarla skola",
-              "stop_lat": "60.140029",
-              "stop_lon": "17.957050",
-              "location_type": "0",
-              "parent_station": "9021003782190000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782005001",
-              "stop_name": "Svensarva v\u00e4gsk\u00e4l",
-              "stop_lat": "60.140028",
-              "stop_lon": "17.970318",
-              "location_type": "0",
-              "parent_station": "9021003782005000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782003001",
-              "stop_name": "\u00d6stan\u00e5 Missionskyrka",
-              "stop_lat": "60.141056",
-              "stop_lon": "17.974455",
-              "location_type": "0",
-              "parent_station": "9021003782003000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782002001",
-              "stop_name": "Morkarla bygdeg\u00e5rd",
-              "stop_lat": "60.146267",
-              "stop_lon": "17.986251",
-              "location_type": "0",
-              "parent_station": "9021003782002000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782197001",
-              "stop_name": "Morkarla S\u00f6derby torg",
-              "stop_lat": "60.149513",
-              "stop_lon": "17.993057",
-              "location_type": "0",
-              "parent_station": "9021003782197000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782001001",
-              "stop_name": "Morkarla f.d. aff\u00e4ren",
-              "stop_lat": "60.153467",
-              "stop_lon": "17.996129",
-              "location_type": "0",
-              "parent_station": "9021003782001000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782022001",
-              "stop_name": "Horsbol",
-              "stop_lat": "60.158195",
-              "stop_lon": "17.990896",
-              "location_type": "0",
-              "parent_station": "9021003782022000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782023001",
-              "stop_name": "Norrby",
-              "stop_lat": "60.161068",
-              "stop_lon": "17.987087",
-              "location_type": "0",
-              "parent_station": "9021003782023000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782215002",
-              "stop_name": "Knaby",
-              "stop_lat": "60.166366",
-              "stop_lon": "17.973961",
-              "location_type": "0",
-              "parent_station": "9021003782215000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782234002",
-              "stop_name": "Ulsarby v\u00e4gsk\u00e4l",
-              "stop_lat": "60.174896",
-              "stop_lon": "17.921122",
-              "location_type": "0",
-              "parent_station": "9021003782234000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782258002",
-              "stop_name": "\u00d6sterbybruk K\u00e4bboda",
-              "stop_lat": "60.189156",
-              "stop_lon": "17.909130",
-              "location_type": "0",
-              "parent_station": "9021003782258000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782262002",
-              "stop_name": "\u00d6sterbybruk Klockstapeln",
-              "stop_lat": "60.195015",
-              "stop_lon": "17.901462",
-              "location_type": "0",
-              "parent_station": "9021003782262000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782017007",
-              "stop_name": "\u00d6sterbybruk bussterminal",
-              "stop_lat": "60.197116",
-              "stop_lon": "17.898025",
-              "location_type": "0",
-              "parent_station": "9021003782017000",
-              "platform_code": "G"
-            }
-          ],
-          "service": {
-            "service_id": "160",
-            "start_date": "20241220",
-            "end_date": "20241220"
           }
         }
       ],

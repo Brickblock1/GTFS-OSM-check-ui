@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-12-15",
+  "feed_version": "2025-01-19",
   "route_id": "9011003014100000",
   "agency_id": "33010000000001407",
   "route_short_name": "141",
@@ -12,7 +12,7 @@
       "trips": [
         {
           "trip_id": "33010000198948079",
-          "service_id": "155",
+          "service_id": "100",
           "stops": [
             {
               "pickup_type": "3",
@@ -170,14 +170,14 @@
             }
           ],
           "service": {
-            "service_id": "155",
-            "start_date": "20241212",
+            "service_id": "100",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000198948107",
-          "service_id": "155",
+          "service_id": "100",
           "stops": [
             {
               "pickup_type": "3",
@@ -335,8 +335,8 @@
             }
           ],
           "service": {
-            "service_id": "155",
-            "start_date": "20241212",
+            "service_id": "100",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         }
@@ -3504,173 +3504,8 @@
       "shape_id": "1033010000147742471",
       "trips": [
         {
-          "trip_id": "33010000198948135",
-          "service_id": "158",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003780128003",
-              "stop_name": "Almunge skola",
-              "stop_lat": "59.867098",
-              "stop_lon": "18.072299",
-              "location_type": "0",
-              "parent_station": "9021003780128000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780962002",
-              "stop_name": "Almunge biograf",
-              "stop_lat": "59.875436",
-              "stop_lon": "18.047861",
-              "location_type": "0",
-              "parent_station": "9021003780962000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779593002",
-              "stop_name": "Almunge Storfamnsv\u00e4gen",
-              "stop_lat": "59.878798",
-              "stop_lon": "18.048177",
-              "location_type": "0",
-              "parent_station": "9021003779593000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779592002",
-              "stop_name": "Almunge Ramparbolsv\u00e4gen",
-              "stop_lat": "59.882779",
-              "stop_lon": "18.050625",
-              "location_type": "0",
-              "parent_station": "9021003779592000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779970001",
-              "stop_name": "Pr\u00e4sttorpet",
-              "stop_lat": "59.885670",
-              "stop_lon": "18.054839",
-              "location_type": "0",
-              "parent_station": "9021003779970000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779591002",
-              "stop_name": "Henningsro",
-              "stop_lat": "59.890589",
-              "stop_lon": "18.053349",
-              "location_type": "0",
-              "parent_station": "9021003779591000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779590001",
-              "stop_name": "Almunge Ekn\u00e4sv\u00e4gen",
-              "stop_lat": "59.897673",
-              "stop_lon": "18.055508",
-              "location_type": "0",
-              "parent_station": "9021003779590000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779589002",
-              "stop_name": "Almunge Vargmossev\u00e4gen",
-              "stop_lat": "59.905666",
-              "stop_lon": "18.049649",
-              "location_type": "0",
-              "parent_station": "9021003779589000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779588002",
-              "stop_name": "Almunge Silverv\u00e4gen",
-              "stop_lat": "59.911636",
-              "stop_lon": "18.045474",
-              "location_type": "0",
-              "parent_station": "9021003779588000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780210002",
-              "stop_name": "Moga",
-              "stop_lat": "59.919201",
-              "stop_lon": "18.044697",
-              "location_type": "0",
-              "parent_station": "9021003780210000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780207002",
-              "stop_name": "Nybo v\u00e4gsk\u00e4l",
-              "stop_lat": "59.929717",
-              "stop_lon": "18.047749",
-              "location_type": "0",
-              "parent_station": "9021003780207000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780209002",
-              "stop_name": "Stora Tadinge",
-              "stop_lat": "59.922202",
-              "stop_lon": "18.067185",
-              "location_type": "0",
-              "parent_station": "9021003780209000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780211002",
-              "stop_name": "Stora V\u00e4sby",
-              "stop_lat": "59.920850",
-              "stop_lon": "18.097104",
-              "location_type": "0",
-              "parent_station": "9021003780211000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780185002",
-              "stop_name": "Finndalen v\u00e4gsk\u00e4l",
-              "stop_lat": "59.929339",
-              "stop_lon": "18.114954",
-              "location_type": "0",
-              "parent_station": "9021003780185000",
-              "platform_code": "B"
-            }
-          ],
-          "service": {
-            "service_id": "158",
-            "start_date": "20241212",
-            "end_date": "20250612"
-          }
-        },
-        {
           "trip_id": "33010000198948165",
-          "service_id": "208",
+          "service_id": "121",
           "stops": [
             {
               "pickup_type": "3",
@@ -3828,14 +3663,14 @@
             }
           ],
           "service": {
-            "service_id": "208",
-            "start_date": "20241212",
+            "service_id": "121",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         },
         {
-          "trip_id": "33010000215751885",
-          "service_id": "160",
+          "trip_id": "33010000198948135",
+          "service_id": "100",
           "stops": [
             {
               "pickup_type": "3",
@@ -3993,9 +3828,9 @@
             }
           ],
           "service": {
-            "service_id": "160",
-            "start_date": "20241220",
-            "end_date": "20241220"
+            "service_id": "100",
+            "start_date": "20250116",
+            "end_date": "20250612"
           }
         }
       ],

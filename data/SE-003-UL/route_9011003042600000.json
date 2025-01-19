@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-12-15",
+  "feed_version": "2025-01-19",
   "route_id": "9011003042600000",
   "agency_id": "33010000000001407",
   "route_short_name": "426",
@@ -12,7 +12,7 @@
       "trips": [
         {
           "trip_id": "33010000198830257",
-          "service_id": "273",
+          "service_id": "139",
           "stops": [
             {
               "pickup_type": "3",
@@ -203,8 +203,8 @@
             }
           ],
           "service": {
-            "service_id": "273",
-            "start_date": "20241212",
+            "service_id": "139",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         }
@@ -2725,7 +2725,7 @@
       "trips": [
         {
           "trip_id": "33010000201261491",
-          "service_id": "273",
+          "service_id": "139",
           "stops": [
             {
               "pickup_type": "3",
@@ -3070,8 +3070,8 @@
             }
           ],
           "service": {
-            "service_id": "273",
-            "start_date": "20241212",
+            "service_id": "139",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         }
@@ -9356,7 +9356,7 @@
       "trips": [
         {
           "trip_id": "33010000198830439",
-          "service_id": "274",
+          "service_id": "139",
           "stops": [
             {
               "pickup_type": "3",
@@ -9602,8 +9602,8 @@
             }
           ],
           "service": {
-            "service_id": "274",
-            "start_date": "20241212",
+            "service_id": "139",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         }
@@ -12468,7 +12468,7 @@
       "trips": [
         {
           "trip_id": "33010000201261545",
-          "service_id": "275",
+          "service_id": "140",
           "stops": [
             {
               "pickup_type": "3",
@@ -12879,14 +12879,14 @@
             }
           ],
           "service": {
-            "service_id": "275",
-            "start_date": "20241212",
+            "service_id": "140",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000201261597",
-          "service_id": "274",
+          "service_id": "139",
           "stops": [
             {
               "pickup_type": "3",
@@ -13297,427 +13297,9 @@
             }
           ],
           "service": {
-            "service_id": "274",
-            "start_date": "20241212",
+            "service_id": "139",
+            "start_date": "20250116",
             "end_date": "20250612"
-          }
-        },
-        {
-          "trip_id": "33010000215721150",
-          "service_id": "160",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782017005",
-              "stop_name": "\u00d6sterbybruk bussterminal",
-              "stop_lat": "60.196950",
-              "stop_lon": "17.898339",
-              "location_type": "0",
-              "parent_station": "9021003782017000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782483003",
-              "stop_name": "\u00d6sterbybruk \u00d6sterbyskolan",
-              "stop_lat": "60.195601",
-              "stop_lon": "17.892158",
-              "location_type": "0",
-              "parent_station": "9021003782483000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782273002",
-              "stop_name": "\u00d6sterbybruk M\u00e4stersmeden",
-              "stop_lat": "60.196616",
-              "stop_lon": "17.891032",
-              "location_type": "0",
-              "parent_station": "9021003782273000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782107002",
-              "stop_name": "\u00d6sterbybruk Lantg\u00e5rdsv\u00e4gen",
-              "stop_lat": "60.204890",
-              "stop_lon": "17.886109",
-              "location_type": "0",
-              "parent_station": "9021003782107000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782538002",
-              "stop_name": "Film Tallbacken",
-              "stop_lat": "60.225468",
-              "stop_lon": "17.891294",
-              "location_type": "0",
-              "parent_station": "9021003782538000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782318002",
-              "stop_name": "Film kyrka",
-              "stop_lat": "60.228941",
-              "stop_lon": "17.894277",
-              "location_type": "0",
-              "parent_station": "9021003782318000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782484002",
-              "stop_name": "Bryttbyn",
-              "stop_lat": "60.229757",
-              "stop_lon": "17.860950",
-              "location_type": "0",
-              "parent_station": "9021003782484000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782321002",
-              "stop_name": "Ol-Mats",
-              "stop_lat": "60.235288",
-              "stop_lon": "17.902300",
-              "location_type": "0",
-              "parent_station": "9021003782321000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782329002",
-              "stop_name": "Film Randersbo v\u00e4gsk\u00e4l",
-              "stop_lat": "60.239121",
-              "stop_lon": "17.908576",
-              "location_type": "0",
-              "parent_station": "9021003782329000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782325002",
-              "stop_name": "Films v\u00e4gsk\u00e4l",
-              "stop_lat": "60.237823",
-              "stop_lon": "17.922451",
-              "location_type": "0",
-              "parent_station": "9021003782325000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782332002",
-              "stop_name": "Brotorp 826",
-              "stop_lat": "60.244032",
-              "stop_lon": "17.934501",
-              "location_type": "0",
-              "parent_station": "9021003782332000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782345002",
-              "stop_name": "Lillbya",
-              "stop_lat": "60.249916",
-              "stop_lon": "17.942668",
-              "location_type": "0",
-              "parent_station": "9021003782345000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782352002",
-              "stop_name": "Randersbo v\u00e4gsk\u00e4l",
-              "stop_lat": "60.254398",
-              "stop_lon": "17.945905",
-              "location_type": "0",
-              "parent_station": "9021003782352000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782354002",
-              "stop_name": "L\u00f6vstabruk v\u00e4gsk\u00e4l (Andersbo)",
-              "stop_lat": "60.257671",
-              "stop_lon": "17.947799",
-              "location_type": "0",
-              "parent_station": "9021003782354000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782364002",
-              "stop_name": "\u00c4lgl\u00f6sa",
-              "stop_lat": "60.264289",
-              "stop_lon": "17.954448",
-              "location_type": "0",
-              "parent_station": "9021003782364000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782369002",
-              "stop_name": "Stynsboskogen",
-              "stop_lat": "60.267740",
-              "stop_lon": "17.956428",
-              "location_type": "0",
-              "parent_station": "9021003782369000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782374002",
-              "stop_name": "Nybo 826",
-              "stop_lat": "60.271778",
-              "stop_lon": "17.957687",
-              "location_type": "0",
-              "parent_station": "9021003782374000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782378002",
-              "stop_name": "Stadsg\u00e5rdarna",
-              "stop_lat": "60.274597",
-              "stop_lon": "17.959969",
-              "location_type": "0",
-              "parent_station": "9021003782378000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782391002",
-              "stop_name": "Mariebol",
-              "stop_lat": "60.278157",
-              "stop_lon": "17.964108",
-              "location_type": "0",
-              "parent_station": "9021003782391000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782407002",
-              "stop_name": "Andersbo",
-              "stop_lat": "60.289904",
-              "stop_lon": "17.946109",
-              "location_type": "0",
-              "parent_station": "9021003782407000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782440002",
-              "stop_name": "Kilen",
-              "stop_lat": "60.296438",
-              "stop_lon": "17.958476",
-              "location_type": "0",
-              "parent_station": "9021003782440000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782448002",
-              "stop_name": "Gr\u00e4sbo S\u00f6dra",
-              "stop_lat": "60.306091",
-              "stop_lon": "17.957337",
-              "location_type": "0",
-              "parent_station": "9021003782448000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782439002",
-              "stop_name": "Gr\u00e4sbo Norra",
-              "stop_lat": "60.314957",
-              "stop_lon": "17.958699",
-              "location_type": "0",
-              "parent_station": "9021003782439000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782433001",
-              "stop_name": "Sonbo",
-              "stop_lat": "60.318835",
-              "stop_lon": "17.941522",
-              "location_type": "0",
-              "parent_station": "9021003782433000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782439001",
-              "stop_name": "Gr\u00e4sbo Norra",
-              "stop_lat": "60.314957",
-              "stop_lon": "17.958699",
-              "location_type": "0",
-              "parent_station": "9021003782439000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782448001",
-              "stop_name": "Gr\u00e4sbo S\u00f6dra",
-              "stop_lat": "60.306091",
-              "stop_lon": "17.957337",
-              "location_type": "0",
-              "parent_station": "9021003782448000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782440001",
-              "stop_name": "Kilen",
-              "stop_lat": "60.296438",
-              "stop_lon": "17.958476",
-              "location_type": "0",
-              "parent_station": "9021003782440000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782391002",
-              "stop_name": "Mariebol",
-              "stop_lat": "60.278157",
-              "stop_lon": "17.964108",
-              "location_type": "0",
-              "parent_station": "9021003782391000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782397002",
-              "stop_name": "Stynsbo g\u00e5rd",
-              "stop_lat": "60.281371",
-              "stop_lon": "17.975096",
-              "location_type": "0",
-              "parent_station": "9021003782397000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782414002",
-              "stop_name": "Vigelsbo",
-              "stop_lat": "60.290008",
-              "stop_lon": "17.999181",
-              "location_type": "0",
-              "parent_station": "9021003782414000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782531001",
-              "stop_name": "Lugnet (Vigelsbo)",
-              "stop_lat": "60.292841",
-              "stop_lon": "18.015161",
-              "location_type": "0",
-              "parent_station": "9021003782531000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782427002",
-              "stop_name": "Botarsbo",
-              "stop_lat": "60.291366",
-              "stop_lon": "18.023924",
-              "location_type": "0",
-              "parent_station": "9021003782427000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782432002",
-              "stop_name": "Str\u00f6msbro",
-              "stop_lat": "60.292721",
-              "stop_lon": "18.047006",
-              "location_type": "0",
-              "parent_station": "9021003782432000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782441002",
-              "stop_name": "Per-Larstorp",
-              "stop_lat": "60.298833",
-              "stop_lon": "18.049270",
-              "location_type": "0",
-              "parent_station": "9021003782441000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782444002",
-              "stop_name": "Masugnsskogen",
-              "stop_lat": "60.300507",
-              "stop_lon": "18.050108",
-              "location_type": "0",
-              "parent_station": "9021003782444000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782447002",
-              "stop_name": "Vigelsbo\u00e4ng",
-              "stop_lat": "60.305569",
-              "stop_lon": "18.055016",
-              "location_type": "0",
-              "parent_station": "9021003782447000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782436002",
-              "stop_name": "Bennebo",
-              "stop_lat": "60.316430",
-              "stop_lon": "18.063691",
-              "location_type": "0",
-              "parent_station": "9021003782436000",
-              "platform_code": "B"
-            }
-          ],
-          "service": {
-            "service_id": "160",
-            "start_date": "20241220",
-            "end_date": "20241220"
           }
         }
       ],

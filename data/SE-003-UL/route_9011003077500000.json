@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-12-15",
+  "feed_version": "2025-01-19",
   "route_id": "9011003077500000",
   "agency_id": "33010000000001407",
   "route_short_name": "775",
@@ -11,1492 +11,7 @@
       "shape_id": "1033010000116513247",
       "trips": [
         {
-          "trip_id": "33010000214577065",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782367002",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259715",
-              "stop_lon": "18.358784",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078001",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172906",
-              "stop_lon": "18.193165",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224001",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167987",
-              "stop_lon": "18.193547",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018005",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062519",
-              "stop_lon": "18.080284",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700141003",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875725",
-              "stop_lon": "17.676146",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700062013",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861377",
-              "stop_lon": "17.645011",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "M"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600007",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857419",
-              "stop_lon": "17.646774",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B4"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000214577095",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782367002",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259715",
-              "stop_lon": "18.358784",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078001",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172906",
-              "stop_lon": "18.193165",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224001",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167987",
-              "stop_lon": "18.193547",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018005",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062519",
-              "stop_lon": "18.080284",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700141003",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875725",
-              "stop_lon": "17.676146",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700062013",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861377",
-              "stop_lon": "17.645011",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "M"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600007",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857419",
-              "stop_lon": "17.646774",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B4"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000214577125",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782367002",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259715",
-              "stop_lon": "18.358784",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078001",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172906",
-              "stop_lon": "18.193165",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224001",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167987",
-              "stop_lon": "18.193547",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018005",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062519",
-              "stop_lon": "18.080284",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700141003",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875725",
-              "stop_lon": "17.676146",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700062013",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861377",
-              "stop_lon": "17.645011",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "M"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600007",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857419",
-              "stop_lon": "17.646774",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B4"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000214577200",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782367002",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259715",
-              "stop_lon": "18.358784",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078001",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172906",
-              "stop_lon": "18.193165",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224001",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167987",
-              "stop_lon": "18.193547",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018005",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062519",
-              "stop_lon": "18.080284",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700141003",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875725",
-              "stop_lon": "17.676146",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700062013",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861377",
-              "stop_lon": "17.645011",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "M"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600007",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857419",
-              "stop_lon": "17.646774",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B4"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000214577215",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782367002",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259715",
-              "stop_lon": "18.358784",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078001",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172906",
-              "stop_lon": "18.193165",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224001",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167987",
-              "stop_lon": "18.193547",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018005",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062519",
-              "stop_lon": "18.080284",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700141003",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875725",
-              "stop_lon": "17.676146",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700062013",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861377",
-              "stop_lon": "17.645011",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "M"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600007",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857419",
-              "stop_lon": "17.646774",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B4"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
           "trip_id": "33010000214577005",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782367002",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259715",
-              "stop_lon": "18.358784",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078001",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172906",
-              "stop_lon": "18.193165",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224001",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167987",
-              "stop_lon": "18.193547",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018005",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062519",
-              "stop_lon": "18.080284",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700141003",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875725",
-              "stop_lon": "17.676146",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700062013",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861377",
-              "stop_lon": "17.645011",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "M"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600007",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857419",
-              "stop_lon": "17.646774",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B4"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000214577245",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782367002",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259715",
-              "stop_lon": "18.358784",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078001",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172906",
-              "stop_lon": "18.193165",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224001",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167987",
-              "stop_lon": "18.193547",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018005",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062519",
-              "stop_lon": "18.080284",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700141003",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875725",
-              "stop_lon": "17.676146",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700062013",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861377",
-              "stop_lon": "17.645011",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "M"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600007",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857419",
-              "stop_lon": "17.646774",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B4"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000214577260",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782367002",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259715",
-              "stop_lon": "18.358784",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078001",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172906",
-              "stop_lon": "18.193165",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224001",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167987",
-              "stop_lon": "18.193547",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018005",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062519",
-              "stop_lon": "18.080284",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700141003",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875725",
-              "stop_lon": "17.676146",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700062013",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861377",
-              "stop_lon": "17.645011",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "M"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600007",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857419",
-              "stop_lon": "17.646774",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B4"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000214577275",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782367002",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259715",
-              "stop_lon": "18.358784",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078001",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172906",
-              "stop_lon": "18.193165",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224001",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167987",
-              "stop_lon": "18.193547",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018005",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062519",
-              "stop_lon": "18.080284",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700141003",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875725",
-              "stop_lon": "17.676146",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700062013",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861377",
-              "stop_lon": "17.645011",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "M"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600007",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857419",
-              "stop_lon": "17.646774",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B4"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000214577305",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782367002",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259715",
-              "stop_lon": "18.358784",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078001",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172906",
-              "stop_lon": "18.193165",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224001",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167987",
-              "stop_lon": "18.193547",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018005",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062519",
-              "stop_lon": "18.080284",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700141003",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875725",
-              "stop_lon": "17.676146",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700062013",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861377",
-              "stop_lon": "17.645011",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "M"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600007",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857419",
-              "stop_lon": "17.646774",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B4"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000214577335",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782367002",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259715",
-              "stop_lon": "18.358784",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078001",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172906",
-              "stop_lon": "18.193165",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224001",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167987",
-              "stop_lon": "18.193547",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018005",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062519",
-              "stop_lon": "18.080284",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700141003",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875725",
-              "stop_lon": "17.676146",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700062013",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861377",
-              "stop_lon": "17.645011",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "M"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600007",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857419",
-              "stop_lon": "17.646774",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B4"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000214577110",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782367002",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259715",
-              "stop_lon": "18.358784",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078001",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172906",
-              "stop_lon": "18.193165",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224001",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167987",
-              "stop_lon": "18.193547",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018005",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062519",
-              "stop_lon": "18.080284",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700141003",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875725",
-              "stop_lon": "17.676146",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700062013",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861377",
-              "stop_lon": "17.645011",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "M"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600007",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857419",
-              "stop_lon": "17.646774",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B4"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000214577170",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782367002",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259715",
-              "stop_lon": "18.358784",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078001",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172906",
-              "stop_lon": "18.193165",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224001",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167987",
-              "stop_lon": "18.193547",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018005",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062519",
-              "stop_lon": "18.080284",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700141003",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875725",
-              "stop_lon": "17.676146",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700062013",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861377",
-              "stop_lon": "17.645011",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "M"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600007",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857419",
-              "stop_lon": "17.646774",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B4"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000214577185",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782367002",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259715",
-              "stop_lon": "18.358784",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078001",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172906",
-              "stop_lon": "18.193165",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224001",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167987",
-              "stop_lon": "18.193547",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018005",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062519",
-              "stop_lon": "18.080284",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700141003",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875725",
-              "stop_lon": "17.676146",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700062013",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861377",
-              "stop_lon": "17.645011",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "M"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600007",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857419",
-              "stop_lon": "17.646774",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B4"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000214577020",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782367002",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259715",
-              "stop_lon": "18.358784",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078001",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172906",
-              "stop_lon": "18.193165",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224001",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167987",
-              "stop_lon": "18.193547",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018005",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062519",
-              "stop_lon": "18.080284",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700141003",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875725",
-              "stop_lon": "17.676146",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700062013",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861377",
-              "stop_lon": "17.645011",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "M"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600007",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857419",
-              "stop_lon": "17.646774",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B4"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000214577035",
           "service_id": "1",
           "stops": [
             {
@@ -1590,13 +105,13 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
+            "start_date": "20250116",
+            "end_date": "20250613"
           }
         },
         {
-          "trip_id": "33010000214577050",
-          "service_id": "9",
+          "trip_id": "33010000214577245",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -1688,14 +203,905 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000214577260",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782367002",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259715",
+              "stop_lon": "18.358784",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078001",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172906",
+              "stop_lon": "18.193165",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224001",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167987",
+              "stop_lon": "18.193547",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018005",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062519",
+              "stop_lon": "18.080284",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700141003",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875725",
+              "stop_lon": "17.676146",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700062013",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861377",
+              "stop_lon": "17.645011",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "M"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000214577275",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782367002",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259715",
+              "stop_lon": "18.358784",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078001",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172906",
+              "stop_lon": "18.193165",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224001",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167987",
+              "stop_lon": "18.193547",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018005",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062519",
+              "stop_lon": "18.080284",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700141003",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875725",
+              "stop_lon": "17.676146",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700062013",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861377",
+              "stop_lon": "17.645011",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "M"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000214577305",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782367002",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259715",
+              "stop_lon": "18.358784",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078001",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172906",
+              "stop_lon": "18.193165",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224001",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167987",
+              "stop_lon": "18.193547",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018005",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062519",
+              "stop_lon": "18.080284",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700141003",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875725",
+              "stop_lon": "17.676146",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700062013",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861377",
+              "stop_lon": "17.645011",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "M"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000214577335",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782367002",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259715",
+              "stop_lon": "18.358784",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078001",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172906",
+              "stop_lon": "18.193165",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224001",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167987",
+              "stop_lon": "18.193547",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018005",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062519",
+              "stop_lon": "18.080284",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700141003",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875725",
+              "stop_lon": "17.676146",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700062013",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861377",
+              "stop_lon": "17.645011",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "M"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000214577110",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782367002",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259715",
+              "stop_lon": "18.358784",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078001",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172906",
+              "stop_lon": "18.193165",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224001",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167987",
+              "stop_lon": "18.193547",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018005",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062519",
+              "stop_lon": "18.080284",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700141003",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875725",
+              "stop_lon": "17.676146",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700062013",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861377",
+              "stop_lon": "17.645011",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "M"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000214577170",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782367002",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259715",
+              "stop_lon": "18.358784",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078001",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172906",
+              "stop_lon": "18.193165",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224001",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167987",
+              "stop_lon": "18.193547",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018005",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062519",
+              "stop_lon": "18.080284",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700141003",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875725",
+              "stop_lon": "17.676146",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700062013",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861377",
+              "stop_lon": "17.645011",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "M"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000214577185",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782367002",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259715",
+              "stop_lon": "18.358784",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078001",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172906",
+              "stop_lon": "18.193165",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224001",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167987",
+              "stop_lon": "18.193547",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018005",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062519",
+              "stop_lon": "18.080284",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700141003",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875725",
+              "stop_lon": "17.676146",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700062013",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861377",
+              "stop_lon": "17.645011",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "M"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000214577020",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782367002",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259715",
+              "stop_lon": "18.358784",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078001",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172906",
+              "stop_lon": "18.193165",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224001",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167987",
+              "stop_lon": "18.193547",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018005",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062519",
+              "stop_lon": "18.080284",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700141003",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875725",
+              "stop_lon": "17.676146",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700062013",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861377",
+              "stop_lon": "17.645011",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "M"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000214577050",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782367002",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259715",
+              "stop_lon": "18.358784",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078001",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172906",
+              "stop_lon": "18.193165",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224001",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167987",
+              "stop_lon": "18.193547",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018005",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062519",
+              "stop_lon": "18.080284",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700141003",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875725",
+              "stop_lon": "17.676146",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700062013",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861377",
+              "stop_lon": "17.645011",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "M"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000214577080",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -1787,14 +1193,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000214577140",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -1886,14 +1292,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000214577155",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -1985,14 +1391,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000214577230",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -2084,14 +1490,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000214577290",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -2183,14 +1589,509 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000214577065",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782367002",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259715",
+              "stop_lon": "18.358784",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078001",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172906",
+              "stop_lon": "18.193165",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224001",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167987",
+              "stop_lon": "18.193547",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018005",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062519",
+              "stop_lon": "18.080284",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700141003",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875725",
+              "stop_lon": "17.676146",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700062013",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861377",
+              "stop_lon": "17.645011",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "M"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000214577095",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782367002",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259715",
+              "stop_lon": "18.358784",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078001",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172906",
+              "stop_lon": "18.193165",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224001",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167987",
+              "stop_lon": "18.193547",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018005",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062519",
+              "stop_lon": "18.080284",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700141003",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875725",
+              "stop_lon": "17.676146",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700062013",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861377",
+              "stop_lon": "17.645011",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "M"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000214577125",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782367002",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259715",
+              "stop_lon": "18.358784",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078001",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172906",
+              "stop_lon": "18.193165",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224001",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167987",
+              "stop_lon": "18.193547",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018005",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062519",
+              "stop_lon": "18.080284",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700141003",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875725",
+              "stop_lon": "17.676146",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700062013",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861377",
+              "stop_lon": "17.645011",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "M"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000214577200",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782367002",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259715",
+              "stop_lon": "18.358784",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078001",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172906",
+              "stop_lon": "18.193165",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224001",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167987",
+              "stop_lon": "18.193547",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018005",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062519",
+              "stop_lon": "18.080284",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700141003",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875725",
+              "stop_lon": "17.676146",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700062013",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861377",
+              "stop_lon": "17.645011",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "M"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000214577215",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782367002",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259715",
+              "stop_lon": "18.358784",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078001",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172906",
+              "stop_lon": "18.193165",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224001",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167987",
+              "stop_lon": "18.193547",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018005",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062519",
+              "stop_lon": "18.080284",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700141003",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875725",
+              "stop_lon": "17.676146",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700062013",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861377",
+              "stop_lon": "17.645011",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "M"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000214577320",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -2282,14 +2183,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000215610801",
-          "service_id": "13",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -2381,8 +2282,8 @@
             }
           ],
           "service": {
-            "service_id": "13",
-            "start_date": "20241216",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         }
@@ -16527,7 +16428,7 @@
       "trips": [
         {
           "trip_id": "33010000201228097",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -16619,14 +16520,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000201228173",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -16718,14 +16619,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000201228233",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -16817,212 +16718,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
-          "trip_id": "33010000201228263",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600003",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857430",
-              "stop_lon": "17.645989",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "A3"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700062002",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861522",
-              "stop_lon": "17.645537",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "L"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700141002",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875931",
-              "stop_lon": "17.676175",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018006",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062525",
-              "stop_lon": "18.080949",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224002",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167732",
-              "stop_lon": "18.193762",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078002",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172457",
-              "stop_lon": "18.193619",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782367001",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259734",
-              "stop_lon": "18.359201",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
-          }
-        },
-        {
-          "trip_id": "33010000201228278",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600003",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857430",
-              "stop_lon": "17.645989",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "A3"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700062002",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861522",
-              "stop_lon": "17.645537",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "L"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700141002",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875931",
-              "stop_lon": "17.676175",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018006",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062525",
-              "stop_lon": "18.080949",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224002",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167732",
-              "stop_lon": "18.193762",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078002",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172457",
-              "stop_lon": "18.193619",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782367001",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259734",
-              "stop_lon": "18.359201",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
-          }
-        },
-        {
           "trip_id": "33010000201228293",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -17114,14 +16817,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000201228308",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -17213,310 +16916,13 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000201228368",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600003",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857430",
-              "stop_lon": "17.645989",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "A3"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700062002",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861522",
-              "stop_lon": "17.645537",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "L"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700141002",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875931",
-              "stop_lon": "17.676175",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018006",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062525",
-              "stop_lon": "18.080949",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224002",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167732",
-              "stop_lon": "18.193762",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078002",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172457",
-              "stop_lon": "18.193619",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782367001",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259734",
-              "stop_lon": "18.359201",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000201228036",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600003",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857430",
-              "stop_lon": "17.645989",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "A3"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700062002",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861522",
-              "stop_lon": "17.645537",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "L"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700141002",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875931",
-              "stop_lon": "17.676175",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018006",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062525",
-              "stop_lon": "18.080949",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224002",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167732",
-              "stop_lon": "18.193762",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078002",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172457",
-              "stop_lon": "18.193619",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782367001",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259734",
-              "stop_lon": "18.359201",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000201228051",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600003",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857430",
-              "stop_lon": "17.645989",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "A3"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700062002",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861522",
-              "stop_lon": "17.645537",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "L"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700141002",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875931",
-              "stop_lon": "17.676175",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018006",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062525",
-              "stop_lon": "18.080949",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224002",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167732",
-              "stop_lon": "18.193762",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078002",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172457",
-              "stop_lon": "18.193619",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782367001",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259734",
-              "stop_lon": "18.359201",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000201228128",
           "service_id": "1",
           "stops": [
             {
@@ -17610,606 +17016,12 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
-          }
-        },
-        {
-          "trip_id": "33010000201228158",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600003",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857430",
-              "stop_lon": "17.645989",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "A3"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700062002",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861522",
-              "stop_lon": "17.645537",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "L"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700141002",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875931",
-              "stop_lon": "17.676175",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018006",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062525",
-              "stop_lon": "18.080949",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224002",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167732",
-              "stop_lon": "18.193762",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078002",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172457",
-              "stop_lon": "18.193619",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782367001",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259734",
-              "stop_lon": "18.359201",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "start_date": "20250116",
             "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000201228203",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600003",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857430",
-              "stop_lon": "17.645989",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "A3"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700062002",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861522",
-              "stop_lon": "17.645537",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "L"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700141002",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875931",
-              "stop_lon": "17.676175",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018006",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062525",
-              "stop_lon": "18.080949",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224002",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167732",
-              "stop_lon": "18.193762",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078002",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172457",
-              "stop_lon": "18.193619",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782367001",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259734",
-              "stop_lon": "18.359201",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000201228218",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600003",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857430",
-              "stop_lon": "17.645989",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "A3"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700062002",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861522",
-              "stop_lon": "17.645537",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "L"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700141002",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875931",
-              "stop_lon": "17.676175",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018006",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062525",
-              "stop_lon": "18.080949",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224002",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167732",
-              "stop_lon": "18.193762",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078002",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172457",
-              "stop_lon": "18.193619",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782367001",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259734",
-              "stop_lon": "18.359201",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000201228066",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600003",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857430",
-              "stop_lon": "17.645989",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "A3"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700062002",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861522",
-              "stop_lon": "17.645537",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "L"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700141002",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875931",
-              "stop_lon": "17.676175",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018006",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062525",
-              "stop_lon": "18.080949",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224002",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167732",
-              "stop_lon": "18.193762",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078002",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172457",
-              "stop_lon": "18.193619",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782367001",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259734",
-              "stop_lon": "18.359201",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
-          }
-        },
-        {
-          "trip_id": "33010000201228082",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600003",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857430",
-              "stop_lon": "17.645989",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "A3"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700062002",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861522",
-              "stop_lon": "17.645537",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "L"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700141002",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875931",
-              "stop_lon": "17.676175",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018006",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062525",
-              "stop_lon": "18.080949",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224002",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167732",
-              "stop_lon": "18.193762",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078002",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172457",
-              "stop_lon": "18.193619",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782367001",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259734",
-              "stop_lon": "18.359201",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
           }
         },
         {
           "trip_id": "33010000201228112",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600003",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857430",
-              "stop_lon": "17.645989",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "A3"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700062002",
-              "stop_name": "Uppsala Vaksala torg",
-              "stop_lat": "59.861522",
-              "stop_lon": "17.645537",
-              "location_type": "0",
-              "parent_station": "9021003700062000",
-              "platform_code": "L"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700141002",
-              "stop_name": "Uppsala Gr\u00e4nbystaden",
-              "stop_lat": "59.875931",
-              "stop_lon": "17.676175",
-              "location_type": "0",
-              "parent_station": "9021003700141000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018006",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062525",
-              "stop_lon": "18.080949",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782224002",
-              "stop_name": "Gimo Sol\u00e4ngsgatan",
-              "stop_lat": "60.167732",
-              "stop_lon": "18.193762",
-              "location_type": "0",
-              "parent_station": "9021003782224000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782078002",
-              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
-              "stop_lat": "60.172457",
-              "stop_lon": "18.193619",
-              "location_type": "0",
-              "parent_station": "9021003782078000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782367001",
-              "stop_name": "\u00d6sthammar Ulrikeberg",
-              "stop_lat": "60.259734",
-              "stop_lon": "18.359201",
-              "location_type": "0",
-              "parent_station": "9021003782367000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782004004",
-              "stop_name": "\u00d6sthammar busstation",
-              "stop_lat": "60.258428",
-              "stop_lon": "18.370141",
-              "location_type": "0",
-              "parent_station": "9021003782004000",
-              "platform_code": "D"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000201228143",
           "service_id": "1",
           "stops": [
             {
@@ -18303,13 +17115,13 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
+            "start_date": "20250116",
+            "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000201228188",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -18401,14 +17213,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000201228323",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -18500,14 +17312,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000201228248",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -18599,14 +17411,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000201228338",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -18698,14 +17510,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000201228353",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -18797,14 +17609,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
-          "trip_id": "33010000213809857",
-          "service_id": "13",
+          "trip_id": "33010000201228036",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -18896,14 +17708,14 @@
             }
           ],
           "service": {
-            "service_id": "13",
-            "start_date": "20241216",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
-          "trip_id": "33010000213809907",
-          "service_id": "13",
+          "trip_id": "33010000201228051",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -18995,14 +17807,311 @@
             }
           ],
           "service": {
-            "service_id": "13",
-            "start_date": "20241216",
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000201228158",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600003",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857430",
+              "stop_lon": "17.645989",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "A3"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700062002",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861522",
+              "stop_lon": "17.645537",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "L"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700141002",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875931",
+              "stop_lon": "17.676175",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018006",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062525",
+              "stop_lon": "18.080949",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224002",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167732",
+              "stop_lon": "18.193762",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078002",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172457",
+              "stop_lon": "18.193619",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782367001",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259734",
+              "stop_lon": "18.359201",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000201228203",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600003",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857430",
+              "stop_lon": "17.645989",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "A3"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700062002",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861522",
+              "stop_lon": "17.645537",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "L"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700141002",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875931",
+              "stop_lon": "17.676175",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018006",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062525",
+              "stop_lon": "18.080949",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224002",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167732",
+              "stop_lon": "18.193762",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078002",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172457",
+              "stop_lon": "18.193619",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782367001",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259734",
+              "stop_lon": "18.359201",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000201228218",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600003",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857430",
+              "stop_lon": "17.645989",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "A3"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700062002",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861522",
+              "stop_lon": "17.645537",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "L"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700141002",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875931",
+              "stop_lon": "17.676175",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018006",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062525",
+              "stop_lon": "18.080949",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224002",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167732",
+              "stop_lon": "18.193762",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078002",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172457",
+              "stop_lon": "18.193619",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782367001",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259734",
+              "stop_lon": "18.359201",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000213809873",
-          "service_id": "13",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -19094,14 +18203,14 @@
             }
           ],
           "service": {
-            "service_id": "13",
-            "start_date": "20241216",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000213809889",
-          "service_id": "13",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -19193,14 +18302,14 @@
             }
           ],
           "service": {
-            "service_id": "13",
-            "start_date": "20241216",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000213809922",
-          "service_id": "13",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -19292,14 +18401,212 @@
             }
           ],
           "service": {
-            "service_id": "13",
-            "start_date": "20241216",
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000213809857",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600003",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857430",
+              "stop_lon": "17.645989",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "A3"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700062002",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861522",
+              "stop_lon": "17.645537",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "L"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700141002",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875931",
+              "stop_lon": "17.676175",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018006",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062525",
+              "stop_lon": "18.080949",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224002",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167732",
+              "stop_lon": "18.193762",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078002",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172457",
+              "stop_lon": "18.193619",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782367001",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259734",
+              "stop_lon": "18.359201",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000213809907",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600003",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857430",
+              "stop_lon": "17.645989",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "A3"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700062002",
+              "stop_name": "Uppsala Vaksala torg",
+              "stop_lat": "59.861522",
+              "stop_lon": "17.645537",
+              "location_type": "0",
+              "parent_station": "9021003700062000",
+              "platform_code": "L"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700141002",
+              "stop_name": "Uppsala Gr\u00e4nbystaden",
+              "stop_lat": "59.875931",
+              "stop_lon": "17.676175",
+              "location_type": "0",
+              "parent_station": "9021003700141000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782018006",
+              "stop_name": "Alunda bussterminal",
+              "stop_lat": "60.062525",
+              "stop_lon": "18.080949",
+              "location_type": "0",
+              "parent_station": "9021003782018000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782224002",
+              "stop_name": "Gimo Sol\u00e4ngsgatan",
+              "stop_lat": "60.167732",
+              "stop_lon": "18.193762",
+              "location_type": "0",
+              "parent_station": "9021003782224000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003782078002",
+              "stop_name": "Gimo Sk\u00e4fthammars kyrka",
+              "stop_lat": "60.172457",
+              "stop_lon": "18.193619",
+              "location_type": "0",
+              "parent_station": "9021003782078000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782367001",
+              "stop_name": "\u00d6sthammar Ulrikeberg",
+              "stop_lat": "60.259734",
+              "stop_lon": "18.359201",
+              "location_type": "0",
+              "parent_station": "9021003782367000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782004004",
+              "stop_name": "\u00d6sthammar busstation",
+              "stop_lat": "60.258428",
+              "stop_lon": "18.370141",
+              "location_type": "0",
+              "parent_station": "9021003782004000",
+              "platform_code": "D"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000213809841",
-          "service_id": "13",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -19391,8 +18698,8 @@
             }
           ],
           "service": {
-            "service_id": "13",
-            "start_date": "20241216",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         }

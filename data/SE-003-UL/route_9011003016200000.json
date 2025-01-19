@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-12-15",
+  "feed_version": "2025-01-19",
   "route_id": "9011003016200000",
   "agency_id": "33010000000001407",
   "route_short_name": "162",
@@ -12,7 +12,7 @@
       "trips": [
         {
           "trip_id": "33010000201340606",
-          "service_id": "155",
+          "service_id": "100",
           "stops": [
             {
               "pickup_type": "3",
@@ -225,8 +225,8 @@
             }
           ],
           "service": {
-            "service_id": "155",
-            "start_date": "20241212",
+            "service_id": "100",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         }
@@ -4399,7 +4399,7 @@
       "trips": [
         {
           "trip_id": "33010000201340641",
-          "service_id": "159",
+          "service_id": "102",
           "stops": [
             {
               "pickup_type": "3",
@@ -4667,14 +4667,14 @@
             }
           ],
           "service": {
-            "service_id": "159",
-            "start_date": "20241212",
+            "service_id": "102",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000201340677",
-          "service_id": "157",
+          "service_id": "101",
           "stops": [
             {
               "pickup_type": "3",
@@ -4942,284 +4942,9 @@
             }
           ],
           "service": {
-            "service_id": "157",
-            "start_date": "20241213",
+            "service_id": "101",
+            "start_date": "20250117",
             "end_date": "20250523"
-          }
-        },
-        {
-          "trip_id": "33010000215750415",
-          "service_id": "160",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003779197001",
-              "stop_name": "Bj\u00f6rkvallsskolans entr\u00e9",
-              "stop_lat": "60.027560",
-              "stop_lon": "17.547511",
-              "location_type": "0",
-              "parent_station": "9021003779197000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003780878001",
-              "stop_name": "Bj\u00f6rklinge skola",
-              "stop_lat": "60.026749",
-              "stop_lon": "17.554555",
-              "location_type": "0",
-              "parent_station": "9021003780878000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780024002",
-              "stop_name": "Bj\u00f6rklinge centrum",
-              "stop_lat": "60.028431",
-              "stop_lon": "17.553639",
-              "location_type": "0",
-              "parent_station": "9021003780024000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780768002",
-              "stop_name": "Bj\u00f6rklinge S\u00e4tunav\u00e4gen",
-              "stop_lat": "60.032210",
-              "stop_lon": "17.552314",
-              "location_type": "0",
-              "parent_station": "9021003780768000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780017002",
-              "stop_name": "Bj\u00f6rklinge N\u00e4verv\u00e4gen",
-              "stop_lat": "60.035949",
-              "stop_lon": "17.551362",
-              "location_type": "0",
-              "parent_station": "9021003780017000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780792002",
-              "stop_name": "Bj\u00f6rklinge Norra L\u00e5ng\u00e5sv\u00e4gen",
-              "stop_lat": "60.039189",
-              "stop_lon": "17.550690",
-              "location_type": "0",
-              "parent_station": "9021003780792000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779198001",
-              "stop_name": "Genv\u00e4gen skolh\u00e5llplats",
-              "stop_lat": "60.042288",
-              "stop_lon": "17.551948",
-              "location_type": "0",
-              "parent_station": "9021003779198000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780152002",
-              "stop_name": "S\u00e4tuna",
-              "stop_lat": "60.060158",
-              "stop_lon": "17.569198",
-              "location_type": "0",
-              "parent_station": "9021003780152000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780837001",
-              "stop_name": "S\u00e4tuna v\u00e4gsk\u00e4l",
-              "stop_lat": "60.063053",
-              "stop_lon": "17.578943",
-              "location_type": "0",
-              "parent_station": "9021003780837000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779456001",
-              "stop_name": "Lundkvarn",
-              "stop_lat": "60.056051",
-              "stop_lon": "17.606165",
-              "location_type": "0",
-              "parent_station": "9021003779456000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780993002",
-              "stop_name": "Vrethusen",
-              "stop_lat": "60.054885",
-              "stop_lon": "17.603444",
-              "location_type": "0",
-              "parent_station": "9021003780993000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780992002",
-              "stop_name": "Fasma",
-              "stop_lat": "60.055809",
-              "stop_lon": "17.623210",
-              "location_type": "0",
-              "parent_station": "9021003780992000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779150002",
-              "stop_name": "Fasma \u00f6stra",
-              "stop_lat": "60.054043",
-              "stop_lon": "17.630187",
-              "location_type": "0",
-              "parent_station": "9021003779150000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779066002",
-              "stop_name": "K\u00e4llmyra",
-              "stop_lat": "60.054341",
-              "stop_lon": "17.642988",
-              "location_type": "0",
-              "parent_station": "9021003779066000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780002002",
-              "stop_name": "Vansta norra",
-              "stop_lat": "60.059737",
-              "stop_lon": "17.651405",
-              "location_type": "0",
-              "parent_station": "9021003780002000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780001002",
-              "stop_name": "Vansta 84",
-              "stop_lat": "60.063948",
-              "stop_lon": "17.648802",
-              "location_type": "0",
-              "parent_station": "9021003780001000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780833002",
-              "stop_name": "Viksta skola",
-              "stop_lat": "60.076478",
-              "stop_lon": "17.634804",
-              "location_type": "0",
-              "parent_station": "9021003780833000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780828002",
-              "stop_name": "Vallby 813",
-              "stop_lat": "60.074158",
-              "stop_lon": "17.649911",
-              "location_type": "0",
-              "parent_station": "9021003780828000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779455001",
-              "stop_name": "Norr-Vallby",
-              "stop_lat": "60.087563",
-              "stop_lon": "17.651091",
-              "location_type": "0",
-              "parent_station": "9021003779455000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779454001",
-              "stop_name": "Kilarna",
-              "stop_lat": "60.090699",
-              "stop_lon": "17.652830",
-              "location_type": "0",
-              "parent_station": "9021003779454000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779470001",
-              "stop_name": "Viksta Vallby \u00f6stra",
-              "stop_lat": "60.076465",
-              "stop_lon": "17.662796",
-              "location_type": "0",
-              "parent_station": "9021003779470000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780836002",
-              "stop_name": "J\u00e4llsta",
-              "stop_lat": "60.076923",
-              "stop_lon": "17.670386",
-              "location_type": "0",
-              "parent_station": "9021003780836000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779563001",
-              "stop_name": "Raggboda",
-              "stop_lat": "60.079984",
-              "stop_lon": "17.682491",
-              "location_type": "0",
-              "parent_station": "9021003779563000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780840002",
-              "stop_name": "Myrby",
-              "stop_lat": "60.081511",
-              "stop_lon": "17.701967",
-              "location_type": "0",
-              "parent_station": "9021003780840000",
-              "platform_code": "B"
-            }
-          ],
-          "service": {
-            "service_id": "160",
-            "start_date": "20241220",
-            "end_date": "20241220"
           }
         }
       ],
@@ -9767,7 +9492,7 @@
       "trips": [
         {
           "trip_id": "33010000201340713",
-          "service_id": "158",
+          "service_id": "100",
           "stops": [
             {
               "pickup_type": "3",
@@ -10024,8 +9749,8 @@
             }
           ],
           "service": {
-            "service_id": "158",
-            "start_date": "20241212",
+            "service_id": "100",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         }

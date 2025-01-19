@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-12-15",
+  "feed_version": "2025-01-19",
   "route_id": "9011003008200000",
   "agency_id": "33010000000001407",
   "route_short_name": "82",
@@ -11,8 +11,8 @@
       "shape_id": "1033010000189488745",
       "trips": [
         {
-          "trip_id": "33010000201136043",
-          "service_id": "155",
+          "trip_id": "33010000201136027",
+          "service_id": "100",
           "stops": [
             {
               "pickup_type": "3",
@@ -60,14 +60,14 @@
             }
           ],
           "service": {
-            "service_id": "155",
-            "start_date": "20241212",
+            "service_id": "100",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         },
         {
-          "trip_id": "33010000201136027",
-          "service_id": "155",
+          "trip_id": "33010000201136043",
+          "service_id": "100",
           "stops": [
             {
               "pickup_type": "3",
@@ -115,8 +115,8 @@
             }
           ],
           "service": {
-            "service_id": "155",
-            "start_date": "20241212",
+            "service_id": "100",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         }
@@ -1433,7 +1433,7 @@
       "trips": [
         {
           "trip_id": "33010000201136088",
-          "service_id": "157",
+          "service_id": "101",
           "stops": [
             {
               "pickup_type": "3",
@@ -1481,64 +1481,9 @@
             }
           ],
           "service": {
-            "service_id": "157",
-            "start_date": "20241213",
+            "service_id": "101",
+            "start_date": "20250117",
             "end_date": "20250523"
-          }
-        },
-        {
-          "trip_id": "33010000215708732",
-          "service_id": "160",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700048003",
-              "stop_name": "Uppsala Brantingsskolan",
-              "stop_lat": "59.867398",
-              "stop_lon": "17.670750",
-              "location_type": "0",
-              "parent_station": "9021003700048000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003779414001",
-              "stop_name": "Uppsala Almtunaskolan",
-              "stop_lat": "59.863329",
-              "stop_lon": "17.664542",
-              "location_type": "0",
-              "parent_station": "9021003779414000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003700048003",
-              "stop_name": "Uppsala Brantingsskolan",
-              "stop_lat": "59.867398",
-              "stop_lon": "17.670750",
-              "location_type": "0",
-              "parent_station": "9021003700048000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700398002",
-              "stop_name": "Uppsala Siktargatan",
-              "stop_lat": "59.850797",
-              "stop_lon": "17.650995",
-              "location_type": "0",
-              "parent_station": "9021003700398000",
-              "platform_code": "B"
-            }
-          ],
-          "service": {
-            "service_id": "160",
-            "start_date": "20241220",
-            "end_date": "20241220"
           }
         }
       ],
@@ -2845,52 +2790,8 @@
       "shape_id": "1033010000189488765",
       "trips": [
         {
-          "trip_id": "33010000201136073",
-          "service_id": "158",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700048003",
-              "stop_name": "Uppsala Brantingsskolan",
-              "stop_lat": "59.867398",
-              "stop_lon": "17.670750",
-              "location_type": "0",
-              "parent_station": "9021003700048000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003779414001",
-              "stop_name": "Uppsala Almtunaskolan",
-              "stop_lat": "59.863329",
-              "stop_lon": "17.664542",
-              "location_type": "0",
-              "parent_station": "9021003779414000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700398002",
-              "stop_name": "Uppsala Siktargatan",
-              "stop_lat": "59.850797",
-              "stop_lon": "17.650995",
-              "location_type": "0",
-              "parent_station": "9021003700398000",
-              "platform_code": "B"
-            }
-          ],
-          "service": {
-            "service_id": "158",
-            "start_date": "20241212",
-            "end_date": "20250612"
-          }
-        },
-        {
           "trip_id": "33010000201136058",
-          "service_id": "159",
+          "service_id": "102",
           "stops": [
             {
               "pickup_type": "3",
@@ -2927,14 +2828,14 @@
             }
           ],
           "service": {
-            "service_id": "159",
-            "start_date": "20241212",
+            "service_id": "102",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         },
         {
-          "trip_id": "33010000215708748",
-          "service_id": "160",
+          "trip_id": "33010000201136073",
+          "service_id": "100",
           "stops": [
             {
               "pickup_type": "3",
@@ -2971,9 +2872,9 @@
             }
           ],
           "service": {
-            "service_id": "160",
-            "start_date": "20241220",
-            "end_date": "20241220"
+            "service_id": "100",
+            "start_date": "20250116",
+            "end_date": "20250612"
           }
         }
       ],

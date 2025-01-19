@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-12-15",
+  "feed_version": "2025-01-19",
   "route_id": "9011003077300000",
   "agency_id": "33010000000001407",
   "route_short_name": "773",
@@ -8,373 +8,10 @@
   "route_desc": "Expressbuss",
   "shapes": [
     {
-      "shape_id": "1033010000157461951",
+      "shape_id": "1033010000217206392",
       "trips": [
         {
-          "trip_id": "33010000212924925",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003660600001",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.607966",
-              "stop_lon": "16.552811",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "G"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793139001",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.616821",
-              "stop_lon": "16.553681",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793053001",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615152",
-              "stop_lon": "16.578376",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793052001",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.613876",
-              "stop_lon": "16.599517",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305001",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.732380",
-              "stop_lon": "17.299437",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700536001",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.848034",
-              "stop_lon": "17.564211",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700104005",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852504",
-              "stop_lon": "17.587717",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700129005",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.861286",
-              "stop_lon": "17.620461",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700032006",
-              "stop_name": "Uppsala Klostergatan",
-              "stop_lat": "59.861469",
-              "stop_lon": "17.638340",
-              "location_type": "0",
-              "parent_station": "9021003700032000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600006",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857888",
-              "stop_lon": "17.645997",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B3"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000212924781",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003660600001",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.607966",
-              "stop_lon": "16.552811",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "G"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793139001",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.616821",
-              "stop_lon": "16.553681",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793053001",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615152",
-              "stop_lon": "16.578376",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793052001",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.613876",
-              "stop_lon": "16.599517",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305001",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.732380",
-              "stop_lon": "17.299437",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700536001",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.848034",
-              "stop_lon": "17.564211",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700104005",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852504",
-              "stop_lon": "17.587717",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700129005",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.861286",
-              "stop_lon": "17.620461",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700032006",
-              "stop_name": "Uppsala Klostergatan",
-              "stop_lat": "59.861469",
-              "stop_lon": "17.638340",
-              "location_type": "0",
-              "parent_station": "9021003700032000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600006",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857888",
-              "stop_lon": "17.645997",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B3"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000212924799",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003660600001",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.607966",
-              "stop_lon": "16.552811",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "G"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793139001",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.616821",
-              "stop_lon": "16.553681",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793053001",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615152",
-              "stop_lon": "16.578376",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793052001",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.613876",
-              "stop_lon": "16.599517",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305001",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.732380",
-              "stop_lon": "17.299437",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700536001",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.848034",
-              "stop_lon": "17.564211",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700104005",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852504",
-              "stop_lon": "17.587717",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700129005",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.861286",
-              "stop_lon": "17.620461",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700032006",
-              "stop_name": "Uppsala Klostergatan",
-              "stop_lat": "59.861469",
-              "stop_lon": "17.638340",
-              "location_type": "0",
-              "parent_station": "9021003700032000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600006",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857888",
-              "stop_lon": "17.645997",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B3"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000212924817",
+          "trip_id": "33010000217206512",
           "service_id": "1",
           "stops": [
             {
@@ -479,23 +116,23 @@
             {
               "pickup_type": "1",
               "drop_off_type": "3",
-              "stop_id": "9022003700600006",
+              "stop_id": "9022003700600007",
               "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857888",
-              "stop_lon": "17.645997",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
               "location_type": "0",
               "parent_station": "9021003700600000",
-              "platform_code": "B3"
+              "platform_code": "B4"
             }
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
+            "start_date": "20250116",
+            "end_date": "20250613"
           }
         },
         {
-          "trip_id": "33010000212924889",
+          "trip_id": "33010000217206586",
           "service_id": "1",
           "stops": [
             {
@@ -600,144 +237,23 @@
             {
               "pickup_type": "1",
               "drop_off_type": "3",
-              "stop_id": "9022003700600006",
+              "stop_id": "9022003700600007",
               "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857888",
-              "stop_lon": "17.645997",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
               "location_type": "0",
               "parent_station": "9021003700600000",
-              "platform_code": "B3"
+              "platform_code": "B4"
             }
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
-          }
-        },
-        {
-          "trip_id": "33010000212924907",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003660600001",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.607966",
-              "stop_lon": "16.552811",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "G"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793139001",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.616821",
-              "stop_lon": "16.553681",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793053001",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615152",
-              "stop_lon": "16.578376",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793052001",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.613876",
-              "stop_lon": "16.599517",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305001",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.732380",
-              "stop_lon": "17.299437",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700536001",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.848034",
-              "stop_lon": "17.564211",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700104005",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852504",
-              "stop_lon": "17.587717",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700129005",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.861286",
-              "stop_lon": "17.620461",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700032006",
-              "stop_name": "Uppsala Klostergatan",
-              "stop_lat": "59.861469",
-              "stop_lon": "17.638340",
-              "location_type": "0",
-              "parent_station": "9021003700032000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600006",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857888",
-              "stop_lon": "17.645997",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B3"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
-          "trip_id": "33010000212924961",
+          "trip_id": "33010000217206436",
           "service_id": "1",
           "stops": [
             {
@@ -842,23 +358,23 @@
             {
               "pickup_type": "1",
               "drop_off_type": "3",
-              "stop_id": "9022003700600006",
+              "stop_id": "9022003700600007",
               "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857888",
-              "stop_lon": "17.645997",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
               "location_type": "0",
               "parent_station": "9021003700600000",
-              "platform_code": "B3"
+              "platform_code": "B4"
             }
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
+            "start_date": "20250116",
+            "end_date": "20250613"
           }
         },
         {
-          "trip_id": "33010000212924979",
+          "trip_id": "33010000217206530",
           "service_id": "1",
           "stops": [
             {
@@ -963,386 +479,23 @@
             {
               "pickup_type": "1",
               "drop_off_type": "3",
-              "stop_id": "9022003700600006",
+              "stop_id": "9022003700600007",
               "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857888",
-              "stop_lon": "17.645997",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
               "location_type": "0",
               "parent_station": "9021003700600000",
-              "platform_code": "B3"
+              "platform_code": "B4"
             }
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
-          }
-        },
-        {
-          "trip_id": "33010000212924997",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003660600001",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.607966",
-              "stop_lon": "16.552811",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "G"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793139001",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.616821",
-              "stop_lon": "16.553681",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793053001",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615152",
-              "stop_lon": "16.578376",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793052001",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.613876",
-              "stop_lon": "16.599517",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305001",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.732380",
-              "stop_lon": "17.299437",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700536001",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.848034",
-              "stop_lon": "17.564211",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700104005",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852504",
-              "stop_lon": "17.587717",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700129005",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.861286",
-              "stop_lon": "17.620461",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700032006",
-              "stop_name": "Uppsala Klostergatan",
-              "stop_lat": "59.861469",
-              "stop_lon": "17.638340",
-              "location_type": "0",
-              "parent_station": "9021003700032000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600006",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857888",
-              "stop_lon": "17.645997",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B3"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
-          "trip_id": "33010000212924835",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003660600001",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.607966",
-              "stop_lon": "16.552811",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "G"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793139001",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.616821",
-              "stop_lon": "16.553681",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793053001",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615152",
-              "stop_lon": "16.578376",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793052001",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.613876",
-              "stop_lon": "16.599517",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305001",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.732380",
-              "stop_lon": "17.299437",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700536001",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.848034",
-              "stop_lon": "17.564211",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700104005",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852504",
-              "stop_lon": "17.587717",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700129005",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.861286",
-              "stop_lon": "17.620461",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700032006",
-              "stop_name": "Uppsala Klostergatan",
-              "stop_lat": "59.861469",
-              "stop_lon": "17.638340",
-              "location_type": "0",
-              "parent_station": "9021003700032000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600006",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857888",
-              "stop_lon": "17.645997",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B3"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000212924853",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003660600001",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.607966",
-              "stop_lon": "16.552811",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "G"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793139001",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.616821",
-              "stop_lon": "16.553681",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793053001",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615152",
-              "stop_lon": "16.578376",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793052001",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.613876",
-              "stop_lon": "16.599517",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305001",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.732380",
-              "stop_lon": "17.299437",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700536001",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.848034",
-              "stop_lon": "17.564211",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700104005",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852504",
-              "stop_lon": "17.587717",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700129005",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.861286",
-              "stop_lon": "17.620461",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700032006",
-              "stop_name": "Uppsala Klostergatan",
-              "stop_lat": "59.861469",
-              "stop_lon": "17.638340",
-              "location_type": "0",
-              "parent_station": "9021003700032000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600006",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857888",
-              "stop_lon": "17.645997",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B3"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000212924871",
+          "trip_id": "33010000217206493",
           "service_id": "1",
           "stops": [
             {
@@ -1447,145 +600,24 @@
             {
               "pickup_type": "1",
               "drop_off_type": "3",
-              "stop_id": "9022003700600006",
+              "stop_id": "9022003700600007",
               "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857888",
-              "stop_lon": "17.645997",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
               "location_type": "0",
               "parent_station": "9021003700600000",
-              "platform_code": "B3"
+              "platform_code": "B4"
             }
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
-          }
-        },
-        {
-          "trip_id": "33010000212924943",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003660600001",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.607966",
-              "stop_lon": "16.552811",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "G"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793139001",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.616821",
-              "stop_lon": "16.553681",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793053001",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615152",
-              "stop_lon": "16.578376",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003793052001",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.613876",
-              "stop_lon": "16.599517",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305001",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.732380",
-              "stop_lon": "17.299437",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700536001",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.848034",
-              "stop_lon": "17.564211",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700104005",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852504",
-              "stop_lon": "17.587717",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700129005",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.861286",
-              "stop_lon": "17.620461",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "E"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700032006",
-              "stop_name": "Uppsala Klostergatan",
-              "stop_lat": "59.861469",
-              "stop_lon": "17.638340",
-              "location_type": "0",
-              "parent_station": "9021003700032000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600006",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857888",
-              "stop_lon": "17.645997",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "B3"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
-          "trip_id": "33010000212925015",
-          "service_id": "9",
+          "trip_id": "33010000217206549",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -1689,24 +721,24 @@
             {
               "pickup_type": "1",
               "drop_off_type": "3",
-              "stop_id": "9022003700600006",
+              "stop_id": "9022003700600007",
               "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857888",
-              "stop_lon": "17.645997",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
               "location_type": "0",
               "parent_station": "9021003700600000",
-              "platform_code": "B3"
+              "platform_code": "B4"
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
-          "trip_id": "33010000213813185",
-          "service_id": "13",
+          "trip_id": "33010000217206605",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -1810,18 +842,381 @@
             {
               "pickup_type": "1",
               "drop_off_type": "3",
-              "stop_id": "9022003700600006",
+              "stop_id": "9022003700600007",
               "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857888",
-              "stop_lon": "17.645997",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
               "location_type": "0",
               "parent_station": "9021003700600000",
-              "platform_code": "B3"
+              "platform_code": "B4"
             }
           ],
           "service": {
-            "service_id": "13",
-            "start_date": "20241216",
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000217206455",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003660600001",
+              "stop_name": "V\u00e4ster\u00e5s Centralstation",
+              "stop_lat": "59.607966",
+              "stop_lon": "16.552811",
+              "location_type": "0",
+              "parent_station": "9021003660600000",
+              "platform_code": "G"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003793139001",
+              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
+              "stop_lat": "59.616821",
+              "stop_lon": "16.553681",
+              "location_type": "0",
+              "parent_station": "9021003793139000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003793053001",
+              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
+              "stop_lat": "59.615152",
+              "stop_lon": "16.578376",
+              "location_type": "0",
+              "parent_station": "9021003793053000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003793052001",
+              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
+              "stop_lat": "59.613876",
+              "stop_lon": "16.599517",
+              "location_type": "0",
+              "parent_station": "9021003793052000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003781305001",
+              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
+              "stop_lat": "59.732380",
+              "stop_lon": "17.299437",
+              "location_type": "0",
+              "parent_station": "9021003781305000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700536001",
+              "stop_name": "Uppsala Stenhagen",
+              "stop_lat": "59.848034",
+              "stop_lon": "17.564211",
+              "location_type": "0",
+              "parent_station": "9021003700536000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700104005",
+              "stop_name": "Uppsala Flogsta Centrum",
+              "stop_lat": "59.852504",
+              "stop_lon": "17.587717",
+              "location_type": "0",
+              "parent_station": "9021003700104000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700129005",
+              "stop_name": "Uppsala Ekonomikum",
+              "stop_lat": "59.861286",
+              "stop_lon": "17.620461",
+              "location_type": "0",
+              "parent_station": "9021003700129000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700032006",
+              "stop_name": "Uppsala Klostergatan",
+              "stop_lat": "59.861469",
+              "stop_lon": "17.638340",
+              "location_type": "0",
+              "parent_station": "9021003700032000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000217206474",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003660600001",
+              "stop_name": "V\u00e4ster\u00e5s Centralstation",
+              "stop_lat": "59.607966",
+              "stop_lon": "16.552811",
+              "location_type": "0",
+              "parent_station": "9021003660600000",
+              "platform_code": "G"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003793139001",
+              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
+              "stop_lat": "59.616821",
+              "stop_lon": "16.553681",
+              "location_type": "0",
+              "parent_station": "9021003793139000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003793053001",
+              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
+              "stop_lat": "59.615152",
+              "stop_lon": "16.578376",
+              "location_type": "0",
+              "parent_station": "9021003793053000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003793052001",
+              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
+              "stop_lat": "59.613876",
+              "stop_lon": "16.599517",
+              "location_type": "0",
+              "parent_station": "9021003793052000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003781305001",
+              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
+              "stop_lat": "59.732380",
+              "stop_lon": "17.299437",
+              "location_type": "0",
+              "parent_station": "9021003781305000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700536001",
+              "stop_name": "Uppsala Stenhagen",
+              "stop_lat": "59.848034",
+              "stop_lon": "17.564211",
+              "location_type": "0",
+              "parent_station": "9021003700536000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700104005",
+              "stop_name": "Uppsala Flogsta Centrum",
+              "stop_lat": "59.852504",
+              "stop_lon": "17.587717",
+              "location_type": "0",
+              "parent_station": "9021003700104000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700129005",
+              "stop_name": "Uppsala Ekonomikum",
+              "stop_lat": "59.861286",
+              "stop_lon": "17.620461",
+              "location_type": "0",
+              "parent_station": "9021003700129000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700032006",
+              "stop_name": "Uppsala Klostergatan",
+              "stop_lat": "59.861469",
+              "stop_lon": "17.638340",
+              "location_type": "0",
+              "parent_station": "9021003700032000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000217206567",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003660600001",
+              "stop_name": "V\u00e4ster\u00e5s Centralstation",
+              "stop_lat": "59.607966",
+              "stop_lon": "16.552811",
+              "location_type": "0",
+              "parent_station": "9021003660600000",
+              "platform_code": "G"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003793139001",
+              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
+              "stop_lat": "59.616821",
+              "stop_lon": "16.553681",
+              "location_type": "0",
+              "parent_station": "9021003793139000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003793053001",
+              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
+              "stop_lat": "59.615152",
+              "stop_lon": "16.578376",
+              "location_type": "0",
+              "parent_station": "9021003793053000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003793052001",
+              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
+              "stop_lat": "59.613876",
+              "stop_lon": "16.599517",
+              "location_type": "0",
+              "parent_station": "9021003793052000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003781305001",
+              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
+              "stop_lat": "59.732380",
+              "stop_lon": "17.299437",
+              "location_type": "0",
+              "parent_station": "9021003781305000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700536001",
+              "stop_name": "Uppsala Stenhagen",
+              "stop_lat": "59.848034",
+              "stop_lon": "17.564211",
+              "location_type": "0",
+              "parent_station": "9021003700536000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700104005",
+              "stop_name": "Uppsala Flogsta Centrum",
+              "stop_lat": "59.852504",
+              "stop_lon": "17.587717",
+              "location_type": "0",
+              "parent_station": "9021003700104000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700129005",
+              "stop_name": "Uppsala Ekonomikum",
+              "stop_lat": "59.861286",
+              "stop_lon": "17.620461",
+              "location_type": "0",
+              "parent_station": "9021003700129000",
+              "platform_code": "E"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700032006",
+              "stop_name": "Uppsala Klostergatan",
+              "stop_lat": "59.861469",
+              "stop_lon": "17.638340",
+              "location_type": "0",
+              "parent_station": "9021003700032000",
+              "platform_code": "D"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003700600007",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857419",
+              "stop_lon": "17.646774",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "B4"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         }
@@ -18452,6 +17847,18 @@
           "17.638450"
         ],
         [
+          "59.861469",
+          "17.638340"
+        ],
+        [
+          "59.861522",
+          "17.638468"
+        ],
+        [
+          "59.861411",
+          "17.638658"
+        ],
+        [
           "59.861374",
           "17.638728"
         ],
@@ -18460,8 +17867,8 @@
           "17.639906"
         ],
         [
-          "59.860711",
-          "17.639941"
+          "59.860720",
+          "17.639923"
         ],
         [
           "59.860711",
@@ -18476,7 +17883,7 @@
           "17.640218"
         ],
         [
-          "59.860563",
+          "59.860555",
           "17.640218"
         ],
         [
@@ -18488,8 +17895,8 @@
           "17.640843"
         ],
         [
-          "59.859936",
-          "17.641415"
+          "59.859937",
+          "17.641397"
         ],
         [
           "59.859936",
@@ -18500,8 +17907,8 @@
           "17.641675"
         ],
         [
-          "59.859697",
-          "17.641848"
+          "59.859706",
+          "17.641849"
         ],
         [
           "59.859697",
@@ -18516,28 +17923,80 @@
           "17.642627"
         ],
         [
+          "59.859172",
+          "17.642765"
+        ],
+        [
+          "59.859163",
+          "17.642765"
+        ],
+        [
           "59.859062",
           "17.642938"
         ],
         [
-          "59.859114",
-          "17.643066"
+          "59.859140",
+          "17.643121"
         ],
         [
-          "59.859322",
-          "17.643595"
+          "59.859140",
+          "17.643139"
         ],
         [
-          "59.859340",
-          "17.643649"
+          "59.859253",
+          "17.643430"
         ],
         [
-          "59.859257",
-          "17.643805"
+          "59.859262",
+          "17.643449"
         ],
         [
-          "59.859072",
-          "17.644134"
+          "59.859261",
+          "17.643484"
+        ],
+        [
+          "59.859270",
+          "17.643503"
+        ],
+        [
+          "59.859270",
+          "17.643521"
+        ],
+        [
+          "59.859269",
+          "17.643556"
+        ],
+        [
+          "59.859269",
+          "17.643574"
+        ],
+        [
+          "59.859259",
+          "17.643627"
+        ],
+        [
+          "59.859250",
+          "17.643644"
+        ],
+        [
+          "59.859222",
+          "17.643714"
+        ],
+        [
+          "59.859212",
+          "17.643749"
+        ],
+        [
+          "59.859194",
+          "17.643802"
+        ],
+        [
+          "59.859046",
+          "17.644062"
+        ],
+        [
+          "59.858715",
+          "17.644632"
         ],
         [
           "59.858503",
@@ -18552,12 +18011,36 @@
           "17.645412"
         ],
         [
-          "59.858062",
-          "17.645774"
+          "59.858200",
+          "17.645550"
         ],
         [
-          "59.857888",
-          "17.645997"
+          "59.858191",
+          "17.645549"
+        ],
+        [
+          "59.858034",
+          "17.645826"
+        ],
+        [
+          "59.857813",
+          "17.646207"
+        ],
+        [
+          "59.857804",
+          "17.646224"
+        ],
+        [
+          "59.857712",
+          "17.646380"
+        ],
+        [
+          "59.857446",
+          "17.646829"
+        ],
+        [
+          "59.857419",
+          "17.646774"
         ]
       ]
     },
@@ -18565,227 +18048,7 @@
       "shape_id": "1033010000157461981",
       "trips": [
         {
-          "trip_id": "33010000201225473",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600013",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857138",
-              "stop_lon": "17.647633",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "C5"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700129006",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.860436",
-              "stop_lon": "17.618326",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700104006",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852018",
-              "stop_lon": "17.584444",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700536002",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.847723",
-              "stop_lon": "17.561339",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305002",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.733121",
-              "stop_lon": "17.299772",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793052002",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.614007",
-              "stop_lon": "16.600158",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793053002",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615323",
-              "stop_lon": "16.578238",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793139002",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.617287",
-              "stop_lon": "16.553727",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003660600002",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.608783",
-              "stop_lon": "16.554370",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
-          }
-        },
-        {
           "trip_id": "33010000201225538",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600013",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857138",
-              "stop_lon": "17.647633",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "C5"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700129006",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.860436",
-              "stop_lon": "17.618326",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700104006",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852018",
-              "stop_lon": "17.584444",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700536002",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.847723",
-              "stop_lon": "17.561339",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305002",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.733121",
-              "stop_lon": "17.299772",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793052002",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.614007",
-              "stop_lon": "16.600158",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793053002",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615323",
-              "stop_lon": "16.578238",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793139002",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.617287",
-              "stop_lon": "16.553727",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003660600002",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.608783",
-              "stop_lon": "16.554370",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000201225604",
           "service_id": "1",
           "stops": [
             {
@@ -18890,563 +18153,13 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
-          }
-        },
-        {
-          "trip_id": "33010000201225425",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600013",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857138",
-              "stop_lon": "17.647633",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "C5"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700129006",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.860436",
-              "stop_lon": "17.618326",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700104006",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852018",
-              "stop_lon": "17.584444",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700536002",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.847723",
-              "stop_lon": "17.561339",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305002",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.733121",
-              "stop_lon": "17.299772",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793052002",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.614007",
-              "stop_lon": "16.600158",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793053002",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615323",
-              "stop_lon": "16.578238",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793139002",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.617287",
-              "stop_lon": "16.553727",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003660600002",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.608783",
-              "stop_lon": "16.554370",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "start_date": "20250116",
             "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000201225489",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600013",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857138",
-              "stop_lon": "17.647633",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "C5"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700129006",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.860436",
-              "stop_lon": "17.618326",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700104006",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852018",
-              "stop_lon": "17.584444",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700536002",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.847723",
-              "stop_lon": "17.561339",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305002",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.733121",
-              "stop_lon": "17.299772",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793052002",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.614007",
-              "stop_lon": "16.600158",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793053002",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615323",
-              "stop_lon": "16.578238",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793139002",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.617287",
-              "stop_lon": "16.553727",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003660600002",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.608783",
-              "stop_lon": "16.554370",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000201225505",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600013",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857138",
-              "stop_lon": "17.647633",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "C5"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700129006",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.860436",
-              "stop_lon": "17.618326",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700104006",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852018",
-              "stop_lon": "17.584444",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700536002",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.847723",
-              "stop_lon": "17.561339",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305002",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.733121",
-              "stop_lon": "17.299772",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793052002",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.614007",
-              "stop_lon": "16.600158",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793053002",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615323",
-              "stop_lon": "16.578238",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793139002",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.617287",
-              "stop_lon": "16.553727",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003660600002",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.608783",
-              "stop_lon": "16.554370",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
-          }
-        },
-        {
-          "trip_id": "33010000201225570",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600013",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857138",
-              "stop_lon": "17.647633",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "C5"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700129006",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.860436",
-              "stop_lon": "17.618326",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700104006",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852018",
-              "stop_lon": "17.584444",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700536002",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.847723",
-              "stop_lon": "17.561339",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305002",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.733121",
-              "stop_lon": "17.299772",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793052002",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.614007",
-              "stop_lon": "16.600158",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793053002",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615323",
-              "stop_lon": "16.578238",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793139002",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.617287",
-              "stop_lon": "16.553727",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003660600002",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.608783",
-              "stop_lon": "16.554370",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000201225441",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600013",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857138",
-              "stop_lon": "17.647633",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "C5"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700129006",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.860436",
-              "stop_lon": "17.618326",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700104006",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852018",
-              "stop_lon": "17.584444",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700536002",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.847723",
-              "stop_lon": "17.561339",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305002",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.733121",
-              "stop_lon": "17.299772",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793052002",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.614007",
-              "stop_lon": "16.600158",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793053002",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615323",
-              "stop_lon": "16.578238",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793139002",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.617287",
-              "stop_lon": "16.553727",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003660600002",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.608783",
-              "stop_lon": "16.554370",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
           }
         },
         {
           "trip_id": "33010000201225457",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -19549,453 +18262,13 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000201225554",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600013",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857138",
-              "stop_lon": "17.647633",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "C5"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700129006",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.860436",
-              "stop_lon": "17.618326",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700104006",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852018",
-              "stop_lon": "17.584444",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700536002",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.847723",
-              "stop_lon": "17.561339",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305002",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.733121",
-              "stop_lon": "17.299772",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793052002",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.614007",
-              "stop_lon": "16.600158",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793053002",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615323",
-              "stop_lon": "16.578238",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793139002",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.617287",
-              "stop_lon": "16.553727",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003660600002",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.608783",
-              "stop_lon": "16.554370",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000201225587",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600013",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857138",
-              "stop_lon": "17.647633",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "C5"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700129006",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.860436",
-              "stop_lon": "17.618326",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700104006",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852018",
-              "stop_lon": "17.584444",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700536002",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.847723",
-              "stop_lon": "17.561339",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305002",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.733121",
-              "stop_lon": "17.299772",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793052002",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.614007",
-              "stop_lon": "16.600158",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793053002",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615323",
-              "stop_lon": "16.578238",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793139002",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.617287",
-              "stop_lon": "16.553727",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003660600002",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.608783",
-              "stop_lon": "16.554370",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000201225393",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600013",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857138",
-              "stop_lon": "17.647633",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "C5"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700129006",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.860436",
-              "stop_lon": "17.618326",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700104006",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852018",
-              "stop_lon": "17.584444",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700536002",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.847723",
-              "stop_lon": "17.561339",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305002",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.733121",
-              "stop_lon": "17.299772",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793052002",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.614007",
-              "stop_lon": "16.600158",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793053002",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615323",
-              "stop_lon": "16.578238",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793139002",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.617287",
-              "stop_lon": "16.553727",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003660600002",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.608783",
-              "stop_lon": "16.554370",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000201225409",
-          "service_id": "9",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600013",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857138",
-              "stop_lon": "17.647633",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "C5"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700129006",
-              "stop_name": "Uppsala Ekonomikum",
-              "stop_lat": "59.860436",
-              "stop_lon": "17.618326",
-              "location_type": "0",
-              "parent_station": "9021003700129000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700104006",
-              "stop_name": "Uppsala Flogsta Centrum",
-              "stop_lat": "59.852018",
-              "stop_lon": "17.584444",
-              "location_type": "0",
-              "parent_station": "9021003700104000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700536002",
-              "stop_name": "Uppsala Stenhagen",
-              "stop_lat": "59.847723",
-              "stop_lon": "17.561339",
-              "location_type": "0",
-              "parent_station": "9021003700536000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003781305002",
-              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
-              "stop_lat": "59.733121",
-              "stop_lon": "17.299772",
-              "location_type": "0",
-              "parent_station": "9021003781305000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793052002",
-              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
-              "stop_lat": "59.614007",
-              "stop_lon": "16.600158",
-              "location_type": "0",
-              "parent_station": "9021003793052000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793053002",
-              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
-              "stop_lat": "59.615323",
-              "stop_lon": "16.578238",
-              "location_type": "0",
-              "parent_station": "9021003793053000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003793139002",
-              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
-              "stop_lat": "59.617287",
-              "stop_lon": "16.553727",
-              "location_type": "0",
-              "parent_station": "9021003793139000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003660600002",
-              "stop_name": "V\u00e4ster\u00e5s Centralstation",
-              "stop_lat": "59.608783",
-              "stop_lon": "16.554370",
-              "location_type": "0",
-              "parent_station": "9021003660600000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "9",
-            "start_date": "20241212",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000201225521",
           "service_id": "1",
           "stops": [
             {
@@ -20100,13 +18373,13 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
+            "start_date": "20250116",
+            "end_date": "20250613"
           }
         },
         {
-          "trip_id": "33010000213813224",
-          "service_id": "13",
+          "trip_id": "33010000201225587",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -20209,8 +18482,668 @@
             }
           ],
           "service": {
-            "service_id": "13",
-            "start_date": "20241216",
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000201225393",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600013",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857138",
+              "stop_lon": "17.647633",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "C5"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700129006",
+              "stop_name": "Uppsala Ekonomikum",
+              "stop_lat": "59.860436",
+              "stop_lon": "17.618326",
+              "location_type": "0",
+              "parent_station": "9021003700129000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700104006",
+              "stop_name": "Uppsala Flogsta Centrum",
+              "stop_lat": "59.852018",
+              "stop_lon": "17.584444",
+              "location_type": "0",
+              "parent_station": "9021003700104000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700536002",
+              "stop_name": "Uppsala Stenhagen",
+              "stop_lat": "59.847723",
+              "stop_lon": "17.561339",
+              "location_type": "0",
+              "parent_station": "9021003700536000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003781305002",
+              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
+              "stop_lat": "59.733121",
+              "stop_lon": "17.299772",
+              "location_type": "0",
+              "parent_station": "9021003781305000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793052002",
+              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
+              "stop_lat": "59.614007",
+              "stop_lon": "16.600158",
+              "location_type": "0",
+              "parent_station": "9021003793052000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793053002",
+              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
+              "stop_lat": "59.615323",
+              "stop_lon": "16.578238",
+              "location_type": "0",
+              "parent_station": "9021003793053000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793139002",
+              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
+              "stop_lat": "59.617287",
+              "stop_lon": "16.553727",
+              "location_type": "0",
+              "parent_station": "9021003793139000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003660600002",
+              "stop_name": "V\u00e4ster\u00e5s Centralstation",
+              "stop_lat": "59.608783",
+              "stop_lon": "16.554370",
+              "location_type": "0",
+              "parent_station": "9021003660600000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000201225409",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600013",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857138",
+              "stop_lon": "17.647633",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "C5"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700129006",
+              "stop_name": "Uppsala Ekonomikum",
+              "stop_lat": "59.860436",
+              "stop_lon": "17.618326",
+              "location_type": "0",
+              "parent_station": "9021003700129000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700104006",
+              "stop_name": "Uppsala Flogsta Centrum",
+              "stop_lat": "59.852018",
+              "stop_lon": "17.584444",
+              "location_type": "0",
+              "parent_station": "9021003700104000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700536002",
+              "stop_name": "Uppsala Stenhagen",
+              "stop_lat": "59.847723",
+              "stop_lon": "17.561339",
+              "location_type": "0",
+              "parent_station": "9021003700536000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003781305002",
+              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
+              "stop_lat": "59.733121",
+              "stop_lon": "17.299772",
+              "location_type": "0",
+              "parent_station": "9021003781305000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793052002",
+              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
+              "stop_lat": "59.614007",
+              "stop_lon": "16.600158",
+              "location_type": "0",
+              "parent_station": "9021003793052000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793053002",
+              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
+              "stop_lat": "59.615323",
+              "stop_lon": "16.578238",
+              "location_type": "0",
+              "parent_station": "9021003793053000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793139002",
+              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
+              "stop_lat": "59.617287",
+              "stop_lon": "16.553727",
+              "location_type": "0",
+              "parent_station": "9021003793139000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003660600002",
+              "stop_name": "V\u00e4ster\u00e5s Centralstation",
+              "stop_lat": "59.608783",
+              "stop_lon": "16.554370",
+              "location_type": "0",
+              "parent_station": "9021003660600000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000201225425",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600013",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857138",
+              "stop_lon": "17.647633",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "C5"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700129006",
+              "stop_name": "Uppsala Ekonomikum",
+              "stop_lat": "59.860436",
+              "stop_lon": "17.618326",
+              "location_type": "0",
+              "parent_station": "9021003700129000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700104006",
+              "stop_name": "Uppsala Flogsta Centrum",
+              "stop_lat": "59.852018",
+              "stop_lon": "17.584444",
+              "location_type": "0",
+              "parent_station": "9021003700104000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700536002",
+              "stop_name": "Uppsala Stenhagen",
+              "stop_lat": "59.847723",
+              "stop_lon": "17.561339",
+              "location_type": "0",
+              "parent_station": "9021003700536000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003781305002",
+              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
+              "stop_lat": "59.733121",
+              "stop_lon": "17.299772",
+              "location_type": "0",
+              "parent_station": "9021003781305000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793052002",
+              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
+              "stop_lat": "59.614007",
+              "stop_lon": "16.600158",
+              "location_type": "0",
+              "parent_station": "9021003793052000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793053002",
+              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
+              "stop_lat": "59.615323",
+              "stop_lon": "16.578238",
+              "location_type": "0",
+              "parent_station": "9021003793053000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793139002",
+              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
+              "stop_lat": "59.617287",
+              "stop_lon": "16.553727",
+              "location_type": "0",
+              "parent_station": "9021003793139000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003660600002",
+              "stop_name": "V\u00e4ster\u00e5s Centralstation",
+              "stop_lat": "59.608783",
+              "stop_lon": "16.554370",
+              "location_type": "0",
+              "parent_station": "9021003660600000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000201225489",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600013",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857138",
+              "stop_lon": "17.647633",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "C5"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700129006",
+              "stop_name": "Uppsala Ekonomikum",
+              "stop_lat": "59.860436",
+              "stop_lon": "17.618326",
+              "location_type": "0",
+              "parent_station": "9021003700129000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700104006",
+              "stop_name": "Uppsala Flogsta Centrum",
+              "stop_lat": "59.852018",
+              "stop_lon": "17.584444",
+              "location_type": "0",
+              "parent_station": "9021003700104000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700536002",
+              "stop_name": "Uppsala Stenhagen",
+              "stop_lat": "59.847723",
+              "stop_lon": "17.561339",
+              "location_type": "0",
+              "parent_station": "9021003700536000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003781305002",
+              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
+              "stop_lat": "59.733121",
+              "stop_lon": "17.299772",
+              "location_type": "0",
+              "parent_station": "9021003781305000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793052002",
+              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
+              "stop_lat": "59.614007",
+              "stop_lon": "16.600158",
+              "location_type": "0",
+              "parent_station": "9021003793052000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793053002",
+              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
+              "stop_lat": "59.615323",
+              "stop_lon": "16.578238",
+              "location_type": "0",
+              "parent_station": "9021003793053000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793139002",
+              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
+              "stop_lat": "59.617287",
+              "stop_lon": "16.553727",
+              "location_type": "0",
+              "parent_station": "9021003793139000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003660600002",
+              "stop_name": "V\u00e4ster\u00e5s Centralstation",
+              "stop_lat": "59.608783",
+              "stop_lon": "16.554370",
+              "location_type": "0",
+              "parent_station": "9021003660600000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000201225570",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600013",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857138",
+              "stop_lon": "17.647633",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "C5"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700129006",
+              "stop_name": "Uppsala Ekonomikum",
+              "stop_lat": "59.860436",
+              "stop_lon": "17.618326",
+              "location_type": "0",
+              "parent_station": "9021003700129000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700104006",
+              "stop_name": "Uppsala Flogsta Centrum",
+              "stop_lat": "59.852018",
+              "stop_lon": "17.584444",
+              "location_type": "0",
+              "parent_station": "9021003700104000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700536002",
+              "stop_name": "Uppsala Stenhagen",
+              "stop_lat": "59.847723",
+              "stop_lon": "17.561339",
+              "location_type": "0",
+              "parent_station": "9021003700536000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003781305002",
+              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
+              "stop_lat": "59.733121",
+              "stop_lon": "17.299772",
+              "location_type": "0",
+              "parent_station": "9021003781305000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793052002",
+              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
+              "stop_lat": "59.614007",
+              "stop_lon": "16.600158",
+              "location_type": "0",
+              "parent_station": "9021003793052000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793053002",
+              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
+              "stop_lat": "59.615323",
+              "stop_lon": "16.578238",
+              "location_type": "0",
+              "parent_station": "9021003793053000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793139002",
+              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
+              "stop_lat": "59.617287",
+              "stop_lon": "16.553727",
+              "location_type": "0",
+              "parent_station": "9021003793139000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003660600002",
+              "stop_name": "V\u00e4ster\u00e5s Centralstation",
+              "stop_lat": "59.608783",
+              "stop_lon": "16.554370",
+              "location_type": "0",
+              "parent_station": "9021003660600000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000213813224",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600013",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857138",
+              "stop_lon": "17.647633",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "C5"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700129006",
+              "stop_name": "Uppsala Ekonomikum",
+              "stop_lat": "59.860436",
+              "stop_lon": "17.618326",
+              "location_type": "0",
+              "parent_station": "9021003700129000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700104006",
+              "stop_name": "Uppsala Flogsta Centrum",
+              "stop_lat": "59.852018",
+              "stop_lon": "17.584444",
+              "location_type": "0",
+              "parent_station": "9021003700104000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700536002",
+              "stop_name": "Uppsala Stenhagen",
+              "stop_lat": "59.847723",
+              "stop_lon": "17.561339",
+              "location_type": "0",
+              "parent_station": "9021003700536000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003781305002",
+              "stop_name": "\u00d6rsundsbro g\u00e5ngtunnel",
+              "stop_lat": "59.733121",
+              "stop_lon": "17.299772",
+              "location_type": "0",
+              "parent_station": "9021003781305000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793052002",
+              "stop_name": "V\u00e4ster\u00e5s Skiljebomotet",
+              "stop_lat": "59.614007",
+              "stop_lon": "16.600158",
+              "location_type": "0",
+              "parent_station": "9021003793052000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793053002",
+              "stop_name": "V\u00e4ster\u00e5s Knektgatan",
+              "stop_lat": "59.615323",
+              "stop_lon": "16.578238",
+              "location_type": "0",
+              "parent_station": "9021003793053000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003793139002",
+              "stop_name": "V\u00e4ster\u00e5s Tegn\u00e9r",
+              "stop_lat": "59.617287",
+              "stop_lon": "16.553727",
+              "location_type": "0",
+              "parent_station": "9021003793139000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003660600002",
+              "stop_name": "V\u00e4ster\u00e5s Centralstation",
+              "stop_lat": "59.608783",
+              "stop_lon": "16.554370",
+              "location_type": "0",
+              "parent_station": "9021003660600000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         }

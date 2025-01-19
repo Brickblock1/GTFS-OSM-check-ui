@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-12-15",
+  "feed_version": "2025-01-19",
   "route_id": "9011001059300000",
   "agency_id": "33010000000547186",
   "route_short_name": "593",
@@ -11,668 +11,8 @@
       "shape_id": "1033010000158679155",
       "trips": [
         {
-          "trip_id": "33010000200395216",
-          "service_id": "14",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600014",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857263",
-              "stop_lon": "17.648354",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "D1"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003730059001",
-              "stop_name": "Knivsta Nova Park",
-              "stop_lat": "59.740682",
-              "stop_lon": "17.814290",
-              "location_type": "0",
-              "parent_station": "9021003730059000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003780050001",
-              "stop_name": "Knivsta station",
-              "stop_lat": "59.727518",
-              "stop_lon": "17.786599",
-              "location_type": "0",
-              "parent_station": "9021003780050000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003730059002",
-              "stop_name": "Knivsta Nova Park",
-              "stop_lat": "59.740507",
-              "stop_lon": "17.814013",
-              "location_type": "0",
-              "parent_station": "9021003730059000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191170002",
-              "stop_name": "Arlanda Tomta",
-              "stop_lat": "59.632036",
-              "stop_lon": "17.909001",
-              "location_type": "0",
-              "parent_station": "9021003191170000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191074003",
-              "stop_name": "Arlanda Gr\u00e4nsgatan",
-              "stop_lat": "59.635869",
-              "stop_lon": "17.929686",
-              "location_type": "0",
-              "parent_station": "9021003191074000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191300001",
-              "stop_name": "Arlanda Brov\u00e4gen",
-              "stop_lat": "59.643548",
-              "stop_lon": "17.931200",
-              "location_type": "0",
-              "parent_station": "9021003191300000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191159001",
-              "stop_name": "Arlanda Versailles",
-              "stop_lat": "59.648991",
-              "stop_lon": "17.935553",
-              "location_type": "0",
-              "parent_station": "9021003191159000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191347001",
-              "stop_name": "Arlanda Sky City",
-              "stop_lat": "59.648973",
-              "stop_lon": "17.930035",
-              "location_type": "0",
-              "parent_station": "9021003191347000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191086005",
-              "stop_name": "Arlanda terminal 2 - 3",
-              "stop_lat": "59.644078",
-              "stop_lon": "17.930116",
-              "location_type": "0",
-              "parent_station": "9021003191086000",
-              "platform_code": "1"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191174002",
-              "stop_name": "J\u00e4rva krog",
-              "stop_lat": "59.378107",
-              "stop_lon": "18.012570",
-              "location_type": "0",
-              "parent_station": "9021003191174000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191746002",
-              "stop_name": "Stockholm Fr\u00f6sunda",
-              "stop_lat": "59.370915",
-              "stop_lon": "18.018384",
-              "location_type": "0",
-              "parent_station": "9021003191746000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191745002",
-              "stop_name": "Stockholm Haga norra",
-              "stop_lat": "59.363613",
-              "stop_lon": "18.023731",
-              "location_type": "0",
-              "parent_station": "9021003191745000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191747002",
-              "stop_name": "Stockholm Linv\u00e4vartorpet",
-              "stop_lat": "59.359016",
-              "stop_lon": "18.028461",
-              "location_type": "0",
-              "parent_station": "9021003191747000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191748002",
-              "stop_name": "Stockholm Haga s\u00f6dra",
-              "stop_lat": "59.353838",
-              "stop_lon": "18.037197",
-              "location_type": "0",
-              "parent_station": "9021003191748000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191744002",
-              "stop_name": "Stockholm Norra Stationsgatan",
-              "stop_lat": "59.347622",
-              "stop_lon": "18.040481",
-              "location_type": "0",
-              "parent_station": "9021003191744000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191743002",
-              "stop_name": "Stockholm Vanadisplan",
-              "stop_lat": "59.345445",
-              "stop_lon": "18.039618",
-              "location_type": "0",
-              "parent_station": "9021003191743000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191742002",
-              "stop_name": "Stockholm S:t Eriksplan",
-              "stop_lat": "59.339299",
-              "stop_lon": "18.039337",
-              "location_type": "0",
-              "parent_station": "9021003191742000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003191301001",
-              "stop_name": "Stockholm Cityterminalen",
-              "stop_lat": "59.333218",
-              "stop_lon": "18.054562",
-              "location_type": "0",
-              "parent_station": "9021003191301000",
-              "platform_code": "S"
-            }
-          ],
-          "service": {
-            "service_id": "14",
-            "start_date": "20241212",
-            "end_date": "20250612"
-          }
-        },
-        {
-          "trip_id": "33010000200422221",
-          "service_id": "10",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600014",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857263",
-              "stop_lon": "17.648354",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "D1"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003730059001",
-              "stop_name": "Knivsta Nova Park",
-              "stop_lat": "59.740682",
-              "stop_lon": "17.814290",
-              "location_type": "0",
-              "parent_station": "9021003730059000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003780050001",
-              "stop_name": "Knivsta station",
-              "stop_lat": "59.727518",
-              "stop_lon": "17.786599",
-              "location_type": "0",
-              "parent_station": "9021003780050000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003730059002",
-              "stop_name": "Knivsta Nova Park",
-              "stop_lat": "59.740507",
-              "stop_lon": "17.814013",
-              "location_type": "0",
-              "parent_station": "9021003730059000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191170002",
-              "stop_name": "Arlanda Tomta",
-              "stop_lat": "59.632036",
-              "stop_lon": "17.909001",
-              "location_type": "0",
-              "parent_station": "9021003191170000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191074003",
-              "stop_name": "Arlanda Gr\u00e4nsgatan",
-              "stop_lat": "59.635869",
-              "stop_lon": "17.929686",
-              "location_type": "0",
-              "parent_station": "9021003191074000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191300001",
-              "stop_name": "Arlanda Brov\u00e4gen",
-              "stop_lat": "59.643548",
-              "stop_lon": "17.931200",
-              "location_type": "0",
-              "parent_station": "9021003191300000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191159001",
-              "stop_name": "Arlanda Versailles",
-              "stop_lat": "59.648991",
-              "stop_lon": "17.935553",
-              "location_type": "0",
-              "parent_station": "9021003191159000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191347001",
-              "stop_name": "Arlanda Sky City",
-              "stop_lat": "59.648973",
-              "stop_lon": "17.930035",
-              "location_type": "0",
-              "parent_station": "9021003191347000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191086005",
-              "stop_name": "Arlanda terminal 2 - 3",
-              "stop_lat": "59.644078",
-              "stop_lon": "17.930116",
-              "location_type": "0",
-              "parent_station": "9021003191086000",
-              "platform_code": "1"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191174002",
-              "stop_name": "J\u00e4rva krog",
-              "stop_lat": "59.378107",
-              "stop_lon": "18.012570",
-              "location_type": "0",
-              "parent_station": "9021003191174000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191746002",
-              "stop_name": "Stockholm Fr\u00f6sunda",
-              "stop_lat": "59.370915",
-              "stop_lon": "18.018384",
-              "location_type": "0",
-              "parent_station": "9021003191746000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191745002",
-              "stop_name": "Stockholm Haga norra",
-              "stop_lat": "59.363613",
-              "stop_lon": "18.023731",
-              "location_type": "0",
-              "parent_station": "9021003191745000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191747002",
-              "stop_name": "Stockholm Linv\u00e4vartorpet",
-              "stop_lat": "59.359016",
-              "stop_lon": "18.028461",
-              "location_type": "0",
-              "parent_station": "9021003191747000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191748002",
-              "stop_name": "Stockholm Haga s\u00f6dra",
-              "stop_lat": "59.353838",
-              "stop_lon": "18.037197",
-              "location_type": "0",
-              "parent_station": "9021003191748000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191744002",
-              "stop_name": "Stockholm Norra Stationsgatan",
-              "stop_lat": "59.347622",
-              "stop_lon": "18.040481",
-              "location_type": "0",
-              "parent_station": "9021003191744000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191743002",
-              "stop_name": "Stockholm Vanadisplan",
-              "stop_lat": "59.345445",
-              "stop_lon": "18.039618",
-              "location_type": "0",
-              "parent_station": "9021003191743000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191742002",
-              "stop_name": "Stockholm S:t Eriksplan",
-              "stop_lat": "59.339299",
-              "stop_lon": "18.039337",
-              "location_type": "0",
-              "parent_station": "9021003191742000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003191301001",
-              "stop_name": "Stockholm Cityterminalen",
-              "stop_lat": "59.333218",
-              "stop_lon": "18.054562",
-              "location_type": "0",
-              "parent_station": "9021003191301000",
-              "platform_code": "S"
-            }
-          ],
-          "service": {
-            "service_id": "10",
-            "start_date": "20241214",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000200422247",
-          "service_id": "10",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003700600014",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857263",
-              "stop_lon": "17.648354",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "D1"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003730059001",
-              "stop_name": "Knivsta Nova Park",
-              "stop_lat": "59.740682",
-              "stop_lon": "17.814290",
-              "location_type": "0",
-              "parent_station": "9021003730059000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003780050001",
-              "stop_name": "Knivsta station",
-              "stop_lat": "59.727518",
-              "stop_lon": "17.786599",
-              "location_type": "0",
-              "parent_station": "9021003780050000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003730059002",
-              "stop_name": "Knivsta Nova Park",
-              "stop_lat": "59.740507",
-              "stop_lon": "17.814013",
-              "location_type": "0",
-              "parent_station": "9021003730059000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191170002",
-              "stop_name": "Arlanda Tomta",
-              "stop_lat": "59.632036",
-              "stop_lon": "17.909001",
-              "location_type": "0",
-              "parent_station": "9021003191170000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191074003",
-              "stop_name": "Arlanda Gr\u00e4nsgatan",
-              "stop_lat": "59.635869",
-              "stop_lon": "17.929686",
-              "location_type": "0",
-              "parent_station": "9021003191074000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191300001",
-              "stop_name": "Arlanda Brov\u00e4gen",
-              "stop_lat": "59.643548",
-              "stop_lon": "17.931200",
-              "location_type": "0",
-              "parent_station": "9021003191300000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191159001",
-              "stop_name": "Arlanda Versailles",
-              "stop_lat": "59.648991",
-              "stop_lon": "17.935553",
-              "location_type": "0",
-              "parent_station": "9021003191159000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191347001",
-              "stop_name": "Arlanda Sky City",
-              "stop_lat": "59.648973",
-              "stop_lon": "17.930035",
-              "location_type": "0",
-              "parent_station": "9021003191347000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191086005",
-              "stop_name": "Arlanda terminal 2 - 3",
-              "stop_lat": "59.644078",
-              "stop_lon": "17.930116",
-              "location_type": "0",
-              "parent_station": "9021003191086000",
-              "platform_code": "1"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191174002",
-              "stop_name": "J\u00e4rva krog",
-              "stop_lat": "59.378107",
-              "stop_lon": "18.012570",
-              "location_type": "0",
-              "parent_station": "9021003191174000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191746002",
-              "stop_name": "Stockholm Fr\u00f6sunda",
-              "stop_lat": "59.370915",
-              "stop_lon": "18.018384",
-              "location_type": "0",
-              "parent_station": "9021003191746000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191745002",
-              "stop_name": "Stockholm Haga norra",
-              "stop_lat": "59.363613",
-              "stop_lon": "18.023731",
-              "location_type": "0",
-              "parent_station": "9021003191745000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191747002",
-              "stop_name": "Stockholm Linv\u00e4vartorpet",
-              "stop_lat": "59.359016",
-              "stop_lon": "18.028461",
-              "location_type": "0",
-              "parent_station": "9021003191747000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191748002",
-              "stop_name": "Stockholm Haga s\u00f6dra",
-              "stop_lat": "59.353838",
-              "stop_lon": "18.037197",
-              "location_type": "0",
-              "parent_station": "9021003191748000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191744002",
-              "stop_name": "Stockholm Norra Stationsgatan",
-              "stop_lat": "59.347622",
-              "stop_lon": "18.040481",
-              "location_type": "0",
-              "parent_station": "9021003191744000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191743002",
-              "stop_name": "Stockholm Vanadisplan",
-              "stop_lat": "59.345445",
-              "stop_lon": "18.039618",
-              "location_type": "0",
-              "parent_station": "9021003191743000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191742002",
-              "stop_name": "Stockholm S:t Eriksplan",
-              "stop_lat": "59.339299",
-              "stop_lon": "18.039337",
-              "location_type": "0",
-              "parent_station": "9021003191742000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003191301001",
-              "stop_name": "Stockholm Cityterminalen",
-              "stop_lat": "59.333218",
-              "stop_lon": "18.054562",
-              "location_type": "0",
-              "parent_station": "9021003191301000",
-              "platform_code": "S"
-            }
-          ],
-          "service": {
-            "service_id": "10",
-            "start_date": "20241214",
-            "end_date": "20250615"
-          }
-        },
-        {
           "trip_id": "33010000200395243",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -885,14 +225,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000200395269",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -1105,14 +445,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000200422273",
-          "service_id": "16",
+          "service_id": "5",
           "stops": [
             {
               "pickup_type": "3",
@@ -1325,8 +665,668 @@
             }
           ],
           "service": {
-            "service_id": "16",
-            "start_date": "20241215",
+            "service_id": "5",
+            "start_date": "20250119",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000200395216",
+          "service_id": "6",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600014",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857263",
+              "stop_lon": "17.648354",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003730059001",
+              "stop_name": "Knivsta Nova Park",
+              "stop_lat": "59.740682",
+              "stop_lon": "17.814290",
+              "location_type": "0",
+              "parent_station": "9021003730059000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003780050001",
+              "stop_name": "Knivsta station",
+              "stop_lat": "59.727518",
+              "stop_lon": "17.786599",
+              "location_type": "0",
+              "parent_station": "9021003780050000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003730059002",
+              "stop_name": "Knivsta Nova Park",
+              "stop_lat": "59.740507",
+              "stop_lon": "17.814013",
+              "location_type": "0",
+              "parent_station": "9021003730059000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191170002",
+              "stop_name": "Arlanda Tomta",
+              "stop_lat": "59.632036",
+              "stop_lon": "17.909001",
+              "location_type": "0",
+              "parent_station": "9021003191170000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191074003",
+              "stop_name": "Arlanda Gr\u00e4nsgatan",
+              "stop_lat": "59.635869",
+              "stop_lon": "17.929686",
+              "location_type": "0",
+              "parent_station": "9021003191074000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191300001",
+              "stop_name": "Arlanda Brov\u00e4gen",
+              "stop_lat": "59.643548",
+              "stop_lon": "17.931200",
+              "location_type": "0",
+              "parent_station": "9021003191300000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191159001",
+              "stop_name": "Arlanda Versailles",
+              "stop_lat": "59.648991",
+              "stop_lon": "17.935553",
+              "location_type": "0",
+              "parent_station": "9021003191159000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191347001",
+              "stop_name": "Arlanda Sky City",
+              "stop_lat": "59.648973",
+              "stop_lon": "17.930035",
+              "location_type": "0",
+              "parent_station": "9021003191347000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191086005",
+              "stop_name": "Arlanda terminal 2 - 3",
+              "stop_lat": "59.644078",
+              "stop_lon": "17.930116",
+              "location_type": "0",
+              "parent_station": "9021003191086000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191174002",
+              "stop_name": "J\u00e4rva krog",
+              "stop_lat": "59.378107",
+              "stop_lon": "18.012570",
+              "location_type": "0",
+              "parent_station": "9021003191174000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191746002",
+              "stop_name": "Stockholm Fr\u00f6sunda",
+              "stop_lat": "59.370915",
+              "stop_lon": "18.018384",
+              "location_type": "0",
+              "parent_station": "9021003191746000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191745002",
+              "stop_name": "Stockholm Haga norra",
+              "stop_lat": "59.363613",
+              "stop_lon": "18.023731",
+              "location_type": "0",
+              "parent_station": "9021003191745000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191747002",
+              "stop_name": "Stockholm Linv\u00e4vartorpet",
+              "stop_lat": "59.359016",
+              "stop_lon": "18.028461",
+              "location_type": "0",
+              "parent_station": "9021003191747000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191748002",
+              "stop_name": "Stockholm Haga s\u00f6dra",
+              "stop_lat": "59.353838",
+              "stop_lon": "18.037197",
+              "location_type": "0",
+              "parent_station": "9021003191748000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191744002",
+              "stop_name": "Stockholm Norra Stationsgatan",
+              "stop_lat": "59.347622",
+              "stop_lon": "18.040481",
+              "location_type": "0",
+              "parent_station": "9021003191744000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191743002",
+              "stop_name": "Stockholm Vanadisplan",
+              "stop_lat": "59.345445",
+              "stop_lon": "18.039618",
+              "location_type": "0",
+              "parent_station": "9021003191743000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191742002",
+              "stop_name": "Stockholm S:t Eriksplan",
+              "stop_lat": "59.339299",
+              "stop_lon": "18.039337",
+              "location_type": "0",
+              "parent_station": "9021003191742000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003191301001",
+              "stop_name": "Stockholm Cityterminalen",
+              "stop_lat": "59.333218",
+              "stop_lon": "18.054562",
+              "location_type": "0",
+              "parent_station": "9021003191301000",
+              "platform_code": "S"
+            }
+          ],
+          "service": {
+            "service_id": "6",
+            "start_date": "20250116",
+            "end_date": "20250612"
+          }
+        },
+        {
+          "trip_id": "33010000200422221",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600014",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857263",
+              "stop_lon": "17.648354",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003730059001",
+              "stop_name": "Knivsta Nova Park",
+              "stop_lat": "59.740682",
+              "stop_lon": "17.814290",
+              "location_type": "0",
+              "parent_station": "9021003730059000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003780050001",
+              "stop_name": "Knivsta station",
+              "stop_lat": "59.727518",
+              "stop_lon": "17.786599",
+              "location_type": "0",
+              "parent_station": "9021003780050000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003730059002",
+              "stop_name": "Knivsta Nova Park",
+              "stop_lat": "59.740507",
+              "stop_lon": "17.814013",
+              "location_type": "0",
+              "parent_station": "9021003730059000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191170002",
+              "stop_name": "Arlanda Tomta",
+              "stop_lat": "59.632036",
+              "stop_lon": "17.909001",
+              "location_type": "0",
+              "parent_station": "9021003191170000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191074003",
+              "stop_name": "Arlanda Gr\u00e4nsgatan",
+              "stop_lat": "59.635869",
+              "stop_lon": "17.929686",
+              "location_type": "0",
+              "parent_station": "9021003191074000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191300001",
+              "stop_name": "Arlanda Brov\u00e4gen",
+              "stop_lat": "59.643548",
+              "stop_lon": "17.931200",
+              "location_type": "0",
+              "parent_station": "9021003191300000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191159001",
+              "stop_name": "Arlanda Versailles",
+              "stop_lat": "59.648991",
+              "stop_lon": "17.935553",
+              "location_type": "0",
+              "parent_station": "9021003191159000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191347001",
+              "stop_name": "Arlanda Sky City",
+              "stop_lat": "59.648973",
+              "stop_lon": "17.930035",
+              "location_type": "0",
+              "parent_station": "9021003191347000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191086005",
+              "stop_name": "Arlanda terminal 2 - 3",
+              "stop_lat": "59.644078",
+              "stop_lon": "17.930116",
+              "location_type": "0",
+              "parent_station": "9021003191086000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191174002",
+              "stop_name": "J\u00e4rva krog",
+              "stop_lat": "59.378107",
+              "stop_lon": "18.012570",
+              "location_type": "0",
+              "parent_station": "9021003191174000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191746002",
+              "stop_name": "Stockholm Fr\u00f6sunda",
+              "stop_lat": "59.370915",
+              "stop_lon": "18.018384",
+              "location_type": "0",
+              "parent_station": "9021003191746000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191745002",
+              "stop_name": "Stockholm Haga norra",
+              "stop_lat": "59.363613",
+              "stop_lon": "18.023731",
+              "location_type": "0",
+              "parent_station": "9021003191745000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191747002",
+              "stop_name": "Stockholm Linv\u00e4vartorpet",
+              "stop_lat": "59.359016",
+              "stop_lon": "18.028461",
+              "location_type": "0",
+              "parent_station": "9021003191747000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191748002",
+              "stop_name": "Stockholm Haga s\u00f6dra",
+              "stop_lat": "59.353838",
+              "stop_lon": "18.037197",
+              "location_type": "0",
+              "parent_station": "9021003191748000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191744002",
+              "stop_name": "Stockholm Norra Stationsgatan",
+              "stop_lat": "59.347622",
+              "stop_lon": "18.040481",
+              "location_type": "0",
+              "parent_station": "9021003191744000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191743002",
+              "stop_name": "Stockholm Vanadisplan",
+              "stop_lat": "59.345445",
+              "stop_lon": "18.039618",
+              "location_type": "0",
+              "parent_station": "9021003191743000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191742002",
+              "stop_name": "Stockholm S:t Eriksplan",
+              "stop_lat": "59.339299",
+              "stop_lon": "18.039337",
+              "location_type": "0",
+              "parent_station": "9021003191742000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003191301001",
+              "stop_name": "Stockholm Cityterminalen",
+              "stop_lat": "59.333218",
+              "stop_lon": "18.054562",
+              "location_type": "0",
+              "parent_station": "9021003191301000",
+              "platform_code": "S"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20250118",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000200422247",
+          "service_id": "2",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003700600014",
+              "stop_name": "Uppsala Centralstationen",
+              "stop_lat": "59.857263",
+              "stop_lon": "17.648354",
+              "location_type": "0",
+              "parent_station": "9021003700600000",
+              "platform_code": "D1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003730059001",
+              "stop_name": "Knivsta Nova Park",
+              "stop_lat": "59.740682",
+              "stop_lon": "17.814290",
+              "location_type": "0",
+              "parent_station": "9021003730059000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003780050001",
+              "stop_name": "Knivsta station",
+              "stop_lat": "59.727518",
+              "stop_lon": "17.786599",
+              "location_type": "0",
+              "parent_station": "9021003780050000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003730059002",
+              "stop_name": "Knivsta Nova Park",
+              "stop_lat": "59.740507",
+              "stop_lon": "17.814013",
+              "location_type": "0",
+              "parent_station": "9021003730059000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191170002",
+              "stop_name": "Arlanda Tomta",
+              "stop_lat": "59.632036",
+              "stop_lon": "17.909001",
+              "location_type": "0",
+              "parent_station": "9021003191170000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191074003",
+              "stop_name": "Arlanda Gr\u00e4nsgatan",
+              "stop_lat": "59.635869",
+              "stop_lon": "17.929686",
+              "location_type": "0",
+              "parent_station": "9021003191074000",
+              "platform_code": "C"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191300001",
+              "stop_name": "Arlanda Brov\u00e4gen",
+              "stop_lat": "59.643548",
+              "stop_lon": "17.931200",
+              "location_type": "0",
+              "parent_station": "9021003191300000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191159001",
+              "stop_name": "Arlanda Versailles",
+              "stop_lat": "59.648991",
+              "stop_lon": "17.935553",
+              "location_type": "0",
+              "parent_station": "9021003191159000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191347001",
+              "stop_name": "Arlanda Sky City",
+              "stop_lat": "59.648973",
+              "stop_lon": "17.930035",
+              "location_type": "0",
+              "parent_station": "9021003191347000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191086005",
+              "stop_name": "Arlanda terminal 2 - 3",
+              "stop_lat": "59.644078",
+              "stop_lon": "17.930116",
+              "location_type": "0",
+              "parent_station": "9021003191086000",
+              "platform_code": "1"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191174002",
+              "stop_name": "J\u00e4rva krog",
+              "stop_lat": "59.378107",
+              "stop_lon": "18.012570",
+              "location_type": "0",
+              "parent_station": "9021003191174000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191746002",
+              "stop_name": "Stockholm Fr\u00f6sunda",
+              "stop_lat": "59.370915",
+              "stop_lon": "18.018384",
+              "location_type": "0",
+              "parent_station": "9021003191746000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191745002",
+              "stop_name": "Stockholm Haga norra",
+              "stop_lat": "59.363613",
+              "stop_lon": "18.023731",
+              "location_type": "0",
+              "parent_station": "9021003191745000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191747002",
+              "stop_name": "Stockholm Linv\u00e4vartorpet",
+              "stop_lat": "59.359016",
+              "stop_lon": "18.028461",
+              "location_type": "0",
+              "parent_station": "9021003191747000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191748002",
+              "stop_name": "Stockholm Haga s\u00f6dra",
+              "stop_lat": "59.353838",
+              "stop_lon": "18.037197",
+              "location_type": "0",
+              "parent_station": "9021003191748000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191744002",
+              "stop_name": "Stockholm Norra Stationsgatan",
+              "stop_lat": "59.347622",
+              "stop_lon": "18.040481",
+              "location_type": "0",
+              "parent_station": "9021003191744000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191743002",
+              "stop_name": "Stockholm Vanadisplan",
+              "stop_lat": "59.345445",
+              "stop_lon": "18.039618",
+              "location_type": "0",
+              "parent_station": "9021003191743000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003191742002",
+              "stop_name": "Stockholm S:t Eriksplan",
+              "stop_lat": "59.339299",
+              "stop_lon": "18.039337",
+              "location_type": "0",
+              "parent_station": "9021003191742000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003191301001",
+              "stop_name": "Stockholm Cityterminalen",
+              "stop_lat": "59.333218",
+              "stop_lon": "18.054562",
+              "location_type": "0",
+              "parent_station": "9021003191301000",
+              "platform_code": "S"
+            }
+          ],
+          "service": {
+            "service_id": "2",
+            "start_date": "20250118",
             "end_date": "20250615"
           }
         }
@@ -14139,7 +14139,7 @@
       "trips": [
         {
           "trip_id": "33010000199018847",
-          "service_id": "15",
+          "service_id": "7",
           "stops": [
             {
               "pickup_type": "3",
@@ -14264,8 +14264,8 @@
             }
           ],
           "service": {
-            "service_id": "15",
-            "start_date": "20241213",
+            "service_id": "7",
+            "start_date": "20250117",
             "end_date": "20250614"
           }
         }
@@ -20661,139 +20661,7 @@
       "shape_id": "1033010000158679250",
       "trips": [
         {
-          "trip_id": "33010000199366073",
-          "service_id": "13",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003191301001",
-              "stop_name": "Stockholm Cityterminalen",
-              "stop_lat": "59.333218",
-              "stop_lon": "18.054562",
-              "location_type": "0",
-              "parent_station": "9021003191301000",
-              "platform_code": "S"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191741001",
-              "stop_name": "Stockholm Norra Bantorget",
-              "stop_lat": "59.335141",
-              "stop_lon": "18.055568",
-              "location_type": "0",
-              "parent_station": "9021003191741000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191742001",
-              "stop_name": "Stockholm S:t Eriksplan",
-              "stop_lat": "59.339557",
-              "stop_lon": "18.039459",
-              "location_type": "0",
-              "parent_station": "9021003191742000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191743001",
-              "stop_name": "Stockholm Vanadisplan",
-              "stop_lat": "59.343907",
-              "stop_lon": "18.039253",
-              "location_type": "0",
-              "parent_station": "9021003191743000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191744001",
-              "stop_name": "Stockholm Norra Stationsgatan",
-              "stop_lat": "59.348527",
-              "stop_lon": "18.041121",
-              "location_type": "0",
-              "parent_station": "9021003191744000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191745001",
-              "stop_name": "Stockholm Haga norra",
-              "stop_lat": "59.362549",
-              "stop_lon": "18.026107",
-              "location_type": "0",
-              "parent_station": "9021003191745000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191746001",
-              "stop_name": "Stockholm Fr\u00f6sunda",
-              "stop_lat": "59.372160",
-              "stop_lon": "18.020137",
-              "location_type": "0",
-              "parent_station": "9021003191746000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191174001",
-              "stop_name": "J\u00e4rva krog",
-              "stop_lat": "59.378265",
-              "stop_lon": "18.013319",
-              "location_type": "0",
-              "parent_station": "9021003191174000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191159001",
-              "stop_name": "Arlanda Versailles",
-              "stop_lat": "59.648991",
-              "stop_lon": "17.935553",
-              "location_type": "0",
-              "parent_station": "9021003191159000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191347001",
-              "stop_name": "Arlanda Sky City",
-              "stop_lat": "59.648973",
-              "stop_lon": "17.930035",
-              "location_type": "0",
-              "parent_station": "9021003191347000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003191086005",
-              "stop_name": "Arlanda terminal 2 - 3",
-              "stop_lat": "59.644078",
-              "stop_lon": "17.930116",
-              "location_type": "0",
-              "parent_station": "9021003191086000",
-              "platform_code": "1"
-            }
-          ],
-          "service": {
-            "service_id": "13",
-            "start_date": "20241216",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000199019092",
+          "trip_id": "33010000199366091",
           "service_id": "2",
           "stops": [
             {
@@ -20920,144 +20788,12 @@
           ],
           "service": {
             "service_id": "2",
-            "start_date": "20241214",
-            "end_date": "20241214"
-          }
-        },
-        {
-          "trip_id": "33010000199366091",
-          "service_id": "17",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003191301001",
-              "stop_name": "Stockholm Cityterminalen",
-              "stop_lat": "59.333218",
-              "stop_lon": "18.054562",
-              "location_type": "0",
-              "parent_station": "9021003191301000",
-              "platform_code": "S"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191741001",
-              "stop_name": "Stockholm Norra Bantorget",
-              "stop_lat": "59.335141",
-              "stop_lon": "18.055568",
-              "location_type": "0",
-              "parent_station": "9021003191741000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191742001",
-              "stop_name": "Stockholm S:t Eriksplan",
-              "stop_lat": "59.339557",
-              "stop_lon": "18.039459",
-              "location_type": "0",
-              "parent_station": "9021003191742000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191743001",
-              "stop_name": "Stockholm Vanadisplan",
-              "stop_lat": "59.343907",
-              "stop_lon": "18.039253",
-              "location_type": "0",
-              "parent_station": "9021003191743000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191744001",
-              "stop_name": "Stockholm Norra Stationsgatan",
-              "stop_lat": "59.348527",
-              "stop_lon": "18.041121",
-              "location_type": "0",
-              "parent_station": "9021003191744000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191745001",
-              "stop_name": "Stockholm Haga norra",
-              "stop_lat": "59.362549",
-              "stop_lon": "18.026107",
-              "location_type": "0",
-              "parent_station": "9021003191745000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191746001",
-              "stop_name": "Stockholm Fr\u00f6sunda",
-              "stop_lat": "59.372160",
-              "stop_lon": "18.020137",
-              "location_type": "0",
-              "parent_station": "9021003191746000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191174001",
-              "stop_name": "J\u00e4rva krog",
-              "stop_lat": "59.378265",
-              "stop_lon": "18.013319",
-              "location_type": "0",
-              "parent_station": "9021003191174000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191159001",
-              "stop_name": "Arlanda Versailles",
-              "stop_lat": "59.648991",
-              "stop_lon": "17.935553",
-              "location_type": "0",
-              "parent_station": "9021003191159000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003191347001",
-              "stop_name": "Arlanda Sky City",
-              "stop_lat": "59.648973",
-              "stop_lon": "17.930035",
-              "location_type": "0",
-              "parent_station": "9021003191347000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003191086005",
-              "stop_name": "Arlanda terminal 2 - 3",
-              "stop_lat": "59.644078",
-              "stop_lon": "17.930116",
-              "location_type": "0",
-              "parent_station": "9021003191086000",
-              "platform_code": "1"
-            }
-          ],
-          "service": {
-            "service_id": "17",
-            "start_date": "20241215",
+            "start_date": "20250118",
             "end_date": "20250615"
           }
         },
         {
-          "trip_id": "33010000199019074",
+          "trip_id": "33010000199366073",
           "service_id": "1",
           "stops": [
             {
@@ -21184,8 +20920,8 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
+            "start_date": "20250116",
+            "end_date": "20250613"
           }
         }
       ],
@@ -27869,7 +27605,7 @@
       "trips": [
         {
           "trip_id": "33010000200395294",
-          "service_id": "14",
+          "service_id": "6",
           "stops": [
             {
               "pickup_type": "3",
@@ -28060,14 +27796,14 @@
             }
           ],
           "service": {
-            "service_id": "14",
-            "start_date": "20241212",
+            "service_id": "6",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000200395319",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -28258,14 +27994,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000200395343",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -28456,14 +28192,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000200422336",
-          "service_id": "10",
+          "service_id": "2",
           "stops": [
             {
               "pickup_type": "3",
@@ -28654,14 +28390,14 @@
             }
           ],
           "service": {
-            "service_id": "10",
-            "start_date": "20241214",
+            "service_id": "2",
+            "start_date": "20250118",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000200422360",
-          "service_id": "16",
+          "service_id": "5",
           "stops": [
             {
               "pickup_type": "3",
@@ -28852,14 +28588,14 @@
             }
           ],
           "service": {
-            "service_id": "16",
-            "start_date": "20241215",
+            "service_id": "5",
+            "start_date": "20250119",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000200422312",
-          "service_id": "10",
+          "service_id": "2",
           "stops": [
             {
               "pickup_type": "3",
@@ -29050,8 +28786,8 @@
             }
           ],
           "service": {
-            "service_id": "10",
-            "start_date": "20241214",
+            "service_id": "2",
+            "start_date": "20250118",
             "end_date": "20250615"
           }
         }

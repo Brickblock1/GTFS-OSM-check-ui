@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-12-15",
+  "feed_version": "2025-01-19",
   "route_id": "9011003012800000",
   "agency_id": "33010000000001407",
   "route_short_name": "128",
@@ -12,7 +12,7 @@
       "trips": [
         {
           "trip_id": "33010000201343936",
-          "service_id": "158",
+          "service_id": "100",
           "stops": [
             {
               "pickup_type": "3",
@@ -82,86 +82,9 @@
             }
           ],
           "service": {
-            "service_id": "158",
-            "start_date": "20241212",
+            "service_id": "100",
+            "start_date": "20250116",
             "end_date": "20250612"
-          }
-        },
-        {
-          "trip_id": "33010000215752647",
-          "service_id": "160",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003780107006",
-              "stop_name": "G\u00e5vsta skola",
-              "stop_lat": "59.945998",
-              "stop_lon": "17.878547",
-              "location_type": "0",
-              "parent_station": "9021003780107000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780985001",
-              "stop_name": "\u00c5rsta (G\u00e5vsta)",
-              "stop_lat": "59.928163",
-              "stop_lon": "17.894696",
-              "location_type": "0",
-              "parent_station": "9021003780985000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780981001",
-              "stop_name": "Sandbol",
-              "stop_lat": "59.920137",
-              "stop_lon": "17.889524",
-              "location_type": "0",
-              "parent_station": "9021003780981000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780983001",
-              "stop_name": "Visteby",
-              "stop_lat": "59.904703",
-              "stop_lon": "17.891756",
-              "location_type": "0",
-              "parent_station": "9021003780983000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003780982001",
-              "stop_name": "Johannelund",
-              "stop_lat": "59.912618",
-              "stop_lon": "17.906164",
-              "location_type": "0",
-              "parent_station": "9021003780982000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003779437001",
-              "stop_name": "Ryssbol",
-              "stop_lat": "59.903707",
-              "stop_lon": "17.914860",
-              "location_type": "0",
-              "parent_station": "9021003779437000",
-              "platform_code": "A"
-            }
-          ],
-          "service": {
-            "service_id": "160",
-            "start_date": "20241220",
-            "end_date": "20241220"
           }
         }
       ],

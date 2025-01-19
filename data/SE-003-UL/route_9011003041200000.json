@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-12-15",
+  "feed_version": "2025-01-19",
   "route_id": "9011003041200000",
   "agency_id": "33010000000001407",
   "route_short_name": "412",
@@ -12,7 +12,7 @@
       "trips": [
         {
           "trip_id": "33010000201276426",
-          "service_id": "273",
+          "service_id": "139",
           "stops": [
             {
               "pickup_type": "3",
@@ -214,8 +214,8 @@
             }
           ],
           "service": {
-            "service_id": "273",
-            "start_date": "20241212",
+            "service_id": "139",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         }
@@ -6728,7 +6728,7 @@
       "trips": [
         {
           "trip_id": "33010000198849183",
-          "service_id": "274",
+          "service_id": "139",
           "stops": [
             {
               "pickup_type": "3",
@@ -6963,14 +6963,14 @@
             }
           ],
           "service": {
-            "service_id": "274",
-            "start_date": "20241212",
+            "service_id": "139",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000201276460",
-          "service_id": "275",
+          "service_id": "140",
           "stops": [
             {
               "pickup_type": "3",
@@ -7205,251 +7205,9 @@
             }
           ],
           "service": {
-            "service_id": "275",
-            "start_date": "20241212",
+            "service_id": "140",
+            "start_date": "20250116",
             "end_date": "20250612"
-          }
-        },
-        {
-          "trip_id": "33010000215721652",
-          "service_id": "160",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782149001",
-              "stop_name": "Alunda Olandsskolan",
-              "stop_lat": "60.067552",
-              "stop_lon": "18.083648",
-              "location_type": "0",
-              "parent_station": "9021003782149000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782018004",
-              "stop_name": "Alunda bussterminal",
-              "stop_lat": "60.062680",
-              "stop_lon": "18.080313",
-              "location_type": "0",
-              "parent_station": "9021003782018000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782138002",
-              "stop_name": "Alunda Sunds v\u00e4gsk\u00e4l",
-              "stop_lat": "60.059129",
-              "stop_lon": "18.091455",
-              "location_type": "0",
-              "parent_station": "9021003782138000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782468002",
-              "stop_name": "Knutby v\u00e4gsk\u00e4l",
-              "stop_lat": "60.060501",
-              "stop_lon": "18.115331",
-              "location_type": "0",
-              "parent_station": "9021003782468000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782147002",
-              "stop_name": "Golvsta",
-              "stop_lat": "60.065477",
-              "stop_lon": "18.150439",
-              "location_type": "0",
-              "parent_station": "9021003782147000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782106002",
-              "stop_name": "Torsne",
-              "stop_lat": "60.068544",
-              "stop_lon": "18.170329",
-              "location_type": "0",
-              "parent_station": "9021003782106000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782155002",
-              "stop_name": "Dyvlinge",
-              "stop_lat": "60.081687",
-              "stop_lon": "18.202436",
-              "location_type": "0",
-              "parent_station": "9021003782155000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782159002",
-              "stop_name": "Ekeby v\u00e4gsk\u00e4l",
-              "stop_lat": "60.085010",
-              "stop_lon": "18.218729",
-              "location_type": "0",
-              "parent_station": "9021003782159000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003782158001",
-              "stop_name": "Ekeby skola",
-              "stop_lat": "60.084996",
-              "stop_lon": "18.219968",
-              "location_type": "0",
-              "parent_station": "9021003782158000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782159001",
-              "stop_name": "Ekeby v\u00e4gsk\u00e4l",
-              "stop_lat": "60.085010",
-              "stop_lon": "18.218729",
-              "location_type": "0",
-              "parent_station": "9021003782159000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782556001",
-              "stop_name": "Ekeby 21 (Ekeby)",
-              "stop_lat": "60.083409",
-              "stop_lon": "18.211961",
-              "location_type": "0",
-              "parent_station": "9021003782556000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782155001",
-              "stop_name": "Dyvlinge",
-              "stop_lat": "60.081712",
-              "stop_lon": "18.202527",
-              "location_type": "0",
-              "parent_station": "9021003782155000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782469001",
-              "stop_name": "Ovanby",
-              "stop_lat": "60.084977",
-              "stop_lon": "18.193327",
-              "location_type": "0",
-              "parent_station": "9021003782469000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782470001",
-              "stop_name": "Ingvasta (Alunda)",
-              "stop_lat": "60.088645",
-              "stop_lon": "18.163517",
-              "location_type": "0",
-              "parent_station": "9021003782470000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782471001",
-              "stop_name": "Haberga by",
-              "stop_lat": "60.080691",
-              "stop_lon": "18.121236",
-              "location_type": "0",
-              "parent_station": "9021003782471000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782154002",
-              "stop_name": "Haberga",
-              "stop_lat": "60.081937",
-              "stop_lon": "18.115698",
-              "location_type": "0",
-              "parent_station": "9021003782154000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782540001",
-              "stop_name": "Syding\u00f6sby",
-              "stop_lat": "60.092567",
-              "stop_lon": "18.122482",
-              "location_type": "0",
-              "parent_station": "9021003782540000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782541001",
-              "stop_name": "Sydinge",
-              "stop_lat": "60.094251",
-              "stop_lon": "18.121144",
-              "location_type": "0",
-              "parent_station": "9021003782541000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782169004",
-              "stop_name": "Furuby",
-              "stop_lat": "60.100337",
-              "stop_lon": "18.125905",
-              "location_type": "0",
-              "parent_station": "9021003782169000",
-              "platform_code": "D"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782542001",
-              "stop_name": "M\u00e5ngsta v\u00e4ndslinga",
-              "stop_lat": "60.107091",
-              "stop_lon": "18.123736",
-              "location_type": "0",
-              "parent_station": "9021003782542000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782543001",
-              "stop_name": "M\u00e5ngsta \u00f6stra",
-              "stop_lat": "60.107382",
-              "stop_lon": "18.126113",
-              "location_type": "0",
-              "parent_station": "9021003782543000",
-              "platform_code": "A"
-            }
-          ],
-          "service": {
-            "service_id": "160",
-            "start_date": "20241220",
-            "end_date": "20241220"
           }
         }
       ],
@@ -12669,7 +12427,7 @@
       "trips": [
         {
           "trip_id": "33010000201276484",
-          "service_id": "274",
+          "service_id": "139",
           "stops": [
             {
               "pickup_type": "3",
@@ -12772,119 +12530,9 @@
             }
           ],
           "service": {
-            "service_id": "274",
-            "start_date": "20241212",
+            "service_id": "139",
+            "start_date": "20250116",
             "end_date": "20250612"
-          }
-        },
-        {
-          "trip_id": "33010000215721617",
-          "service_id": "160",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782158001",
-              "stop_name": "Ekeby skola",
-              "stop_lat": "60.084996",
-              "stop_lon": "18.219968",
-              "location_type": "0",
-              "parent_station": "9021003782158000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782159001",
-              "stop_name": "Ekeby v\u00e4gsk\u00e4l",
-              "stop_lat": "60.085010",
-              "stop_lon": "18.218729",
-              "location_type": "0",
-              "parent_station": "9021003782159000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782556001",
-              "stop_name": "Ekeby 21 (Ekeby)",
-              "stop_lat": "60.083409",
-              "stop_lon": "18.211961",
-              "location_type": "0",
-              "parent_station": "9021003782556000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782155001",
-              "stop_name": "Dyvlinge",
-              "stop_lat": "60.081712",
-              "stop_lon": "18.202527",
-              "location_type": "0",
-              "parent_station": "9021003782155000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782469001",
-              "stop_name": "Ovanby",
-              "stop_lat": "60.084977",
-              "stop_lon": "18.193327",
-              "location_type": "0",
-              "parent_station": "9021003782469000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782470001",
-              "stop_name": "Ingvasta (Alunda)",
-              "stop_lat": "60.088645",
-              "stop_lon": "18.163517",
-              "location_type": "0",
-              "parent_station": "9021003782470000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782503001",
-              "stop_name": "G\u00e4rdebyn",
-              "stop_lat": "60.075481",
-              "stop_lon": "18.102793",
-              "location_type": "0",
-              "parent_station": "9021003782503000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782094001",
-              "stop_name": "Happstav\u00e4gen",
-              "stop_lat": "60.071890",
-              "stop_lon": "18.095518",
-              "location_type": "0",
-              "parent_station": "9021003782094000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782149003",
-              "stop_name": "Alunda Olandsskolan",
-              "stop_lat": "60.067382",
-              "stop_lon": "18.083583",
-              "location_type": "0",
-              "parent_station": "9021003782149000",
-              "platform_code": "C"
-            }
-          ],
-          "service": {
-            "service_id": "160",
-            "start_date": "20241220",
-            "end_date": "20241220"
           }
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-12-15",
+  "feed_version": "2025-01-19",
   "route_id": "9011003089600000",
   "agency_id": "33010000000001407",
   "route_short_name": "896",
@@ -12,7 +12,7 @@
       "trips": [
         {
           "trip_id": "33010000213671187",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -137,14 +137,14 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000213671215",
-          "service_id": "9",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -269,8 +269,8 @@
             }
           ],
           "service": {
-            "service_id": "9",
-            "start_date": "20241212",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         }
@@ -5651,7 +5651,7 @@
       "trips": [
         {
           "trip_id": "33010000213671245",
-          "service_id": "13",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -5787,14 +5787,14 @@
             }
           ],
           "service": {
-            "service_id": "13",
-            "start_date": "20241216",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000213671327",
-          "service_id": "13",
+          "service_id": "1",
           "stops": [
             {
               "pickup_type": "3",
@@ -5930,295 +5930,9 @@
             }
           ],
           "service": {
-            "service_id": "13",
-            "start_date": "20241216",
+            "service_id": "1",
+            "start_date": "20250116",
             "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000214440144",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003705003001",
-              "stop_name": "B\u00e5lsta station",
-              "stop_lat": "59.569097",
-              "stop_lon": "17.531592",
-              "location_type": "0",
-              "parent_station": "9021003705003000",
-              "platform_code": "A1"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003705040001",
-              "stop_name": "B\u00e5lsta Kalmar Livs",
-              "stop_lat": "59.561564",
-              "stop_lon": "17.540477",
-              "location_type": "0",
-              "parent_station": "9021003705040000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003705043001",
-              "stop_name": "B\u00e5lsta Draget",
-              "stop_lat": "59.561126",
-              "stop_lon": "17.553156",
-              "location_type": "0",
-              "parent_station": "9021003705043000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700389001",
-              "stop_name": "Uppsala Genetikv\u00e4gen",
-              "stop_lat": "59.816416",
-              "stop_lon": "17.648737",
-              "location_type": "0",
-              "parent_station": "9021003700389000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700388001",
-              "stop_name": "Uppsala Hammarby kyrkog\u00e5rd",
-              "stop_lat": "59.827760",
-              "stop_lon": "17.644513",
-              "location_type": "0",
-              "parent_station": "9021003700388000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700387001",
-              "stop_name": "Uppsala Uller\u00e5ker norra",
-              "stop_lat": "59.832760",
-              "stop_lon": "17.642666",
-              "location_type": "0",
-              "parent_station": "9021003700387000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700525001",
-              "stop_name": "Uppsala Science Park",
-              "stop_lat": "59.843157",
-              "stop_lon": "17.638761",
-              "location_type": "0",
-              "parent_station": "9021003700525000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700025001",
-              "stop_name": "Uppsala Akademiska sjukhuset s\u00f6dra",
-              "stop_lat": "59.846365",
-              "stop_lon": "17.639258",
-              "location_type": "0",
-              "parent_station": "9021003700025000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700587001",
-              "stop_name": "Uppsala Akademiska sjukhuset",
-              "stop_lat": "59.850552",
-              "stop_lon": "17.642861",
-              "location_type": "0",
-              "parent_station": "9021003700587000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700578003",
-              "stop_name": "Uppsala Svandammen",
-              "stop_lat": "59.852461",
-              "stop_lon": "17.640557",
-              "location_type": "0",
-              "parent_station": "9021003700578000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700325001",
-              "stop_name": "Uppsala B\u00e4verns gr\u00e4nd",
-              "stop_lat": "59.856129",
-              "stop_lon": "17.645311",
-              "location_type": "0",
-              "parent_station": "9021003700325000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600014",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857263",
-              "stop_lon": "17.648354",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "D1"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
-          }
-        },
-        {
-          "trip_id": "33010000214440226",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003705003001",
-              "stop_name": "B\u00e5lsta station",
-              "stop_lat": "59.569097",
-              "stop_lon": "17.531592",
-              "location_type": "0",
-              "parent_station": "9021003705003000",
-              "platform_code": "A1"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003705040001",
-              "stop_name": "B\u00e5lsta Kalmar Livs",
-              "stop_lat": "59.561564",
-              "stop_lon": "17.540477",
-              "location_type": "0",
-              "parent_station": "9021003705040000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003705043001",
-              "stop_name": "B\u00e5lsta Draget",
-              "stop_lat": "59.561126",
-              "stop_lon": "17.553156",
-              "location_type": "0",
-              "parent_station": "9021003705043000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700389001",
-              "stop_name": "Uppsala Genetikv\u00e4gen",
-              "stop_lat": "59.816416",
-              "stop_lon": "17.648737",
-              "location_type": "0",
-              "parent_station": "9021003700389000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700388001",
-              "stop_name": "Uppsala Hammarby kyrkog\u00e5rd",
-              "stop_lat": "59.827760",
-              "stop_lon": "17.644513",
-              "location_type": "0",
-              "parent_station": "9021003700388000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700387001",
-              "stop_name": "Uppsala Uller\u00e5ker norra",
-              "stop_lat": "59.832760",
-              "stop_lon": "17.642666",
-              "location_type": "0",
-              "parent_station": "9021003700387000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700525001",
-              "stop_name": "Uppsala Science Park",
-              "stop_lat": "59.843157",
-              "stop_lon": "17.638761",
-              "location_type": "0",
-              "parent_station": "9021003700525000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700025001",
-              "stop_name": "Uppsala Akademiska sjukhuset s\u00f6dra",
-              "stop_lat": "59.846365",
-              "stop_lon": "17.639258",
-              "location_type": "0",
-              "parent_station": "9021003700025000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700587001",
-              "stop_name": "Uppsala Akademiska sjukhuset",
-              "stop_lat": "59.850552",
-              "stop_lon": "17.642861",
-              "location_type": "0",
-              "parent_station": "9021003700587000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700578003",
-              "stop_name": "Uppsala Svandammen",
-              "stop_lat": "59.852461",
-              "stop_lon": "17.640557",
-              "location_type": "0",
-              "parent_station": "9021003700578000",
-              "platform_code": "C"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700325001",
-              "stop_name": "Uppsala B\u00e4verns gr\u00e4nd",
-              "stop_lat": "59.856129",
-              "stop_lon": "17.645311",
-              "location_type": "0",
-              "parent_station": "9021003700325000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003700600014",
-              "stop_name": "Uppsala Centralstationen",
-              "stop_lat": "59.857263",
-              "stop_lon": "17.648354",
-              "location_type": "0",
-              "parent_station": "9021003700600000",
-              "platform_code": "D1"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20241212",
-            "end_date": "20241213"
           }
         }
       ],

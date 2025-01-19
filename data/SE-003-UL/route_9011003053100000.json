@@ -1,5 +1,5 @@
 {
-  "feed_version": "2024-12-15",
+  "feed_version": "2025-01-19",
   "route_id": "9011003053100000",
   "agency_id": "33010000000001407",
   "route_short_name": "531",
@@ -12,7 +12,7 @@
       "trips": [
         {
           "trip_id": "33010000198780044",
-          "service_id": "155",
+          "service_id": "100",
           "stops": [
             {
               "pickup_type": "3",
@@ -214,8 +214,8 @@
             }
           ],
           "service": {
-            "service_id": "155",
-            "start_date": "20241212",
+            "service_id": "100",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         }
@@ -3828,7 +3828,7 @@
       "trips": [
         {
           "trip_id": "33010000198780114",
-          "service_id": "158",
+          "service_id": "100",
           "stops": [
             {
               "pickup_type": "3",
@@ -4052,14 +4052,14 @@
             }
           ],
           "service": {
-            "service_id": "158",
-            "start_date": "20241212",
+            "service_id": "100",
+            "start_date": "20250116",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000198780079",
-          "service_id": "158",
+          "service_id": "100",
           "stops": [
             {
               "pickup_type": "3",
@@ -4283,240 +4283,9 @@
             }
           ],
           "service": {
-            "service_id": "158",
-            "start_date": "20241212",
+            "service_id": "100",
+            "start_date": "20250116",
             "end_date": "20250612"
-          }
-        },
-        {
-          "trip_id": "33010000215715211",
-          "service_id": "160",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003760400001",
-              "stop_name": "Tierp Aspenskolan",
-              "stop_lat": "60.345987",
-              "stop_lon": "17.504082",
-              "location_type": "0",
-              "parent_station": "9021003760400000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003760371002",
-              "stop_name": "Tierp Centralskolan",
-              "stop_lat": "60.345858",
-              "stop_lon": "17.518368",
-              "location_type": "0",
-              "parent_station": "9021003760371000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760072001",
-              "stop_name": "Svanby \u00f6stra",
-              "stop_lat": "60.331055",
-              "stop_lon": "17.511328",
-              "location_type": "0",
-              "parent_station": "9021003760072000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760334001",
-              "stop_name": "Sk\u00e4msta",
-              "stop_lat": "60.323653",
-              "stop_lon": "17.519395",
-              "location_type": "0",
-              "parent_station": "9021003760334000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760314001",
-              "stop_name": "Vallby v\u00e4stra",
-              "stop_lat": "60.318450",
-              "stop_lon": "17.531539",
-              "location_type": "0",
-              "parent_station": "9021003760314000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760712001",
-              "stop_name": "Vallby \u00f6stra v\u00e4ndplan",
-              "stop_lat": "60.315447",
-              "stop_lon": "17.542257",
-              "location_type": "0",
-              "parent_station": "9021003760712000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760314002",
-              "stop_name": "Vallby v\u00e4stra",
-              "stop_lat": "60.319159",
-              "stop_lon": "17.529549",
-              "location_type": "0",
-              "parent_station": "9021003760314000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760334002",
-              "stop_name": "Sk\u00e4msta",
-              "stop_lat": "60.324490",
-              "stop_lon": "17.518534",
-              "location_type": "0",
-              "parent_station": "9021003760334000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760072002",
-              "stop_name": "Svanby \u00f6stra",
-              "stop_lat": "60.331098",
-              "stop_lon": "17.511439",
-              "location_type": "0",
-              "parent_station": "9021003760072000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760086002",
-              "stop_name": "Tierp \u00c5skarbyg\u00e5rden",
-              "stop_lat": "60.348376",
-              "stop_lon": "17.521489",
-              "location_type": "0",
-              "parent_station": "9021003760086000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760062002",
-              "stop_name": "Tierp Skatv\u00e4gen",
-              "stop_lat": "60.353250",
-              "stop_lon": "17.527108",
-              "location_type": "0",
-              "parent_station": "9021003760062000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760051002",
-              "stop_name": "Tierp Skaldjursv\u00e4gen",
-              "stop_lat": "60.357175",
-              "stop_lon": "17.531755",
-              "location_type": "0",
-              "parent_station": "9021003760051000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760374002",
-              "stop_name": "Tierp Sjukarby s\u00f6dra",
-              "stop_lat": "60.360975",
-              "stop_lon": "17.533623",
-              "location_type": "0",
-              "parent_station": "9021003760374000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760369002",
-              "stop_name": "Tierp Sjukarby norra",
-              "stop_lat": "60.365427",
-              "stop_lon": "17.537157",
-              "location_type": "0",
-              "parent_station": "9021003760369000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760358002",
-              "stop_name": "Tolfta",
-              "stop_lat": "60.373499",
-              "stop_lon": "17.550784",
-              "location_type": "0",
-              "parent_station": "9021003760358000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760352002",
-              "stop_name": "Ersta",
-              "stop_lat": "60.376245",
-              "stop_lon": "17.552273",
-              "location_type": "0",
-              "parent_station": "9021003760352000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760331002",
-              "stop_name": "Rockn\u00f6",
-              "stop_lat": "60.386194",
-              "stop_lon": "17.553422",
-              "location_type": "0",
-              "parent_station": "9021003760331000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760602002",
-              "stop_name": "Lunda (Tolfta)",
-              "stop_lat": "60.389576",
-              "stop_lon": "17.557013",
-              "location_type": "0",
-              "parent_station": "9021003760602000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760630002",
-              "stop_name": "Dorkarby",
-              "stop_lat": "60.407970",
-              "stop_lon": "17.577458",
-              "location_type": "0",
-              "parent_station": "9021003760630000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760316001",
-              "stop_name": "Str\u00f6msbergs bruk",
-              "stop_lat": "60.403753",
-              "stop_lon": "17.580658",
-              "location_type": "0",
-              "parent_station": "9021003760316000",
-              "platform_code": "A"
-            }
-          ],
-          "service": {
-            "service_id": "160",
-            "start_date": "20241220",
-            "end_date": "20241220"
           }
         }
       ],
