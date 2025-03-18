@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+    <title>Comparing: ?</title>
+    <link rel="icon" href="favicon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div class="flexcontainer" style="flex-direction: column;">
+        <h1 lang="sv">
+            Rikshållplats vy
+        </h1>
+        <div class="flexcontainer" style="flex-direction: row;">
+            <div id="map"></div>
+            <div id="sidebar"></div>
+        </div>
+    </div>
+    <script>
+
+        async function view_stop(rhp) {
+            resrobot_data = await fetch(`https://api.resrobot.se/v2.1/departureBoard?id=${rhp}&format=json&accessId=fbdf4445-bb8d-44fc-8b18-064d9bc30d87`)
+            resrobot_data = await resrobot_data.json()
+            html = `<h2>${rhp}</h2>`
+            if (resrobot_data.Departure != null) {
+                for (departure of resrobot_data.Departure) {
+                    html = html + departure.ProductAtStop.displayNumber + " " + departure.ProductAtStop.operatorInfo.name
+                    if (departure.rtPlatform != null) {
+                        html = html + " " + departure.rtPlatform.text
+                    }
+                    html = html + "<br>"
+                }
+            }
+            document.getElementById("sidebar").innerHTML = html //`<h2>${rhp}</h2>${resrobot_data.Departure[0].ProductAtStop.displayNumber}`
+        }
+
+        view_stop(740000005)
+
+        var map = L.map("map").setView([59.858542, 17.638898, 273], 10);
+        L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+            maxZoom: 19,
+            attribution:
+                '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+            userAgent:
+                "GTFS-OSM-check-ui/N/A (https://brickblock1.github.io/GTFS-OSM-check-ui/)",
+        }).addTo(map);
+
+    </script>
+    <script>
+        async function on_load() {
+            html = document.getElementById("sidebar").innerHTML
+            var query = `
+                  [out:json];
+                  area["name"="Sverige"]->.searchArea;
+                  relation["public_transport"="stop_area"]["gtfs_id"](area.searchArea);
+                  out tags center;
+                  `;
+            var result = await fetch("https://overpass-api.de/api/interpreter", {
+                method: "POST",
+                body: query,
+            });
+            const osm_data = await result.json();
+            console.log(osm_data)
+
+            for (element of osm_data.elements)
+                if (element.tags.public_transport == "stop_area") {
+                    console.log(element.tags.gtfs_id)
+                    var map_stop = L.circle([element.center.lat, element.center.lon], {
+                        fillColor: "grey",
+                        fillOpacity: 1,
+                        weight: 4,
+                        radius: 50,
+                    }).addTo(map);
+                    map_stop.bindTooltip(`${element.tags.name}`);
+                    map_stop.bindPopup(`${element.tags.name} <input type="button" value="Öppna" onclick="view_stop('${element.tags.gtfs_id}')">`)
+                }
+        }
+
+
+        on_load()
+    </script>
+</body>
+
+</html>

@@ -38,7 +38,7 @@
             userAgent:
                 "GTFS-OSM-check-ui/N/A (https://brickblock1.github.io/GTFS-OSM-check-ui/)",
         }).addTo(map);
-        var markercluster = L.markerClusterGroup({spiderfyOnMaxZoom: true, spiderfyDistanceMultiplier: 1.5}).addTo(map)
+        var markercluster = L.markerClusterGroup({spiderfyOnMaxZoom: false, spiderfyDistanceMultiplier: 1.5}).addTo(map)
     </script>
     <script>
         async function on_load() {
@@ -63,7 +63,7 @@
                     fillOpacity: 1,
                     weight: 4,
                     radius: 1,
-                }).addTo(markercluster);
+                }).addTo(map);
                 gtfs_stop.bindTooltip(stop.stop_name + " (" + stop.platform_code + ")")
                 entries = Object.entries(stop)
                 popup_text = `<div id=${stop.stop_id}>`

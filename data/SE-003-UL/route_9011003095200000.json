@@ -1,5 +1,5 @@
 {
-  "feed_version": "2025-01-19",
+  "feed_version": "2025-03-18",
   "route_id": "9011003095200000",
   "agency_id": "33010000000001407",
   "route_short_name": "952",
@@ -10,50 +10,6 @@
     {
       "shape_id": "1033010000193095823",
       "trips": [
-        {
-          "trip_id": "33010000198572391",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003760005002",
-              "stop_name": "Tierp station",
-              "stop_lat": "60.345683",
-              "stop_lon": "17.512381",
-              "location_type": "0",
-              "parent_station": "9021003760005000",
-              "platform_code": "A2"
-            },
-            {
-              "pickup_type": "3",
-              "drop_off_type": "3",
-              "stop_id": "9022003760395001",
-              "stop_name": "Tierp Atlas Copco",
-              "stop_lat": "60.359460",
-              "stop_lon": "17.511941",
-              "location_type": "0",
-              "parent_station": "9021003760395000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003760433001",
-              "stop_name": "Tierp samhall",
-              "stop_lat": "60.358458",
-              "stop_lon": "17.513085",
-              "location_type": "0",
-              "parent_station": "9021003760433000",
-              "platform_code": "A"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20250116",
-            "end_date": "20250613"
-          }
-        },
         {
           "trip_id": "33010000198572381",
           "service_id": "1",
@@ -94,7 +50,51 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20250116",
+            "start_date": "20250317",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000198572391",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003760005002",
+              "stop_name": "Tierp station",
+              "stop_lat": "60.345683",
+              "stop_lon": "17.512381",
+              "location_type": "0",
+              "parent_station": "9021003760005000",
+              "platform_code": "A2"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003760395001",
+              "stop_name": "Tierp Atlas Copco",
+              "stop_lat": "60.359460",
+              "stop_lon": "17.511941",
+              "location_type": "0",
+              "parent_station": "9021003760395000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003760433001",
+              "stop_name": "Tierp samhall",
+              "stop_lat": "60.358458",
+              "stop_lon": "17.513085",
+              "location_type": "0",
+              "parent_station": "9021003760433000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250317",
             "end_date": "20250613"
           }
         }
@@ -711,7 +711,7 @@
       "trips": [
         {
           "trip_id": "33010000198572401",
-          "service_id": "149",
+          "service_id": "241",
           "stops": [
             {
               "pickup_type": "3",
@@ -748,8 +748,8 @@
             }
           ],
           "service": {
-            "service_id": "149",
-            "start_date": "20250117",
+            "service_id": "241",
+            "start_date": "20250321",
             "end_date": "20250613"
           }
         },
@@ -793,7 +793,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20250116",
+            "start_date": "20250317",
             "end_date": "20250613"
           }
         },
@@ -837,7 +837,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20250116",
+            "start_date": "20250317",
             "end_date": "20250613"
           }
         },
@@ -881,7 +881,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20250116",
+            "start_date": "20250317",
             "end_date": "20250613"
           }
         },
@@ -925,7 +925,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20250116",
+            "start_date": "20250317",
             "end_date": "20250613"
           }
         }

@@ -1,5 +1,5 @@
 {
-  "feed_version": "2025-01-19",
+  "feed_version": "2025-03-18",
   "route_id": "9011003013200000",
   "agency_id": "33010000000001407",
   "route_short_name": "132",
@@ -8,11 +8,11 @@
   "route_desc": "Skolbuss",
   "shapes": [
     {
-      "shape_id": "1033010000180935979",
+      "shape_id": "1033010000218220543",
       "trips": [
         {
-          "trip_id": "33010000198949340",
-          "service_id": "100",
+          "trip_id": "33010000218220634",
+          "service_id": "178",
           "stops": [
             {
               "pickup_type": "3",
@@ -178,6 +178,17 @@
               "location_type": "0",
               "parent_station": "9021003799003000",
               "platform_code": "B"
+            },
+            {
+              "pickup_type": "3",
+              "drop_off_type": "3",
+              "stop_id": "9022003780257001",
+              "stop_name": "Bj\u00f6rk 1",
+              "stop_lat": "59.741371",
+              "stop_lon": "17.498968",
+              "location_type": "0",
+              "parent_station": "9021003780257000",
+              "platform_code": "A"
             },
             {
               "pickup_type": "3",
@@ -379,8 +390,8 @@
             }
           ],
           "service": {
-            "service_id": "100",
-            "start_date": "20250116",
+            "service_id": "178",
+            "start_date": "20250317",
             "end_date": "20250612"
           }
         }
@@ -1705,6 +1716,10 @@
         [
           "59.741064",
           "17.499771"
+        ],
+        [
+          "59.741344",
+          "17.498949"
         ],
         [
           "59.741521",

@@ -1,5 +1,5 @@
 {
-  "feed_version": "2025-01-19",
+  "feed_version": "2025-03-18",
   "route_id": "9011003090000000",
   "agency_id": "33010000000001407",
   "route_short_name": "900",
@@ -11,833 +11,8 @@
       "shape_id": "5033010000127809561",
       "trips": [
         {
-          "trip_id": "33010000198589338",
-          "service_id": "107",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "107",
-            "start_date": "20250116",
-            "end_date": "20250614"
-          }
-        },
-        {
-          "trip_id": "33010000198589347",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589392",
-          "service_id": "109",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "109",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589410",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589419",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589437",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589473",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589509",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589545",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20250116",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000198589563",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589572",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589635",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589681",
-          "service_id": "2",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "2",
-            "start_date": "20250118",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589722",
-          "service_id": "2",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "2",
-            "start_date": "20250118",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589731",
-          "service_id": "2",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "2",
-            "start_date": "20250118",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589311",
-          "service_id": "107",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "107",
-            "start_date": "20250116",
-            "end_date": "20250614"
-          }
-        },
-        {
-          "trip_id": "33010000198589401",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589428",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589446",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589464",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589500",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589590",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589599",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589653",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589834",
-          "service_id": "4",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "4",
-            "start_date": "20250119",
-            "end_date": "20250615"
-          }
-        },
-        {
           "trip_id": "33010000198589320",
-          "service_id": "107",
+          "service_id": "191",
           "stops": [
             {
               "pickup_type": "3",
@@ -863,14 +38,14 @@
             }
           ],
           "service": {
-            "service_id": "107",
-            "start_date": "20250116",
+            "service_id": "191",
+            "start_date": "20250315",
             "end_date": "20250614"
           }
         },
         {
           "trip_id": "33010000198589329",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -896,14 +71,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198589374",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -929,14 +104,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198589491",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -962,14 +137,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198589518",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -995,8 +170,8 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
@@ -1029,7 +204,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20250116",
+            "start_date": "20250317",
             "end_date": "20250613"
           }
         },
@@ -1062,13 +237,13 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20250116",
+            "start_date": "20250317",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000198589554",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -1094,14 +269,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198589626",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -1127,14 +302,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198589644",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -1160,14 +335,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198589662",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -1193,8 +368,503 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589338",
+          "service_id": "191",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "191",
+            "start_date": "20250315",
+            "end_date": "20250614"
+          }
+        },
+        {
+          "trip_id": "33010000198589347",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589392",
+          "service_id": "193",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "193",
+            "start_date": "20250316",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589410",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589419",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589437",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589473",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589509",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589545",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250317",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000198589563",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589572",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589635",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589681",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589722",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589731",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
@@ -1227,7 +897,7 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20250116",
+            "start_date": "20250317",
             "end_date": "20250613"
           }
         },
@@ -1260,13 +930,13 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20250116",
+            "start_date": "20250317",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000198589383",
-          "service_id": "107",
+          "service_id": "191",
           "stops": [
             {
               "pickup_type": "3",
@@ -1292,14 +962,14 @@
             }
           ],
           "service": {
-            "service_id": "107",
-            "start_date": "20250116",
+            "service_id": "191",
+            "start_date": "20250315",
             "end_date": "20250614"
           }
         },
         {
           "trip_id": "33010000198589455",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -1325,14 +995,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198589482",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -1358,14 +1028,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198589581",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -1391,14 +1061,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198589608",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -1424,14 +1094,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198589617",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -1457,8 +1127,338 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589311",
+          "service_id": "191",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "191",
+            "start_date": "20250315",
+            "end_date": "20250614"
+          }
+        },
+        {
+          "trip_id": "33010000198589401",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589428",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589446",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589464",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589500",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589590",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589599",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589653",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589834",
+          "service_id": "3",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "3",
+            "start_date": "20250316",
             "end_date": "20250615"
           }
         }
@@ -1478,701 +1478,8 @@
       "shape_id": "5033010000127809579",
       "trips": [
         {
-          "trip_id": "33010000198589933",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589942",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589960",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198590023",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198590068",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20250116",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000198590158",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198590167",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198590176",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198590185",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198590263",
-          "service_id": "2",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "2",
-            "start_date": "20250118",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589843",
-          "service_id": "107",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "107",
-            "start_date": "20250116",
-            "end_date": "20250614"
-          }
-        },
-        {
-          "trip_id": "33010000198589852",
-          "service_id": "107",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "107",
-            "start_date": "20250116",
-            "end_date": "20250614"
-          }
-        },
-        {
-          "trip_id": "33010000198589897",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20250116",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000198589951",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198589978",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198590014",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198590032",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198590077",
-          "service_id": "1",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "1",
-            "start_date": "20250116",
-            "end_date": "20250613"
-          }
-        },
-        {
-          "trip_id": "33010000198590104",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198590131",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
-          "trip_id": "33010000198590194",
-          "service_id": "99",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003782371006",
-              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
-              "stop_lat": "60.346237",
-              "stop_lon": "18.460930",
-              "location_type": "0",
-              "parent_station": "9021003782371000",
-              "platform_code": "F"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003782015006",
-              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
-              "stop_lat": "60.340718",
-              "stop_lon": "18.446784",
-              "location_type": "0",
-              "parent_station": "9021003782015000",
-              "platform_code": "F"
-            }
-          ],
-          "service": {
-            "service_id": "99",
-            "start_date": "20250116",
-            "end_date": "20250615"
-          }
-        },
-        {
           "trip_id": "33010000198589861",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -2198,14 +1505,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198589870",
-          "service_id": "107",
+          "service_id": "191",
           "stops": [
             {
               "pickup_type": "3",
@@ -2231,14 +1538,14 @@
             }
           ],
           "service": {
-            "service_id": "107",
-            "start_date": "20250116",
+            "service_id": "191",
+            "start_date": "20250315",
             "end_date": "20250614"
           }
         },
         {
           "trip_id": "33010000198589879",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -2264,8 +1571,8 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
@@ -2298,13 +1605,13 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20250116",
+            "start_date": "20250317",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000198589906",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -2330,14 +1637,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198589924",
-          "service_id": "109",
+          "service_id": "193",
           "stops": [
             {
               "pickup_type": "3",
@@ -2363,14 +1670,14 @@
             }
           ],
           "service": {
-            "service_id": "109",
-            "start_date": "20250116",
+            "service_id": "193",
+            "start_date": "20250316",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198589969",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -2396,14 +1703,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198589987",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -2429,14 +1736,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198590050",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -2462,8 +1769,8 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
@@ -2496,13 +1803,13 @@
           ],
           "service": {
             "service_id": "1",
-            "start_date": "20250116",
+            "start_date": "20250317",
             "end_date": "20250613"
           }
         },
         {
           "trip_id": "33010000198590095",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -2528,14 +1835,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198590113",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -2561,14 +1868,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198590140",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -2594,14 +1901,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198590149",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -2627,14 +1934,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198590213",
-          "service_id": "2",
+          "service_id": "4",
           "stops": [
             {
               "pickup_type": "3",
@@ -2660,14 +1967,14 @@
             }
           ],
           "service": {
-            "service_id": "2",
-            "start_date": "20250118",
+            "service_id": "4",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198590254",
-          "service_id": "2",
+          "service_id": "4",
           "stops": [
             {
               "pickup_type": "3",
@@ -2693,14 +2000,344 @@
             }
           ],
           "service": {
-            "service_id": "2",
-            "start_date": "20250118",
+            "service_id": "4",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589933",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589942",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589960",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198590023",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198590068",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250317",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000198590158",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198590167",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198590176",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198590185",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198590263",
+          "service_id": "4",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "4",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198589915",
-          "service_id": "107",
+          "service_id": "191",
           "stops": [
             {
               "pickup_type": "3",
@@ -2726,14 +2363,14 @@
             }
           ],
           "service": {
-            "service_id": "107",
-            "start_date": "20250116",
+            "service_id": "191",
+            "start_date": "20250315",
             "end_date": "20250614"
           }
         },
         {
           "trip_id": "33010000198589996",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -2759,14 +2396,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198590005",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -2792,14 +2429,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198590041",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -2825,14 +2462,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198590086",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -2858,14 +2495,14 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         },
         {
           "trip_id": "33010000198590122",
-          "service_id": "99",
+          "service_id": "173",
           "stops": [
             {
               "pickup_type": "3",
@@ -2891,8 +2528,371 @@
             }
           ],
           "service": {
-            "service_id": "99",
-            "start_date": "20250116",
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589843",
+          "service_id": "191",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "191",
+            "start_date": "20250315",
+            "end_date": "20250614"
+          }
+        },
+        {
+          "trip_id": "33010000198589852",
+          "service_id": "191",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "191",
+            "start_date": "20250315",
+            "end_date": "20250614"
+          }
+        },
+        {
+          "trip_id": "33010000198589897",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250317",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000198589951",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198589978",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198590014",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198590032",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198590077",
+          "service_id": "1",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "1",
+            "start_date": "20250317",
+            "end_date": "20250613"
+          }
+        },
+        {
+          "trip_id": "33010000198590104",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198590131",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
+            "end_date": "20250615"
+          }
+        },
+        {
+          "trip_id": "33010000198590194",
+          "service_id": "173",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003782371006",
+              "stop_name": "Gr\u00e4s\u00f6 f\u00e4rjel\u00e4get",
+              "stop_lat": "60.346237",
+              "stop_lon": "18.460930",
+              "location_type": "0",
+              "parent_station": "9021003782371000",
+              "platform_code": "F"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003782015006",
+              "stop_name": "\u00d6regrund f\u00e4rjel\u00e4get",
+              "stop_lat": "60.340718",
+              "stop_lon": "18.446784",
+              "location_type": "0",
+              "parent_station": "9021003782015000",
+              "platform_code": "F"
+            }
+          ],
+          "service": {
+            "service_id": "173",
+            "start_date": "20250315",
             "end_date": "20250615"
           }
         }

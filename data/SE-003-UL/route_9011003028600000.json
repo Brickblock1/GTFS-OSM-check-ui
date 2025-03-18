@@ -1,5 +1,5 @@
 {
-  "feed_version": "2025-01-19",
+  "feed_version": "2025-03-18",
   "route_id": "9011003028600000",
   "agency_id": "33010000000001407",
   "route_short_name": "286",
@@ -12,7 +12,7 @@
       "trips": [
         {
           "trip_id": "33010000198889079",
-          "service_id": "100",
+          "service_id": "178",
           "stops": [
             {
               "pickup_type": "3",
@@ -159,14 +159,14 @@
             }
           ],
           "service": {
-            "service_id": "100",
-            "start_date": "20250116",
+            "service_id": "178",
+            "start_date": "20250317",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000201276681",
-          "service_id": "100",
+          "service_id": "178",
           "stops": [
             {
               "pickup_type": "3",
@@ -313,8 +313,8 @@
             }
           ],
           "service": {
-            "service_id": "100",
-            "start_date": "20250116",
+            "service_id": "178",
+            "start_date": "20250317",
             "end_date": "20250612"
           }
         }
@@ -3378,162 +3378,8 @@
       "shape_id": "1033010000193435567",
       "trips": [
         {
-          "trip_id": "33010000198889106",
-          "service_id": "100",
-          "stops": [
-            {
-              "pickup_type": "3",
-              "drop_off_type": "1",
-              "stop_id": "9022003781041001",
-              "stop_name": "Enk\u00f6ping Kors\u00e4ngsskolan",
-              "stop_lat": "59.640353",
-              "stop_lon": "17.089838",
-              "location_type": "0",
-              "parent_station": "9021003781041000",
-              "platform_code": "A"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003781174002",
-              "stop_name": "Enk\u00f6ping Sandbrogatan",
-              "stop_lat": "59.633445",
-              "stop_lon": "17.082962",
-              "location_type": "0",
-              "parent_station": "9021003781174000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003781757002",
-              "stop_name": "Enk\u00f6ping Slalomv\u00e4gen",
-              "stop_lat": "59.618679",
-              "stop_lon": "17.079035",
-              "location_type": "0",
-              "parent_station": "9021003781757000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003781428002",
-              "stop_name": "Enk\u00f6ping Storskogen",
-              "stop_lat": "59.606977",
-              "stop_lon": "17.073013",
-              "location_type": "0",
-              "parent_station": "9021003781428000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003781429002",
-              "stop_name": "Bredsand Mariedal",
-              "stop_lat": "59.602449",
-              "stop_lon": "17.068787",
-              "location_type": "0",
-              "parent_station": "9021003781429000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003781430002",
-              "stop_name": "Bredsand Ryssbo",
-              "stop_lat": "59.599442",
-              "stop_lon": "17.072481",
-              "location_type": "0",
-              "parent_station": "9021003781430000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003781438002",
-              "stop_name": "Bredsand Fregattv\u00e4gen",
-              "stop_lat": "59.596253",
-              "stop_lon": "17.076346",
-              "location_type": "0",
-              "parent_station": "9021003781438000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003781431002",
-              "stop_name": "Bredsandsbadet",
-              "stop_lat": "59.592691",
-              "stop_lon": "17.074352",
-              "location_type": "0",
-              "parent_station": "9021003781431000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003781433002",
-              "stop_name": "Bredsand Fr\u00e4mjarstugan",
-              "stop_lat": "59.588279",
-              "stop_lon": "17.072929",
-              "location_type": "0",
-              "parent_station": "9021003781433000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003781047002",
-              "stop_name": "Fagerudd",
-              "stop_lat": "59.586418",
-              "stop_lon": "17.072293",
-              "location_type": "0",
-              "parent_station": "9021003781047000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003781434002",
-              "stop_name": "Kolarvik Skogsbov\u00e4gen",
-              "stop_lat": "59.582344",
-              "stop_lon": "17.076689",
-              "location_type": "0",
-              "parent_station": "9021003781434000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003781435002",
-              "stop_name": "Kolarvik W\u00e4ndahls v\u00e4g",
-              "stop_lat": "59.577773",
-              "stop_lon": "17.084286",
-              "location_type": "0",
-              "parent_station": "9021003781435000",
-              "platform_code": "B"
-            },
-            {
-              "pickup_type": "1",
-              "drop_off_type": "3",
-              "stop_id": "9022003781436001",
-              "stop_name": "Kolarvik Sj\u00f6\u00e4ngsv\u00e4gen",
-              "stop_lat": "59.576992",
-              "stop_lon": "17.086982",
-              "location_type": "0",
-              "parent_station": "9021003781436000",
-              "platform_code": "A"
-            }
-          ],
-          "service": {
-            "service_id": "100",
-            "start_date": "20250116",
-            "end_date": "20250612"
-          }
-        },
-        {
           "trip_id": "33010000198889134",
-          "service_id": "100",
+          "service_id": "178",
           "stops": [
             {
               "pickup_type": "3",
@@ -3680,14 +3526,14 @@
             }
           ],
           "service": {
-            "service_id": "100",
-            "start_date": "20250116",
+            "service_id": "178",
+            "start_date": "20250317",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000198889162",
-          "service_id": "100",
+          "service_id": "178",
           "stops": [
             {
               "pickup_type": "3",
@@ -3834,14 +3680,168 @@
             }
           ],
           "service": {
-            "service_id": "100",
-            "start_date": "20250116",
+            "service_id": "178",
+            "start_date": "20250317",
+            "end_date": "20250612"
+          }
+        },
+        {
+          "trip_id": "33010000198889106",
+          "service_id": "178",
+          "stops": [
+            {
+              "pickup_type": "3",
+              "drop_off_type": "1",
+              "stop_id": "9022003781041001",
+              "stop_name": "Enk\u00f6ping Kors\u00e4ngsskolan",
+              "stop_lat": "59.640353",
+              "stop_lon": "17.089838",
+              "location_type": "0",
+              "parent_station": "9021003781041000",
+              "platform_code": "A"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003781174002",
+              "stop_name": "Enk\u00f6ping Sandbrogatan",
+              "stop_lat": "59.633445",
+              "stop_lon": "17.082962",
+              "location_type": "0",
+              "parent_station": "9021003781174000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003781757002",
+              "stop_name": "Enk\u00f6ping Slalomv\u00e4gen",
+              "stop_lat": "59.618679",
+              "stop_lon": "17.079035",
+              "location_type": "0",
+              "parent_station": "9021003781757000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003781428002",
+              "stop_name": "Enk\u00f6ping Storskogen",
+              "stop_lat": "59.606977",
+              "stop_lon": "17.073013",
+              "location_type": "0",
+              "parent_station": "9021003781428000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003781429002",
+              "stop_name": "Bredsand Mariedal",
+              "stop_lat": "59.602449",
+              "stop_lon": "17.068787",
+              "location_type": "0",
+              "parent_station": "9021003781429000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003781430002",
+              "stop_name": "Bredsand Ryssbo",
+              "stop_lat": "59.599442",
+              "stop_lon": "17.072481",
+              "location_type": "0",
+              "parent_station": "9021003781430000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003781438002",
+              "stop_name": "Bredsand Fregattv\u00e4gen",
+              "stop_lat": "59.596253",
+              "stop_lon": "17.076346",
+              "location_type": "0",
+              "parent_station": "9021003781438000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003781431002",
+              "stop_name": "Bredsandsbadet",
+              "stop_lat": "59.592691",
+              "stop_lon": "17.074352",
+              "location_type": "0",
+              "parent_station": "9021003781431000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003781433002",
+              "stop_name": "Bredsand Fr\u00e4mjarstugan",
+              "stop_lat": "59.588279",
+              "stop_lon": "17.072929",
+              "location_type": "0",
+              "parent_station": "9021003781433000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003781047002",
+              "stop_name": "Fagerudd",
+              "stop_lat": "59.586418",
+              "stop_lon": "17.072293",
+              "location_type": "0",
+              "parent_station": "9021003781047000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003781434002",
+              "stop_name": "Kolarvik Skogsbov\u00e4gen",
+              "stop_lat": "59.582344",
+              "stop_lon": "17.076689",
+              "location_type": "0",
+              "parent_station": "9021003781434000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003781435002",
+              "stop_name": "Kolarvik W\u00e4ndahls v\u00e4g",
+              "stop_lat": "59.577773",
+              "stop_lon": "17.084286",
+              "location_type": "0",
+              "parent_station": "9021003781435000",
+              "platform_code": "B"
+            },
+            {
+              "pickup_type": "1",
+              "drop_off_type": "3",
+              "stop_id": "9022003781436001",
+              "stop_name": "Kolarvik Sj\u00f6\u00e4ngsv\u00e4gen",
+              "stop_lat": "59.576992",
+              "stop_lon": "17.086982",
+              "location_type": "0",
+              "parent_station": "9021003781436000",
+              "platform_code": "A"
+            }
+          ],
+          "service": {
+            "service_id": "178",
+            "start_date": "20250317",
             "end_date": "20250612"
           }
         },
         {
           "trip_id": "33010000201276722",
-          "service_id": "103",
+          "service_id": "181",
           "stops": [
             {
               "pickup_type": "3",
@@ -3988,8 +3988,8 @@
             }
           ],
           "service": {
-            "service_id": "103",
-            "start_date": "20250120",
+            "service_id": "181",
+            "start_date": "20250317",
             "end_date": "20250609"
           }
         }

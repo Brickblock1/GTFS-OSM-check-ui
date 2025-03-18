@@ -165,7 +165,7 @@ for route in routes_dict.values():
                     route_dict["shapes"][shape]["trips"][trip]["stops"][stop] = list(stop_refs_dict[route_dict["shapes"][shape]["trips"][trip]["trip_id"]][stop].values())[0]
                     route_dict["shapes"][shape]["trips"][trip]["stops"][stop].update(stops_dict[list(route_dict["shapes"][shape]["trips"][trip]["stops"][stop].values())[2]])
                 
-    export = open(f"data/{code}/route_{route['route_id']}.json", 'w', encoding="UTF8")
+    export = open(f"data/{code}/route_{route['route_id'].replace("/", "-")}.json", 'w', encoding="UTF8")
     json.dump(route_dict, export, indent=2)
 
 export = open(f"data/{code}/routes.json", 'w', encoding="UTF8")
